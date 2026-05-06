@@ -23,7 +23,7 @@ name: Agent request (manual)
 #   C. Just read the PR diff.
 #
 # Required secret:
-#   CLAUDE_CODE_OAUTH_TOKEN - same as the other agent workflows
+#   ANTHROPIC_API_KEY - same as the other agent workflows
 
 on:
   workflow_dispatch:
@@ -73,7 +73,7 @@ jobs:
       - name: Apply request with Claude Code
         uses: anthropics/claude-code-action@v1
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           show_full_output: "true"
           display_report: "true"
           prompt: |

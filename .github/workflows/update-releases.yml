@@ -16,9 +16,10 @@ name: Update opportunities (every 2h)
 #   5. If src/data/releases.json src/data/opportunities.json changed, commits + pushes back to master
 #
 # Required secret:
-#   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
-#                              then `gh secret set CLAUDE_CODE_OAUTH_TOKEN`
-#                              (or paste it in the GitHub UI)
+#   ANTHROPIC_API_KEY — get from https://console.anthropic.com/settings/keys,
+#                       set with `gh secret set ANTHROPIC_API_KEY` (or paste
+#                       it in the GitHub UI). Bills against your Anthropic
+#                       Console credits.
 
 on:
   schedule:
@@ -82,7 +83,7 @@ jobs:
         # the job and the retry would be skipped.
         continue-on-error: true
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           # Stream Claude's progress into the GH Actions log instead of
           # buffering until the run ends. show_full_output dumps the raw
           # CLI JSON, display_report posts a Step Summary at the end.
@@ -130,7 +131,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         timeout-minutes: 30
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           show_full_output: "true"
           display_report: "true"
           prompt: |
