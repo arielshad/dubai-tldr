@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+
+    <!--
+      Theme bootstrap — runs synchronously before React boots so the
+      page paints in the correct theme on first load (no FOUC). Reads
+      the persisted preference from localStorage; if absent, falls
+      through to prefers-color-scheme via the media query in index.css.
+    -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("dxb-estate-intel-theme");
+          if (t === "light" || t === "dark") {
+            document.documentElement.setAttribute("data-theme", t);
+          }
+        } catch (e) { /* localStorage disabled — fall through to media query */ }
+      })();
+    </script>
+
+    <!--
+      Per-page <title>, <meta name="description">, <link rel="canonical">,
+      all og:*/twitter:*/article:* tags, and the JSON-LD block below are
+      ALL stripped and replaced at build time by scripts/prerender.ts —
+      one set per opportunity + one for each static page (home, sources,
+      log). The tags here are the dev-mode fallback for `bun dev`; they
+      get swapped out in the production build, so the homepage variants
+      are the only ones that actually matter at runtime.
+    -->
+    <title>Dubai Real-Estate Intelligence — Listings, Leads, Deals | DxbEstate Intel</title>
+    <meta name="description" content="Dubai real-estate opportunities, listing changes, duplicate ads, developer launches, seller leads, and rent/yield signals — refreshed every 2 hours and explained in plain English." />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+
+    <!-- Additional SEO -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+    <meta name="author" content="DxbEstate Intel" />
+    <meta name="keywords" content="Dubai real estate, Dubai property listings, Property Finder, Bayut, DLD transactions, RERA, off-plan Dubai, Dubai rental yield, Dubai villas, Dubai apartments, real estate leads" />
+    <meta name="theme-color" content="#050505" />
+
+    <!-- Structured Data (JSON-LD) — dev-mode fallback; prerender rewrites for prod -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://dxb-estate-intel.xyz/#website",
+          "url": "https://dxb-estate-intel.xyz/",
+          "name": "DxbEstate Intel",
+          "alternateName": "DxbEstate Intel",
+          "description": "Dubai property opportunities, duplicate listings, seller leads, developer launches, and rent/yield signals — refreshed every 2 hours and explained in plain English.",
+          "inLanguage": "en-US",
+          "publisher": { "@id": "https://dxb-estate-intel.xyz/#org" }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://dxb-estate-intel.xyz/#org",
+          "name": "DxbEstate Intel",
+          "url": "https://dxb-estate-intel.xyz/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://dxb-estate-intel.xyz/og-image.png",
+            "width": 1200,
+            "height": 630
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=JetBrains+Mono:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <noscript>
+      <h1>DxbEstate Intel — Dubai Real-Estate Intelligence: Listings, Leads, Deals</h1>
+      <p>A high-volume feed of Dubai property opportunities — portal listings, duplicate ads, developer launches, DLD/rent signals, distressed sellers, and broker leads — refreshed every 2 hours. Each opportunity is explained in plain English so you understand the numbers, risks, and next action.</p>
+      <p>This site uses JavaScript to render the interactive feed. Enable JavaScript to use it.</p>
+      <p><strong>DxbEstate Intel is not legal, tax, investment, or brokerage advice.</strong> Verify every listing, title, tenancy, fee, source, and comp before acting.</p>
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

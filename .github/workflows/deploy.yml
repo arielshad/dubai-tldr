@@ -1,0 +1,97 @@
+name: Deploy to Cloudflare Workers
+
+# Builds and deploys the Workers Static Assets site to Cloudflare on
+# every push to master that touches anything visible (code, content,
+# or assets). The opportunity sweep workflow commits releases.json / opportunities.json /
+# sweeps.json updates every 2h — this workflow then ships those
+# changes to the live site automatically.
+#
+# Required secrets:
+#   CLOUDFLARE_API_TOKEN   — token with "Edit Cloudflare Workers" permissions
+#                             (create at https://dash.cloudflare.com/profile/api-tokens)
+#   CLOUDFLARE_ACCOUNT_ID  — your account ID (visible in the Workers dashboard
+#                             URL: dash.cloudflare.com/<ACCOUNT_ID>/...)
+#
+# SITE_URL env var below pins the canonical/sitemap/OG URLs to the
+# live workers.dev URL until the real domain is wired up. When the
+# domain is bound to the Worker, change this to https://dxb-estate-intel.xyz
+# and the next push will rebuild with correct canonical tags.
+
+on:
+  # Direct human pushes — paths filter avoids redeploys for doc-only churn.
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "scripts/**"
+      - "public/**"
+      - "index.html"
+      - "wrangler.jsonc"
+      - "package.json"
+      - "bun.lock"
+      - "tsconfig*.json"
+      - "vite.config.ts"
+      - ".github/workflows/deploy.yml"
+  # Sweep + propose-opportunity workflows commit with the default GITHUB_TOKEN,
+  # which by design does NOT trigger downstream `push` events (GitHub
+  # blocks recursive workflow runs). `workflow_run` IS triggered though,
+  # so we chain off completion of the content-producing workflows. Both
+  # are gated on conclusion: success below.
+  workflow_run:
+    workflows:
+      - "Update opportunities (every 2h)"
+      - "Propose new opportunity"
+    types: [completed]
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  # One in-flight deploy per trigger source. A workflow_run completion
+  # arriving mid-deploy used to cancel a push-triggered run, which would
+  # then skip itself via the `if:` guard — losing the actual deploy.
+  # Separate groups keep push and workflow_run deploys from preempting
+  # each other; cancel-in-progress still de-dupes within the same source.
+  group: deploy-${{ github.event_name }}
+  cancel-in-progress: true
+
+env:
+  SITE_URL: https://dxb-estate-intel.xyz
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # workflow_run fires for both success AND failure outcomes of the
+    # upstream workflow. Skip the deploy when the sweep itself failed
+    # — there's no new content to ship and we'd just re-publish the
+    # same dist as before. workflow_dispatch and direct pushes don't
+    # have an upstream conclusion, so the conditional accepts those.
+    if: |
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Build
+        run: bun run build
+
+      - name: Deploy with Wrangler
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy

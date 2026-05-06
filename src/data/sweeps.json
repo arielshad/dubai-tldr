@@ -1,0 +1,95 @@
+{
+  "sweeps": [
+    {
+      "id": "sweep-2026-05-06t0800z",
+      "timestamp": "2026-05-06T08:00:00.000Z",
+      "source": "manual-platform-seed",
+      "summary": "Seeded the Dubai real-estate intelligence feed with opportunity archetypes covering distress, off-plan, ready rental, commercial, luxury, developer handover, short-let and duplicate-detection workflows.",
+      "counts": {
+        "added": 8,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-marina-distress-2br-under-comp-may-2026",
+          "title": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+          "category": "distress",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "jvc-studio-gross-yield-watchlist-may-2026",
+          "title": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+          "category": "rental",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "downtown-branded-residence-assignment-spread-may-2026",
+          "title": "Downtown branded residence assignment watch: resale spread vs developer stock",
+          "category": "offplan",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "business-bay-office-vacant-cap-rate-may-2026",
+          "title": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+          "category": "commercial",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "emirates-hills-villa-prime-listing-intel-may-2026",
+          "title": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+          "category": "luxury",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "dubai-south-townhouse-handover-rental-play-may-2026",
+          "title": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+          "category": "developer",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "palm-jumeirah-short-let-furnishing-arbitrage-may-2026",
+          "title": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+          "category": "rental",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        },
+        {
+          "id": "duplicate-detector-same-unit-different-broker-marina-may-2026",
+          "title": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+          "category": "duplicate",
+          "note": "Initial platform seed card showing the collection and underwriting pattern for this opportunity type."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "flip",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
+    }
+  ]
+}

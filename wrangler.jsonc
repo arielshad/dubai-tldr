@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dxb-estate-intel",
+  "compatibility_date": "2026-04-12",
+  "main": "worker/index.ts",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "routes": [
+    { "pattern": "dxb-estate-intel.xyz", "custom_domain": true },
+    { "pattern": "www.dxb-estate-intel.xyz", "custom_domain": true }
+  ]
+}
