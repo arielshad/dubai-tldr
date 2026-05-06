@@ -1,8 +1,149 @@
 {
-  "generatedAt": "2026-05-06T20:04:25.905Z",
+  "generatedAt": "2026-05-06T21:30:26.998Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
-  "source": "manual-cleanup-seeds",
+  "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-april-2026-dh48b-sales-valustrat-first-contraction",
+      "categories": [
+        "market",
+        "ready"
+      ],
+      "title": "Dubai April 2026 sales hit AED 48B across 13,977 deals; ValuStrat flags first quarterly index contraction since 2020",
+      "org": "Khaleej Times / fäm Properties / DXBinteract",
+      "date": "2026-05-04",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-realty-posts-dh48b-april-sales-despite-price-dip-signals",
+      "summary": "Dubai logged AED 48B over 13,977 April deals (+3.5% MoM transactions, +10.7% MoM value) even as ValuStrat's residential capital-values index slipped 3.8% in Q1 — its first quarterly contraction since 2020.",
+      "tags": [
+        "market-print",
+        "april-2026",
+        "valustrat",
+        "price-trend",
+        "monthly-data",
+        "dld"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "DLD"
+      ],
+      "metrics": {
+        "April 2026 sales": "AED 48B",
+        "April 2026 transactions": "13,977",
+        "MoM transactions": "+3.5%",
+        "MoM value": "+10.7%",
+        "Avg price": "AED 1,840 / sqft (+16.1% YoY)",
+        "Apartments": "11,377 deals / AED 24.1B (+6.5% MoM)",
+        "Plots": "AED 6.6B (+34.7%)",
+        "Commercial": "561 deals / AED 4B",
+        "Primary share": "10,563 deals / AED 35.8B",
+        "Resale share": "3,414 deals / AED 12.2B",
+        "Sub-AED 1M sales": "23.3% of mix",
+        "AED 1–2M sales": "34.7% of mix",
+        "Above AED 5M sales": "~12% of mix",
+        "ValuStrat Q1 index": "229.2 (–3.8% QoQ, first contraction since 2020)"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai realty posts Dh48b April sales despite price-dip signals (May 4 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-realty-posts-dh48b-april-sales-despite-price-dip-signals"
+        },
+        {
+          "label": "ValuStrat — Dubai Real Estate Market Outlook 2026",
+          "url": "https://valustrat.com/products/dubai-real-estate-market-outlook-2026"
+        },
+        {
+          "label": "DLD official transactions e-service",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's April print is healthy on the top line but ValuStrat just called the first quarterly index contraction in five years.",
+        "whatIsIt": "Khaleej Times' May 4 wrap of fäm Properties / DXBinteract data shows Dubai's April 2026 transaction volume held up — 13,977 deals worth AED 48B, up 3.5% MoM in count and 10.7% MoM in value. Average price is still +16.1% YoY at AED 1,840/sqft, but ValuStrat's residential capital-values index just printed 229.2, a 3.8% quarterly drop and the first negative quarter since 2020.",
+        "howItWorks": "Mix is tilting toward end-user and lower-mid bands: sub-AED 1M units took 23.3% of sales and the AED 1–2M band 34.7%, while AED 5M+ was ~12%. Apartments led with 11,377 deals / AED 24.1B (+6.5% MoM); plots jumped 34.7% to AED 6.6B; commercial added 561 deals / AED 4B. Primary stock (off-plan) drove AED 35.8B vs AED 12.2B in resale — supply discipline still favours developer launches over secondary trading.",
+        "whyItMatters": "For sellers this is the moment to anchor pricing to recent DLD comps, not 2025 peaks; for buyers the divergence between firm headline value and the ValuStrat dip is exactly when normalised, building-level comps beat the index narrative. Operators underwriting yield should re-run rent and service-charge inputs against the new mix — primary-heavy months pull blended PSF up while resale levels stay flatter.",
+        "forWho": "Buyers underwriting Q2 entries, sellers timing listings, brokers benchmarking against April comps, and analysts tracking the cooling cycle.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-04/wo6ocrxd/Dubai-skyline.jpg",
+        "alt": "Dubai skyline — Khaleej Times April 2026 sales coverage",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Issac John",
+        "profileUrl": "https://www.khaleejtimes.com/business/property/dubai-realty-posts-dh48b-april-sales-despite-price-dip-signals"
+      },
+      "publishDate": "2026-05-06T21:30:26.998Z"
+    },
+    {
+      "id": "dubai-resale-within-5-15-percent-of-peak-may-2026",
+      "categories": [
+        "market",
+        "ready",
+        "lead"
+      ],
+      "title": "Dubai resale clears within 5–15% of peak, not distress: brokers see negotiation, not panic, in Marina, Downtown, Business Bay",
+      "org": "Khaleej Times",
+      "date": "2026-05-05",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-holds-firm-as-buyers-seek-value-not-distress-opportunities",
+      "summary": "haus & haus, White & Co and Bayut tell Khaleej Times that Dubai resale is closing within 5–15% of peak with moderate, selective price cuts — buyers are negotiating on quality and timing, not chasing distressed deals.",
+      "tags": [
+        "market-color",
+        "broker-survey",
+        "haus-haus",
+        "white-co",
+        "bayut",
+        "negotiation"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARINA",
+        "DOWNTOWN",
+        "BUSINESS-BAY",
+        "DUBAI-HILLS",
+        "PALM"
+      ],
+      "metrics": {
+        "Resale clearing range": "5–15% below peak",
+        "Price reductions": "moderate and selective",
+        "Distressed deal evidence": "limited",
+        "Hot villa areas": "Dubai Hills Estate, Palm Jumeirah, Arabian Ranches",
+        "Hot apartment areas": "Dubai Marina, Downtown, Business Bay"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai property holds firm as buyers seek value, not distress (May 5 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-holds-firm-as-buyers-seek-value-not-distress-opportunities"
+        },
+        {
+          "label": "Khaleej Times — Issac John, Dubai realty April Dh48b print (4 May 2026, supporting context)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-realty-posts-dh48b-april-sales-despite-price-dip-signals"
+        },
+        {
+          "label": "DLD official transactions e-service (verify comps)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "If you're scanning for fire-sale Dubai deals, three top brokers say they aren't there — buyers are negotiating, not bottom-fishing.",
+        "whatIsIt": "Khaleej Times' May 5 broker survey quotes Luke Remington (haus & haus), Calum White (White & Co) and Fibha Ahmed (Bayut) saying transactions are clearing within 5–15% of peak values. There is 'little evidence of the distressed deals many had anticipated' despite regional uncertainty — price reductions are 'moderate and selective', not panic-driven.",
+        "howItWorks": "Activity stays concentrated in the same prime stock: Dubai Marina, Downtown and Business Bay for one- and two-bed apartments; Dubai Hills Estate, Palm Jumeirah and Arabian Ranches for villas. White flags that 'negotiation has returned, but that's a sign of a healthy market', and Ahmed adds the market is 'more disciplined' without panic-driven liquidation. Buyers are tilting toward developer credibility, layout and view rather than chasing the cheapest unit on the floor.",
+        "whyItMatters": "For sellers this validates pricing 5–10% below 2025 peak instead of holding out for last cycle's print; for buyers it kills the 'wait for distress' narrative on prime communities and pushes the edge to specific high-density mid-market handover clusters and selective off-plan stock. Operators sourcing for funds should screen for motivated sellers via duplicate broker spreads or vacant/urgent listings, not on a blanket assumption of distress across the city.",
+        "forWho": "End-user buyers, sell-side advisors, off-plan sourcing operators and analysts gauging whether to wait for a deeper correction.",
+        "tryIt": "https://www.bayut.com/for-sale/property/dubai/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-05/hxe3yq80/Dubai-skyline.jpeg",
+        "alt": "Dubai skyline — Khaleej Times broker-survey coverage",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "profileUrl": "https://www.khaleejtimes.com/business/property/dubai-property-market-holds-firm-as-buyers-seek-value-not-distress-opportunities"
+      },
+      "publishDate": "2026-05-06T21:30:26.998Z"
+    },
     {
       "id": "dubai-visa-aed-750k-floor-removed-may-2026",
       "categories": [

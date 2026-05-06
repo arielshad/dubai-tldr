@@ -219,6 +219,48 @@
       ],
       "coverage": [],
       "sourcesChecked": []
+    },
+    {
+      "id": "sweep-20260506t213026z",
+      "timestamp": "2026-05-06T21:30:26.998Z",
+      "source": "github-actions-sweep",
+      "summary": "Two May 4–5 Khaleej Times prints frame a market that is moderating, not crashing: April closed at AED 48B/13,977 deals while ValuStrat logged its first quarterly index contraction since 2020, and brokers report resale clearing within 5–15% of peak rather than at distress.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-april-2026-dh48b-sales-valustrat-first-contraction",
+          "title": "Dubai April 2026 sales hit AED 48B across 13,977 deals; ValuStrat flags first quarterly index contraction since 2020",
+          "category": "market",
+          "note": "Major monthly DLD print: AED 48B / 13,977 deals plus ValuStrat's first negative quarter since 2020 — reframes the cooling cycle for both buyers and sellers."
+        },
+        {
+          "id": "dubai-resale-within-5-15-percent-of-peak-may-2026",
+          "title": "Dubai resale clears within 5–15% of peak, not distress: brokers see negotiation, not panic, in Marina, Downtown, Business Bay",
+          "category": "market",
+          "note": "Three-broker survey (haus & haus, White & Co, Bayut) defines the operating range — resale within 5–15% of peak, no distress — useful market color for any sourcing or negotiation playbook."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
