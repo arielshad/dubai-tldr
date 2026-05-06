@@ -1,8 +1,138 @@
 {
-  "generatedAt": "2026-05-06T21:30:26.998Z",
+  "generatedAt": "2026-05-06T22:25:05.667Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-tilal-binghatti-villa-prelaunch-may-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Binghatti pre-launches Tilal Binghatti, its first villa community in Dubai (Al Rowaiyah, Dubailand) — 10,000+ visitors at EOI event",
+      "org": "Binghatti Developers",
+      "date": "2026-05-06",
+      "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/tilal-by-binghatti",
+      "summary": "Binghatti Developers pre-launched Tilal Binghatti — its first integrated villa-and-townhouse community — in Al Rowaiyah 1, Dubailand on 2026-05-06, drawing 10,000+ EOI visitors. 4-bed townhouses listed from AED 4.2M with 20/40/40 plan; villas coming soon. Handover Q2 2029.",
+      "tags": [
+        "developer-launch",
+        "off-plan",
+        "villa-community",
+        "townhouse",
+        "binghatti",
+        "dubailand",
+        "al-rowaiyah",
+        "eoi"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DUBAILAND",
+        "AL-ROWAIYAH"
+      ],
+      "metrics": {
+        "Project": "Tilal Binghatti",
+        "Developer": "Binghatti Developers",
+        "Location": "Al Rowaiyah 1, Dubailand",
+        "Starting ask (4-BR townhouse)": "AED 4.2M",
+        "Payment plan": "20% down / 40% construction / 40% handover",
+        "Handover": "Q2 2029",
+        "Tenure": "Freehold",
+        "DLD transfer fee": "4%",
+        "Pre-launch visitors": "10,000+"
+      },
+      "links": [
+        {
+          "label": "Property Finder project page (verified specs)",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/tilal-by-binghatti"
+        },
+        {
+          "label": "Pre-launch coverage (Biz Today, 2026-05-06)",
+          "url": "https://www.biztoday.news/2026/05/06/over-10000-visitors-mark-the-pre-launch-of-tilal-binghatti-in-dubai/"
+        },
+        {
+          "label": "Developer teaser page",
+          "url": "https://www.binghatti.com/en/projects/tilal-binghatti"
+        }
+      ],
+      "explainer": {
+        "tagline": "Binghatti's first villa community pre-launches in Dubailand — register-of-interest window opens before formal sales launch.",
+        "whatIsIt": "Tilal Binghatti is Binghatti Developers' first integrated villa-and-townhouse community, sited on Al Rowaiyah 1 in Dubailand between Dubai Academic City and Emirates Road. The 2026-05-06 pre-launch drew 10,000+ EOI visitors ahead of public sales.",
+        "howItWorks": "Property Finder lists 4-bedroom townhouses from AED 4,200,000 with a 20% down / 40% construction / 40% handover plan and a 4% DLD transfer fee. 5- and 6-bedroom villas are 'coming soon'. Expected delivery Q2 2029. EOI registrants typically get unit-selection priority and pre-public pricing before the formal sales launch.",
+        "whyItMatters": "First townhouse/villa product from a developer historically known for towers — establishes a fresh price reference for the Al Rowaiyah corridor where land comps still lag established Dubailand sub-communities. Construction-phase assignment market is the secondary exit route to monitor as the project progresses toward handover.",
+        "forWho": "End-user buyers wanting townhouse/villa optionality in Dubailand at sub-AED 5M entry; off-plan investors targeting pre-handover assignment flips.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/tilal-by-binghatti"
+      },
+      "image": {
+        "url": "https://new-projects-media.propertyfinder.com/project/042a6f47-45a5-4860-b22e-51643d8ce9f7/gallery/image/DR9r1vWwIzlaoaX-_GamG5a07q_Ns1Xrg5D14E7zq7w=/big.webp",
+        "alt": "Tilal by Binghatti — render of villa community at Al Rowaiyah 1, Dubailand",
+        "credit": "Binghatti Developers via Property Finder"
+      },
+      "publishDate": "2026-05-06T22:25:05.667Z"
+    },
+    {
+      "id": "dubai-jumeirah-coastline-aed-400m-beachfront-plot-deal-may-2026",
+      "categories": [
+        "luxury",
+        "land",
+        "market"
+      ],
+      "title": "Dubai super-prime land print: 3 Jumeirah Coastline plots assemble for AED 400M (113,000+ sqft, 160m beachfront) with AED 1B+ projected GDV",
+      "org": "Gulf News",
+      "date": "2026-05-06",
+      "url": "https://gulfnews.com/business/property/dubai-beachfront-plots-sell-for-dh400-million-in-record-luxury-land-deal-1.500530945",
+      "summary": "Three contiguous Jumeirah Coastline freehold plots — 113,000+ sqft with 160m of private Arabian Gulf beachfront — were assembled for AED 400M and registered via three coordinated DLD transfers by Arabian Acres. Projected GDV exceeds AED 1B for three ultra-luxury villas with private marina docking.",
+      "tags": [
+        "luxury",
+        "land-comp",
+        "super-prime",
+        "jumeirah",
+        "beachfront",
+        "ultra-luxury-villa",
+        "land-assembly"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JUMEIRAH",
+        "DXB-COASTLINE"
+      ],
+      "metrics": {
+        "Deal value": "AED 400M",
+        "Plot count": "3 freehold (contiguous)",
+        "Total land": "113,000+ sqft",
+        "Beachfront length": "160 m",
+        "Implied land basis": "≈AED 3,540/sqft",
+        "Projected GDV": ">AED 1B",
+        "Build plan": "3 ultra-luxury villas, private residential marina",
+        "Broker": "Arabian Acres (both sides)",
+        "Acquisition completed": "March 2026",
+        "Public disclosure": "2026-05-06 (Gulf News)"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Dubai beachfront plots sell for Dh400 million (May 6 2026)",
+          "url": "https://gulfnews.com/business/property/dubai-beachfront-plots-sell-for-dh400-million-in-record-luxury-land-deal-1.500530945"
+        },
+        {
+          "label": "DLD official transactions e-service (verify recent registrations)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 400M / 113K sqft / 160m beachfront — a fresh super-prime land comp for the Jumeirah Coastline.",
+        "whatIsIt": "Gulf News reports that three contiguous freehold plots on the Jumeirah Coastline — 113,000+ sqft of land with 160m of Arabian Gulf private beach — were assembled in a single AED 400M transaction registered through three coordinated DLD transfers. Arabian Acres acted as exclusive broker on both sides.",
+        "howItWorks": "Land basis works out to ≈AED 3,540/sqft on a contiguous waterfront block — a usable comp for super-prime land underwriting in Jumeirah, Palm and La Mer adjacencies. The buyer plans three ultra-luxury villas with direct beach access and a dedicated residential yacht marina; projected GDV exceeds AED 1B, implying each villa is underwritten well into nine figures to clear hurdle once finance and build costs are layered in.",
+        "whyItMatters": "Sets a new public benchmark for super-prime coastal land where contiguous plots of this scale rarely change hands. Useful for landowners weighing an exit and for buy-side advisors negotiating against developers' next ultra-luxury launches in Jumeirah, Palm, and Bulgari Resort sub-markets.",
+        "forWho": "HNW land owners considering disposals; super-prime developers; luxury brokers tracking AED 200M+ villa launch comps.",
+        "tryIt": "https://gulfnews.com/business/property"
+      },
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-06%2F75tlxz1h%2FDubai-beachfront-ariel-View.jpg",
+        "alt": "Aerial view of Jumeirah Coastline beachfront plots — Gulf News record AED 400M land deal",
+        "credit": "Gulf News"
+      },
+      "publishDate": "2026-05-06T22:25:05.667Z"
+    },
     {
       "id": "dubai-april-2026-dh48b-sales-valustrat-first-contraction",
       "categories": [

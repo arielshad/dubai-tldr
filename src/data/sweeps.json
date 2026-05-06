@@ -261,6 +261,49 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260506t222505z",
+      "timestamp": "2026-05-06T22:25:05.667Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new tier-1 Dubai signals dated 2026-05-06: Binghatti's first villa-community pre-launch in Al Rowaiyah/Dubailand drew 10,000+ visitors, and Gulf News broke a record AED 400M Jumeirah Coastline land assembly setting a fresh super-prime comp.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-tilal-binghatti-villa-prelaunch-may-2026",
+          "title": "Binghatti pre-launches Tilal Binghatti, its first villa community in Dubai (Al Rowaiyah, Dubailand) — 10,000+ visitors at EOI event",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-jumeirah-coastline-aed-400m-beachfront-plot-deal-may-2026",
+          "title": "Dubai super-prime land print: 3 Jumeirah Coastline plots assemble for AED 400M (113,000+ sqft, 160m beachfront) with AED 1B+ projected GDV",
+          "category": "luxury",
+          "note": "Added under luxury."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "land",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
