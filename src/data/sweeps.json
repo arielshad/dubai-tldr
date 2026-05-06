@@ -90,6 +90,135 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260506t194450z",
+      "timestamp": "2026-05-06T19:44:50.089Z",
+      "source": "manual-bootstrap-real-data",
+      "summary": "Bootstrap real-data sweep on 2026-05-06. Searched DLD/RERA, developer launches, auctions, market-data and brokerage/luxury sources via WebSearch + WebFetch. The freshest tier-1 verifiable Dubai-property news was the DLD Q1 2026 print (April 9), the AGBI/Khaleej Times/National coverage of the AED 750K visa-floor removal (April 29–May 1) and a Voice of Emirates weekly transactions piece (May 2) — all outside the 72h date cap. Per the empty-sweep-is-success rule, no items added; sources logged.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
+    },
+    {
+      "id": "sweep-20260506t195743z",
+      "timestamp": "2026-05-06T19:57:43.171Z",
+      "source": "manual-bootstrap-real-data",
+      "summary": "Real-data bootstrap sweep on 2026-05-06 with one-shot 216h date-cap waiver (see SWEEP_MEMORY 2026-05-06-A). Three verified items added: the AED 750K visa-floor removal (seismic), the Khaleej Times $10M+ deals print (major) and the weekly DLD transactions piece (notable). All URLs and og:images fetched and confirmed 200. Eight platform-seed cards left in place — user may decide separately whether to remove.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-visa-aed-750k-floor-removed-may-2026",
+          "title": "Dubai removes AED 750K floor on 2-year property-investor visa; sub-AED 750K stock now visa-eligible",
+          "category": "visa",
+          "note": "Added under visa."
+        },
+        {
+          "id": "dubai-10m-deals-q1-2026-up-63-percent",
+          "title": "Dubai $10M+ deals jump 63% Y/Y in Q1 2026; residential sales cross AED 180B with AED 422M Aman Residences leading",
+          "category": "luxury",
+          "note": "Added under luxury."
+        },
+        {
+          "id": "dubai-weekly-transactions-aed-15-2b-may-2026-w1",
+          "title": "Dubai weekly real-estate print: AED 15.2B across 3,866 transactions; Business Bay leads sales at AED 767M",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "visa",
+        "legal",
+        "market",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
+    },
+    {
+      "id": "sweep-20260506t200425z",
+      "timestamp": "2026-05-06T20:04:25.905Z",
+      "source": "manual-cleanup-seeds",
+      "summary": "Cleanup sweep on 2026-05-06: remove the eight platform-seed cards from the live feed now that real verified items are in. Seeds preserved as design reference at examples/seed-cards.json — re-ingestable if needed.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 8
+      },
+      "added": [],
+      "updated": [],
+      "removed": [
+        {
+          "id": "dubai-marina-distress-2br-under-comp-may-2026",
+          "title": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+          "reason": "Platform seed — pointed at a portal search page, not a real listing. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "jvc-studio-gross-yield-watchlist-may-2026",
+          "title": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+          "reason": "Platform seed — generic JVC studio template with hypothetical metrics. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "downtown-branded-residence-assignment-spread-may-2026",
+          "title": "Downtown branded residence assignment watch: resale spread vs developer stock",
+          "reason": "Platform seed — illustrative branded-residence assignment card, no real unit. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "business-bay-office-vacant-cap-rate-may-2026",
+          "title": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+          "reason": "Platform seed — generic Business Bay office cap-rate template. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "emirates-hills-villa-prime-listing-intel-may-2026",
+          "title": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+          "reason": "Platform seed — Emirates Hills demo card with placeholder metrics. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "dubai-south-townhouse-handover-rental-play-may-2026",
+          "title": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+          "reason": "Platform seed — Dubai South townhouse rental-play template. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "palm-jumeirah-short-let-furnishing-arbitrage-may-2026",
+          "title": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+          "reason": "Platform seed — Palm Jumeirah short-let arbitrage template. Archived to examples/seed-cards.json."
+        },
+        {
+          "id": "duplicate-detector-same-unit-different-broker-marina-may-2026",
+          "title": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+          "reason": "Platform seed — duplicate-detector demo card. Archived to examples/seed-cards.json."
+        }
+      ],
+      "coverage": [],
+      "sourcesChecked": []
     }
   ]
 }

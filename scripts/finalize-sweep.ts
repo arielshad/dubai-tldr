@@ -39,10 +39,15 @@ const args = process.argv.slice(2);
 const sourceIdx = args.indexOf("--source");
 const sourceLabel =
   sourceIdx >= 0 ? args[sourceIdx + 1] : "github-actions-sweep";
+const maxAgeIdx = args.indexOf("--max-age-hours");
 const consumed = new Set<number>();
 if (sourceIdx >= 0) {
   consumed.add(sourceIdx);
   consumed.add(sourceIdx + 1);
+}
+if (maxAgeIdx >= 0) {
+  consumed.add(maxAgeIdx);
+  consumed.add(maxAgeIdx + 1);
 }
 const draftPath =
   args.find(
@@ -129,7 +134,25 @@ if (collisions.length > 0) {
 // 2) Schema-ish minimum: every new item has id, url, image.url, ≥2 links
 const minSchemaErrors: string[] = [];
 const sweepNow = Date.now();
-const MAX_DATE_AGE_HOURS = 72;
+// Default 72h; CLI override via --max-age-hours <N> for human backfills only.
+// See SWEEP_MEMORY.md 2026-05-06-A / 2026-05-06-B before raising this.
+const DEFAULT_MAX_DATE_AGE_HOURS = 72;
+const MAX_DATE_AGE_HOURS = (() => {
+  if (maxAgeIdx < 0) return DEFAULT_MAX_DATE_AGE_HOURS;
+  const raw = args[maxAgeIdx + 1];
+  const n = Number.parseFloat(raw);
+  if (!Number.isFinite(n) || n <= 0) {
+    console.error(`finalize-sweep: invalid --max-age-hours value: ${raw}`);
+    process.exit(1);
+  }
+  if (n !== DEFAULT_MAX_DATE_AGE_HOURS) {
+    console.warn(
+      `finalize-sweep: ⚠ MAX_DATE_AGE_HOURS overridden to ${n}h ` +
+        `(default ${DEFAULT_MAX_DATE_AGE_HOURS}h). Cron sweeps must NOT pass this flag.`,
+    );
+  }
+  return n;
+})();
 for (const item of newItems) {
   if (!item.id) minSchemaErrors.push("(missing id)");
   if (!item.url) minSchemaErrors.push(`${item.id}: missing url`);

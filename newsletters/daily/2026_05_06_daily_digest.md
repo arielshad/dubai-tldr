@@ -1,17 +1,3 @@
-<!--
-  EXAMPLE DIGEST — DxbEstate Intel daily digest template.
-
-  This file demonstrates the wire format the `daily-digest` skill produces:
-  email-safe table layout, dark brutalist tokens, 1–2 sentence explainers,
-  category + importance badges, and a Resend-compatible unsubscribe footer.
-
-  All cards below are illustrative placeholders — towers, asks, AED/sqft,
-  yields, and broker signals are made up to show the shape of a real card.
-  Live digests must follow the zero-hallucination rule: every metric and
-  URL traced to the actual listing, DLD record, developer page, or auction
-  lot. Image URLs here point at the site's default OG image; in a real run
-  they come from the verified `item.image.url`.
--->
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#050505" style="background-color: #050505;">
 <tr>
 <td align="center" style="padding: 16px 8px;">
@@ -26,14 +12,14 @@
 </td>
 </tr>
 
-<!-- CARD: Distress — Marina Gate price cut -->
+<!-- CARD 1: Visa rule change -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
 
 <tr>
 <td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified Property Finder / Bayut listing hero image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+<img src="https://www.agbi.com/tachyon/2026/04/Burj-scaled.jpg" alt="Burj Al Arab from Souk Madinat Jumeirah, Dubai" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
 </td>
 </tr>
 
@@ -41,40 +27,40 @@
 <td style="padding: 16px;">
 
 <div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">DISTRESS</span>
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">VISA</span>
 <span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-06</span>
+<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">SEISMIC</span>
+<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-01</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Marina Gate Tower 2 — 2BR vacant, asking AED 2.95M after second cut, ~12% under 90-day comps</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Dubai removes AED 750K floor on 2-year property-investor visa; sub-AED 750K stock now visa-eligible</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Same unit reposted across three brokers in a week with falling asks — classic motivated-seller signal.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Single biggest structural change in Dubai property since the post-COVID boom — every sub-AED 750K listing is now visa-eligible for sole owners.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-A 1,180 sqft 2BR on a mid-floor with full Marina view in Marina Gate Tower 2. Asking dropped from AED 3.25M to AED 2.95M (~AED 2,500/sqft) over 9 days; vacant on transfer.
+DLD's <a href="https://www.agbi.com/real-estate/2026/04/dubai-scraps-property-visa-minimum-value-for-investor-residency/" style="color: #f7ff00;">Cube Centre rule change</a> effective 1 May 2026 abolishes the AED 750,000 minimum property valuation for the 2-year investor visa for sole owners; joint owners now need only AED 400K each.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-DLD comps for the same tower/floor band over the last 90 days cluster at AED 2,820–2,900/sqft. Service charge AED 17.50/sqft. Verify: title deed, NOC clearance from Select Group, mortgage status, broker authority (Form A).
+Any fully-owned, completed unit qualifies for sole owners. Visa cost: AED 10,545 new / AED 8,215 renewal. Verify title deed clean, mortgage status, and developer NOC before applying.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Three broker reposts plus two ask cuts in nine days is the canonical urgency signal. If title and NOC clear cleanly, the ~12% comp delta covers DLD fee, agency, and a 6–8 week resale margin.
+Per <a href="https://www.thenationalnews.com/business/property/2026/04/30/dubais-updated-property-visa-rules-to-spur-demand-and-attract-overseas-buyers/" style="color: #f7ff00;">The National</a>, CBRE's Matthew Green: "fundamentally removes barriers to investment, creating a larger addressable market." 24% of 2026 ready-home deals were under AED 750K — that whole pool is now newly residency-eligible.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Buyer agents working end-user purchasers, short-hold flip operators, Marina-focused investors.
+Mid-market end-users, buy-to-let operators with sub-AED 750K stock, broker teams in JVC, IC, Arjan, Dubai Production City, Dubailand, Majan, Dubai Silicon Oasis.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
 <tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-MARINA</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/marina-gate-2br-distress-may-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DLD · AGBI</td>
+<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/dubai-visa-aed-750k-floor-removed-may-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
 </tr>
 </table>
 
@@ -84,188 +70,14 @@ Buyer agents working end-user purchasers, short-hold flip operators, Marina-focu
 </td>
 </tr>
 
-<!-- CARD: Off-Plan — Emaar Creek Beach launch -->
+<!-- CARD 2: $10M+ deals -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
 
 <tr>
 <td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified developer launch hero image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
-</td>
-</tr>
-
-<tr>
-<td style="padding: 16px;">
-
-<div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">OFF-PLAN</span>
-<span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-06</span>
-</div>
-
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Emaar opens Creek Beach Phase 4 — 1BR from AED 1.62M on 80/20 plan, Q3 2028 handover</h2>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Fresh inventory at the canal-front cluster with a back-loaded payment plan and a near-term handover window.</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">What is it?</strong><br>
-Phase 4 release at Creek Beach (Dubai Creek Harbour). 1BR units 712–745 sqft from AED 1.62M (~AED 2,180/sqft); 2BR 1,150 sqft from AED 2.55M. 80/20 plan: 20% on booking, 60% during construction, 20% on handover.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">How does it work?</strong><br>
-Emaar inventory portal opened at 10:00 GST. DLD registration fee waived for first 50 buyers per official launch terms. Verify Oqood, escrow account, and project registration on Dubai REST before transferring booking funds.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Launch ask is ~7% under secondary-market comps for finished Creek Beach Phase 1 stock. If construction stays on schedule, assignment market typically opens 12–14 months in.
-</p>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Who is it for?</strong><br>
-End-user buyers wanting handover-dated inventory, off-plan flippers tracking assignment windows, broker teams placing first-time investors.
-</p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
-<tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-CREEK · EMAAR</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/emaar-creek-beach-phase-4-launch" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- CARD: Auction — Emirates Auction bank sale -->
-<tr>
-<td style="padding-top: 16px;">
-<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
-
-<tr>
-<td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified Emirates Auction lot image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
-</td>
-</tr>
-
-<tr>
-<td style="padding: 16px;">
-
-<div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">AUCTION</span>
-<span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-06</span>
-</div>
-
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Emirates Auction — Business Bay 1BR bank-sale lot, reserve AED 1.05M, closes May 14</h2>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">A mortgaged unit going to public auction with the reserve set ~18% below recent same-tower transfers.</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">What is it?</strong><br>
-Emirates Auction lot for a 1BR (685 sqft) in Executive Towers, Business Bay. Reserve AED 1.05M (~AED 1,533/sqft). Bidding closes 14 May 2026, 18:00 GST. AED 100K refundable security deposit to bid.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">How does it work?</strong><br>
-Bank-sale process — winning bidder pays 25% on award, balance within 30 days, transfers via DLD with the lender as seller. DLD comps for the tower over 90 days sit at AED 1,830–1,920/sqft. Existing tenancy if any disclosed in the lot pack.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Why does it matter?</strong><br>
-~18% reserve discount before bid action. Real spread depends on competing bids — historically Business Bay bank lots clear 6–10% above reserve.
-</p>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Who is it for?</strong><br>
-Cash buyers, distressed-asset operators, broker reps with ready end-users.
-</p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
-<tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-BB · EMIRATES AUCTION</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/business-bay-1br-emirates-auction-may-2026" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- CARD: Developer — DAMAC inventory release -->
-<tr>
-<td style="padding-top: 16px;">
-<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
-
-<tr>
-<td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified developer inventory hero image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
-</td>
-</tr>
-
-<tr>
-<td style="padding: 16px;">
-
-<div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">DEVELOPER</span>
-<span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">NOTABLE</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-05</span>
-</div>
-
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">DAMAC Hills 2 — final-phase 3BR townhouses re-released, post-handover plan to 2030</h2>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">A small batch of pulled-back inventory returns with stretched payment terms — useful for cash-flow-sensitive end users.</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">What is it?</strong><br>
-Twelve 3BR townhouses (2,015 sqft BUA) at Pelham, DAMAC Hills 2, asking from AED 1.95M (~AED 967/sqft). 50/50 plan with 24 post-handover installments through 2030; handover Q4 2026.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">How does it work?</strong><br>
-Inventory came back from cancelled buyers under DAMAC's claw-back terms. Verify project status on Dubai REST, escrow account, and that the specific unit number isn't carrying an arbitration flag from the prior buyer.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Per-sqft is in line with DH2 secondary, but the payment structure is the play — monthly outlay AED 14–16K vs. ~AED 11K for a similar mortgage at current rates, with no LTV cap.
-</p>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Who is it for?</strong><br>
-End users without mortgage eligibility, family-office buyers structuring around cash flow, broker teams with multi-unit clients.
-</p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
-<tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-DH2 · DAMAC</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/damac-hills-2-pelham-final-phase" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- CARD: Luxury — Palm Jumeirah villa motivated seller -->
-<tr>
-<td style="padding-top: 16px;">
-<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
-
-<tr>
-<td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified luxury listing image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+<img src="https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-28/fkqxtrmx/Dubai-skyline-9.jpg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,0,2192,1461" alt="Dubai skyline at dusk with Downtown towers and Burj Khalifa" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
 </td>
 </tr>
 
@@ -276,37 +88,37 @@ End users without mortgage eligibility, family-office buyers structuring around 
 <span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">LUXURY</span>
 <span style="display: inline-block; width: 6px;">&nbsp;</span>
 <span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-05</span>
+<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-04-28</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Palm Jumeirah Frond M — Signature 5BR villa, asking AED 38.5M after AED 4.5M cut, vacant on transfer</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Dubai $10M+ deals jump 63% Y/Y in Q1 2026; residential sales cross AED 180B with AED 422M Aman Residences leading</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Off-market for six weeks then back live with a fresh price; same-frond comps clearing closer to AED 42M.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Ultra-prime Dubai is breaking away from the rest of the market: 2,148 deals over $10M in Q1, up 62.6% Y/Y.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-Signature 5BR villa, ~7,200 sqft BUA on a 12,500 sqft plot, full Atlantis view, private beach access. Listed at AED 43M in March, paused, relisted at AED 38.5M (~AED 5,347/sqft on BUA).
+<a href="https://www.khaleejtimes.com/business/property/10m-deals-jump-63-as-dubai-real-estate-sales-cross-dh180b-in-q1" style="color: #f7ff00;">Khaleej Times</a> reports 2,148 transactions valued at $10M+ (≈AED 36.7M) in Q1 2026 — a 62.6% Y/Y jump. Total residential sales hit AED 180B over 44,743 transactions.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-DLD prints for Frond M Signature Villas over 6 months cluster at AED 5,800–6,100/sqft on BUA. Title clear, no tenancy, NOC pre-cleared per the seller's broker. Verify mandate authority before previewing — three brokers currently advertising.
+Demand concentrated in Palm Jumeirah and Dubai Hills Estate, with emerging trophy clusters in The Oasis Dubai, Nad Al Sheba, Palm Jebel Ali and La Mer. Top prints: AED 422M Aman Residences off-plan, AED 350M Asora Bay villa, AED 340M Jumeirah Bay Island villa.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-A AED 4.5M cut on a Palm Signature is meaningful — historical luxury asks rarely flex more than 3–5% before going off-market. The vacant-on-transfer note opens up family-office and end-user buyer pools that won't take tenanted stock.
+A segment growing 63% Y/Y while the broader market grows ~6% on volume is a different market. Read-across: trophy off-plan launches absorb capital before going public; villa scarcity drives record per-sqft prints; secondary trophy stock requires direct off-market sourcing.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Luxury brokers with HNW pipelines, family offices placing trophy buyers, repositioning operators.
+Luxury brokers with HNW pipelines, family-office allocators sizing trophy exposure, repositioning operators on Frond villas and Shoreline apartments.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
 <tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-PALM</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/palm-jumeirah-frond-m-signature-villa" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-PALM · DXB-HILLS</td>
+<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/dubai-10m-deals-q1-2026-up-63-percent" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
 </tr>
 </table>
 
@@ -316,72 +128,14 @@ Luxury brokers with HNW pipelines, family offices placing trophy buyers, reposit
 </td>
 </tr>
 
-<!-- CARD: Rental — JVC studio rent-yield gap -->
+<!-- CARD 3: Weekly transactions -->
 <tr>
 <td style="padding-top: 16px;">
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
 
 <tr>
 <td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified rental listing image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
-</td>
-</tr>
-
-<tr>
-<td style="padding: 16px;">
-
-<div style="margin-bottom: 12px; line-height: 1.5;">
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">RENTAL</span>
-<span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">NOTABLE</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-05</span>
-</div>
-
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">JVC Studio — asking AED 670K against AED 58K rent index, projected gross yield ~8.6%</h2>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Rent index sits ~9% above the building's current asks — a clean rent-vs-sale spread for buy-to-let operators.</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">What is it?</strong><br>
-410 sqft furnished studio in Belgravia 2 (JVC District 12). Asking AED 670K (~AED 1,634/sqft). RERA rent index for the same building/size sits at AED 56–60K/year; current Bayut/Property Finder asks for similar units cluster at AED 52–55K.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">How does it work?</strong><br>
-At AED 58K rent / AED 670K ask, gross yield is ~8.6%. Service charge AED 13.20/sqft, DLD fee 4%. Verify tenancy (vacant or expiring within 90 days needed for repricing under RDC index), Ejari, and the unit's actual furnishing schedule.
-</p>
-
-<p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Why does it matter?</strong><br>
-RERA-index-supported rent above current ask means a new owner can re-let toward the index ceiling on lease end. Net yield (after service charge + management) projects ~7.0–7.3%.
-</p>
-
-<p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
-<strong style="color: #f7ff00;">Who is it for?</strong><br>
-Buy-to-let investors, short-let operators, broker teams placing yield-first investors.
-</p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
-<tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DXB-JVC</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/jvc-belgravia-studio-yield-gap" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- CARD: Market — DLD Q1 2026 transactions print -->
-<tr>
-<td style="padding-top: 16px;">
-<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0e0e0e" style="background-color: #0e0e0e; border: 1px solid #f5f5f0;">
-
-<tr>
-<td>
-<img src="https://dxb-estate-intel.xyz/og.jpg" alt="Placeholder — replace with verified DLD / RERA macro signal image" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
+<img src="https://propertynews.ae/wp-content/uploads/2026/05/output1-69.png" alt="Dubai property gift transactions weekly summary illustration" width="100%" style="width: 100%; max-width: 600px; height: auto; display: block; border-bottom: 1px solid #f5f5f0;">
 </td>
 </tr>
 
@@ -391,38 +145,38 @@ Buy-to-let investors, short-let operators, broker teams placing yield-first inve
 <div style="margin-bottom: 12px; line-height: 1.5;">
 <span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MARKET</span>
 <span style="display: inline-block; width: 6px;">&nbsp;</span>
-<span style="display: inline-block; background-color: #f7ff00; color: #050505; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">MAJOR</span>
-<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-05</span>
+<span style="display: inline-block; background-color: #181818; color: #f5f5f0; padding: 4px 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; font-family: Menlo, Consolas, monospace; vertical-align: middle;">NOTABLE</span>
+<span style="display: inline-block; padding-left: 12px; font-size: 13px; color: #8a8a85; vertical-align: middle;">2026-05-03</span>
 </div>
 
-<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">DLD Q1 2026 print — 53,400 transactions, AED 158B value, off-plan share holds at 67%</h2>
+<h2 style="margin: 0 0 8px; font-size: 24px; font-weight: 800; color: #f5f5f0; line-height: 1.2;">Dubai weekly real-estate print: AED 15.2B across 3,866 transactions; Business Bay leads sales at AED 767M</h2>
 
-<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Transaction volume up Y/Y but value cooler than Q4; off-plan still pulling more than two-thirds of every ticket.</p>
+<p style="margin: 0 0 20px; font-size: 15px; color: #8a8a85; line-height: 1.5;">Latest DLD weekly print confirms Business Bay is still the live tape — leads sales, mortgages and gifts simultaneously.</p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">What is it?</strong><br>
-Dubai Land Department Q1 2026 quarterly print: 53,400 sales transactions (+11% Y/Y), AED 158B total value (-4% Q/Q from a record Q4 2025), off-plan share at 67% of count.
+DLD's weekly print: AED 15.2B across 3,866 deals. Sales AED 10.4B / 2,931, mortgages AED 2.7B / 798, gifts AED 1.9B / 173. Sources: <a href="https://propertynews.ae/uae/dubai/family-legacy-property-gifting-transactions-surge-to-aed-1-9-billion-in-weekly-activity/" style="color: #f7ff00;">PropertyNews.ae</a>, <a href="https://www.voiceofemirates.com/en/business/2026/05/02/in-a-week-15-2-billion-dirhams-in-dubai-real-estate-transactions/" style="color: #f7ff00;">Voice of Emirates</a>.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">How does it work?</strong><br>
-Median ticket AED 2.96M; secondary-market median price/sqft up 2.1% Q/Q while off-plan launch ASPs flattened. Top communities by count: JVC, Business Bay, Dubai Hills Estate, MBR City, Dubai South.
+Top sales: Business Bay AED 767M, Burj Khalifa AED 211.5M, City Walk AED 186M. Top mortgages: Business Bay AED 224.5M, Dubai Marina AED 96M, Dubai Creek Harbour AED 42M. Top gifts: Business Bay AED 83.5M, Dubai South AED 62M.
 </p>
 
 <p style="margin: 0 0 16px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Why does it matter?</strong><br>
-Volume strong but value cooling = mix shift toward smaller tickets and off-plan. Read-through: secondary mid-market is the live tape; ultra-luxury and large new launches saw fewer signed deals than headlines suggested.
+AED 1.9B in family-gift transfers in a single week is unusually high — PropertyNews.ae frames it as families consolidating Dubai exposure as a permanent residence. Business Bay leading all three categories simultaneously says it's the most-traded sub-market in Dubai right now.
 </p>
 
 <p style="margin: 0 0 20px; font-size: 15px; color: #f5f5f0; line-height: 1.6;">
 <strong style="color: #f7ff00;">Who is it for?</strong><br>
-Brokerage strategy teams, developer pricing committees, market-research desks, family-office allocators sizing exposure.
+Brokerage strategy teams sizing weekly community flow, market-research desks calibrating Q2 forecasts, family-office buyers tracking gift-vs-sale tax positioning.
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 1px solid #2a2a28; padding-top: 16px;">
 <tr>
-<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DLD · RERA</td>
-<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/dld-q1-2026-transactions-print" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
+<td style="font-size: 14px; font-weight: 700; color: #f5f5f0;">DLD · DXB-BB</td>
+<td align="right"><a href="https://dxb-estate-intel.xyz/opportunities/dubai-weekly-transactions-aed-15-2b-may-2026-w1" style="color: #f7ff00; font-size: 13px; font-weight: 700; text-decoration: none; text-transform: uppercase; font-family: Menlo, Consolas, monospace;">DETAILS →</a></td>
 </tr>
 </table>
 

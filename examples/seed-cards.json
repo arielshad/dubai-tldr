@@ -1,0 +1,423 @@
+{
+  "_purpose": "Reference snapshot of the 8 platform-seed opportunity cards that shipped with the DxbEstate Intel bootstrap. Removed from src/data/releases.json on 2026-05-06 once real data was ingested. Kept here as a design reference: each card demonstrates a category template (distress, rental, offplan, commercial, luxury, developer, flip, duplicate) with the canonical schema fields populated. Re-ingestable via finalize-sweep.ts if needed.",
+  "_archivedAt": "2026-05-06",
+  "_archivedFrom": "src/data/releases.json",
+  "items": [
+    {
+      "id": "dubai-marina-distress-2br-under-comp-may-2026",
+      "categories": [
+        "distress",
+        "ready",
+        "rental"
+      ],
+      "title": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+      "org": "Property Finder",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&fu=0&l=50&ob=pa&page=1&rp=y&t=1",
+      "summary": "A Marina 2BR screen is tagged as a possible under-market ready unit where vacant possession and furnishing could improve resale or short-let returns.",
+      "tags": [
+        "dubai-marina",
+        "2br",
+        "vacant",
+        "below-comp",
+        "short-let"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARINA",
+        "READY"
+      ],
+      "metrics": {
+        "Ask": "AED 2.05M screen",
+        "Size": "~1,250 sqft target",
+        "Gross yield": "6.5–7.5% comp range",
+        "Transfer costs": "4% DLD + fees",
+        "Status": "Verify title, tenancy and NOC"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&fu=0&l=50&ob=pa&page=1&rp=y&t=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "A ready Marina 2BR screen where price-per-square-foot looks cheap enough to justify immediate comp work.",
+        "whatIsIt": "This is a candidate opportunity card, not a buy recommendation. The collection agent should verify the exact unit, floor, view, title status, service-charge history, and whether the seller is genuinely motivated.",
+        "howItWorks": "The platform keeps the portal search, current ask, area, expected rent, transfer costs, and due-diligence notes in one record. If the same unit appears through another broker at a different price, the duplicate detector should attach it rather than create a new card.",
+        "whyItMatters": "Marina liquidity is deep, so a true under-comp ready unit can be sold, rented, or furnished for holiday-home yield faster than niche communities. The risk is stale advertising: many attractive Marina listings are bait, already sold, or not vacant.",
+        "forWho": "Cash buyers, buyer agents, and short-let operators who can verify availability quickly.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-data/#/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+        "alt": "Dubai Marina 2BR flagged below active comps with vacant-on-transfer upside",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "jvc-studio-gross-yield-watchlist-may-2026",
+      "categories": [
+        "rental",
+        "ready",
+        "visa"
+      ],
+      "title": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+      "org": "Bayut",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.bayut.com/for-sale/studio-apartments/dubai/jumeirah-village-circle-jvc/",
+      "summary": "JVC studios near the lower visa threshold are tagged for rent-comp validation, service-charge drag, and liquidity checks.",
+      "tags": [
+        "jvc",
+        "studio",
+        "yield",
+        "visa-threshold",
+        "investor"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "JVC",
+        "RENTAL"
+      ],
+      "metrics": {
+        "Target ask": "AED 650k–800k",
+        "Rent comp": "AED 52k–62k yearly",
+        "Gross yield": "~7%–8.5% before charges",
+        "Visa angle": "AED 750k property-investor threshold",
+        "Key risk": "Service charges and building quality"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.bayut.com/for-sale/studio-apartments/dubai/jumeirah-village-circle-jvc/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A JVC studio screen for investors who need yield but also care about resale liquidity and visa thresholds.",
+        "whatIsIt": "The candidate set is built from portal searches, then filtered by asking price, rent comps, building reviews, furnishing quality, and service charges. Units near AED 750k get a visa tag because they may matter to investor buyers.",
+        "howItWorks": "The platform records ask, expected rent, service-charge assumptions, furnishing capex, and transfer costs. It should refresh prices and mark stale listings when the portal repost date or broker availability does not check out.",
+        "whyItMatters": "JVC has broad tenant demand but uneven buildings. The opportunity is not just high rent divided by ask; it is finding a clean tower where yield survives service charges and exit demand exists.",
+        "forWho": "Visa-focused investors, first-time Dubai buyers, and agents building a rental-yield shortlist.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-data/#/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+        "alt": "JVC studio cluster screened for AED 750k visa threshold and high gross yield",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "downtown-branded-residence-assignment-spread-may-2026",
+      "categories": [
+        "offplan",
+        "luxury",
+        "developer"
+      ],
+      "title": "Downtown branded residence assignment watch: resale spread vs developer stock",
+      "org": "Developer / portal sweep",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&l=41&ob=mr&page=1&rp=y&t=1",
+      "summary": "Off-plan Downtown branded units are monitored for assignment discounts versus developer inventory and payment-plan optionality.",
+      "tags": [
+        "downtown",
+        "branded",
+        "offplan",
+        "assignment",
+        "luxury"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DOWNTOWN",
+        "OFFPLAN"
+      ],
+      "metrics": {
+        "Ask": "Developer and resale spreads vary",
+        "Payment plan": "Verify paid % and next milestones",
+        "Handover": "Confirm expected date",
+        "Premium risk": "Brand + view must justify price",
+        "Exit": "Assignment liquidity check"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&l=41&ob=mr&page=1&rp=y&t=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "A Downtown branded-residence assignment screen that compares resale asks against developer stock and payment-plan burden.",
+        "whatIsIt": "Assignments can look cheaper than new developer inventory but carry paid-premium math, transfer restrictions, and upcoming installment pressure. The agent should normalize price to total contract value, paid amount, outstanding payments, and expected handover.",
+        "howItWorks": "The platform keeps the developer sheet, resale ad, payment schedule, Oqood/assignment notes, and comparable transactions together. It highlights when a seller may accept a discount because the next installment is near.",
+        "whyItMatters": "Branded Downtown stock attracts global buyers, but premiums compress if too many similar units hit the market before handover. A good assignment needs a real spread, clear view/floor advantage, and manageable payment timing.",
+        "forWho": "Luxury brokers, assignment buyers, and sellers trying to price against developer competition.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+        "alt": "Downtown branded residence assignment watch: resale spread vs developer stock",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "business-bay-office-vacant-cap-rate-may-2026",
+      "categories": [
+        "commercial",
+        "ready",
+        "rental"
+      ],
+      "title": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+      "org": "Bayut",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.bayut.com/for-sale/offices/dubai/business-bay/",
+      "summary": "Business Bay offices are tracked for vacant possession, fit-out quality, parking, service charges, and rent-backed cap-rate validation.",
+      "tags": [
+        "business-bay",
+        "office",
+        "commercial",
+        "vacant",
+        "cap-rate"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "BUSINESS-BAY",
+        "COMM"
+      ],
+      "metrics": {
+        "Ask": "AED 1.1M–2.5M screen",
+        "Rent comp": "Verify fitted vs shell rents",
+        "Parking": "Must confirm allocation",
+        "Service charge": "Material to NOI",
+        "Buyer pool": "SME end users + investors"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.bayut.com/for-sale/offices/dubai/business-bay/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A commercial screen for vacant Business Bay offices where rent-backed pricing may reveal motivated sellers.",
+        "whatIsIt": "Commercial listings require different diligence than apartments: title use, parking allocation, fit-out condition, service charges, chiller, and building occupancy all matter. The platform should store these as metrics before any outreach.",
+        "howItWorks": "The card links portal ads to rent comps and notes whether the unit is shell-and-core, fitted, partitioned, or leased. If an end user can occupy immediately, the same asset may have more value than a pure investor cap-rate calculation shows.",
+        "whyItMatters": "Business Bay has strong SME demand, but office liquidity is building-specific. A clean vacant office with parking and realistic service charges can sell better than headline cap-rate suggests.",
+        "forWho": "Commercial brokers, SME end users, and investors comfortable underwriting NOI.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-data/#/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+        "alt": "Business Bay vacant office screened for end-user discount and cap-rate resale",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "emirates-hills-villa-prime-listing-intel-may-2026",
+      "categories": [
+        "luxury",
+        "ready",
+        "lead"
+      ],
+      "title": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+      "org": "LuxuryProperty.com",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.luxuryproperty.com/dubai/villas-for-sale/emirates-hills",
+      "summary": "Prime villa inventory is tracked as relationship intelligence: seller motivation, view, plot, renovation status, and buyer match are more important than broad filters.",
+      "tags": [
+        "emirates-hills",
+        "villa",
+        "luxury",
+        "seller-lead",
+        "off-market"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "EMIRATES-HILLS",
+        "LUXURY"
+      ],
+      "metrics": {
+        "Ticket": "AED 70M+ segment",
+        "Plot": "Verify sq ft and lake/golf view",
+        "Condition": "Renovated vs rebuild",
+        "Lead status": "Broker/source relationship required",
+        "Exit": "Ultra-prime buyer match"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.luxuryproperty.com/dubai/villas-for-sale/emirates-hills"
+        }
+      ],
+      "explainer": {
+        "tagline": "A trophy-villa intelligence card focused on matching motivated sellers with qualified ultra-prime buyers.",
+        "whatIsIt": "Ultra-prime villa opportunities are rarely solved by portal scraping alone. The platform should collect public listings, broker notes, price changes, image changes, and private lead status into one seller-intent record.",
+        "howItWorks": "The record separates public facts from relationship notes and flags when a listing changes broker, price, photos, or description. That creates a signal that the seller may be more flexible or the mandate may be shifting.",
+        "whyItMatters": "In Emirates Hills and similar prime areas, scarcity and seller motivation drive outcomes more than generic AED/sqft screens. The value is speed, discretion, and knowing when a public listing masks an off-market negotiation.",
+        "forWho": "Prime brokers, family-office buyers, and seller reps managing discreet mandates.",
+        "tryIt": "https://www.luxuryproperty.com/dubai/villas-for-sale/emirates-hills"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "alt": "Emirates Hills villa lead tagged for seller-intent and off-market matching",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "dubai-south-townhouse-handover-rental-play-may-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "rental"
+      ],
+      "title": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+      "org": "Developer / DLD monitor",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.bayut.com/for-sale/townhouses/dubai/dubai-south/",
+      "summary": "Townhouse handovers around Dubai South are monitored for post-handover rent demand, snagging risk, and motivated resale assignments.",
+      "tags": [
+        "dubai-south",
+        "townhouse",
+        "handover",
+        "family-rental",
+        "developer"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DUBAI-SOUTH",
+        "TOWNHOUSE"
+      ],
+      "metrics": {
+        "Ask": "AED 2.2M–3.5M screen",
+        "Rent thesis": "Family tenant demand near airport corridor",
+        "Handover": "Verify notice and snagging",
+        "Payment": "Post-handover plan matters",
+        "Risk": "Supply clustering"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.bayut.com/for-sale/townhouses/dubai/dubai-south/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A Dubai South townhouse pipeline card for buyers betting on family rental demand after handover.",
+        "whatIsIt": "The screen tracks developer handover dates, resale assignments, payment-plan stress, and listed rents for comparable completed homes. It should flag sellers facing final installments or handover fees.",
+        "howItWorks": "Each card stores the project, layout, plot size, paid/outstanding amount, expected rent, and snagging notes. It also distinguishes genuine ready keys from ads posted before handover.",
+        "whyItMatters": "Dubai South can benefit from infrastructure and family demand, but supply arrives in clusters. The best opportunities are where seller pressure offsets near-term supply risk.",
+        "forWho": "Family-rental investors, end users, and agents tracking handover-motivated sellers.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
+        "alt": "Dubai South townhouse handover pipeline watched for family-rental squeeze",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "palm-jumeirah-short-let-furnishing-arbitrage-may-2026",
+      "categories": [
+        "rental",
+        "luxury",
+        "flip"
+      ],
+      "title": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+      "org": "Property Finder",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&l=14&ob=pa&page=1&rp=y&t=1",
+      "summary": "Palm apartments are tagged when dated interiors, view, and building rules could create short-let upside after furnishing.",
+      "tags": [
+        "palm-jumeirah",
+        "short-let",
+        "furnishing",
+        "holiday-home",
+        "luxury"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "PALM",
+        "SHORTLET"
+      ],
+      "metrics": {
+        "Ask": "AED 3M–6M screen",
+        "Capex": "Furnishing + refresh budget required",
+        "Revenue": "Verify holiday-home seasonality",
+        "Building rules": "Short-let permission required",
+        "Risk": "Service charges + occupancy volatility"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&l=14&ob=pa&page=1&rp=y&t=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "A Palm short-let candidate where the spread may come from better furnishing and revenue management, not just lower ask.",
+        "whatIsIt": "The opportunity starts as a public listing but needs operational underwriting: holiday-home rules, view, furnishing capex, cleaning, platform fees, and seasonal occupancy. The platform should track those assumptions separately from simple long-let rent.",
+        "howItWorks": "The card keeps images, floor/view notes, active comps, projected nightly-rate assumptions, and capex. If photos are dated but the building and view are strong, it gets a flip/rental tag for deeper review.",
+        "whyItMatters": "Palm liquidity and tourist demand are strong, but returns can be overstated. A real opportunity needs legal short-let ability, realistic occupancy, and a renovation budget that does not erase the spread.",
+        "forWho": "Holiday-home operators, furnishing-led flippers, and luxury apartment buyers.",
+        "tryIt": "https://www.dubaitourism.gov.ae/en/legislation-regulations/holiday-homes"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "alt": "Palm Jumeirah apartment screened for furnishing-led short-let upside",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    },
+    {
+      "id": "duplicate-detector-same-unit-different-broker-marina-may-2026",
+      "categories": [
+        "duplicate",
+        "legal",
+        "lead"
+      ],
+      "title": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+      "org": "Internal matcher",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-06T08:00:00.000Z",
+      "url": "https://www.propertyfinder.ae/en/search?c=2&l=50&ob=mr&page=1&rp=y&t=1",
+      "summary": "A matching workflow compares photos, tower, floor clues, size, and description text to merge likely same-unit ads and reveal price dispersion.",
+      "tags": [
+        "duplicate-detection",
+        "broker-spread",
+        "marina",
+        "data-quality",
+        "lead-routing"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARINA",
+        "DATA"
+      ],
+      "metrics": {
+        "Price spread": "Flag when asks differ by >2%",
+        "Signals": "Photos, sqft, tower, floor, view, description",
+        "Action": "Merge records before outreach",
+        "Risk": "False positives need human review",
+        "Value": "Find true lowest mandate"
+      },
+      "links": [
+        {
+          "label": "Source listing / search",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&l=50&ob=mr&page=1&rp=y&t=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "A data-quality card that turns duplicate listings into negotiating intelligence instead of clutter.",
+        "whatIsIt": "Dubai portals often show the same unit through several brokers, sometimes at different prices or with stale availability. The matcher should group probable duplicates and preserve each broker/source as a separate lead under one opportunity.",
+        "howItWorks": "The workflow compares canonical URLs, image fingerprints, unit attributes, description phrases, tower/community, and price history. A human verifies high-value matches before outreach or seller conversations.",
+        "whyItMatters": "Duplicate detection prevents chasing fake inventory and can reveal the most direct or lowest-priced mandate. It also helps sellers see whether their unit is being diluted by inconsistent broker advertising.",
+        "forWho": "Buyer agents, seller reps, and anyone building a clean CRM from portal inventory.",
+        "tryIt": "https://www.propertyfinder.ae/en/search?c=2&l=50"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "alt": "Duplicate detector finds same Marina unit marketed by multiple brokers at different asks",
+        "credit": "Listing image to be verified by the sweep agent"
+      }
+    }
+  ]
+}
