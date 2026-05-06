@@ -58,7 +58,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SITE_URL: https://dxb-estate-intel.xyz
+  SITE_URL: https://dxb-estate-intel.shep-ai.workers.dev
 
 jobs:
   deploy:

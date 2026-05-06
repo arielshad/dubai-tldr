@@ -40,7 +40,7 @@ import type { OpportunityItem } from "../src/data/schema";
 
 const SITE_URL =
   process.env.SITE_URL?.replace(/\/$/, "") ||
-  "https://dxb-estate-intel.xyz";
+  "https://dxb-estate-intel.shep-ai.workers.dev";
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
