@@ -94,4 +94,9 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # Override the action's auto-detected package manager: it picks
+          # pnpm here (which is not on the runner) and fails with
+          # "Unable to locate executable file: pnpm". npm is always
+          # present on ubuntu-latest, so use it to install wrangler.
+          packageManager: npm
           command: deploy
