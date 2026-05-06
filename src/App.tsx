@@ -18,7 +18,6 @@ import { SourcesPage } from "./components/SourcesPage";
 import { SweepLogPage } from "./components/SweepLogPage";
 import { sources } from "./data/sources";
 import { Subscribe } from "./components/Subscribe";
-import { BuyMeCoffee } from "./components/BuyMeCoffee";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
 
@@ -146,7 +145,7 @@ function App() {
     parseCategoriesFromUrl(),
   );
   const [query, setQuery] = useState("");
-  // Mobile hamburger drawer (nav + BMC + Subscribe). No-op on desktop
+  // Mobile hamburger drawer (nav + Subscribe). No-op on desktop
   // because CSS shows the secondary actions inline regardless.
   const [menuOpen, setMenuOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
@@ -485,19 +484,6 @@ function App() {
           )}
         </a>
 
-        <a
-          className="bmc-icon"
-          href="https://buymeacoffee.com/silver_d"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Buy me a coffee"
-          title="Buy me a coffee"
-          onClick={() => track("bmc:click")}
-        >
-          <img src="/coffee.png" alt="" aria-hidden="true" />
-          <span className="bmc-icon-text">Buy me a coffee</span>
-        </a>
-
         <ThemeToggle />
 
         <button
@@ -519,7 +505,6 @@ function App() {
           ref={menuRef}
           className={`page-head-secondary ${menuOpen ? "secondary-open" : ""}`}
         >
-          <BuyMeCoffee />
           <nav className="page-nav">
             <button
               type="button"
