@@ -12,9 +12,9 @@ name: Generate daily digest
 #      Resend dashboard instead, remove `send: true` from the JSON body.
 #
 # Required secrets:
-#   ANTHROPIC_API_KEY  — Anthropic API key from console.anthropic.com
-#   RESEND_API_KEY     — Resend API key (sending scope or full)
-#   RESEND_SEGMENT_ID  — UUID of the target segment
+#   CLAUDE_CODE_OAUTH_TOKEN — generate locally with `claude setup-token`
+#   RESEND_API_KEY          — Resend API key (sending scope or full)
+#   RESEND_SEGMENT_ID       — UUID of the target segment
 
 on:
   schedule:
@@ -52,7 +52,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         timeout-minutes: 15
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           show_full_output: "true"
           display_report: "true"
           # The action does not bash-expand the prompt, so $VAR-style

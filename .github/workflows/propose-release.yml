@@ -11,7 +11,7 @@ name: Propose new opportunity
 #   3. Run build to verify everything works
 #
 # Required secret:
-#   ANTHROPIC_API_KEY — same as the scheduled sweep workflow
+#   CLAUDE_CODE_OAUTH_TOKEN — same as the scheduled sweep workflow
 
 on:
   workflow_dispatch:
@@ -63,7 +63,7 @@ jobs:
       - name: Add proposed opportunity with Claude Code
         uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           show_full_output: "true"
           display_report: "true"
           prompt: |
