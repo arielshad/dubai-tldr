@@ -687,6 +687,44 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t203640z",
+      "timestamp": "2026-05-07T20:36:40.327Z",
+      "source": "github-actions-sweep",
+      "summary": "No new opportunities cleared the 72h date cap and the duplicate filter. The week's marquee stories (Brookfield/Alshaya Dubai Hills JV, Casa AHS AED 101.2M sky-villa print, May 5–6 DLD daily prints, the AED 48B April result with the ValuStrat first-contraction call, the AED 400M Jumeirah Coastline plot deal and the Dubai Harbour Bridge 85% milestone) are already in the feed under their primary sources. Sweep recorded as empty rather than padded.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
