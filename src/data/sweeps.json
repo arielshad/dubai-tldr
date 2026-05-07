@@ -340,6 +340,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t031526z",
+      "timestamp": "2026-05-07T03:15:26.873Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh Dubai-property signals from the early-week DLD data: (a) an ultra-prime AED 101.2M Casa AHS Sky Villa transaction on the Dubai Water Canal, and (b) a 5-May DLD daily print where Lumena by Omniyat alone contributed AED 1.02B of off-plan office volume. No portal-level distress or duplicate signals strong enough to ship after dedupe.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-casa-ahs-aed-101-2m-sky-villa-sale-may-2026",
+          "title": "Ultra-prime Dubai print: AED 101.2M Casa AHS Sky Villa sale on Dubai Water Canal, AHS Properties' Fendi Casa-finished tower",
+          "category": "luxury",
+          "note": "Added under luxury."
+        },
+        {
+          "id": "dubai-dld-may-5-2026-daily-print-aed-2-39b-lumena-aed-1-02b",
+          "title": "Dubai DLD daily print 2026-05-05: AED 2.39B with off-plan at 78% — Lumena by Omniyat alone contributes AED 1.02B in single-day commercial sales",
+          "category": "commercial",
+          "note": "Added under commercial."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "commercial",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

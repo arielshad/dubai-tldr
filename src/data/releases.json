@@ -1,8 +1,155 @@
 {
-  "generatedAt": "2026-05-07T00:39:56.024Z",
+  "generatedAt": "2026-05-07T03:15:26.873Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-casa-ahs-aed-101-2m-sky-villa-sale-may-2026",
+      "categories": [
+        "luxury",
+        "ready",
+        "market"
+      ],
+      "title": "Ultra-prime Dubai print: AED 101.2M Casa AHS Sky Villa sale on Dubai Water Canal, AHS Properties' Fendi Casa-finished tower",
+      "org": "Gulf Business",
+      "date": "2026-05-06",
+      "url": "https://gulfbusiness.com/en/2026/real-estate/ultra-prime-dubai-apartment-sells-for-dhs101-2m/",
+      "summary": "Gulf Business reports an AED 101.2M sale at AHS Properties' Casa AHS / Casa Canal on the Dubai Water Canal — a 32-residence Fendi Casa-finished branded tower (Sky Villas, Sky Mansions and Sky Palaces ranging 5,088–30,000 sqft, $750M GDV) — at ~AED 51,370/sqm. The deal sat inside a wider Dubai daily print of AED 1.3B across 460 transactions.",
+      "tags": [
+        "luxury",
+        "branded-residence",
+        "ultra-prime",
+        "dubai-water-canal",
+        "ahs-properties",
+        "fendi-casa",
+        "comp"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-CANAL",
+        "JUMEIRAH",
+        "AL-WASL"
+      ],
+      "metrics": {
+        "Sale price": "AED 101.2M",
+        "Project": "Casa AHS / Casa Canal",
+        "Developer": "AHS Properties",
+        "Interior partner": "Fendi Casa",
+        "Tower units (total)": "32 (Sky Villas / Sky Mansions / Sky Palaces)",
+        "Unit size range (project)": "5,088 – 30,000 sqft",
+        "Reported price/sqm": "~AED 51,370 (≈ AED 4,773/sqft)",
+        "Implied unit size at that AED/sqft": "≈21,200 sqft (Sky Mansion / Sky Palace tier)",
+        "Project GDV": "$750M",
+        "Daily DLD context": "AED 1.3B across 460 transactions same day",
+        "Source disclosure date": "2026-05-06"
+      },
+      "links": [
+        {
+          "label": "Gulf Business — Ultra-prime Dubai apartment sells for Dhs101.2m (May 6 2026)",
+          "url": "https://gulfbusiness.com/en/2026/real-estate/ultra-prime-dubai-apartment-sells-for-dhs101-2m/"
+        },
+        {
+          "label": "Casa Canal project page (AHS Properties)",
+          "url": "https://ahs-properties.com/casa-canal-inside-ahs-properties-and-fendi-casas-850mn-luxury-haven/"
+        },
+        {
+          "label": "DLD real-estate transactions e-service (verify the registration)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Live ultra-prime comp on the Dubai Water Canal — AED 101.2M for a Sky Villa-tier unit at ~AED 4,773/sqft.",
+        "whatIsIt": "Gulf Business reports a single-unit AED 101.2M sale at Casa AHS (also marketed as Casa Canal), AHS Properties' 32-residence branded tower on the Dubai Water Canal in Al Wasl/Jumeirah with Fendi Casa interiors. The sale registered on a day Dubai logged AED 1.3B across 460 transactions.",
+        "howItWorks": "The article cites approximately AED 51,370 per sqm — roughly AED 4,773 per sqft — implying a unit of ~21,200 sqft, which sits in the Sky Mansion / Sky Palace tier of Casa AHS's 5,088–30,000 sqft range. The wider Casa AHS project carries a $750M GDV with 32 ultra-luxury residences. Buyers underwriting against this comp should layer the 4% DLD transfer fee, branded-residence service-charge premium, and Fendi Casa furnishing premium when normalising other Water Canal/Jumeirah AED/sqft data.",
+        "whyItMatters": "Casa AHS sits in a thin pool of nine-figure single-unit Dubai prints — ultra-prime liquidity at the AED 100M+ ticket remained intact through the first week of May despite the wider 'healthy moderation' narrative around Dubai pricing. The deal is a usable benchmark for Jumeirah/Al Wasl/Water Canal branded-residence underwriting and for sellers in nearby projects (One Canal, Bulgari, La Mer adjacencies) considering whether to test the upper tier of asks.",
+        "forWho": "Ultra-prime buy-side advisors and family offices benchmarking branded-residence asks; HNW sellers in adjacent Water Canal / Jumeirah projects weighing list price; broker mandates working AED 50M+ comps.",
+        "tryIt": "https://ahs-properties.com/casa-canal-inside-ahs-properties-and-fendi-casas-850mn-luxury-haven/"
+      },
+      "image": {
+        "url": "https://static.propsearch.ae/dubai-locations/casa-canal_7CwFd_xl.jpg",
+        "alt": "Casa Canal by AHS Properties — Dubai Water Canal residential tower render",
+        "fit": "cover",
+        "credit": "AHS Properties via Propsearch.ae"
+      },
+      "publishDate": "2026-05-07T03:15:26.873Z"
+    },
+    {
+      "id": "dubai-dld-may-5-2026-daily-print-aed-2-39b-lumena-aed-1-02b",
+      "categories": [
+        "commercial",
+        "offplan",
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-05-05: AED 2.39B with off-plan at 78% — Lumena by Omniyat alone contributes AED 1.02B in single-day commercial sales",
+      "org": "The Real Estate Reports",
+      "date": "2026-05-06",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-06-may-2026",
+      "summary": "DLD freehold transactions for 2026-05-05 totalled AED 2.39B, with off-plan capturing 78.4% (AED 1.88B) and the off-plan commercial bucket alone hitting AED 1.06B — driven almost entirely by Lumena by Omniyat (AED 1.02B in a single day). Ready-market activity printed AED 515.8M, led by flats (AED 354.6M).",
+      "tags": [
+        "dld-transactions",
+        "daily-print",
+        "off-plan",
+        "commercial",
+        "lumena",
+        "omniyat",
+        "business-bay",
+        "office"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-DLD",
+        "BUSINESS-BAY",
+        "DXB-OFFICE"
+      ],
+      "metrics": {
+        "Date of transactions": "2026-05-05",
+        "Total transacted value": "AED 2.39B",
+        "Off-plan share": "78.4% (AED 1.88B)",
+        "Ready share": "21.6% (AED 515.8M)",
+        "Off-plan commercial": "AED 1.06B (56.6% of off-plan)",
+        "Off-plan flats": "AED 699.1M (37.3% of off-plan)",
+        "Off-plan villas": "AED 92.3M",
+        "Off-plan hotel apts/rooms": "AED 22.5M",
+        "Ready flats": "AED 354.6M (68.8% of ready)",
+        "Ready villas": "AED 104.5M",
+        "Ready commercial": "AED 42.1M",
+        "Lumena single-day contribution": "AED 1.02B",
+        "Source": "Dubai Land Department (freehold), via The Real Estate Reports (06-May-2026)"
+      },
+      "links": [
+        {
+          "label": "Dubai Real Estate Market Review — 06-May-2026",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-06-may-2026"
+        },
+        {
+          "label": "Lumena by Omniyat — Business Bay office tower (project page)",
+          "url": "https://lumena.omniyat.com/"
+        },
+        {
+          "label": "Arabian Business — Lumena AED 3.4B sell-out (project background)",
+          "url": "https://www.arabianbusiness.com/industries/real-estate/dubai-real-estate-925m-lumena-by-omniyat-sold-out-in-weeks"
+        },
+        {
+          "label": "DLD daily transactions e-service (cross-check)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan commercial — not residential — was the dominant DLD line on 2026-05-05, with one Omniyat tower writing AED 1.02B in a single day.",
+        "whatIsIt": "Dubai Land Department freehold transactions for 5 May 2026 totalled AED 2.39B. Off-plan accounted for 78.4% of value, and inside off-plan, commercial (AED 1.06B) edged out flats (AED 699.1M). Lumena by Omniyat — the AED 3.4B-sell-out office tower at the Business Bay/Downtown junction, completion Q4 2029 — contributed AED 1.02B of that single-day commercial print on its own.",
+        "howItWorks": "Lumena's 91-unit shell-and-core inventory (59 single-floor offices, 30 half-floor offices, 2 full-floor units) cleared its launch run-rate in 2025 at the headline ~AED 3.4B / $925M; the 2026-05-05 AED 1.02B is a re-registration spike consistent with milestone payment / Oqood title transfers rather than a primary launch. The wider take-away is that one tower alone can dominate the daily DLD commercial line when major commercial off-plan stock is so concentrated. Ready-market activity, by contrast, was led by flats (AED 354.6M, 68.8% of ready), with villas at AED 104.5M and ready commercial only AED 42.1M.",
+        "whyItMatters": "Operators sizing commercial demand off Dubai DLD daily prints need to filter out single-project megaprints like Lumena to read genuine breadth. The corollary is that scarcity of new shell-and-core office stock — Lumena, ICD Brookfield, DIFC core — keeps Business Bay and Downtown commercial supply tight enough that one project can dominate a print. For office-leasing landlords, the data underscores that competing supply is mostly long-dated (Lumena handover Q4 2029); for off-plan office buyers, it highlights how concentrated re-trading is in a small set of named towers.",
+        "forWho": "Commercial brokers and corporate occupiers tracking Business Bay/Downtown office shell-and-core supply; analysts modelling DLD daily-print breadth vs concentration; off-plan office investors benchmarking re-trade activity around Lumena / ICD Brookfield / DIFC core.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://static.propsearch.ae/dubai-locations/lumena-by-omniyat_TEW44_xl.jpg",
+        "alt": "Lumena by Omniyat — 49-storey Business Bay commercial tower render",
+        "fit": "cover",
+        "credit": "Omniyat via Propsearch.ae"
+      },
+      "publishDate": "2026-05-07T03:15:26.873Z"
+    },
     {
       "id": "dubai-city-tower-93-storey-shz-launch-may-2026",
       "categories": [
