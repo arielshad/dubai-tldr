@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-05-07T15:06:08.320Z",
+  "generatedAt": "2026-05-07T16:44:56.391Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-symbolic-zen-residences-jetour-t2-promo-may-2026",
+      "categories": [
+        "developer",
+        "offplan"
+      ],
+      "title": "Symbolic Developments bundles a Jetour T2 SUV with every Zen Residences home in May — AED 210M Al Furjan launch with 50/50 plan and Q2 2027 handover",
+      "org": "Symbolic Developments",
+      "date": "2026-05-06",
+      "publishDate": "2026-05-07T16:44:56.391Z",
+      "url": "https://www.khaleejtimes.com/business/property/symbolic-developments-offers-jetour-t2-with-every-zen-residences-home-in-may",
+      "summary": "Boutique Dubai developer Symbolic, in partnership with Elite Group Holding, is throwing in a Jetour T2 SUV with every apartment booked at the AED 210M (USD 57M) Symbolic Zen Residences in Al Furjan during May 2026 — 82 units, 2.5BHK and 3.5BHK, prices from AED 1.97M, 50/50 payment plan, Q2 2027 handover.",
+      "tags": [
+        "Symbolic Developments",
+        "Symbolic Zen Residences",
+        "Al Furjan",
+        "Jetour T2",
+        "Off-plan",
+        "Launch incentive",
+        "Boutique developer",
+        "Discovery Gardens Metro"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AL-FURJAN",
+        "DXB"
+      ],
+      "metrics": {
+        "Project value": "AED 210M (USD 57M)",
+        "Units": "82 apartments + 10 retail",
+        "Unit mix": "2.5BHK and 3.5BHK garden residences",
+        "Starting price": "AED 1.97M (~AED 2M for 2.5BHK)",
+        "Payment plan": "50 / 50",
+        "Handover": "Q2 2027",
+        "Promo window": "1 May – 31 May 2026",
+        "Promo gift": "Jetour T2 SUV per unit"
+      },
+      "links": [
+        {
+          "label": "KT — Symbolic Developments offers Jetour T2 with every Zen Residences home in May",
+          "url": "https://www.khaleejtimes.com/business/property/symbolic-developments-offers-jetour-t2-with-every-zen-residences-home-in-may"
+        },
+        {
+          "label": "Symbolic Developments — Symbolic Zen Residences project page",
+          "url": "https://symbolic.ae/symbolic-zen-residences/"
+        },
+        {
+          "label": "Property Finder — Symbolic Zen Residences listing",
+          "url": "https://www.propertyfinder.ae/en/new-projects/moizziyah-developers/symbolic-zen-residences"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 210M Al Furjan boutique launch sweetens off-plan with a Jetour T2 SUV per unit for May only.",
+        "whatIsIt": "Symbolic Developments (with Elite Group Holding) is using a calendar-month launch incentive — one Jetour T2 SUV thrown in per apartment booked at Symbolic Zen Residences between 1 May and 31 May 2026. The AED 210M project sits in Al Furjan, a 2-minute drive from Discovery Gardens Metro Station, and packs 82 fully-furnished 2.5BHK and 3.5BHK residences plus 10 retail bays.",
+        "howItWorks": "Cheapest 2.5BHK ticket sits around AED 1.97M with a clean 50 / 50 payment plan and a Q2 2027 handover, so a buyer pays roughly AED 985K on signing and the same again at delivery. The Jetour T2 is a SUV that retails new in the UAE around AED 110–130K — a ~5–7% in-kind discount disguised as a gift, but it converts cleanly to cash on resale. Buyers should price-check the underlying AED/sqft against fresh Al Furjan comps (currently AED 1,750–2,100/sqft for new builds), confirm Trakheesi/Oqood and the developer's RERA escrow, and read the SPA carefully — the SUV is almost certainly bundled into the headline ask, not a true freebie.",
+        "whyItMatters": "Boutique Dubai developers usually compete on payment plans; bundling a depreciating asset like a SUV is a marketing-led variation that mostly resonates with end-users not investors. For investors the question is the net AED/sqft after stripping out the SUV's true cash value, and whether Al Furjan's 2-min Discovery Gardens Metro positioning supports the rent needed for the 50/50 payment cadence. For end-users the Q2 2027 handover and 50/50 split keep equity in their pocket vs heavier post-handover plans elsewhere.",
+        "forWho": "Al Furjan end-users, off-plan flippers underwriting the SUV's resale value, brokers comping recent Discovery Gardens / Al Furjan launches.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/moizziyah-developers/symbolic-zen-residences"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-06/w5vq81kb/Lead.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Symbolic Zen Residences Al Furjan rendering with Jetour T2 SUV launch promo",
+        "fit": "cover",
+        "credit": "Symbolic Developments via Khaleej Times"
+      }
+    },
     {
       "id": "dubai-golden-visa-bank-guarantee-replaces-50-cash-may-2026",
       "categories": [

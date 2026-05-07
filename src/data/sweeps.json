@@ -620,6 +620,39 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t164456z",
+      "timestamp": "2026-05-07T16:44:56.391Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-07: surveyed portal feeds, DLD daily prints, developer announcements and brokerage releases. One genuinely new item makes the bar — Symbolic Developments' Jetour T2 SUV bundle for Zen Residences buyers (May launch promo). Most fresh news threads (Bloomberg/AGBI Brookfield, KT Savills survey, May 6 DLD daily print, Jumeirah Coastline land deal, AED 48B April print) are already represented in the existing 17-item feed and were skipped to avoid duplicates.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-symbolic-zen-residences-jetour-t2-promo-may-2026",
+          "title": "Symbolic Developments bundles a Jetour T2 SUV with every Zen Residences home in May — AED 210M Al Furjan launch with 50/50 plan and Q2 2027 handover",
+          "category": "developer",
+          "note": "Boutique Al Furjan launch with a calendar-month SUV incentive — a fresh, dated, verifiable developer signal that does not duplicate any of the 17 items already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
