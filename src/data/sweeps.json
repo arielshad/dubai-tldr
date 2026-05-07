@@ -461,6 +461,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t090215z",
+      "timestamp": "2026-05-07T09:02:15.372Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-07. Added one verified developer launch — Palmridge's Villea West in Jumeirah Garden City — picked up via the May 6/7 wire round. Other surfaced angles (Cavendish Maxwell 4-month residential print, April off-plan office record, City Tower update) overlapped existing feed cards or fell outside the 72h window.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-villea-west-palmridge-jumeirah-garden-city-launch-may-2026",
+          "title": "Palmridge launches Villea West in Jumeirah Garden City: 229 fully-furnished studios + 1-beds, Woods Bagot design, Q4 2027 handover",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

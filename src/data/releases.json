@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-05-07T07:06:35.172Z",
+  "generatedAt": "2026-05-07T09:02:15.372Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-villea-west-palmridge-jumeirah-garden-city-launch-may-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "rental"
+      ],
+      "title": "Palmridge launches Villea West in Jumeirah Garden City: 229 fully-furnished studios + 1-beds, Woods Bagot design, Q4 2027 handover",
+      "org": "Palmridge (Emirates National Investment) / JLL",
+      "date": "2026-05-06",
+      "url": "https://www.zawya.com/en/business/real-estate/palmridge-picks-jll-to-deliver-pmc-services-for-key-jumeirah-project-bfvf663g",
+      "summary": "Palmridge — the development arm of Emirates National Investment — has formally appointed JLL as project management consultant on Villea West, its 229-unit, 11-storey debut in Jumeirah Garden City. Studios (460–581 sqft) and 1-beds (744–843 sqft) are fully furnished with Bosch appliances; sales already underway, completion Q4 2027.",
+      "tags": [
+        "developer",
+        "off-plan",
+        "launch",
+        "jumeirah-garden-city",
+        "studio",
+        "one-bedroom",
+        "branded-furnished",
+        "central-dubai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-JGC",
+        "DIFC",
+        "DOWNTOWN"
+      ],
+      "metrics": {
+        "Units": "229 fully furnished",
+        "Mix": "Studios + 1-bed only",
+        "Studio size": "460–581 sqft (BUA)",
+        "1-bed size": "744–843 sqft (BUA)",
+        "Storeys": "11",
+        "Tenure": "Freehold",
+        "Designer": "Woods Bagot",
+        "PMC": "JLL Project & Development Services",
+        "Developer": "Palmridge (Emirates National Investment)",
+        "Completion": "Q4 2027",
+        "Distance to City Walk / DIFC": "5 min",
+        "Distance to Downtown / Burj Khalifa": "7 min",
+        "Metro": "10-min walk to Emirates Towers (Red Line)",
+        "Pricing": "not disclosed at launch"
+      },
+      "links": [
+        {
+          "label": "Zawya: Palmridge picks JLL for Villea West (May 6 2026)",
+          "url": "https://www.zawya.com/en/business/real-estate/palmridge-picks-jll-to-deliver-pmc-services-for-key-jumeirah-project-bfvf663g"
+        },
+        {
+          "label": "ME Construction News coverage (May 7 2026)",
+          "url": "https://meconstructionnews.com/67492/palmridge-appoints-jll-to-new-residential-project-in-jumeirah-garden-city"
+        },
+        {
+          "label": "Construction Week Online",
+          "url": "https://www.constructionweekonline.com/people/appointments/palmridge-jll"
+        },
+        {
+          "label": "Official developer site (Villea West)",
+          "url": "https://www.villeawest.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Studio/1-bed-only freehold launch on the DIFC fringe — fully furnished with Bosch, designed by Woods Bagot, single-tower delivery without the usual 200-unit-mix sprawl.",
+        "whatIsIt": "Palmridge — a new Dubai-focused arm of Emirates National Investment (ENI) — has put Villea West, an 11-storey freehold building in Jumeirah Garden City, into market and just appointed JLL as project-management consultant. The line-up is unusually narrow: 229 fully furnished studios (460–581 sqft) and 1-beds (744–843 sqft) only, with Woods Bagot architecture and a fit-out spec including Bosch appliances and built-in furniture.",
+        "howItWorks": "JGC sits behind Sheikh Zayed Road, a 5-minute drive to City Walk and DIFC and 7 minutes to Downtown, with Emirates Towers Metro a 10-minute walk away — putting Villea West in a thinner sub-market than Downtown/Marina but on the right side of the DIFC commute. Sales are already underway via Palmridge with no public price grid yet; payment terms are described as 'investor-friendly' but unquantified. Handover is targeted for Q4 2027, and JLL's mandate covers planning through construction monitoring and handover.",
+        "whyItMatters": "JGC has very limited new build-to-let-grade stock; a 229-unit, fully furnished, freehold tower aimed at the DIFC/Downtown commuter tenant adds genuine new product into a sub-market that mostly trades older walk-ups. The studio/1-bed-only mix is calibrated for short-let or small-investor yield plays rather than end-user families — landlords of older 1-beds in JGC, Satwa and the SHZ corridor should expect this to set a new fit-out benchmark. Risk is the usual off-plan one: undisclosed pricing, ENI/Palmridge a first-time Dubai developer, 18+ months of construction-phase exposure.",
+        "forWho": "Yield-seeking investors comparing fully furnished studios on the DIFC commute; brokers needing a new launch comp against City Walk and Downtown 1-beds; landlords of older JGC/Satwa stock planning fit-out refreshes; first-time off-plan buyers willing to underwrite a debut developer.",
+        "tryIt": "https://www.villeawest.ae/"
+      },
+      "image": {
+        "url": "https://www.villeawest.ae/wp-content/uploads/2025/06/villea-west-gallery-_0010_External-Facade-Hero.jpg",
+        "alt": "Villea West render: 11-storey Palmridge residential building in Jumeirah Garden City, Dubai, designed by Woods Bagot",
+        "fit": "cover",
+        "credit": "Palmridge / Woods Bagot"
+      },
+      "publishDate": "2026-05-07T09:02:15.372Z"
+    },
     {
       "id": "dubai-property-owners-doubling-money-may-2026",
       "categories": [
