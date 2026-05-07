@@ -1,8 +1,146 @@
 {
-  "generatedAt": "2026-05-07T05:16:37.483Z",
+  "generatedAt": "2026-05-07T07:06:35.172Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-property-owners-doubling-money-may-2026",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Khaleej Times: Dubai owners still doubling money post-softening — off-plan +3.3% YoY in April but ready market down 16% as ValuStrat flags first contraction since 2020",
+      "org": "Khaleej Times",
+      "date": "2026-05-07",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-property-owners-still-doubling-money-even-after-market-softening",
+      "summary": "Dubai brokers tell Khaleej Times that COVID-era buyers are still booking ~100% gains on resale even as the market softens. YTD Jan–Apr 2026 logged 57,300+ residential sales (74% off-plan); April clocked 13,082 deals with off-plan up 3.3% YoY but ready volume down 16%.",
+      "tags": [
+        "Khaleej Times",
+        "market thesis",
+        "softening",
+        "off-plan",
+        "ready",
+        "Downtown",
+        "Business Bay",
+        "Palm Jumeirah",
+        "Dubai Hills",
+        "Warsan",
+        "International City",
+        "Chinese buyers",
+        "Merlin Real Estate"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-DOWNTOWN",
+        "DXB-BUSINESS-BAY",
+        "PALM",
+        "DXB-HILLS",
+        "DXB-WARSAN",
+        "DXB-INTL-CITY"
+      ],
+      "metrics": {
+        "Residential sales Jan–Apr 2026": "57,300+",
+        "Off-plan share Jan–Apr 2026": "74% (≈42,500 of 57,300)",
+        "April 2026 transactions": "13,082",
+        "Off-plan April YoY": "+3.3%",
+        "Ready market April YoY": "-16%",
+        "5y price growth (key areas)": "double-digit annual: Downtown, Business Bay, Palm, Dubai Hills",
+        "Long-term holder return cited": "~100% gain (COVID-era buyers, per Merlin Real Estate)"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai owners still doubling money even after market softening (07-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-property-owners-still-doubling-money-even-after-market-softening"
+        },
+        {
+          "label": "Khaleej Times — Dubai Dh48B April sales despite price-dip signals (background)",
+          "url": "https://khaleejtimes.com/business/property/dubai-realty-posts-dh48b-april-sales-despite-price-dip-signals"
+        },
+        {
+          "label": "Dubai Land Department — official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan up, ready down 16%, but COVID-era owners still booking ~100% on exit — Khaleej Times maps Dubai's two-speed softening.",
+        "whatIsIt": "Khaleej Times' 07-May-2026 read of Dubai's market shows the headline softening (ValuStrat's first quarterly index contraction since 2020) is masking a sharp split: off-plan apartment volume rose 3.3% YoY in April while ready-property volume fell 16%. Brokers including Merlin Real Estate's Rohit Bachani argue the dip is cyclical, with long-hold COVID-era buyers still exiting at ~100% gains.",
+        "howItWorks": "Year-to-date through April 2026 Dubai logged 57,300+ residential sales, 74% of them off-plan. April alone delivered 13,082 deals — a fresh monthly high — with the divergence between segments now the dominant story. Buyer rotation is showing up at the perimeter: Warsan and International City are picking up institutional and Chinese-buyer interest tied to upcoming Dubai Metro extensions, while ready stock in core areas (Downtown, Business Bay, Palm, Dubai Hills) is where peak-cycle exits and motivated sellers cluster. Verify resale comps directly against DLD transactions before underwriting any 'doubling money' claim.",
+        "whyItMatters": "For ready-market sellers it means longer days-on-market and harder negotiations even on prime stock — the resale ask must now be checked against a 5–15% off-peak band. For off-plan investors it confirms that primary-market liquidity is still expanding despite the broader cool. For long-hold buyers entering now, brokers frame a 3–4 year holding period as the realistic horizon for repeating prior-cycle gains; that thesis hinges on whether the 2026–27 supply pipeline absorbs without compressing rents.",
+        "forWho": "Resale sellers re-pricing into a softer ready market; long-hold buyers comparing off-plan vs ready entry; brokers underwriting Warsan / International City accumulation plays.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://images.khaleejtimes.com/storyimage/KT/20240625/ARTICLE/240629400/V2/0/V2-240629400.webp",
+        "alt": "Dubai skyline showing Downtown, Business Bay and Sheikh Zayed Road residential and office towers",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-07T07:06:35.172Z"
+    },
+    {
+      "id": "dubai-savills-buyer-intent-survey-may-2026",
+      "categories": [
+        "market",
+        "ready",
+        "lead"
+      ],
+      "title": "Savills UAE buyer-intent survey: 45% plan to buy within 12 months, 60% prefer ready over off-plan (23%), only 4% of owners considering a sale",
+      "org": "Savills Middle East / Khaleej Times",
+      "date": "2026-05-06",
+      "url": "https://www.khaleejtimes.com/business/property/uae-property-demand-holds-firm-despite-uncertainty",
+      "summary": "Savills' May 2026 UAE consumer survey shows demand intact despite regional uncertainty: 45% intend to buy within 12 months, 32% are undecided, 60% prefer ready stock vs 23% off-plan, 80%+ expect prices flat-to-soft, and only 4% of existing owners plan to sell.",
+      "tags": [
+        "Savills",
+        "buyer intent",
+        "Khaleej Times",
+        "ready vs off-plan",
+        "consumer survey",
+        "geopolitics",
+        "owner sentiment",
+        "Andrew Cummings"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "UAE",
+        "DUBAI"
+      ],
+      "metrics": {
+        "Buyers intending to buy in 12 months": "45%",
+        "Undecided buyers": "32%",
+        "Prefer ready property": "60%",
+        "Prefer off-plan": "23%",
+        "Expect prices flat or softer next 12 months": "80%+",
+        "Owners planning to hold or expand portfolio": "60%+",
+        "Owners considering a sale": "4%",
+        "Top barrier cited": "Regional geopolitical uncertainty"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — UAE property demand holds firm despite uncertainty (06-May-2026, Savills survey)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-property-demand-holds-firm-despite-uncertainty"
+        },
+        {
+          "label": "Savills Middle East — research and market reports",
+          "url": "https://www.savills.ae/research_articles/259166/listing.aspx"
+        }
+      ],
+      "explainer": {
+        "tagline": "Savills clocks a 60/23 ready-vs-off-plan preference flip and a 4% sell-rate — supply-side scarcity, not demand collapse, is the story.",
+        "whatIsIt": "Savills Middle East's May 2026 UAE consumer survey, reported by Khaleej Times on 06-May-2026, shows transaction intent has held up through the recent geopolitical wobble. Nearly half of respondents (45%) plan to buy within 12 months, only 32% are undecided, and on the seller side just 4% of current owners are considering an exit — a strong signal that the 'no distress' narrative isn't broker spin.",
+        "howItWorks": "The preference split is the key operator signal: 60% want ready stock vs 23% off-plan, inverting the actual transaction mix where off-plan still drives ~74% of YTD residential deals. 80%+ expect prices flat or softer over the next year, and Savills' Andrew Cummings frames this as 'a shift in behaviour rather than a drop in interest' — buyers slow-walking, not stepping back. Geopolitical uncertainty has overtaken pricing and financing as the top barrier to entry.",
+        "whyItMatters": "For ready-stock sellers it confirms a structurally tight pool of motivated owners — 4% wanting out is too few to create a distress wave. For off-plan developers it flags a demand-mix mismatch: end-user appetite is leaning ready, even as new launches keep pulling capital. For brokers, the 32% undecided cohort is the real prospecting pool — they have the budget and intent but want a catalyst before signing.",
+        "forWho": "Ready-stock listing brokers underwriting tight inventory; off-plan sales teams re-aiming end-user marketing; investors weighing whether to hold (60%+ are) or sell into the survey-implied scarcity.",
+        "tryIt": "https://www.savills.ae/research_articles/259166/listing.aspx"
+      },
+      "image": {
+        "url": "https://images.khaleejtimes.com/storyimage/KT/20240625/ARTICLE/240629400/V2/0/V2-240629400.webp",
+        "alt": "Dubai apartment towers seen across Sheikh Zayed Road, illustrating UAE residential property demand",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-07T07:06:35.172Z"
+    },
     {
       "id": "dubai-dld-may-6-2026-daily-print-aed-1-47b-business-bay-offices-aed-646m",
       "categories": [

@@ -418,6 +418,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t070635z",
+      "timestamp": "2026-05-07T07:06:35.172Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-07T07Z sweep: two fresh Khaleej Times market-thesis cards added — long-term doubling-money narrative with off-plan +3.3% / ready -16% YTD divergence, plus Savills survey showing 45% of UAE buyers planning to transact in 12 months and a clear pivot to ready stock (60%) over off-plan (23%). No fresh distress, auction or duplicate-unit signals cleared the bar; portal pages remain JS-rendered and produced no new card-grade leads.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-property-owners-doubling-money-may-2026",
+          "title": "Khaleej Times: Dubai owners still doubling money post-softening — off-plan +3.3% YoY in April but ready market down 16% as ValuStrat flags first contraction since 2020",
+          "category": "market",
+          "note": "Major-importance KT thesis piece (07-May-2026) with concrete YTD data — distinct from existing 'resale within 5–15% of peak' card because the new angle is the off-plan +3.3% vs ready -16% divergence and the long-hold doubling-money thesis."
+        },
+        {
+          "id": "dubai-savills-buyer-intent-survey-may-2026",
+          "title": "Savills UAE buyer-intent survey: 45% plan to buy within 12 months, 60% prefer ready over off-plan (23%), only 4% of owners considering a sale",
+          "category": "market",
+          "note": "Notable-importance Savills survey (06-May-2026) introducing the first quantified buyer-intent data point of the cycle — material because the 60% ready preference inverts the transaction-side off-plan dominance and the 4% sell-rate quantifies the no-distress claim."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "offplan",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
