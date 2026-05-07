@@ -382,6 +382,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t051637z",
+      "timestamp": "2026-05-07T05:16:37.483Z",
+      "source": "github-actions-sweep",
+      "summary": "06-May-2026 DLD daily print follows the AED 2.39B 05-May day with AED 1.47B; Business Bay offices stay the headline trade as 32 secondary-market deals clear AED 646M, with Lumena alone resyncing AED 558.5M across 20 transactions and HQ by Rove + Lumena Alta filling the rest.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-may-6-2026-daily-print-aed-1-47b-business-bay-offices-aed-646m",
+          "title": "Dubai DLD daily print 2026-05-06: AED 1.47B with Business Bay offices clearing AED 646M — Lumena books another AED 558.5M day across 20 deals",
+          "category": "commercial",
+          "note": "Fresh DLD daily print for 06-May-2026 (published 07-May): AED 1.47B day with Business Bay offices taking AED 646M on the back of 20 Lumena resales. Distinct from the existing 05-May print card and supported by independent Gulf Today reporting on the office burst."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commercial",
+        "market",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

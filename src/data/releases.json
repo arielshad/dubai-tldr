@@ -1,8 +1,83 @@
 {
-  "generatedAt": "2026-05-07T03:15:26.873Z",
+  "generatedAt": "2026-05-07T05:16:37.483Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-may-6-2026-daily-print-aed-1-47b-business-bay-offices-aed-646m",
+      "categories": [
+        "commercial",
+        "market",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-05-06: AED 1.47B with Business Bay offices clearing AED 646M — Lumena books another AED 558.5M day across 20 deals",
+      "org": "The Real Estate Report / Gulf Today",
+      "date": "2026-05-06",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-07-may-2026",
+      "summary": "Dubai's 06-May-2026 print landed at AED 1.47B (off-plan 71.2% / ready 28.8%). Business Bay offices took AED 646M across 32 transactions, of which Omniyat's Lumena tower alone cleared AED 558.5M from 20 office deals — the second straight day Lumena dominates the city's commercial flow.",
+      "tags": [
+        "DLD",
+        "daily-print",
+        "Business Bay",
+        "Lumena",
+        "Omniyat",
+        "HQ by Rove",
+        "Lumena Alta",
+        "offices",
+        "commercial",
+        "off-plan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-BUSINESS-BAY",
+        "DXB-BB",
+        "LUMENA",
+        "OMNIYAT"
+      ],
+      "metrics": {
+        "Total transacted (06-May)": "AED 1.47B",
+        "Off-plan share": "71.2% (AED 1.05B)",
+        "Ready share": "28.8% (AED 423.2M)",
+        "Business Bay offices total": "AED 646M / 32 deals / 118,500 sqft",
+        "Lumena (Omniyat)": "AED 558.5M / 20 offices / 101,300 sqft",
+        "HQ by Rove": "AED 50.3M / 11 offices / 10,755 sqft",
+        "Lumena Alta (Omniyat)": "AED 37.2M / 1 office / 6,477 sqft",
+        "vs 05-May print": "AED 1.47B vs AED 2.39B (off-plan share 71.2% vs 78.4%)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — Dubai daily 07-May-2026 (covers 06-May data)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-07-may-2026"
+        },
+        {
+          "label": "Gulf Today — 32 Business Bay offices sold for AED 646M (06-May-2026)",
+          "url": "https://www.gulftoday.ae/business/2026/05/06/32-offices-in-business-bay-sold-for-dhs646m"
+        },
+        {
+          "label": "Khaleej Times — Lumena's record Business Bay sell-out (background)",
+          "url": "https://www.khaleejtimes.com/business/property/lumena-by-omniyat-sets-a-new-benchmark-with-business-bays-highest-sales-value-and-complete-sell-out"
+        },
+        {
+          "label": "Dubai Land Department — official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Two days in a row Business Bay's office tape is set by one tower — Omniyat's Lumena alone moved AED 558.5M of the AED 646M cleared on 06-May.",
+        "whatIsIt": "Dubai's 06-May-2026 DLD print totalled AED 1.47B and the daily mix tilted heavily commercial: 32 Business Bay offices traded for AED 646M in a single day. AED 558.5M of that came from 20 transactions in Omniyat's Lumena, AED 50.3M from 11 offices in HQ by Rove, and AED 37.2M from a single office in Lumena Alta.",
+        "howItWorks": "Total value AED 1.47B was split off-plan AED 1.05B (71.2%) and ready AED 423.2M (28.8%). The 32 Business Bay office tickets averaged AED 20.2M each (AED 646M / 32) on a combined 118,500 sqft footprint. Lumena's 20 deals averaged AED 27.9M each on 101,300 sqft. This is Lumena's second consecutive headline day after the AED 1.02B 05-May print — Omniyat first sold the tower out at AED 3.4B GDV in 2025 and these are secondary-market resales/assignments now flowing through.",
+        "whyItMatters": "It confirms that Dubai's record AED 3B April off-plan office number was not a one-off and that ultra-prime Business Bay office stock is being re-priced upwards on the secondary market. For commercial buyers it means Lumena/Lumena Alta exit liquidity is real; for sellers of comparable HQ by Rove / Business Bay grade-A offices it sets a fresh AED/unit reference. Watch whether the 07-May print continues the streak or normalises.",
+        "forWho": "Commercial brokers tracking Business Bay office comps; Lumena/Lumena Alta owners considering a flip; investors underwriting Dubai grade-A office yield versus residential.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1c56f5fc-ab31-4d95-b5e8-5635ff876c06/pexels-mateusz-marek-85871-312214.jpg",
+        "alt": "Dubai skyline featuring the Business Bay and Sheikh Zayed Road commercial corridor",
+        "fit": "cover",
+        "credit": "Mateusz Marek / Pexels via The Real Estate Report"
+      },
+      "publishDate": "2026-05-07T05:16:37.483Z"
+    },
     {
       "id": "dubai-casa-ahs-aed-101-2m-sky-villa-sale-may-2026",
       "categories": [
