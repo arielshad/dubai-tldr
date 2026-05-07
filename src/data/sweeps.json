@@ -573,6 +573,53 @@
         "market-data-comps",
         "auction-distress"
       ]
+    },
+    {
+      "id": "sweep-20260507t150608z",
+      "timestamp": "2026-05-07T15:06:08.320Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-07T15:00Z sweep — added two policy/infrastructure signals dated 2026-05-07: the UAE Golden Visa bank-guarantee rule that supersedes the 50% cash-upfront requirement (different visa class to the existing AED 750K floor item — this targets the AED 2M/10-year Golden Visa for mortgage and off-plan buyers) and the 85% completion milestone on the AED 431M Dubai Harbour bridge to Sheikh Zayed Road (Aug-2026 opening, 24 residential towers benefit). Cross-checked the Brookfield/Alshaya, Tilal Binghatti, ALA Developments, Cavendish Maxwell 4-month and AED 19.7B off-plan apartment stories — all already in feed or duplicate. Off-plan office record story (AED 3B April / AED 9.4B YTD) collides with existing daily-print URL; folded as supporting context. Symbolic Zen Residences Jetour T2 promo skipped (no disclosed unit prices, fails diligence bar).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-golden-visa-bank-guarantee-replaces-50-cash-may-2026",
+          "title": "Dubai Golden Visa: bank guarantee replaces 50% cash upfront for AED 2M property route — mortgage and off-plan buyers can now apply at contract signing",
+          "category": "legal",
+          "note": "PropertyNews.ae confirmation 2026-05-07 of GDRFA bank-guarantee rule that supersedes the 50% cash-upfront test for AED 2M Golden Visa property route — distinct from the AED 750K 2-year residency visa change already in feed; together they materially widen the property-visa funnel."
+        },
+        {
+          "id": "dubai-harbour-bridge-85-percent-complete-aug-2026-opening",
+          "title": "Dubai Harbour Bridge hits 85% completion: 1.5 km link to Sheikh Zayed Road opens August 2026, cuts 24-tower commute from 20 min to 3 min",
+          "category": "market",
+          "note": "PropertyNews.ae confirmation 2026-05-07 that the AED 431M RTA/Shamal Holding bridge to Dubai Harbour is 85% built with August 2026 opening — concrete commute-time delta (~20 min → ~3 min) drives a quantifiable comp re-rate for 24 residential towers in the cluster."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "legal",
+        "visa",
+        "market",
+        "ready",
+        "developer",
+        "commercial",
+        "offplan",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

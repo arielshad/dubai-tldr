@@ -1,8 +1,157 @@
 {
-  "generatedAt": "2026-05-07T12:44:00.425Z",
+  "generatedAt": "2026-05-07T15:06:08.320Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-golden-visa-bank-guarantee-replaces-50-cash-may-2026",
+      "categories": [
+        "legal",
+        "visa",
+        "offplan"
+      ],
+      "title": "Dubai Golden Visa: bank guarantee replaces 50% cash upfront for AED 2M property route — mortgage and off-plan buyers can now apply at contract signing",
+      "org": "GDRFA / UAE Government",
+      "date": "2026-05-07",
+      "url": "https://propertynews.ae/uae/dubai/new-flexibility-uae-replaces-cash-upfront-rule-with-bank-guarantees-for-property-visas/",
+      "summary": "GDRFA now accepts a bank guarantee for the full AED 2M Golden Visa property threshold, replacing the prior 50% cash-paid rule that forced mortgage and off-plan buyers to wait until construction milestones pushed equity past the threshold. Effective from February, gazetted 11 April 2026; treated as a permanent structural change, not a temporary relief measure.",
+      "tags": [
+        "golden-visa",
+        "10-year-residency",
+        "bank-guarantee",
+        "off-plan",
+        "mortgage-buyer",
+        "GDRFA",
+        "policy",
+        "AED-2M"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-VISA",
+        "GOLDEN-VISA"
+      ],
+      "metrics": {
+        "Visa class": "10-year Golden Visa (property route)",
+        "Investment threshold": "AED 2,000,000 (~USD 545,000)",
+        "Old rule": "50% of property value paid in cash before visa application",
+        "New rule": "Bank guarantee covering the AED 2M threshold accepted in lieu of cash",
+        "Issuing authority": "General Directorate of Residency & Foreigners Affairs (GDRFA)",
+        "Effective": "February 2026; formally gazetted 11 April 2026",
+        "Status": "Permanent structural change (per current government guidance)",
+        "Application timing": "At contract signing, not at handover or 50%-paid milestone",
+        "Primary beneficiaries": "Off-plan buyers on developer payment plans + mortgage-backed buyers",
+        "Source": "PropertyNews.ae 2026-05-07 / VisaHQ regulatory tracker / GDRFA"
+      },
+      "links": [
+        {
+          "label": "PropertyNews.ae: UAE replaces cash-upfront rule with bank guarantees for property visas (May 7 2026)",
+          "url": "https://propertynews.ae/uae/dubai/new-flexibility-uae-replaces-cash-upfront-rule-with-bank-guarantees-for-property-visas/"
+        },
+        {
+          "label": "VisaHQ: Dubai removes 50% upfront-payment rule; bank guarantee now enough (April 13 2026)",
+          "url": "https://www.visahq.com/news/2026-04-13/ae/dubai-removes-50-upfront-payment-rule-bank-guarantee-now-enough-for-property-linked-golden-visa/"
+        },
+        {
+          "label": "GDRFA — Issuing a Golden Residence Permit (Investors)",
+          "url": "https://www.gdrfad.gov.ae/en/services/8ea80da4-f43e-11eb-0320-0050569629e8"
+        },
+        {
+          "label": "UAE Government — Golden Visa overview",
+          "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan and mortgage buyers can now collect a 10-year Golden Visa at contract signing — GDRFA accepts a bank guarantee instead of 50% cash paid up.",
+        "whatIsIt": "GDRFA has formalised a rule change letting AED 2M Golden Visa applicants substitute a bank guarantee for the previous 50%-paid-in-cash test. Mortgage buyers and off-plan investors who previously had to wait until construction milestones pushed their equity past 50% can now obtain residency at the point of sales-contract signing. Effective from February 2026 and formally gazetted 11 April 2026, the change is positioned as a permanent reform rather than a temporary stimulus.",
+        "howItWorks": "Mechanically: instead of clearing 50% of price (typically AED 1M+ paid in cash on a AED 2M unit), the buyer arranges a UAE-bank guarantee that covers the full AED 2M Golden Visa investment threshold and submits it to GDRFA with the property contract and Oqood/title. The guarantee remains in force until ownership is fully paid up; cost is the bank's standard guarantee-issuance fee plus collateral (typically a fixed deposit or salary assignment). Operators advising buyers should price this in: (a) Golden Visa now bundles cleanly with developer 70/30, 60/40 and post-handover plans where the buyer rarely crosses 50% paid before key handover; (b) for mortgage buyers, the visa now lands on day one of the mortgage rather than after several years of principal pay-down. Verify with both the issuing bank's guarantee desk and GDRFA before quoting timelines to clients.",
+        "whyItMatters": "The 50%-paid rule was the single biggest friction in the property–visa pipeline: it forced cash-rich buyers to outbid leveraged buyers on the same units when residency was the goal, and effectively locked off-plan-only buyers out of Golden Visa for years. Removing it widens the eligible pool to mortgage-backed buyers, expat residents using equity-release loans, and crucially the 80%-of-the-market off-plan investor cohort. Combined with the recent removal of the AED 750K floor on the 2-year residency visa, Dubai now has the most liquid property-visa stack in the GCC. Risk: bank-guarantee underwriting is bank-by-bank and can fail on softer credit profiles, so 'eligible' is not 'approved' — diligence on the lending side becomes the new gate.",
+        "forWho": "Off-plan investors on developer payment plans (60/40, 70/30, 80/20, post-handover) who want immediate residency, mortgage-buying expats and overseas investors using AED 2M+ equity-release loans, brokers selling to Indian/Pakistani/UK/Russian buyers using Dubai banks, family offices structuring multi-unit Golden Visa portfolios.",
+        "tryIt": "https://www.gdrfad.gov.ae/en/services/8ea80da4-f43e-11eb-0320-0050569629e8"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-06/w5vq81kb/Lead.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline at dusk with Burj Khalifa — context image for the UAE Golden Visa bank-guarantee policy change replacing the 50% cash-upfront property rule",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-07T15:06:08.320Z"
+    },
+    {
+      "id": "dubai-harbour-bridge-85-percent-complete-aug-2026-opening",
+      "categories": [
+        "market",
+        "ready",
+        "rental"
+      ],
+      "title": "Dubai Harbour Bridge hits 85% completion: 1.5 km link to Sheikh Zayed Road opens August 2026, cuts 24-tower commute from 20 min to 3 min",
+      "org": "Roads and Transport Authority (RTA) / Shamal Holding",
+      "date": "2026-05-07",
+      "url": "https://propertynews.ae/uae/dubai/direct-access-dubai-harbour-bridge-hits-85-completion-milestone/",
+      "summary": "RTA's AED 431M Dubai Harbour bridge — built in PPP with Shamal Holding — is 85% complete with August 2026 opening confirmed. The 1.5 km, two-lanes-each-way deck links Dubai Harbour direct to Sheikh Zayed Road at 6,000 vehicles/hour, cutting the trip from ~20 minutes to ~3 minutes and de-loading Dubai Marina + Media City traffic for 24 residential towers in the cluster.",
+      "tags": [
+        "infrastructure",
+        "rta",
+        "shamal-holding",
+        "dubai-harbour",
+        "sheikh-zayed-road",
+        "bridge",
+        "PPP",
+        "commute-time",
+        "marina-media-city"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-HARBOUR",
+        "DXB-MARINA",
+        "MEDIA-CITY"
+      ],
+      "metrics": {
+        "Length": "1,500 m (1.5 km)",
+        "Lanes": "2 lanes each direction (4 total)",
+        "Capacity": "6,000 vehicles per hour",
+        "Project cost": "AED 431M (per The National, Jan 2026)",
+        "Completion": "85% as of May 2026 (utility works 90%)",
+        "Opening date": "August 2026",
+        "Commute saving": "~20 minutes → ~3 minutes to Sheikh Zayed Road",
+        "Towers benefiting": "24 residential towers in Dubai Harbour",
+        "Counterparties": "RTA + Shamal Holding (Dubai Holding investment arm)",
+        "Traffic relief target": "Dubai Marina + Media City junction load",
+        "Source": "PropertyNews.ae 2026-05-07 / RTA Media Office / The National"
+      },
+      "links": [
+        {
+          "label": "PropertyNews.ae: Dubai Harbour Bridge hits 85% completion (May 7 2026)",
+          "url": "https://propertynews.ae/uae/dubai/direct-access-dubai-harbour-bridge-hits-85-completion-milestone/"
+        },
+        {
+          "label": "What's On: Completion date revealed for SZR–Dubai Harbour bridge (May 2026)",
+          "url": "https://whatson.ae/2026/05/completion-date-revealed-bridge-connecting-dubai-harbour-and-sheikh-zayed-road/"
+        },
+        {
+          "label": "RTA Media Office: 65% completion update (Jan 2026)",
+          "url": "https://mediaoffice.ae/en/news/2026/january/25--01/rta-completes-65-percent-project"
+        },
+        {
+          "label": "The National: 1.5 km bridge under AED 431M project (Jan 2026)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/01/25/new-15km-bridge-linking-sheikh-zayed-road-to-dubai-harbour-to-open-this-year-under-dh431m-project/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai Harbour's August-2026 SZR connector is now 85% built — a 17-minute commute saving that should reset rents and resale comps for 24 towers in the cluster.",
+        "whatIsIt": "RTA, in a public-private partnership with Shamal Holding (Dubai Holding's investment arm), is finishing a 1.5 km, four-lane bridge that lands Dubai Harbour traffic directly onto Sheikh Zayed Road. As of early May 2026 the deck is 85% complete, intersecting-utility relocation is 90% done, and the August 2026 opening date is confirmed in the RTA-issued site signage. At opening, the link will move 6,000 vehicles per hour and is targeted at relieving pressure on the Marina–Media City corridor.",
+        "howItWorks": "Operationally the bridge collapses the SZR-to-Dubai-Harbour drive from ~20 minutes via Marina and Media City to ~3 minutes — a quantified value lever you can plug into ready-tower comps. Twenty-four residential towers in Dubai Harbour (Sunrise Bay, Beach Isle, Marina Vista, Grand Bleu Tower 1 & 2, etc.) sit on the receiving end of the bridge, plus the cluster's hospitality, retail and yacht-club inventory. Rental and resale underwriting that previously discounted Dubai Harbour for SZR access friction can be re-rated; analogous post-bridge re-rates in Dubai (e.g. Al Khail Road extensions, Infinity Bridge to Bluewaters) typically delivered 3–7% cap-rate compression in the 6–12 months after opening. Diligence checks: confirm the tower-by-tower walking distance to the bridge ramp, confirm school-bus and EMS access changes, watch for any toll structure (none currently disclosed; PPP usually free-flow on RTA assets) and pull the latest DLD comps for the cluster as the August 2026 opening approaches.",
+        "whyItMatters": "Dubai Harbour was originally a Marina-spillover cluster whose biggest weakness was access — every leasing or resale broker has lost units to the 'too far from SZR' objection. With direct access landing in August 2026, the cluster pivots from peripheral to prime-adjacent, and Emaar Beachfront, Sunrise Bay/Beach Isle, the cruise terminal precinct and Skydive Dubai all sit on the upside of that shift. For sellers in Dubai Harbour ready stock this is a window to reposition pricing 8–12 weeks pre-open; for landlords it's an argument for indexed rent reviews on tenancy renewals; for buyers the time to move is before the opening prints into the comp record. Risk: the AED 431M PPP cost and traffic-load assumptions are RTA-side, and any opening slippage past August would defer the comp re-rate.",
+        "forWho": "Dubai Harbour landlords pricing 2026/27 renewals, brokers prepping listings in Sunrise Bay / Beach Isle / Marina Vista / Grand Bleu, holiday-let operators in Emaar Beachfront, ready-market buyers underwriting cluster cap-rate compression, and Marina+Media City landlords watching for traffic-relief side effects.",
+        "tryIt": "https://propertynews.ae/uae/dubai/direct-access-dubai-harbour-bridge-hits-85-completion-milestone/"
+      },
+      "image": {
+        "url": "https://propertynews.ae/wp-content/uploads/2026/05/output1-208.png",
+        "alt": "Dubai Harbour bridge construction progress at 85% completion, with Sheikh Zayed Road connector deck visible — May 2026 RTA / Shamal Holding milestone",
+        "fit": "cover",
+        "credit": "PropertyNews.ae"
+      },
+      "publishDate": "2026-05-07T15:06:08.320Z"
+    },
     {
       "id": "dubai-brookfield-alshaya-dubai-hills-jv-may-2026",
       "categories": [
