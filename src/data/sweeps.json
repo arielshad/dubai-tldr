@@ -725,6 +725,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t223138z",
+      "timestamp": "2026-05-07T22:31:38.727Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep: 2-hour window since 20:37Z run produced no new Dubai opportunities within the 72h date cap. The only fresh May 7 story (Brookfield/Alshaya Dubai Hills JV) and the May 6 DLD daily print (published May 7) were both already ingested in the prior run. All other candidate stories surfaced (HRE Skyhills handover Apr 21, Nakheel Palm Jebel Ali contracts Apr 27, Naïa Island plot Apr 27, Meraas Acres contracts Apr 30, ADCB off-plan mortgage Apr 30, Christie's owner-survey Apr 21, Khaleej Times April-sales jump May 3, Gulf News distress-sales steady May 4) all sit beyond the 72h cap or duplicate existing feed items.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
