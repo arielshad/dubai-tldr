@@ -304,6 +304,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t003956z",
+      "timestamp": "2026-05-07T00:39:56.024Z",
+      "source": "github-actions-sweep",
+      "summary": "Verified one new opportunity within the 72h cap: betterhomes/H&H launched City Tower, a 93-storey, 695-residence long-term leasing tower on Sheikh Zayed Road, with move-ins from June 2026. No qualifying same-window auction, distress, DLD-print, or developer-launch items beyond what the feed already covers.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-city-tower-93-storey-shz-launch-may-2026",
+          "title": "betterhomes + H&H launch City Tower: 93-storey, 695-residence long-term leasing block on Sheikh Zayed Road, move-ins from June 2026",
+          "category": "rental",
+          "note": "Added under rental."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rental",
+        "developer",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

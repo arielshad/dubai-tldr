@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-05-06T22:25:05.667Z",
+  "generatedAt": "2026-05-07T00:39:56.024Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-city-tower-93-storey-shz-launch-may-2026",
+      "categories": [
+        "rental",
+        "developer",
+        "lead"
+      ],
+      "title": "betterhomes + H&H launch City Tower: 93-storey, 695-residence long-term leasing block on Sheikh Zayed Road, move-ins from June 2026",
+      "org": "betterhomes / H&H Properties",
+      "date": "2026-05-05",
+      "url": "https://focus.hidubai.com/betterhomes-exclusively-launches-city-tower-to-redefine-long-term-leasing-in-central-dubai/",
+      "summary": "betterhomes is exclusive leasing partner on H&H's 93-storey City Tower (695 studios–4-bed) on Sheikh Zayed Road between DIFC, Downtown and Jumeirah, two minutes from Emirates Towers Metro. Move-ins from June 2026.",
+      "tags": [
+        "rental",
+        "developer",
+        "leasing",
+        "sheikh-zayed-road",
+        "central-dubai",
+        "supply"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-SHZ",
+        "DIFC",
+        "DOWNTOWN",
+        "JUMEIRAH"
+      ],
+      "metrics": {
+        "Storeys": "93",
+        "Residences": "695",
+        "Unit mix": "studio to 4-bed",
+        "Move-in": "June 2026",
+        "Tenure": "Long-term lease (build-to-rent)",
+        "Manager": "H&H Properties",
+        "Leasing partner": "betterhomes (exclusive)",
+        "Metro": "2-min walk to Emirates Towers (Red Line)",
+        "Pricing": "not disclosed at launch"
+      },
+      "links": [
+        {
+          "label": "betterhomes launch announcement (Focus / Hi Dubai)",
+          "url": "https://focus.hidubai.com/betterhomes-exclusively-launches-city-tower-to-redefine-long-term-leasing-in-central-dubai/"
+        },
+        {
+          "label": "Press release on Zawya",
+          "url": "https://www.zawya.com/en/press-release/companies-news/betterhomes-exclusively-launches-city-tower-redefining-long-term-leasing-in-central-dubai-tnioca7e"
+        },
+        {
+          "label": "Trade Arabia coverage",
+          "url": "https://tradearabia.com/News/462096/betterhomes-announces-exclusive-launch-of-93-storey-Dubai-tower"
+        },
+        {
+          "label": "H&H developer page",
+          "url": "https://www.h-h.ae/development/city-tower-1"
+        }
+      ],
+      "explainer": {
+        "tagline": "First sizeable single-asset BTR block on Sheikh Zayed Road — 695 units flowing into central-Dubai rental supply from June, with one mandated leasing channel.",
+        "whatIsIt": "betterhomes and H&H announced an exclusive leasing partnership on City Tower, a 93-storey residential tower on Sheikh Zayed Road. All 695 units (studios through four-bedrooms) will be operated as a long-term leasing (build-to-rent) block managed by H&H, with betterhomes as the exclusive leasing channel. Move-ins start June 2026.",
+        "howItWorks": "City Tower sits on Sheikh Zayed Road two minutes' walk from Emirates Towers Metro (Red Line), positioned between DIFC, Downtown and Jumeirah. The whole tower stays under H&H ownership/management — units are not for individual sale at launch — and betterhomes funnels tenant demand. No public rent ranges have been disclosed; expect them to land near the upper end of new-build SHZ corridor comps given the location, full-service amenities (pools, padel, lounges, retail) and central-corridor positioning.",
+        "whyItMatters": "A 695-unit institutional BTR block coming online inside the SHZ/DIFC/Downtown corridor in June is a meaningful supply event for a thin central-corridor rental market — Marina, JLT and JVC dominate the new-supply pipeline, but core SHZ/DIFC has very little single-asset rental supply. Tenants gain a like-for-like alternative to scattered private landlord stock; existing landlords in 1-Sheikh Zayed Road towers (Index, Etihad, etc.) and DIFC-adjacent buildings should expect renewal pricing pressure once the building is occupied. Brokers outside betterhomes are locked out of the primary mandate, so the corporate-relocation and HNW-tenant flow this tower captures is concentrated.",
+        "forWho": "DIFC/Downtown/Jumeirah-corridor tenants comparing 1-bed and 2-bed options; landlords of comparable apartments along SHZ and One Za'abeel/Etihad Towers/DIFC who need to refresh asks before June; brokerages building corporate-relocation tenant pipelines; investors underwriting yield in nearby resale stock should model the supply add.",
+        "tryIt": "https://www.bhomes.com/en/area-guides/sheikh-zayed-road"
+      },
+      "image": {
+        "url": "https://cdn.prod.website-files.com/659fbf11b07c7a18d54a6cf9/66bde3f82b96d40d496bdebe_City-Tower-01.webp",
+        "alt": "City Tower render: 93-storey H&H residential tower on Sheikh Zayed Road, Dubai",
+        "fit": "cover",
+        "credit": "H&H Development"
+      },
+      "publishDate": "2026-05-07T00:39:56.024Z"
+    },
     {
       "id": "dubai-tilal-binghatti-villa-prelaunch-may-2026",
       "categories": [
