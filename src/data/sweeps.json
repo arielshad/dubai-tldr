@@ -496,6 +496,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t105409z",
+      "timestamp": "2026-05-07T10:54:09.537Z",
+      "source": "github-actions-sweep",
+      "summary": "Cron sweep on 2026-05-07: scanned the every-sweep portal, official-data, developer, brokerage and market-data sources plus secondary tier-1 newsrooms. Fresh signals in the 72h window were either already in feed (DLD daily prints, visa-floor change, ValuStrat softening, Palmridge Villea West) or unverifiable (Brookfield/Alshaya 480k sqft Dubai Hills JV is behind a Bloomberg paywall and not yet on the official Brookfield UAE page). Jamal Living's 2026-05-06 Al Barsha launch announcement carries no project name, unit count, price or handover, so it fails the concrete-metrics inclusion bar. No new cards.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
