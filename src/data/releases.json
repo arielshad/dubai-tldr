@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-05-07T10:54:09.537Z",
+  "generatedAt": "2026-05-07T12:44:00.425Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-brookfield-alshaya-dubai-hills-jv-may-2026",
+      "categories": [
+        "developer",
+        "commercial",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Brookfield + Alshaya form Dubai Hills mixed-use JV: 480,000 sqft of offices, residences and retail in the Emaar/Meraas master community",
+      "org": "Brookfield Properties / Alshaya Group",
+      "date": "2026-05-07",
+      "url": "https://www.agbi.com/real-estate/2026/05/brookfield-and-alshaya-launch-dubai-hills-project/",
+      "summary": "Brookfield Asset Management and Kuwait's Alshaya Group have formed a JV to develop a 480,000 sqft mixed-use block in Dubai Hills with offices, residences and retail. Brookfield Properties is development and real-estate manager; Alshaya will house its UAE HQ and retail brands on-site. Cost and timeline undisclosed; Brookfield framed it as a long-term-fundamentals call.",
+      "tags": [
+        "developer",
+        "commercial",
+        "mixed-use",
+        "office",
+        "residential",
+        "retail",
+        "joint-venture",
+        "institutional-capital",
+        "dubai-hills",
+        "MBR-city",
+        "brookfield",
+        "alshaya"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-HILLS",
+        "MBR-CITY"
+      ],
+      "metrics": {
+        "GLA": "480,000 sqft (mixed-use)",
+        "Components": "Offices + residential units + shops",
+        "Master community": "Dubai Hills (Emaar / Meraas JV in MBR City)",
+        "Lead investor": "Brookfield Asset Management",
+        "JV partner": "Alshaya Group (Kuwait, 700+ UAE stores)",
+        "Development & RE manager": "Brookfield Properties",
+        "End-use anchor": "Alshaya new UAE HQ + retail brands on-site",
+        "Project cost": "Not disclosed",
+        "Construction timeline": "Not disclosed",
+        "Announcement date": "2026-05-07",
+        "Strategic context": "Brookfield's first big-ticket Dubai commitment since the regional conflict began",
+        "Brookfield ME quote": "Jad Ellawn (Managing Partner): partnership reflects conviction in long-term regional fundamentals",
+        "Alshaya quote": "John Hadden (CEO): expansion of UAE presence beyond 700+ existing stores"
+      },
+      "links": [
+        {
+          "label": "AGBI: Brookfield and Alshaya launch Dubai Hills project (May 7 2026)",
+          "url": "https://www.agbi.com/real-estate/2026/05/brookfield-and-alshaya-launch-dubai-hills-project/"
+        },
+        {
+          "label": "Bloomberg: Brookfield, Alshaya launch Dubai real estate venture (May 7 2026)",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-07/brookfield-bets-on-dubai-real-estate-defying-war-concerns"
+        },
+        {
+          "label": "MEED: Brookfield and Alshaya Group form project partnership",
+          "url": "https://www.meed.com/brookfield-and-alshaya-group-form-project-partnership"
+        },
+        {
+          "label": "Brookfield Properties — UAE presence",
+          "url": "https://www.brookfieldproperties.com/en/our-presence/uae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Brookfield's first post-war Dubai bet: a 480,000 sqft Dubai Hills block with offices, homes and retail, anchored by Alshaya's UAE HQ — a fresh institutional read on the master community.",
+        "whatIsIt": "Brookfield Asset Management and Kuwait-based Alshaya Group have set up a Dubai property joint venture to develop a 480,000 sqft mixed-use commercial asset in Dubai Hills, the Emaar/Meraas master community in Mohammed Bin Rashid City. The scheme combines offices, residential units and retail shops; Alshaya will establish its new UAE office on the premises and bring some of its 700+ retail brands on-site. Brookfield Properties will act as development and real-estate manager, with project cost and construction timeline not disclosed.",
+        "howItWorks": "The JV is described by Brookfield ME Managing Partner Jad Ellawn as a long-horizon conviction call on regional fundamentals, and Bloomberg framed it as Brookfield's first big-ticket Middle East foray since the war began. With cost and timeline undisclosed, operators have to back into underwriting from the floor area: 480,000 sqft of mixed offices/residential/retail in Dubai Hills implies a multi-hundred-million-dirham GDV at the area's recent AED 2,500–3,500/sqft commercial print and AED 2,500+/sqft Dubai Hills apartment comps. Alshaya as anchor tenant for the office and retail components is the key delivery covenant — verify the leasing terms with the JV when more disclosure lands. Buyers pricing nearby ready offices or apartments should track this one as a forward-supply signal in a community where Emaar still controls the masterplan release cadence.",
+        "whyItMatters": "Two reasons this is more than a press release: first, it's a vote of confidence from a Tier-1 global PE manager (Brookfield, ~$925B AUM) at a moment when Dubai bears point to softening ready prices and the regional conflict — that helps anchor capital-market sentiment around master-community offices and high-end residential. Second, Dubai Hills sits between Downtown and Sports City with Al Khail Road frontage; adding a Brookfield-managed mixed-use block raises the bar for office/retail in a community that has been dominated by villa/apartment inventory, and feeds future leasing comps for landlords in nearby Al Quoz, Sheikh Zayed Road and Business Bay offices. Risks: nothing about timing, pricing or unit count is in the public domain yet, so anyone underwriting on this comp must wait for the next disclosure.",
+        "forWho": "Office and apartment underwriters working Dubai Hills/MBR City; family offices benchmarking against Brookfield's institutional pricing of Dubai risk; brokers pitching nearby ready or off-plan stock; landlords of Al Quoz / SHZ Road offices watching for new Grade-A supply; Alshaya retail-portfolio peers tracking flagship-relocation moves.",
+        "tryIt": "https://www.brookfieldproperties.com/en/our-presence/uae/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/2026/05/getty-images-xUpwC6e8zdU-unsplash-1-scaled.jpg",
+        "alt": "Dubai Hills skyline with Burj Khalifa visible — context image for the Brookfield + Alshaya 480,000 sqft mixed-use joint venture",
+        "fit": "cover",
+        "credit": "Getty Images via AGBI"
+      },
+      "publishDate": "2026-05-07T12:44:00.425Z"
+    },
     {
       "id": "dubai-villea-west-palmridge-jumeirah-garden-city-launch-may-2026",
       "categories": [

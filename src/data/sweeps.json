@@ -537,6 +537,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t124400z",
+      "timestamp": "2026-05-07T12:44:00.425Z",
+      "source": "github-actions-sweep",
+      "summary": "May 7 2026 sweep: Brookfield + Alshaya formed a Dubai Hills mixed-use JV — Brookfield's first big-ticket Dubai commitment since the regional conflict and a fresh institutional-capital read for office/residential underwriting in the master community.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-brookfield-alshaya-dubai-hills-jv-may-2026",
+          "title": "Brookfield + Alshaya form Dubai Hills mixed-use JV: 480,000 sqft of offices, residences and retail in the Emaar/Meraas master community",
+          "category": "developer",
+          "note": "Fresh same-day institutional-capital signal: 480k sqft Brookfield+Alshaya JV in Dubai Hills, verified across AGBI (full piece), Bloomberg (headline + lede) and MEED (paywalled but corroborates date, partners, size). Inclusion bar = official market signal that changes pricing/supply read for Dubai Hills and surrounding office/retail comps."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "commercial",
+        "offplan",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "auction-distress"
+      ]
     }
   ]
 }
