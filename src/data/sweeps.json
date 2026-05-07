@@ -653,6 +653,40 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260507t184452z",
+      "timestamp": "2026-05-07T18:44:52.301Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep — every-sweep sources scanned (Property Finder/Bayut portal inventories, DLD/RERA official data) plus broader news/developer/luxury surfaces. No qualifying opportunity dated within the 72h window that isn't already represented in the existing feed.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "luxury",
+        "developer",
+        "market",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
