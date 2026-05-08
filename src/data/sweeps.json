@@ -761,6 +761,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t004757z",
+      "timestamp": "2026-05-08T00:47:57.699Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet sweep on 2026-05-08. Surfaced one new market signal: Dubai's off-plan office sales hit a record AED 3 billion in April 2026 (Business Bay AED 2.8B), per Al Masdar Al Aqaari analysis of DLD data. Existing 18 cards still verifiable; no updates or removals.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-off-plan-office-april-2026-aed-3b-record",
+          "title": "Dubai off-plan office sales hit record AED 3B in April 2026 — Business Bay clears AED 2.8B as YTD already 104% above all of 2025",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "commercial",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

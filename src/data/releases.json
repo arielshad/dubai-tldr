@@ -1,8 +1,70 @@
 {
-  "generatedAt": "2026-05-07T22:31:38.727Z",
+  "generatedAt": "2026-05-08T00:47:57.699Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-off-plan-office-april-2026-aed-3b-record",
+      "categories": [
+        "market",
+        "commercial",
+        "offplan"
+      ],
+      "title": "Dubai off-plan office sales hit record AED 3B in April 2026 — Business Bay clears AED 2.8B as YTD already 104% above all of 2025",
+      "org": "Economy Middle East / Al Masdar Al Aqaari (DLD data)",
+      "date": "2026-05-07",
+      "url": "https://economymiddleeast.com/news/dubai-records-highest-ever-monthly-off-plan-office-sales-at-817-million-in-april/",
+      "summary": "April 2026 set the highest-ever monthly off-plan office print at AED 3B ($816.9M) across 318 deals, with Business Bay alone at AED 2.8B / 158 deals. YTD off-plan office sales are AED 9.4B over 1,269 deals — already 104% above the AED 4.6B booked in all of 2025.",
+      "tags": [
+        "Dubai",
+        "off-plan",
+        "office",
+        "Business Bay",
+        "DLD",
+        "record",
+        "Al Masdar Al Aqaari",
+        "commercial",
+        "market data"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-BUSINESS-BAY",
+        "DXB-OFFICE"
+      ],
+      "metrics": {
+        "April 2026 off-plan office sales": "AED 3B ($816.9M)",
+        "April 2026 off-plan office deals": "318 (vs 182 in March)",
+        "Business Bay April 2026": "AED 2.8B / 158 deals",
+        "YTD Jan–Apr 2026 off-plan office": "AED 9.4B / 1,269 deals",
+        "Full-year 2025 off-plan office": "AED 4.6B",
+        "YTD vs 2025 full year": "+104%"
+      },
+      "links": [
+        {
+          "label": "Economy Middle East — Dubai records highest-ever monthly off-plan office sales at $817M in April",
+          "url": "https://economymiddleeast.com/news/dubai-records-highest-ever-monthly-off-plan-office-sales-at-817-million-in-april/"
+        },
+        {
+          "label": "DLD official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan office demand just printed a fresh all-time high — Business Bay is doing >90% of it and 2025's full-year number has already been beaten by 104% in four months.",
+        "whatIsIt": "Al Masdar Al Aqaari's analysis of DLD transaction data shows Dubai's off-plan office sales hit AED 3B in April 2026 — the highest monthly value ever recorded for the segment. April booked 318 off-plan office deals, almost double March's 182. Reported by Economy Middle East and corroborated in The Real Estate Reports' daily on 2026-05-07.",
+        "howItWorks": "Business Bay continues to absorb the lion's share: AED 2.8B of the AED 3B April number, across 158 deals. Year-to-date through April the segment has cleared AED 9.4B over 1,269 deals — already 104% above the AED 4.6B booked across all of 2025. The April daily prints already in this feed (Lumena's AED 1.02B day on 2026-05-05; Business Bay offices at AED 646M on 2026-05-06 with Lumena contributing AED 558.5M / 20 deals) sit inside this monthly aggregate. Source data is registered DLD transactions; verify project-level via the DLD Real Estate Transactions service and Oqood/escrow on the unit.",
+        "whyItMatters": "For commercial buyers, this confirms the off-plan-office story isn't a one-day Lumena spike — it's a multi-quarter run, concentrated in Business Bay, with Lumena, Lumena Alta, The HQ by Rove and similar towers absorbing most of the order book. Sellers of secondary Business Bay offices should expect rising ask comps but also more competition from launch-stage stock. Risks: pricing increasingly priced off Q4 2029–Q3 2030 handovers, so payment-plan exposure and developer-credit diligence matter.",
+        "forWho": "Commercial investors and family offices considering Business Bay office exposure; secondary-market sellers calibrating ask versus off-plan launches; brokers underwriting yield against rising service charges and DLD fees.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://static.propsearch.ae/dubai-locations/business-bay-19645_xl.jpg",
+        "alt": "Aerial view of Business Bay, Dubai — the corridor that booked AED 2.8B of the AED 3B April 2026 off-plan office record",
+        "fit": "cover",
+        "credit": "propsearch.ae"
+      },
+      "publishDate": "2026-05-08T00:47:57.699Z"
+    },
     {
       "id": "dubai-symbolic-zen-residences-jetour-t2-promo-may-2026",
       "categories": [
