@@ -1171,6 +1171,44 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t203544z",
+      "timestamp": "2026-05-08T20:35:44.907Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-08 18:44Z sweep: scanned tier-1 Dubai property sources (DLD/RERA, propertyfinder, bayut, developer launches, brokerage/luxury, market data, auction). All material signals from the May 5–8 window — Brookfield/Alshaya Dubai Hills JV, May 7 daily DLD print, City Tower handover, Khor Al Mamzar opening, the buyer's-market shift, Casa AHS AED 101.2M sale, Jumeirah Coastline AED 400M plot deal, Visa bank-guarantee rule, weekly DLD AED 15.2B print, Tonino Lamborghini bulk deal, BlackBrick Shabbo run, off-plan office record, Tilal Binghatti, Villea West, Grovy/Wyndham, Symbolic Zen — are already in the feed. No new in-window opportunity cleared the inclusion bar without padding.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "legal",
+        "visa",
+        "auction"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
