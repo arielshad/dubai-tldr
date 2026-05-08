@@ -797,6 +797,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t031955z",
+      "timestamp": "2026-05-08T03:19:55.909Z",
+      "source": "github-actions-sweep",
+      "summary": "Cron sweep on 2026-05-08T03:05Z. Fresh-news landscape was dominated by stories already in the feed (Brookfield/Alshaya JV, Lumena office prints, Casa AHS Sky Villa, Tilal Binghatti pre-launch, Symbolic/Zen Residences, Villea West PMC, KT property-owners-doubling-money, Harbour Bridge 85%, GDRFA bank-guarantee visa rule, Khaleej Times Savills survey). The one operator-relevant addition is a live distress-listing tracker (PanicSelling.com) that as of this morning reads 81 active price drops across Dubai sale stock — concrete leads for motivated sellers in Dubai Hills, Downtown, Marina, JVC and JBR. Multiple borderline candidates (Khor Al Mamzar AED 3B coastal masterplan; The Real Estate Reports' April monthly recap; Bloomberg's Brookfield/Alshaya angle; The Real Deal's Brookfield take) were either already covered, dated outside the 72h cap (≥2026-05-05 cutoff), or below the inclusion bar without concrete property metrics.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-panicselling-distress-tracker-81-drops-may-2026",
+          "title": "PanicSelling.com flags 81 active Dubai price drops on 08-May-2026 — Dubai Hills, Downtown and Marina lead, deepest cut at -31.5%",
+          "category": "distress",
+          "note": "Added under distress."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "lead",
+        "ready",
+        "market",
+        "luxury",
+        "commercial",
+        "offplan",
+        "rental",
+        "developer",
+        "land",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

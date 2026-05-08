@@ -1,8 +1,78 @@
 {
-  "generatedAt": "2026-05-08T00:47:57.699Z",
+  "generatedAt": "2026-05-08T03:19:55.909Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-panicselling-distress-tracker-81-drops-may-2026",
+      "categories": [
+        "distress",
+        "lead",
+        "ready"
+      ],
+      "title": "PanicSelling.com flags 81 active Dubai price drops on 08-May-2026 — Dubai Hills, Downtown and Marina lead, deepest cut at -31.5%",
+      "org": "PanicSelling.com",
+      "date": "2026-05-08",
+      "publishDate": "2026-05-08T03:19:55.909Z",
+      "url": "https://panicselling.com/",
+      "summary": "PanicSelling.com's live tracker reads 81 active Dubai price reductions across 4,533 monitored sale listings as of 08-May-2026 05:34, average drop ↓11% and AED 36.9M of value cut. Dubai Hills Estate (15 drops), Downtown Dubai (12) and Dubai Marina (12) lead the count; deepest published cuts include a 3BR Dubai Hills apartment at AED 4.60M → 3.15M (-31.5%) and two Downtown apartments at -25% to -27%.",
+      "tags": [
+        "distress",
+        "price-cuts",
+        "ready-market",
+        "dubai-hills",
+        "downtown",
+        "dubai-marina",
+        "jvc",
+        "jbr"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-HILLS",
+        "DOWNTOWN",
+        "DXB-MARINA",
+        "JVC",
+        "JBR"
+      ],
+      "metrics": {
+        "Active price drops": "81",
+        "Tracked sale listings": "4,533",
+        "Tracked rentals": "1,346",
+        "Average drop": "11%",
+        "Deepest single drop": "31.5% (3BR Dubai Hills Estate, AED 4.60M → 3.15M)",
+        "Total value reduced": "AED 36.9M",
+        "Top areas by drop count": "Dubai Hills 15, Downtown 12, Marina 12",
+        "Data update": "08 May 2026, 05:34"
+      },
+      "links": [
+        {
+          "label": "PanicSelling Dubai dashboard",
+          "url": "https://panicselling.com/"
+        },
+        {
+          "label": "Dubai Hills Estate area guide (propsearch.ae)",
+          "url": "https://propsearch.ae/dubai/dubai-hills-estate"
+        },
+        {
+          "label": "DLD Real Estate Transactions service (comp pull)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Live distress dashboard pulls 81 active Dubai price cuts averaging 11% — fastest leads-to-motivated-seller list in the ready market today.",
+        "whatIsIt": "PanicSelling.com is a third-party scraper that monitors major Dubai sale portals and surfaces listings whose ask has been materially reduced versus their original price. The dashboard refreshed at 05:34 on 08-May-2026 with 81 active drops out of 4,533 tracked sale listings (plus 1,346 rentals).",
+        "howItWorks": "Each entry links back to the underlying portal listing with broker contact intact — operators get the building, bedroom count, original ask, current ask, percentage cut and days-on-market in one row. As of this morning the steepest published cut is a 3BR Dubai Hills Estate apartment at AED 4.60M → 3.15M (-31.5% / -AED 1.45M); other named drops include a 1BR JVC apt at AED 1.45M → 1.05M (-27.6%), a 2BR Downtown apt at AED 6.0M → 4.4M (-26.7%), a 3BR Downtown apt at AED 10.0M → 7.5M (-25%), and a 2BR JBR apt at AED 10.0M → 8.0M (-20%). Aggregate value reduced across the 81 active drops sits at AED 36.9M.",
+        "whyItMatters": "Markets the size of Dubai don't publish a 'motivated seller' list, so the cleanest leading indicator of negotiation room is who's already cut their ask. The same five communities (Dubai Hills, Downtown, Marina, JVC, JBR) showing up at the top of this dashboard match the resale-within-5-to-15%-of-peak narrative the brokers gave Khaleej Times — confirming this is segment-specific re-pricing on ready stock, not a market-wide capitulation. Each lead still needs a DLD comp pull, tenancy/Ejari check and service-charge sanity-check before any offer is made.",
+        "forWho": "End-user buyers chasing value in ready apartments, buyer-side brokers building motivated-seller pipelines, and operators who want a curated alternative to scrolling Bayut and Property Finder for cuts.",
+        "tryIt": "https://panicselling.com/"
+      },
+      "image": {
+        "url": "https://static.propsearch.ae/dubai-locations/dubai-hills-estate_fV6VG_xl.jpg",
+        "alt": "Aerial view of Dubai Hills Estate — the area leading PanicSelling.com's distress dashboard with 15 active price drops",
+        "fit": "cover",
+        "credit": "propsearch.ae"
+      }
+    },
     {
       "id": "dubai-off-plan-office-april-2026-aed-3b-record",
       "categories": [
