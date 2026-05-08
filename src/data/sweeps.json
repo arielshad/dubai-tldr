@@ -1001,6 +1001,51 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t123840z",
+      "timestamp": "2026-05-08T12:38:40.494Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-05-08T12:30Z: scanned all every-sweep + cadenced sources. Feed already carries the May 5–8 macro stories (DLD daily prints, Brookfield-Alshaya JV, Casa AHS, Tilal Binghatti pre-launch, City Tower, Symbolic Zen, Palmridge Villea, buyer's-market shift, off-plan office record). One fresh actionable item added: Dubai Municipality is finalising the permit portal for shared housing under Law 4/2026, with applications opening soon and fines up to AED 1M for repeat violators (Khaleej Times, 2026-05-07).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-shared-housing-permits-dm-portal-may-2026",
+          "title": "Dubai Municipality readies shared-housing permit portal under Law 4/2026: 12-month grace for existing operators, fines up to AED 1M for repeat violators",
+          "category": "legal",
+          "note": "Added under legal."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "legal",
+        "rental",
+        "lead",
+        "ready",
+        "market",
+        "luxury",
+        "commercial",
+        "distress",
+        "offplan",
+        "developer",
+        "auction",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

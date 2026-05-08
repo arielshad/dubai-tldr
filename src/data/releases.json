@@ -1,8 +1,82 @@
 {
-  "generatedAt": "2026-05-08T10:39:04.086Z",
+  "generatedAt": "2026-05-08T12:38:40.494Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-shared-housing-permits-dm-portal-may-2026",
+      "categories": [
+        "legal",
+        "rental",
+        "lead"
+      ],
+      "title": "Dubai Municipality readies shared-housing permit portal under Law 4/2026: 12-month grace for existing operators, fines up to AED 1M for repeat violators",
+      "org": "Khaleej Times",
+      "date": "2026-05-07",
+      "url": "https://www.khaleejtimes.com/uae/dubai-shared-housing-law-applications-open-soon",
+      "summary": "Dubai Municipality says the digital permit portal for shared housing under Law No. (4) of 2026 will open soon. Existing partitioned-unit operators get 12 months to comply; tenants can no longer sublease partitions, and only owners or licensed operators can run shared units.",
+      "tags": [
+        "shared housing",
+        "law no 4 2026",
+        "dubai municipality",
+        "permit",
+        "partitioned units",
+        "rental compliance"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DEIRA",
+        "AL-RIGGA",
+        "AL-BARSHA",
+        "BUR-DUBAI",
+        "AL-SATWA"
+      ],
+      "metrics": {
+        "Law": "No. (4) of 2026",
+        "Issued": "2026-03-11",
+        "Effective": "180 days after gazette publication",
+        "Compliance grace period": "12 months for existing operators",
+        "Permit duration": "1 year (renewable; 2-year option for owners)",
+        "Renewal lead time": "30 days before expiry",
+        "Min fine": "AED 500",
+        "Max single-violation fine": "AED 500,000",
+        "Max repeat-violation fine": "AED 1,000,000"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — applications to open soon",
+          "url": "https://www.khaleejtimes.com/uae/dubai-shared-housing-law-applications-open-soon"
+        },
+        {
+          "label": "Dubai Media Office — Law No. (4) of 2026 issued",
+          "url": "https://www.mediaoffice.ae/en/news/2026/march/11-03/mohammed-bin-rashid-issues-law-regulating-the-management"
+        },
+        {
+          "label": "Khaleej Times — fines, permits, rules explained",
+          "url": "https://www.khaleejtimes.com/uae/dubais-shared-housing-law-up-to-dh500000-fines-permits-rules-explained"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's shared-housing permit portal is about to go live — partitioned-unit operators have a 12-month grace window to legalise or face escalating fines.",
+        "whatIsIt": "Dubai Municipality has confirmed (via Khaleej Times, 7 May 2026) that the digital application portal for shared-housing permits under Law No. (4) of 2026 is being finalised, with procedures and fees to be announced shortly. The law itself was issued by HH Sheikh Mohammed on 11 March 2026 and takes effect 180 days after gazette publication. Existing operators get a 12-month compliance window once the portal opens.",
+        "howItWorks": "The law allows three leasing models: direct owner-leased, licensed manager on the owner's behalf, or a licensed entity that subleases from the owner. Tenants can no longer partition and sublease themselves. Permits are 1-year (renewable, 2-year option for owners), must be renewed 30 days before expiry, and specify the maximum residents, minimum area per resident, and required common facilities. Violations carry fines from AED 500 to AED 500,000, doubling for repeat offences within a year up to a maximum of AED 1M.",
+        "whyItMatters": "Crackdowns have already targeted Al Rigga, Al Muraqqabat, Al Barsha, Al Satwa and Al Raffa, where partitioned bedspace units are common. Once the portal opens, anyone running shared housing without a permit will face escalating penalties; conversely, licensed operators get a clean legal path to a high-yield niche that previously sat in a grey zone. Investors underwriting investor-grade studios in Deira/Bur Dubai/Al Barsha should now price permit fees and compliance cost into their model.",
+        "forWho": "Landlords currently leasing partitioned units, sublease operators, agencies running co-living or bedspace inventory, and buyers underwriting sub-AED 1M studios in Deira, Bur Dubai and Al Barsha.",
+        "tryIt": "https://www.dm.gov.ae/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-07/05xgr1lp/Dubai-room-partition.png",
+        "alt": "Partitioned shared-housing room in a Dubai apartment",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Nasreen Abdulla",
+        "handle": "@khaleejtimes",
+        "profileUrl": "https://www.khaleejtimes.com"
+      },
+      "publishDate": "2026-05-08T12:38:40.494Z"
+    },
     {
       "id": "dubai-uae-buyers-market-shift-the-national-may-8-2026",
       "categories": [
