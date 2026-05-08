@@ -1134,6 +1134,43 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t184331z",
+      "timestamp": "2026-05-08T18:43:31.398Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled 2026-05-08T18:30Z sweep. The existing 27-item feed already covers every verifiable Dubai property opportunity dated within the 72h cap (2026-05-06 → 2026-05-08): the May 8 buyers'-market shift article, the Brookfield/Alshaya Dubai Hills JV, the May 5/6/7 DLD daily prints, the Khaleej Times 'owners doubling money' and 'value not panic' pieces, the Savills buyer-intent survey, the AED 400M Jumeirah Coastline plot deal, the AED 101.2M Casa AHS sky-villa print, the Casa Tower / City Tower long-term leasing launch, the Tonino Lamborghini bulk deal, the Wyndham/Ramada Dubai Islands launch and the live PanicSelling distress tracker (data still 81 active drops, deepest -31.5%). Candidates surfaced this round but rejected: Helvetia Verde groundbreaking (date 2026-04-30, ~9d outside cap); Naïa Island AED 377M plot and racing-buyers piece (Apr 27/29); Meraas DH 2.4B Acres villa contract (Apr 30); Nakheel DH 3.5B Palm Jebel Ali villa contracts (Apr 27); Sobha Abu Dhabi DH 40B project (Apr 13, also Abu Dhabi not Dubai); ADCB off-plan mortgage (Apr 30); BlackBrick advisory service (Mar 17); Cheval Residences Dubai Islands launch (Apr 20); Al Habtoor AED 5B (Apr 9); ALA AED 1B (Dec 2025); BNW AED 20B (Dec 2025); Emaar Hills AED 100B (Oct 2025); Meraas Design District masterplan (Jan 2026); Al Jaddaf Creekside District (Apr 14); Cheval Knightsbridge (London, not Dubai); Abu Dhabi housing approvals (not Dubai); Tara Park Reem Island sell-out (Abu Dhabi). The 'rents softening' angle on therealestatereports.com 08-May review and gulfbusiness 'rents fall across key Dubai areas' is real but redundant against the existing buyers'-market and property-owners-doubling-money entries from the same week. Empty sweep is the correct outcome — no padding.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "ready",
+        "rental",
+        "luxury",
+        "commercial",
+        "developer",
+        "offplan",
+        "market",
+        "visa",
+        "lead",
+        "duplicate",
+        "auction"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
