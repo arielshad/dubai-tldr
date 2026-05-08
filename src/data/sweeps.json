@@ -1046,6 +1046,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t144639z",
+      "timestamp": "2026-05-08T14:46:39.530Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-08. Surfaced one verified opportunity: Dubai Municipality opened the revamped Khor Al Mamzar Beach on May 5 as the first AED 500M phase of an AED 3B coastal master plan, a public-amenity step-up that reshapes Mamzar/Deira coastal demand. The other live items in the past 72h (Brookfield/Alshaya JV, May 7 DLD daily print, buyer's-market shift, panicselling tracker, Symbolic Jetour-promo, Casa AHS sale, etc.) were already in the feed; the ADCB off-plan mortgage (Apr 30), Sobha Abu Dhabi launch (Apr 13) and DHG Helvetia Verde groundbreaking (Apr 30) all fell outside the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-khor-al-mamzar-beach-aed-3b-coastal-may-5-2026",
+          "title": "Dubai Municipality opens revamped Khor Al Mamzar Beach: AED 500M first phase of AED 3B coastal masterplan, 3.6km swim shoreline, region-first floating walkway, 300m round-the-clock night beach",
+          "category": "market",
+          "note": "Public-infrastructure inflection within 72h cap; AED 500M phase one of an AED 3B coastal masterplan that materially upgrades Mamzar/Deira lifestyle positioning and short-let underwriting."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "rental",
+        "lead",
+        "developer",
+        "luxury",
+        "commercial",
+        "distress",
+        "offplan",
+        "visa",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

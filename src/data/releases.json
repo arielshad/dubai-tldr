@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-05-08T12:38:40.494Z",
+  "generatedAt": "2026-05-08T14:46:39.530Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-khor-al-mamzar-beach-aed-3b-coastal-may-5-2026",
+      "categories": [
+        "market",
+        "ready",
+        "rental",
+        "lead"
+      ],
+      "title": "Dubai Municipality opens revamped Khor Al Mamzar Beach: AED 500M first phase of AED 3B coastal masterplan, 3.6km swim shoreline, region-first floating walkway, 300m round-the-clock night beach",
+      "org": "Dubai Municipality / The National",
+      "date": "2026-05-06",
+      "url": "https://www.thenationalnews.com/news/uae/2026/05/05/dubai-opens-revamped-khor-al-mamzar-beach-under-dh3-billion-development-drive/",
+      "summary": "DM inaugurated Khor Al Mamzar Beach on 2026-05-05: 2.75M sqft destination with 3.6km swim shoreline (+128%), 182,000 sqm sandy beachfront (+110%), 300m 24/7 night beach, 5.5km tracks. First phase costs AED 500M; sits inside a Dh3B Dubai-wide beach masterplan that will roll out at Jumeirah 1-2, Umm Suqeim 1-2 and Jebel Ali. Targets 7M annual visitors.",
+      "tags": [
+        "mamzar",
+        "deira",
+        "infrastructure",
+        "coastal",
+        "tourism",
+        "beachfront",
+        "amenity",
+        "rental-driver"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AL-MAMZAR",
+        "DEIRA"
+      ],
+      "metrics": {
+        "First-phase capex": "AED 500M",
+        "Master-plan capex": "AED 3B",
+        "Swim shoreline": "3.6 km (+128%)",
+        "Sandy beachfront": "182,000 sqm (+110%)",
+        "Night-beach length": "300 m (24/7)",
+        "Tracks": "5.5 km running/walking/cycling",
+        "Lifeguard towers": "12",
+        "Target annual visitors": "~7M",
+        "Inaugurated": "2026-05-05"
+      },
+      "links": [
+        {
+          "label": "The National — beach reopening (2026-05-05)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/05/05/dubai-opens-revamped-khor-al-mamzar-beach-under-dh3-billion-development-drive/"
+        },
+        {
+          "label": "Gulf Business — first-phase opening",
+          "url": "https://gulfbusiness.com/en/2026/leisure/dubais-khor-mamzar-beach-first-phase-opens/"
+        },
+        {
+          "label": "Emirates 24/7 — features and access",
+          "url": "https://www.emirates247.com/uae/new-beach-in-dubai-opens-in-mamzar-free-entry-womens-only-beach-night-swimming-and-more/1359"
+        },
+        {
+          "label": "Hi Dubai Focus — Dubai Municipality release",
+          "url": "https://focus.hidubai.com/dubai-municipality-opens-khor-al-mamzar-beach-as-part-of-aed3-billion-coastal-development-drive/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's first AED 500M beach upgrade phase lands in Mamzar/Deira — a public-amenity catalyst that reframes northern coastal demand and short-let yield.",
+        "whatIsIt": "Dubai Municipality reopened Khor Al Mamzar Beach on 2026-05-05 as the first phase of a Dh3 billion Dubai-wide beach masterplan. Director General Marwan bin Ghalita inaugurated the site after Sheikh Mohammed bin Rashid toured it in April. Beyond the headline upgrades, additional phases will roll out at Jumeirah 1-2, Umm Suqeim 1-2 and Jebel Ali.",
+        "howItWorks": "First-phase capex is AED 500M (subset of an AED 3B beach masterplan). The new amenity envelope: 3.6km swimming shoreline (+128%), 182,000 sqm sand area (+110%), a 300m always-on night-beach segment with 12 lifeguard towers, 5.5km of running/walking/cycling tracks, the region's first floating walkway across the lagoon, and 950% more F&B units. Free entry; 24/7 access on the night-beach segment. Phase 2 at Al Mamzar Corniche follows; full-build target is up to 7M annual visitors.",
+        "whyItMatters": "Mamzar/Deira have historically traded at a coastal discount versus the Marina/JBR/Palm Jumeirah belt because the public beachfront product was thinner. A Dh500M upgrade with 24/7 night swimming and a region-first floating walkway materially strengthens the lifestyle case for nearby older Mamzar/Deira ready stock and any short-let inventory inside walking distance — both rent-comp and resale-comp arguments now have a fresh anchor. Operators should re-underwrite Al Mamzar and Deira freehold pockets (Deira Islands, Port Saeed adjacencies) for short-let conversion, and watch for off-market deals as awareness lags published comps.",
+        "forWho": "Mamzar/Deira buyers, rental operators eyeing tourist short-lets, brokers repositioning northern Dubai stock, sellers of beach-walkable apartments who can re-anchor asks against the new amenity.",
+        "tryIt": "https://www.propertyfinder.ae/en/search?c=2&l=137&ob=mr"
+      },
+      "image": {
+        "url": "https://api.emirates247.com/emirates247/uploads/images/2026/05/06/1864.webp",
+        "alt": "Khor Al Mamzar Beach reopens with floating walkway and 24/7 night-beach segment",
+        "fit": "cover",
+        "credit": "Emirates 24/7"
+      },
+      "publishDate": "2026-05-08T14:46:39.530Z"
+    },
     {
       "id": "dubai-shared-housing-permits-dm-portal-may-2026",
       "categories": [
