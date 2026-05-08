@@ -1209,6 +1209,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t222810z",
+      "timestamp": "2026-05-08T22:28:10.590Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep: no qualifying new opportunities surfaced within the 72h cap. The previous sweep at 2026-05-08T20:36Z already ingested 27 items covering today's tier-1 stories (Brookfield/Alshaya Dubai Hills JV, May 8 buyer's-market piece, Grovy/Wyndham Ramada launch, daily DLD prints through 2026-05-07, Khor Al Mamzar opening, visa-floor + bank-guarantee changes, BlackBrick AED 100M run, Casa AHS AED 101.2M sky villa, Tonino Lamborghini AED 150M bulk deal, Jumeirah Coastline AED 400M plot deal, Tilal Binghatti pre-launch, City Tower 93-storey long-term lease block, panicselling tracker, weekly DLD print). Re-scanned tier-1 outlets (Khaleej Times, Gulf News, The National, Zawya, Bloomberg, AGBI, Real Estate Reports) plus DLD/RERA pages and the four major portals; the only candidates surfaced were either already in the feed (Cavendish Maxwell 4-month report = same numbers as 'doubling money' card) or outside the 72h cap (ADCB off-plan mortgage scheme published 2026-04-30; Skyhills handover 2026-04-21; Sobha Sanctuary Jan 2026; Sobha City Apr 2026; ALA Developments Dec 2025; Hills/Mada OOH partnership Apr 2026). May 8 DLD daily print is not yet published.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "visa",
+        "auction"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
