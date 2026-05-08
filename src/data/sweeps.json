@@ -885,6 +885,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t064711z",
+      "timestamp": "2026-05-08T06:47:11.458Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-08T06:37Z. No new qualifying opportunities surfaced in the past 72 hours. The most recent verified items (May 7 DLD daily print at AED 998.5M, Brookfield/Alshaya Dubai Hills JV, PanicSelling.com 81-drop tracker showing same 31.5% deepest cut in Dubai Hills) are already in the feed. The only genuinely new May 6–7 launch — Jamal Living's Al Barsha residential teaser (intlbm.com, 2026-05-07) — disclosed no project name, unit count, AED size, payment plan, or handover date and so fails the inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "visa",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
