@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-05-08T03:19:55.909Z",
+  "generatedAt": "2026-05-08T05:15:23.646Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-may-7-2026-daily-print-aed-998m-first-sub-1b-day",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-05-07: first sub-AED 1B day this month at AED 998.5M as off-plan share drops to 61.8% (from 71–78% earlier in the week)",
+      "org": "The Real Estate Report",
+      "date": "2026-05-07",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-08-may-2026",
+      "summary": "Dubai's 07-May print landed at AED 998.5M, the first sub-AED 1B day in May. Mix tilted back toward ready: off-plan AED 616.6M (61.8%) vs ready AED 381.9M (38.2%) — a notable cooling versus 05-May (78%) and 06-May (71%) off-plan share, as Lumena's Business Bay commercial run finally takes a pause.",
+      "tags": [
+        "DLD",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "rent-softening",
+        "Al Barari",
+        "DAMAC Lagoons",
+        "BlackBrick"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Total transacted (07-May)": "AED 998.5M",
+        "Off-plan": "AED 616.6M (61.8%)",
+        "Ready": "AED 381.9M (38.2%)",
+        "Off-plan flats": "AED 487.5M (79.1% of off-plan)",
+        "Off-plan villas": "AED 75.0M (12.2% of off-plan)",
+        "Off-plan commercial": "AED 53.7M (8.7% of off-plan)",
+        "Ready flats": "AED 273.5M (71.6% of ready)",
+        "Ready villas": "AED 62.4M (16.3% of ready)",
+        "Ready commercial": "AED 30.3M (7.9% of ready)",
+        "vs 06-May print": "AED 998.5M vs AED 1.47B (off-plan share 61.8% vs 71.2%)",
+        "vs 05-May print": "AED 998.5M vs AED 2.39B (off-plan share 61.8% vs 78.4%)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — Dubai daily 08-May-2026 (covers 07-May data)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-08-may-2026"
+        },
+        {
+          "label": "Dubai Land Department — official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai Pulse — DLD open transactions dataset",
+          "url": "https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open"
+        }
+      ],
+      "explainer": {
+        "tagline": "First sub-AED 1B day in May as off-plan share drops to 61.8% — Lumena's Business Bay tape pauses and rent softening shows up in the commentary.",
+        "whatIsIt": "Dubai's 07-May-2026 DLD print totalled AED 998.5M, the first day this month under AED 1B. The mix swung back toward ready stock: off-plan AED 616.6M (61.8%) vs ready AED 381.9M (38.2%). The Real Estate Report's accompanying commentary flags rent softening in high-density apartment and mid-market townhouse segments and continued villa-side resilience in Al Barari, DAMAC Lagoons, Mudon and The Springs.",
+        "howItWorks": "Off-plan was led by flats at AED 487.5M (79.1% of off-plan), with off-plan villas at AED 75M and off-plan commercial at AED 53.7M — a sharp pullback from the AED 558.5M Lumena single-tower commercial day on 06-May. Ready flats cleared AED 273.5M (71.6% of ready) and ready villas AED 62.4M. Net-net, the print is consistent with a market that's wider but thinner: investor flow is lighter, but ready end-user transactions are holding share. Cross-check against 05-May (AED 2.39B, off-plan 78%) and 06-May (AED 1.47B, off-plan 71%) to see the trajectory.",
+        "whyItMatters": "If 07-May is the start of a normalisation rather than a one-day pause, the daily prints stop being driven by single-tower commercial sell-outs and the off-plan share trends back into the 60–65% band — a signal that the secondary market and ready inventory are catching a bid. For brokers it's a cue to push ready stock and rent-backed yield deals; for off-plan launch operators it's a cue that the May 2026 launch window is more competitive than April. Watch whether the next DLD print bounces back above AED 1B or confirms a softer week.",
+        "forWho": "Brokers underwriting weekly market direction, off-plan launch teams pricing May/June releases, ready-market sellers calibrating asking prices, market-data analysts tracking off-plan vs ready share.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/17adc37b-4ade-4a66-9cfd-4f6e747b222b/pexels-irshad-ahmad-501841091-33669696.jpg",
+        "alt": "Dubai skyline by night with Burj Khalifa and Downtown towers",
+        "fit": "cover",
+        "credit": "Irshad Ahmad / Pexels via The Real Estate Report"
+      },
+      "publishDate": "2026-05-08T05:15:23.646Z"
+    },
+    {
+      "id": "dubai-grovy-wyndham-ramada-residences-dubai-islands-launch-may-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Grovy + Wyndham + USquare launch Ramada Residences at Dubai Islands — branded 1–3 BR apartments and 4-BR penthouses, Q3 2027 handover, 20+ amenities, short-term-let approved",
+      "org": "Grovy Developers / Wyndham Hotels & Resorts / USquare Luxe Properties",
+      "date": "2026-05-07",
+      "url": "https://www.zawya.com/en/press-release/companies-news/grovy-developers-signs-with-wyndham-to-bring-ramada-residences-to-dubai-islands-qnsmyddf",
+      "summary": "Grovy Developers signed with Wyndham Hotels & Resorts on 07-May-2026 to launch Ramada Residences at Dubai Islands, with USquare Luxe Properties as development partner. Boutique mix of 1/2/3-bed apartments and 4-bed penthouses, 20+ amenities, Q3 2027 handover — and one of the few Dubai Islands projects approved for short-term leasing.",
+      "tags": [
+        "Grovy Developers",
+        "Wyndham",
+        "Ramada Residences",
+        "USquare Luxe Properties",
+        "Dubai Islands",
+        "branded residences",
+        "short-term let",
+        "Q3 2027 handover"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-ISLANDS",
+        "DXB"
+      ],
+      "metrics": {
+        "Operator": "Wyndham Hotels & Resorts (Ramada brand)",
+        "Developer": "Grovy Developers",
+        "Development partner": "USquare Luxe Properties",
+        "Unit mix": "1, 2, 3-bedroom apartments + 4-bedroom penthouses",
+        "Amenities": "20+ (aqua gym, golf simulator, open theatre, temperature-controlled infinity pool)",
+        "Handover": "Q3 2027",
+        "Furnishing": "Fully furnished",
+        "Short-term let": "Approved on Dubai Islands",
+        "Announcement event": "EOIs taken on-site, attendance over capacity",
+        "Dubai Islands YTD context": "AED 7.9B / 2,335 deals Jan–Apr 2026 (top off-plan area for 4 months)"
+      },
+      "links": [
+        {
+          "label": "Zawya — Grovy signs with Wyndham to bring Ramada Residences to Dubai Islands (07-May-2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/grovy-developers-signs-with-wyndham-to-bring-ramada-residences-to-dubai-islands-qnsmyddf"
+        },
+        {
+          "label": "TradeArabia — Grovy Developers signs with Wyndham (07-May-2026)",
+          "url": "https://tradearabia.com/News/462253/Grovy-Developers-signs-with-Wyndham-to-bring-Ramada-Residences-to-Dubai-Islands/CONS"
+        },
+        {
+          "label": "GDN Online — UAE Business: Grovy x Wyndham x USquare deal",
+          "url": "https://www.gdnonline.com/Details/1393997/Grovy-Developers-signs-with-Wyndham-to-bring-Ramada-Residences-to-Dubai-Islands"
+        },
+        {
+          "label": "Grovy Developers — corporate site",
+          "url": "https://www.grovy.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A new Ramada-branded short-term-let-approved tower on Dubai Islands gives Grovy a hotel-grade rent story right next to Cheval and the existing Grovy Coral Isle / SIA stock.",
+        "whatIsIt": "Grovy Developers, partnered with hospitality giant Wyndham Hotels & Resorts and USquare Luxe Properties as development partner, has formally signed to launch Ramada Residences by Wyndham at Dubai Islands. The boutique tower will offer one-, two-, and three-bedroom apartments plus four-bedroom penthouses, all fully furnished, with handover in Q3 2027. The project is among a select number of Dubai Islands developments approved for short-term leasing — meaningful because Dubai Islands has been the top-performing off-plan area for four straight months (AED 7.9B / 2,335 deals YTD per the latest April market data).",
+        "howItWorks": "Pricing was not disclosed at the announcement event, but Grovy's existing Coral Isle Residences and SIA at Dubai Islands provide an in-house comp set. The 20+ amenity stack (aqua gym, golf simulator, open theatre, temperature-controlled infinity pool) plus the Wyndham Ramada operating standard is the core differentiator vs unbranded Grovy stock and vs Cheval Residences (Apr-2026 launch, 99 units, 2029 handover) on the same island. The Q3 2027 handover puts this ahead of most competing branded launches and means buyers should ask Grovy about (1) the registered Trakheesi/Oqood, (2) the construction milestones tied to the payment plan, (3) Wyndham's revenue-share or pure-licensing structure, and (4) which specific units have Dubai-Tourism short-term-let approval.",
+        "whyItMatters": "Branded residences are the dominant story in Dubai's 2026 launch pipeline, and a Wyndham operator signature on Dubai Islands is a credible mid-market hospitality flag — distinct from the ultra-luxury bench (Cheval, Aman, Bvlgari) but with the operational lift that lets investors actually run a hotel-style pricing strategy. The short-term-let approval is the underwriting hook: it converts a 1/2 BR apartment from a long-let yield play into a holiday-let revenue play with island-walk-in demand. For end-users it's a fully-furnished ready-to-occupy package on a master-planned waterfront. Risks: branded residence licensing fees, opex carry on amenity-heavy stock, and Dubai Islands handover congestion in 2027.",
+        "forWho": "Holiday-home operators and short-let investors targeting Dubai Islands; mid-budget branded-residence buyers comping Cheval/Ramada vs unbranded; brokers running EOI lists for May–June 2026 launches.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/dev/grovy-real-estate-developers/dubai"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/07/TA_20260507172141.webp",
+        "alt": "Signing ceremony / press image for Ramada Residences by Wyndham at Dubai Islands by Grovy Developers and USquare Luxe Properties",
+        "fit": "cover",
+        "credit": "Grovy Developers via TradeArabia"
+      },
+      "publishDate": "2026-05-08T05:15:23.646Z"
+    },
     {
       "id": "dubai-panicselling-distress-tracker-81-drops-may-2026",
       "categories": [
