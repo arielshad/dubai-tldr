@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-05-08T06:47:11.458Z",
+  "generatedAt": "2026-05-08T08:42:13.223Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-uae-buyers-market-shift-the-national-may-8-2026",
+      "categories": [
+        "market",
+        "lead",
+        "ready"
+      ],
+      "title": "The National flags first UAE 'buyer's market' in years: villas trading at-or-below fair value (BlackBrick), S&P reaffirms AA, CBRE Mena says time-in-market beats timing",
+      "org": "The National",
+      "date": "2026-05-08",
+      "url": "https://www.thenationalnews.com/business/2026/05/08/uae-property-shifts-towards-buyers-market-for-first-time-in-years/",
+      "summary": "The National (08-May-2026) frames the UAE as a buyer's market for the first time in years: Q1 sales-price growth slowed to ~9% YoY (off double-digit), March transactions were down ~20% on regional conflict, S&P reaffirmed AA/A-1+, and CBRE Mena's valuations head says focus on time-in-market not timing. BlackBrick's CEO Matthew Bate confirms villas now transact 'at fair market value and in some cases slightly below'.",
+      "tags": [
+        "buyers-market",
+        "market-narrative",
+        "villas",
+        "BlackBrick",
+        "CBRE",
+        "S&P",
+        "Palladium Prime",
+        "Victory Heights",
+        "Jumeirah Golf Estates",
+        "Masakin Al Furjan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "VICTORY-HEIGHTS",
+        "JGE",
+        "AL-FURJAN"
+      ],
+      "metrics": {
+        "Q1 2026 sales-price growth": "~9% YoY (down from double-digit post-pandemic)",
+        "March 2026 transactions": "~-20% (regional-conflict shock)",
+        "S&P sovereign rating": "AA / A-1+ reaffirmed",
+        "Recommended hold horizon": "5–10 years (Steve Cronin)",
+        "Villa pricing call": "'at fair market value and in some cases slightly below' — Matthew Bate, BlackBrick CEO",
+        "Communities flagged": "Victory Heights, Jumeirah Golf Estates, Masakin Al Furjan",
+        "Buyer profile shift": "More domestic, longer-horizon, less leveraged",
+        "Rental yields": "Softening but still globally competitive"
+      },
+      "links": [
+        {
+          "label": "The National — UAE property shifts towards buyer's market for first time in years (08-May-2026)",
+          "url": "https://www.thenationalnews.com/business/2026/05/08/uae-property-shifts-towards-buyers-market-for-first-time-in-years/"
+        },
+        {
+          "label": "S&P Global — UAE sovereign credit rating",
+          "url": "https://www.spglobal.com/ratings/en/sector/governments/sovereigns"
+        },
+        {
+          "label": "CBRE Middle East — Dubai market reports",
+          "url": "https://www.cbre.ae/insights"
+        }
+      ],
+      "explainer": {
+        "tagline": "First time in years that valuations professionals are openly calling Dubai/UAE a buyer's market — villas confirmed printing at-or-below fair value.",
+        "whatIsIt": "The National's 08-May-2026 piece is the first major mainstream call that the UAE has shifted into a buyer's market. The framing is multi-source: CBRE Mena Head of Valuations Daniel McCulloch on time-in-market over timing, BlackBrick CEO Matthew Bate confirming villa transactions are clearing 'at fair market value and in some cases slightly below', Palladium Prime's Ahmad Sultan Al Shammari describing 'a shift towards more disciplined, informed decision-making', and personal-finance educator Steve Cronin urging a minimum 5–10 year hold horizon.",
+        "howItWorks": "The article anchors the call on hard data: Q1 sales-price growth slowed to ~9% YoY (off the post-pandemic double-digit run-rate), March transactions fell ~20% on regional-conflict shock, and S&P just reaffirmed the UAE's AA / A-1+ sovereign rating. Communities specifically named — Victory Heights, Jumeirah Golf Estates, Masakin Al Furjan — are villa-led and consistent with the BlackBrick at-or-below-fair-value comment. Buyer profile is shifting toward domestic purchasers with longer horizons; rental yields are softening but still globally competitive; geopolitical risk is now described as a 'foundational' planning input.",
+        "whyItMatters": "When a Big-3 valuations house (CBRE Mena), an established prime-Dubai brokerage (BlackBrick), and S&P all line up in the same week, the brokerage narrative ('no panic, just negotiation') hardens into something underwriters can quote. For villa buyers in Victory Heights, JGE and similar mid-prime estates, this is the on-record signal that ask-vs-fair-value spreads have actually compressed. For sellers, it's the explicit framing that holding out for 2025 peak prints is now the minority view. For lenders and family offices, it's cover to revisit 5–10 year underwrite assumptions on Dubai exposure.",
+        "forWho": "Villa buyers in mid-prime estates, sellers re-pricing 2025 carrying assumptions, valuations and underwriting teams, family-office allocators, end-user mortgage candidates needing a long-horizon thesis.",
+        "tryIt": "https://www.thenationalnews.com/business/2026/05/08/uae-property-shifts-towards-buyers-market-for-first-time-in-years/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/BKEOVS2MAJDALM57HRPMF7KUVA.jpg?focal=3014%2C2009&auth=ee279a1e5f3380a71411c1f02284161e2026b85fe550cd476c6b47a41aee1986&width=1200&height=675",
+        "alt": "Domestic buyers reviewing Dubai property listings as the UAE market shifts to favour purchasers",
+        "fit": "cover",
+        "credit": "The National"
+      },
+      "publishDate": "2026-05-08T08:42:13.223Z"
+    },
     {
       "id": "dubai-dld-may-7-2026-daily-print-aed-998m-first-sub-1b-day",
       "categories": [

@@ -921,6 +921,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t084213z",
+      "timestamp": "2026-05-08T08:42:13.223Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet 2026-05-08 sweep on top of yesterday's heavy ingest. One net-new market-narrative card from The National calling Dubai/UAE 'a buyer's market for the first time in years' (S&P AA reaffirmation, CBRE Mena valuations head, BlackBrick CEO on villas pricing at-or-below fair value). Rest of the May 6–8 surface (DLD daily print, panic-selling tracker, Brookfield-Alshaya, Grovy/Wyndham, Symbolic, Casa AHS, Villea West, City Tower, visa bank-guarantee, Harbour Bridge, etc.) is already in the feed; portal/auction surfaces showed no qualifying single-listing under-comp signals.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-uae-buyers-market-shift-the-national-may-8-2026",
+          "title": "The National flags first UAE 'buyer's market' in years: villas trading at-or-below fair value (BlackBrick), S&P reaffirms AA, CBRE Mena says time-in-market beats timing",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "lead",
+        "ready",
+        "rental",
+        "luxury",
+        "distress",
+        "developer",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
