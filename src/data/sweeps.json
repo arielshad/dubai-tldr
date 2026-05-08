@@ -962,6 +962,45 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t103904z",
+      "timestamp": "2026-05-08T10:39:04.086Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-05-08: scanned portal pages, DLD/RERA, developer launches, auction/distress, brokerage and market-data sources. Existing feed of 23 items already covers the live May 5-8 news cycle (DLD daily prints, Brookfield-Alshaya JV, Casa AHS sky villa, Symbolic/Zen launch, Tilal Binghatti, City Tower, buyer's market shift, Cavendish Maxwell-style stats via the 'doubling money' card, PanicSelling tracker, off-plan office record). Material candidates found this sweep (Gold Line approval Apr 22, ADCB off-plan mortgage Apr 30, AGBI tough-summer note Apr 30, Naia Island plot Apr 27, SkyHills early handover Apr 21, ALA Developments pipeline Dec 2025) all fall outside the 72h date cap. Empty sweep is success per the inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
