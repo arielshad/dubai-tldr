@@ -1,8 +1,136 @@
 {
-  "generatedAt": "2026-05-08T14:46:39.530Z",
+  "generatedAt": "2026-05-08T16:41:49.653Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-tonino-lamborghini-residences-aed-150m-41-unit-bulk-deal-may-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "AED 150M / 41-unit bulk deal at Tonino Lamborghini Residences Dubai — Gulf Land's branded Meydan project hits 51.85% build, Q1 2027 handover",
+      "org": "Gulf Land Property Developers",
+      "date": "2026-05-07",
+      "publishDate": "2026-05-08T16:41:49.653Z",
+      "url": "https://www.gdnonline.com/Details/1393945",
+      "summary": "Gulf Land closes a single AED 150M ($40.84M) deal for 41 units at its Tonino Lamborghini Residences in Nad Al Sheba 1 (Meydan / MBR City), representing 7.5% of the 541-unit project. Towers reached 51.85% completion in March 2026 with Q1 2027 handover. Chairman Shaher Mousli framed it as a confidence and liquidity signal.",
+      "tags": [
+        "bulk deal",
+        "Meydan",
+        "MBR City",
+        "branded residence",
+        "Tonino Lamborghini",
+        "Gulf Land",
+        "offplan",
+        "Q1 2027 handover"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MEYDAN",
+        "MBR-CITY",
+        "NAD-AL-SHEBA"
+      ],
+      "metrics": {
+        "Deal value": "AED 150M ($40.84M)",
+        "Units": "41 of 541 (7.5%)",
+        "Avg price/unit": "~AED 3.66M",
+        "Project completion": "51.85% (Mar 2026)",
+        "Handover": "Q1 2027",
+        "Project scale": "4 mid-rise towers, 12 floors each",
+        "Unit sizes": "790–4,708 sqft",
+        "Payment plan": "70% during construction / 30% on transfer"
+      },
+      "links": [
+        {
+          "label": "GDN Online: deal coverage",
+          "url": "https://www.gdnonline.com/Details/1393945"
+        },
+        {
+          "label": "Zawya / TradingView press release",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-05-07:newsml_ZawbN9q9m:0-zawya-gulf-land-purchases-41-units-in-tonino-lamborghini-residences-in-dubai/"
+        },
+        {
+          "label": "Project page",
+          "url": "https://www.gulflandproperty.com/properties-in-dubai/tonino-lamborghini-residences-dubai"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 150M / 41-unit bulk deal at Tonino Lamborghini Residences puts Gulf Land's Meydan branded project on the radar.",
+        "whatIsIt": "A single bulk transaction closed for 41 of the 541 units at Tonino Lamborghini Residences Dubai in Nad Al Sheba 1 (Meydan / MBR City), priced at AED 150M ($40.84M). Gulf Land Property Developers, the developer behind the four-tower mid-rise scheme, framed it as a confidence-in-Dubai signal at a 51.85% build stage with Q1 2027 handover.",
+        "howItWorks": "The AED 150M ticket prices ~AED 3.66M per unit on average across studios, 1–4 BR layouts (unit range 790–4,708 sqft). Project payment plan is 70% during construction and 30% on transfer of ownership. Project page advertises ~7% rental yield expectations on the Italian-branded inventory. The 7.5% share of total units gives the buyer (or counterparty) a meaningful concentrated bet rather than a scattered allocation.",
+        "whyItMatters": "Bulk deals at this size in mid-rise off-plan are rare — they signal where institutional / family-office capital is willing to underwrite branded inventory in MBR City at construction-phase pricing rather than waiting for resale. For an operator the read-across is: peer projects in Meydan / Nad Al Sheba 1 with similar branded residence positioning may see firmer ask discipline as the comp print lands. For end users, the deal proves the developer can clear 41 units at a stroke — a useful sign on liquidity if you're already in.",
+        "forWho": "Off-plan investors weighing branded MBR City stock, family offices considering bulk exposure, and brokers tracking Tonino Lamborghini comps.",
+        "tryIt": "https://www.gulflandproperty.com/properties-in-dubai/tonino-lamborghini-residences-dubai"
+      },
+      "image": {
+        "url": "https://cdn.emrbz.com/d/52650c4fceff4c7599822621153e2cfb578097ca/70/1920x1080^/image",
+        "alt": "Tonino Lamborghini Residences Dubai — Gulf Land Property Developers project rendering, Nad Al Sheba 1, Meydan",
+        "fit": "cover",
+        "credit": "Gulf Land Property Developers"
+      }
+    },
+    {
+      "id": "dubai-blackbrick-shabbo-aed-100m-villa-sales-90-days-may-2026",
+      "categories": [
+        "luxury",
+        "lead",
+        "ready"
+      ],
+      "title": "BlackBrick's Dominic Peter Shabbo books AED 100M+ in 90 days across Al Barari and Jumeirah Golf Estates — including AED 24.5M JGE and AED 15.5M Victory Heights tickets",
+      "org": "BlackBrick Property",
+      "date": "2026-05-07",
+      "publishDate": "2026-05-08T16:41:49.653Z",
+      "url": "https://www.zawya.com/en/press-release/companies-news/blackbrick-propertys-agent-dominic-peter-shabbo-closes-aed-100mln-in-luxury-villa-sales-in-90-days-ykdhdagm",
+      "summary": "BlackBrick Property's agent Dominic Peter Shabbo has closed more than AED 100M of villa transactions over 90 days across Al Barari and Jumeirah Golf Estates — including AED 24.5M in JGE and AED 15.5M in Victory Heights. CEO Matthew Bate frames it as committed end-user demand with a 5+ year hold horizon, not speculation.",
+      "tags": [
+        "luxury villas",
+        "Al Barari",
+        "Jumeirah Golf Estates",
+        "Victory Heights",
+        "BlackBrick",
+        "broker activity",
+        "end-user buyers"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AL-BARARI",
+        "JGE",
+        "VICTORY-HEIGHTS"
+      ],
+      "metrics": {
+        "Total volume": "AED 100M+ (90 days)",
+        "Largest named ticket": "AED 24.5M (Jumeirah Golf Estates)",
+        "Second named ticket": "AED 15.5M (Victory Heights)",
+        "Period": "90 days through early May 2026",
+        "Buyer profile": "Domestic, 5+ year hold horizon"
+      },
+      "links": [
+        {
+          "label": "Zawya press release",
+          "url": "https://www.zawya.com/en/press-release/companies-news/blackbrick-propertys-agent-dominic-peter-shabbo-closes-aed-100mln-in-luxury-villa-sales-in-90-days-ykdhdagm"
+        },
+        {
+          "label": "BlackBrick",
+          "url": "https://www.blackbrickproperty.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 100M+ booked in 90 days across Al Barari and JGE — proof of where prime villa demand still clears.",
+        "whatIsIt": "BlackBrick Property published a single-agent production note: Dominic Peter Shabbo has closed more than AED 100M of luxury villa transactions across Al Barari and Jumeirah Golf Estates in the last 90 days, with named tickets including AED 24.5M in JGE and AED 15.5M in Victory Heights.",
+        "howItWorks": "The volume sits in three established prime villa belts: Al Barari (forest-themed, low-density), Jumeirah Golf Estates (golf-anchored gated communities) and Victory Heights (gated villa estates near JGE). CEO Matthew Bate's commentary flags committed end-user buyers planning 5+ year holds rather than flippers — and warns that 'easy upside isn't there right now', with rental growth softening short-term and construction costs tightening developer margins. Read it as a where-the-money-is-actually-going map for villa stock at the AED 15M–25M+ band.",
+        "whyItMatters": "It localises the AED 48B April print to specific micro-markets brokers can pitch right now. For sellers in Al Barari / JGE / Victory Heights, the read is: a single agent absorbed AED 100M+ in 90 days, so liquidity is real at the right price. For buyers, the named comps (AED 24.5M JGE, AED 15.5M Victory Heights) anchor negotiation rather than relying on portal asks. Pairs naturally with our 'buyer's market' and 'resale within 5–15% of peak' cards.",
+        "forWho": "Prime villa buyers and sellers in Al Barari, JGE and Victory Heights; brokers building competitive comp packs; family offices sizing AED 15–25M villa exposure.",
+        "tryIt": "https://www.blackbrickproperty.com/"
+      },
+      "image": {
+        "url": "https://dubaipropertyguide.io/wp-content/uploads/2025/11/Untitled-21-1.jpg",
+        "alt": "BlackBrick Property — Dubai prime villa community feature image",
+        "fit": "cover",
+        "credit": "BlackBrick Property / Dubai Property Guide"
+      }
+    },
     {
       "id": "dubai-khor-al-mamzar-beach-aed-3b-coastal-may-5-2026",
       "categories": [

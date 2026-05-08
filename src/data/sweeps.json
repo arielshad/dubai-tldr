@@ -1090,6 +1090,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260508t164149z",
+      "timestamp": "2026-05-08T16:41:49.653Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new opportunities surfaced this sweep: Gulf Land's AED 150M bulk transaction across 41 units at Tonino Lamborghini Residences (Meydan branded off-plan, 51.85% complete, Q1 2027 handover) and BlackBrick agent Dominic Peter Shabbo closing AED 100M+ in luxury villa sales across Al Barari and Jumeirah Golf Estates over the past 90 days, with named individual deals including AED 24.5M in JGE and AED 15.5M in Victory Heights.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-tonino-lamborghini-residences-aed-150m-41-unit-bulk-deal-may-2026",
+          "title": "AED 150M / 41-unit bulk deal at Tonino Lamborghini Residences Dubai — Gulf Land's branded Meydan project hits 51.85% build, Q1 2027 handover",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-blackbrick-shabbo-aed-100m-villa-sales-90-days-may-2026",
+          "title": "BlackBrick's Dominic Peter Shabbo books AED 100M+ in 90 days across Al Barari and Jumeirah Golf Estates — including AED 24.5M JGE and AED 15.5M Victory Heights tickets",
+          "category": "luxury",
+          "note": "Added under luxury."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "ready",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
