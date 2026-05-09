@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-05-08T22:28:10.590Z",
+  "generatedAt": "2026-05-09T00:45:32.229Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-samana-experience-studio-bay-square-may-8-2026",
+      "categories": [
+        "developer",
+        "lead",
+        "market"
+      ],
+      "title": "SAMANA Developers opens Bay Square 'Experience Studio' in Business Bay — top-5 off-plan seller (4.4% share, AED 7.1B GDV) bets that buyers now want to inspect materials before signing",
+      "org": "SAMANA Developers / Biz Today",
+      "date": "2026-05-08",
+      "publishDate": "2026-05-09T00:45:32.229Z",
+      "url": "https://www.biztoday.news/2026/05/08/samana-developers-strengthens-dubai-footprint-with-launch-of-a-new-sales-gallery-in-business-bay/",
+      "summary": "SAMANA's new HQ sales gallery at Bay Square layers an 'Experience Studio' that exposes waterproofing, soundproofing, appliances and finishes on-site. Targeted at the 50,000+ visitors/yr the developer expects as off-plan buyers move from brochure-led to construction-led diligence.",
+      "tags": [
+        "samana",
+        "business-bay",
+        "bay-square",
+        "off-plan",
+        "sales-gallery",
+        "experience-studio",
+        "dubai-developer",
+        "lead-generation"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-BUSINESS-BAY",
+        "BAY-SQUARE"
+      ],
+      "metrics": {
+        "Opening": "2026-05-08",
+        "Location": "Bay Square, Business Bay (SAMANA HQ)",
+        "Annual visitors target": "50,000+",
+        "SAMANA 2025 sales": "AED 7.1B",
+        "SAMANA market share (2025)": "4.4%",
+        "SAMANA 2025 sales growth": "+40% YoY",
+        "Off-plan rank (2025)": "#5"
+      },
+      "links": [
+        {
+          "label": "Biz Today launch coverage (2026-05-08)",
+          "url": "https://www.biztoday.news/2026/05/08/samana-developers-strengthens-dubai-footprint-with-launch-of-a-new-sales-gallery-in-business-bay/"
+        },
+        {
+          "label": "PropertyNews.ae Experience Studio writeup",
+          "url": "https://propertynews.ae/uae/dubai/visible-quality-samanas-new-experience-studio-redefines-property-transparency/"
+        },
+        {
+          "label": "SAMANA Developers — official",
+          "url": "https://www.samanadevelopers.com/about"
+        }
+      ],
+      "explainer": {
+        "tagline": "Top-5 Dubai off-plan seller opens a Business Bay 'Experience Studio' showcasing materials and build quality — buyers now inspect before signing.",
+        "whatIsIt": "SAMANA Developers (4.4% Dubai market share, AED 7.1B 2025 GDV) opened a new multi-functional sales gallery at its Bay Square headquarters in Business Bay on 2026-05-08. The centrepiece is an 'Experience Studio' that physically displays waterproofing, soundproofing, smart-home features, finishes and appliances used in SAMANA projects rather than relying on renderings.",
+        "howItWorks": "The gallery sits inside SAMANA's HQ in Bay Square and is built to host 50,000+ walk-throughs a year — broker tours, buyer due-diligence appointments and partner sessions. CEO Imran Farooq frames the bet bluntly: 'as the Dubai market matures, buyers are looking for more than just a brochure'. Use it as a free, no-permit walk-in to benchmark resort-style amenity specs (private pool balconies, infinity pools, wellness zones) and finish quality against rival off-plan launches before committing a 10–20% booking deposit.",
+        "whyItMatters": "Off-plan was 74% of Dubai sales YTD and ValuStrat just flagged the first ready-market index contraction since 2020 — buyers are getting pickier and 130k new investors are projected to enter the funnel each year. A free, on-site materials lab from a top-5 developer is a meaningful trust play and a useful comp benchmark for any operator underwriting a 2026–2028 handover. Worth a visit if you're shortlisting JVC, Dubailand or Studio City SAMANA stock.",
+        "forWho": "Off-plan buyers shortlisting SAMANA towers; brokers preparing client tours; operators/JV partners benchmarking finish quality across mid-luxury Dubai off-plan; underwriters assessing handover risk on near-completion stock.",
+        "tryIt": "https://www.samanadevelopers.com/about"
+      },
+      "image": {
+        "url": "https://www.biztoday.news/wp-content/uploads/2026/05/SAM007452-850x491.jpg",
+        "alt": "SAMANA Developers' new Experience Studio sales gallery at Bay Square, Business Bay, Dubai",
+        "fit": "cover",
+        "credit": "Biz Today / SAMANA Developers"
+      }
+    },
     {
       "id": "dubai-tonino-lamborghini-residences-aed-150m-41-unit-bulk-deal-may-2026",
       "categories": [

@@ -1245,6 +1245,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t004532z",
+      "timestamp": "2026-05-09T00:45:32.229Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-09: most tier-1 Dubai property news from the last 72h is already in the feed (DLD daily print 2026-05-07, Brookfield/Alshaya Dubai Hills JV announced 2026-05-07, The National 'buyer's market' shift 2026-05-08). One net-new add: SAMANA Developers opened a Bay Square (Business Bay) Experience Studio sales gallery on 2026-05-08, an operator/lead-generation signal from a top-5 off-plan seller (4.4% market share, AED 7.1B 2025 GDV).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-samana-experience-studio-bay-square-may-8-2026",
+          "title": "SAMANA Developers opens Bay Square 'Experience Studio' in Business Bay — top-5 off-plan seller (4.4% share, AED 7.1B GDV) bets that buyers now want to inspect materials before signing",
+          "category": "developer",
+          "note": "Net-new: SAMANA's Business Bay Experience Studio launch (2026-05-08) is a tangible diligence venue at a top-5 off-plan seller — useful for buyers/brokers, not a market-stat rehash."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "lead",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
