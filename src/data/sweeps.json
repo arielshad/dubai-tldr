@@ -1470,6 +1470,31 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t123022z",
+      "timestamp": "2026-05-09T12:30:22.473Z",
+      "source": "github-actions-sweep",
+      "summary": "Scanned all eight scan-plan surfaces on 2026-05-09. Within the 72h date cap (≥2026-05-06) the feed already covered the strongest verifiable signals: the May 8 DLD daily print (AED 1.14B, ready share 47.3%), The National's May 8 'buyer's market' shift, the Brookfield/Alshaya Dubai Hills JV, the Khor Al Mamzar AED 3B coastal redevelopment, the AED 400M Jumeirah beachfront plot deal, the Tonino Lamborghini AED 150M bulk deal, the Empower Q1 print, the Casa AHS AED 101.2M sky villa, the City Tower 93-storey leasing block, and the Wyndham/Grovy Dubai Islands signing. Fresh candidates from propertynews.ae (DLD AI rental-mediation portal, 52% homeowner-driven share, micro-logistics tower mandate) lacked primary-source verification (no DLD/mediaoffice press release, no named issuing authority, no quoted official) and read as low-quality SEO content — excluded under the zero-hallucination rule. Mario Volpi's May 9 tenant-viewings Q&A in The National is a soft column item, not an actionable opportunity. The May 9 daily DLD print itself is not yet published — the next-day report on therealestatereports.com still covers May 8 data. Empty sweep.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
