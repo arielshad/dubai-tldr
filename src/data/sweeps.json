@@ -1626,6 +1626,38 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t222350z",
+      "timestamp": "2026-05-09T22:23:50.827Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 2026-05-09T22:15Z. Verified DLD daily prints through May 8 transactions, Brookfield/Alshaya JV, betterhomes stabilisation, fäm holding study, The National buyer's-market piece, Casa AHS Sky Villa and Jumeirah Coastline plot deal — all already on the feed. Fresh Wynn Al Marjan delay (May 8 Q1 earnings) is RAK-scope. ADCB off-plan mortgage (Apr 30), Emirates NBD/Dubai Holding deal (Apr 10), Sobha Abu Dhabi (Apr 13) and Cavendish Maxwell 57,300-sales report (May 6) all fall outside the 72h date cap. PanicSelling.com still shows 81 active drops with -31.5% deepest cut — unchanged from yesterday's existing card.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "offplan",
+        "luxury",
+        "distress",
+        "developer",
+        "rental"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
