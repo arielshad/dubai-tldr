@@ -1432,6 +1432,44 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t103339z",
+      "timestamp": "2026-05-09T10:33:39.745Z",
+      "source": "github-actions-sweep",
+      "summary": "Verified the past 72h of Dubai real-estate news across portals, official DLD/RERA channels, developer pipelines, auction sources, brokerage/luxury pages and market-data references. The May 6-9 cycle (Brookfield-Alshaya Dubai Hills JV, daily DLD prints through May 8, Empower Q1, Tonino Lamborghini bulk deal, BlackBrick AED 100M sales, Khor Al Mamzar opening, Symbolic/Zen Residences promo, City Tower, Grovy/Wyndham Ramada, Samana Bay Square, Palmridge Villea West, fam holding-period study, visa floor removal, bank-guarantee visa rule, Harbour Bridge 85%, Casa AHS AED 101.2M, panic-selling tracker) is already represented in the existing 31-item feed. Several propertynews.ae May 9 headlines turned out to be rewrites of older originals (Hayat AED 2B was March 30; ADCB off-plan mortgage was April 30; PropTech Connect was February); none qualified under the 72h cap on the original publication date. PanicSelling May 9 snapshot mirrored the May 8 figures already on file. No new opportunity met the inclusion bar without padding.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
