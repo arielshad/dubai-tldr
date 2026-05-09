@@ -1361,6 +1361,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t065303z",
+      "timestamp": "2026-05-09T06:53:03.415Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-09 06:44 UTC sweep. Feed already carries every Dubai opportunity surfaced for 2026-05-06 through 2026-05-08, including DLD daily prints (5/5, 5/6, 5/7, 5/8), Empower Q1, SAMANA Bay Square Studio, Brookfield+Alshaya Dubai Hills JV, Khor Al Mamzar opening, Tonino Lamborghini bulk deal, BlackBrick villa run, Grovy/Wyndham Ramada, betterhomes/H&H City Tower, Symbolic Zen Residences, visa-floor and Golden Visa bank-guarantee changes, Khaleej Times buyer-market and resale pieces, fäm holding-period study, Palmridge Villea West, Casa AHS sky-villa print, Dubai Harbour Bridge, Binghatti Tilal pre-launch, Jumeirah Coastline AED 400M plot deal. WebSearch + WebFetch across Zawya, Khaleej Times, Gulf News, AGBI, TradeArabia, propertynews.ae, mediaoffice.ae and developer pages produced no fresh, non-duplicate qualifying items dated within the 72h cap. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "market",
+        "visa",
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "auction-distress"
+      ]
     }
   ]
 }
