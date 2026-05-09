@@ -1,8 +1,75 @@
 {
-  "generatedAt": "2026-05-09T18:27:47.388Z",
+  "generatedAt": "2026-05-09T20:24:32.023Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-betterhomes-may-2026-stabilisation-rental-softening-webinar",
+      "categories": [
+        "market",
+        "rental",
+        "offplan"
+      ],
+      "title": "Betterhomes flags first signs of Dubai market stabilisation 67 days into regional conflict — off-plan share jumps to 76% but ~70% of rental units saw ~10% cuts in April",
+      "org": "Betterhomes / Tradearabia",
+      "date": "2026-05-08",
+      "publishDate": "2026-05-09T20:24:32.023Z",
+      "url": "https://tradearabia.com/News/462272/Dubai-property-market-'shows-signs-of-stabilisation'-",
+      "summary": "Betterhomes' May 7 monthly webinar (reported 2026-05-08): April transactions +2% MoM, off-plan share 76% (+7 pts vs March), tenant enquiries +40%, but ~70% of rental units cut ask ~10%. Three forward catalysts: AED 750K visa floor removal, Gold Line metro, OPEC exit.",
+      "tags": [
+        "betterhomes",
+        "stabilisation",
+        "rental-softening",
+        "off-plan-share",
+        "gold-line",
+        "opec-exit",
+        "visa-rule-change"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARINA",
+        "BUSINESS-BAY",
+        "JVC"
+      ],
+      "metrics": {
+        "Off-plan share (Apr 2026)": "76%",
+        "Off-plan share Δ vs March": "+7 pts",
+        "April transactions MoM": "≈ +2%",
+        "Tenant enquiries Δ (April)": "+40%",
+        "Rental units that cut ask": "≈ 70%",
+        "Average rental cut": "just under 10%",
+        "Days into regional conflict at webinar": "67",
+        "Webinar date": "2026-05-07"
+      },
+      "links": [
+        {
+          "label": "Tradearabia – Dubai property market 'shows signs of stabilisation' (2026-05-08)",
+          "url": "https://tradearabia.com/News/462272/Dubai-property-market-'shows-signs-of-stabilisation'-"
+        },
+        {
+          "label": "Betterhomes monthly market webinar registration",
+          "url": "https://www.bhomes.com/en/register-webinar"
+        },
+        {
+          "label": "Betterhomes – Dubai market update hub",
+          "url": "https://www.bhomes.com/en/dubai-market-update"
+        }
+      ],
+      "explainer": {
+        "tagline": "First post-conflict 'pause is ending' read on Dubai: rental-side softening is real, off-plan share is climbing, three forward catalysts queued.",
+        "whatIsIt": "Betterhomes hosted its monthly market webinar on Thursday 2026-05-07 and Tradearabia published the digest on 2026-05-08. The CEO-level read: Dubai is showing 'early signs of stabilisation' 67 days into the Iran-Israel regional conflict, with the secondary market still subdued but rental enquiries and off-plan registrations accelerating.",
+        "howItWorks": "Concrete data points the agency disclosed: April 2026 transactions ticked up just under 2% month-on-month; off-plan deals were 76% of all transactions (a +7 percentage-point jump versus March); tenant enquiries jumped roughly 40% in April; on the listing side, around 70% of rental properties saw landlords cut asking rent, with the average reduction just under 10%. Betterhomes also flagged three forward catalysts: removal of the AED 750K floor on the 2-year property-investor visa, the freshly approved AED 34B Gold Line metro (which historically lifts corridor prices 8–11%), and the UAE's OPEC exit. On off-plan-buyer worry: contracts remain legally binding — review the SPA long-stop date clause before assuming an exit is available.",
+        "whyItMatters": "This is the first agency-level 'we can see a floor' read since the regional conflict began on ~2026-03-02, and it comes from one of the largest brokerages in the city — so it sets the negotiation frame for the next 30–60 days. For landlords, the 70% / 10% rental-reset number is a hard data point: pricing above that delta means your unit will sit. For buyers, the off-plan share climbing toward 76% confirms the developer-led rotation, while ready-market subdued volume keeps negotiation leverage with the buyer. The three forward catalysts (visa, Gold Line, OPEC) are individually known but Betterhomes is the first to stack them as a recovery thesis.",
+        "forWho": "Landlords pricing 2026 renewals, buyers underwriting yield in JVC/Marina/Business Bay, off-plan buyers worried about long-stop dates, and operators tracking when the 'wait-and-see' pause breaks.",
+        "tryIt": "https://tradearabia.com/News/462272/Dubai-property-market-'shows-signs-of-stabilisation'-"
+      },
+      "image": {
+        "url": "https://d33om22pidobo4.cloudfront.net/blogs/covers/dubai-real-estate-developmentwebp-b822cd7b-339f-45be-a687-b6a8cb080bfe.webp",
+        "alt": "Dubai skyline with cranes and under-construction towers — illustrative of Betterhomes' April 2026 stabilisation read.",
+        "fit": "cover",
+        "credit": "Betterhomes"
+      }
+    },
     {
       "id": "dubai-unique-properties-alessandro-console-acquisition-may-7-2026",
       "categories": [

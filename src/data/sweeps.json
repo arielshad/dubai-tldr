@@ -1590,6 +1590,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t202432z",
+      "timestamp": "2026-05-09T20:24:32.023Z",
+      "source": "github-actions-sweep",
+      "summary": "One verified addition for 2026-05-09: Betterhomes' May 7 monthly webinar (reported by Tradearabia 2026-05-08) flags the first market-wide signs of Dubai stabilisation 67 days into the regional conflict — off-plan share now 76%, but ~70% of rental units saw ~10% cuts. All other tier-1 May 7–9 stories (Brookfield x Alshaya JV, City Tower, SAMANA Bay Square, DLD May 8 daily print, The National 'buyers' market', Khor Al Mamzar, Empower Q1, Tonino Lamborghini bulk deal) are already in the feed and were not re-added.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-betterhomes-may-2026-stabilisation-rental-softening-webinar",
+          "title": "Betterhomes flags first signs of Dubai market stabilisation 67 days into regional conflict — off-plan share jumps to 76% but ~70% of rental units saw ~10% cuts in April",
+          "category": "market",
+          "note": "Tradearabia digest of Betterhomes' 2026-05-07 monthly webinar (publish date 2026-05-08, ~24h old). First agency-level 'stabilisation' read since the regional conflict — sets the negotiation frame for the next 30–60 days, with rental-side data (70% of units cut, ~10% avg) that is materially newer than the buyer-side 'within 5–15% of peak' framing already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "rental",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
