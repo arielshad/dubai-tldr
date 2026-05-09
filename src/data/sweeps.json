@@ -1555,6 +1555,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t182747z",
+      "timestamp": "2026-05-09T18:27:47.388Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet sweep, one verified add: Unique Properties paid a 7-figure package on May 7 to bring off-plan luxury broker Alessandro Console aboard, a clear signal of agencies investing in HNW relationship capital as 6,700+ new brokers crowded the field in H1 2025. Most major DLD/launch news from May 7-9 was already captured in the prior sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-unique-properties-alessandro-console-acquisition-may-7-2026",
+          "title": "Unique Properties pays 7-figure deal for off-plan luxury broker Alessandro Console — agencies double down on HNW relationship capital as 6,700+ new brokers crowd the field",
+          "category": "lead",
+          "note": "Verified May 7, 2026 zawya press release; quotes from Armin Jalili and Alessandro Console fetched; image confirmed accessible. Card surfaces a clear lead/luxury action — buyers can route HNW off-plan inquiries via Unique Properties; agencies have a fresh comp on top-broker acquisition cost."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "lead",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

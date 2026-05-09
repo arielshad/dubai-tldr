@@ -1,8 +1,65 @@
 {
-  "generatedAt": "2026-05-09T16:25:09.163Z",
+  "generatedAt": "2026-05-09T18:27:47.388Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-unique-properties-alessandro-console-acquisition-may-7-2026",
+      "categories": [
+        "lead",
+        "luxury"
+      ],
+      "title": "Unique Properties pays 7-figure deal for off-plan luxury broker Alessandro Console — agencies double down on HNW relationship capital as 6,700+ new brokers crowd the field",
+      "org": "Unique Properties",
+      "date": "2026-05-07",
+      "publishDate": "2026-05-09T18:27:47.388Z",
+      "url": "https://www.zawya.com/en/press-release/companies-news/unique-properties-secures-7-figure-deal-to-acquire-top-broker-alessandro-console-qp1m94zs",
+      "summary": "Unique Properties announces a seven-figure investment to acquire off-plan specialist Alessandro Console, betting on relationship-driven HNW advisory over commoditized inventory at a moment when 29,577 brokers are registered with DLD.",
+      "tags": [
+        "lead",
+        "luxury",
+        "offplan",
+        "broker",
+        "HNW",
+        "agency"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-LUXURY",
+        "DXB-OFFPLAN"
+      ],
+      "metrics": {
+        "Deal size": "7-figure (undisclosed)",
+        "New brokers H1 2025": "6,700+",
+        "Total DLD-registered brokers": "29,577",
+        "Console specialty": "Off-plan luxury, HNW investors",
+        "Agency founded": "2008"
+      },
+      "links": [
+        {
+          "label": "Zawya press release",
+          "url": "https://www.zawya.com/en/press-release/companies-news/unique-properties-secures-7-figure-deal-to-acquire-top-broker-alessandro-console-qp1m94zs"
+        },
+        {
+          "label": "Unique Properties site",
+          "url": "https://uniqueproperties.ae/en/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Award-winning Dubai off-plan agency pays seven figures to lock in an HNW-luxury relationship broker — a directional bet that advisory beats inventory in a 29,577-broker market.",
+        "whatIsIt": "Unique Properties (founded 2008, led by Armin and Arash Jalili) announced a seven-figure signing to bring on Alessandro Console, an off-plan specialist with a luxury HNW client base across multiple Dubai developers. The agency is publicly framing this as an investment in human capital rather than inventory at a moment when, per DLD data, 29,577 brokers are now registered and 6,700+ new entrants joined in H1 2025 alone.",
+        "howItWorks": "Console focuses on luxury, high-yield off-plan matchmaking with global UHNW investors and maintains a loyal repeat-buyer base. Armin Jalili framed the deal as 'a statement of intent' and said 'organisations with foresight invest in capability'. Console said the market is showing 'a shift towards more strategic decision-making' rather than a slowdown. Deal size was not disclosed beyond the seven-figure framing.",
+        "whyItMatters": "For HNW buyers, this concentrates relationship-driven off-plan supply at one shop and a known counterpart. For sellers — especially developers carrying luxury inventory — it suggests that compressed broker commissions are pushing agencies to pay up for proven advisory production rather than churn through commoditized hires. For other agencies, it sets a market-clearing price tag for top off-plan producers in a 29,577-broker pool.",
+        "forWho": "HNW buyers seeking off-plan luxury access, developers placing branded/luxury stock, agency principals benchmarking talent costs.",
+        "tryIt": "https://uniqueproperties.ae/en/"
+      },
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/f2ef7e87-613a-440d-ac65-5a04068c566f/0/untitled-design-9.webp",
+        "alt": "Unique Properties announcement — seven-figure signing of off-plan broker Alessandro Console",
+        "fit": "cover",
+        "credit": "Zawya / Unique Properties"
+      }
+    },
     {
       "id": "dubai-fam-properties-holding-period-study-may-2026",
       "categories": [
