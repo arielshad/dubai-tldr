@@ -1317,6 +1317,50 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260509t051333z",
+      "timestamp": "2026-05-09T05:13:33.208Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh signals within the 72h window. fäm Properties + DLD release a 1.1M-transaction holding-period study showing 69.9% of primary buyers since 2012 still own — Dubai now matches London/NYC retention. Same-day DLD print (08-May) lands at AED 1.14B with ready share jumping to 47.3% (vs 21.6% on 05-May), confirming the rotation toward end-user/ready stock flagged in the 07-May commentary.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-fam-properties-holding-period-study-may-2026",
+          "title": "fäm Properties + DLD holding-period study: 69.9% of Dubai primary buyers since 2012 still own — 740,219 properties never resold, retention now matches London/NYC",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-dld-may-8-2026-daily-print-aed-1-14b-ready-share-47-percent",
+          "title": "Dubai DLD daily print 2026-05-08: AED 1.14B with ready share jumping to 47.3% — fastest 3-day rotation toward ready stock since the May 2026 run began",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "offplan",
+        "rental",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

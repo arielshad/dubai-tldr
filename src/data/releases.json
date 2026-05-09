@@ -1,8 +1,148 @@
 {
-  "generatedAt": "2026-05-09T03:14:25.769Z",
+  "generatedAt": "2026-05-09T05:13:33.208Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-fam-properties-holding-period-study-may-2026",
+      "categories": [
+        "market",
+        "ready",
+        "visa"
+      ],
+      "title": "fäm Properties + DLD holding-period study: 69.9% of Dubai primary buyers since 2012 still own — 740,219 properties never resold, retention now matches London/NYC",
+      "org": "fäm Properties / Dubai Land Department",
+      "date": "2026-05-08",
+      "url": "https://tradearabia.com/News/462271/Dubai-homeowners-hold-properties-long-term,-finds-study/CONS",
+      "summary": "fäm Properties analysed 1.1M+ DLD transactions over 16 years (687,406 primary 2012–2025; 425,083 resale 2009–2025) and found 740,219 homes have never been resold — 69.9% of primary and 61.1% of resale buyers still hold. Dubai's hold profile now mirrors London/NYC (11–12 year US median, ~4% UK annual turnover), with 42% of 2014 primary buyers still owning after 11 years.",
+      "tags": [
+        "fäm Properties",
+        "Dubai Land Department",
+        "holding period",
+        "Golden Visa",
+        "long-term ownership",
+        "primary market",
+        "resale market",
+        "market structure"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Transactions analysed": "1.1M+ (16 years)",
+        "Primary market sample": "687,406 (2012–2025)",
+        "Resale market sample": "425,083 (2009–2025)",
+        "Properties never resold": "740,219 since 2012",
+        "Primary buyers still holding": "69.9% (480,604 of 687,406)",
+        "Resale buyers still holding": "61.1% (259,615 of 425,083)",
+        "2014 primary cohort still holding": "42% after 11 years",
+        "2017 primary cohort still holding": "53% after 8 years",
+        "2022 primary cohort still holding": "61% after 3 years",
+        "US benchmark (Redfin/NAR 2025)": "11–12 year median hold",
+        "UK benchmark": "~4% annual turnover (>20 yr implied avg)"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia — Dubai homeowners hold properties long-term, finds study (08-May-2026)",
+          "url": "https://tradearabia.com/News/462271/Dubai-homeowners-hold-properties-long-term,-finds-study/CONS"
+        },
+        {
+          "label": "Business News Week — Dubai homeowners now holding as long as Londoners and New Yorkers (07-May-2026)",
+          "url": "https://businessnewsweek.in/business/dubai-homeowners-now-holding-as-long-as-londoners-and-new-yorkers/"
+        },
+        {
+          "label": "Dubai Land Department — open data / transactions",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Three-quarters of Dubai's post-2012 buyers never sold — fäm + DLD say the flip cycle is gone and retention now matches London/NYC.",
+        "whatIsIt": "fäm Properties, working with Dubai Land Department data, ran the longest public holding-period analysis Dubai has ever published: 1.1M+ transactions across 16 years. The headline finding is that 740,219 homes purchased since 2012 have never traded again — 69.9% of all primary-market buyers and 61.1% of resale buyers still own the unit they bought. CEO Firas Al Msaddi frames it as 'buyers focused on flipping properties have been replaced by owners committed to staying in Dubai.'",
+        "howItWorks": "The dataset splits 687,406 primary transactions (2012–2025) and 425,083 resale transactions (2009–2025). Cohort analysis shows 42% of 2014 primary buyers, 53% of 2017 primary buyers and 61% of 2022 primary buyers still hold their units — a steepening retention curve. The study attributes the shift to four structural drivers: the 2019 Golden Visa programme (expanded 2022) tying ownership to long-term residency, regulatory protections for off-plan buyers, infrastructure (metro, Dubai South, Creek Harbour, Dubai Islands), and the maturation of family-led demand. US homeowners (Redfin/NAR 2025) sit at an 11–12 year median; the UK turns over ~4% annually.",
+        "whyItMatters": "If retention is now structurally London/NYC-like, two operator implications follow. First, the resale pipeline is thinner than transaction volumes suggest — most owners aren't sellers, so 'distress' supply is mostly motivated/forced rather than discretionary. Second, the buyer's market thesis from BlackBrick/CBRE/Savills is consistent with this data: end-users dominate the buyer pool, and they reward ready, well-located, branded stock over speculative flips. For sellers it raises the bar on broker mandates — a fast exit needs price-to-comp discipline, not just listing reach. For developers, the signal is that the post-handover market won't flood the resale book on day one.",
+        "forWho": "Brokers building seller pitches, off-plan launch operators sizing post-handover supply risk, ready-market underwriters benchmarking liquidity, market analysts updating Dubai vs global hold-period models.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/08/TA_20260508154825.webp",
+        "alt": "Dubai skyline overlooking residential towers — fäm Properties / DLD long-term ownership study",
+        "fit": "cover",
+        "credit": "TradeArabia"
+      },
+      "publishDate": "2026-05-09T05:13:33.208Z"
+    },
+    {
+      "id": "dubai-dld-may-8-2026-daily-print-aed-1-14b-ready-share-47-percent",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-05-08: AED 1.14B with ready share jumping to 47.3% — fastest 3-day rotation toward ready stock since the May 2026 run began",
+      "org": "The Real Estate Report",
+      "date": "2026-05-08",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-may-2026",
+      "summary": "Dubai's 08-May-2026 print closed at AED 1.14B with off-plan AED 600.7M (52.7%) vs ready AED 539.2M (47.3%) — the highest ready share of the May run. The rotation is now four sessions deep (78.4% off-plan on 05-May → 71.2% on 06-May → 61.8% on 07-May → 52.7% on 08-May). Ready villas alone cleared AED 151.6M (28.1% of ready) — a clean signal that end-user/ready stock is catching the bid.",
+      "tags": [
+        "DLD",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "ready-villas",
+        "rotation",
+        "buyer-market",
+        "end-user-demand"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Total transacted (08-May)": "AED 1.14B",
+        "Off-plan": "AED 600.7M (52.7%)",
+        "Ready": "AED 539.2M (47.3%)",
+        "Off-plan flats": "AED 493.2M (82.1% of off-plan)",
+        "Off-plan villas": "AED 58.4M (9.7% of off-plan)",
+        "Ready flats": "AED 347.1M (64.4% of ready)",
+        "Ready villas": "AED 151.6M (28.1% of ready)",
+        "vs 07-May print": "AED 1.14B vs AED 998.5M (off-plan share 52.7% vs 61.8%)",
+        "vs 06-May print": "AED 1.14B vs AED 1.47B (off-plan share 52.7% vs 71.2%)",
+        "vs 05-May print": "AED 1.14B vs AED 2.39B (off-plan share 52.7% vs 78.4%)",
+        "Off-plan share trajectory": "78.4% → 71.2% → 61.8% → 52.7%"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — Dubai daily 09-May-2026 (covers 08-May data)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-may-2026"
+        },
+        {
+          "label": "Dubai Land Department — official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai Pulse — DLD open transactions dataset",
+          "url": "https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open"
+        }
+      ],
+      "explainer": {
+        "tagline": "Four straight sessions of off-plan share collapsing from 78% to 53% — 08-May confirms the rotation toward ready stock is real.",
+        "whatIsIt": "Dubai's 08-May-2026 DLD print landed at AED 1.14B, with ready taking 47.3% of value (AED 539.2M) versus off-plan's 52.7% (AED 600.7M). That's the lowest off-plan share in any May 2026 daily print so far, and it caps a four-session decline from the 78.4% off-plan high on 05-May. Ready flats cleared AED 347.1M and ready villas AED 151.6M — villas alone took 28.1% of the ready tape, a much higher share than earlier in the week.",
+        "howItWorks": "Track the off-plan share trajectory across four prints: 05-May 78.4% (Lumena Business Bay AED 1.02B single-day commercial run) → 06-May 71.2% (Lumena AED 558.5M continuation) → 07-May 61.8% (Lumena pause; first sub-AED 1B day) → 08-May 52.7% (ready flats and villas pick up the slack). Volume is also normalising: AED 2.39B → 1.47B → 998.5M → 1.14B. Off-plan flats still dominate the off-plan side at AED 493.2M (82.1% of off-plan), but the absolute value is well below the 05/06-May commercial-driven peaks. Ready villas at AED 151.6M is the print to watch — that's not single-tower noise.",
+        "whyItMatters": "If 08-May is the new equilibrium rather than a one-day swing, the May 2026 narrative shifts: Dubai's daily DLD tape is no longer driven by Lumena/Omniyat-style single-tower commercial blowouts, and ready end-user demand is materially supporting volume. That aligns with the buyer's-market thesis flagged earlier in the week (BlackBrick villas at-or-below fair value, CBRE 'time-in-market beats timing') and with the fäm/DLD holding-period study showing 70% of primary buyers since 2012 never sold. For ready-market brokers it's a cue to push priced-to-comp inventory; for off-plan launch teams it raises the bar on May/June releases that were aiming to ride the 78% off-plan tape.",
+        "forWho": "Ready-market sellers calibrating asks, broker desks pricing May/June ready inventory, off-plan launch teams sizing competition, analysts updating off-plan vs ready share models, end-users timing entry.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0ad54605-ca32-4522-95a5-3d7964d85af9/pexels-mo-eid-1268975-17865557__1_.jpg",
+        "alt": "Dubai cityscape at dusk — daily DLD transaction print landscape",
+        "fit": "cover",
+        "credit": "Mo Eid / Pexels via The Real Estate Report"
+      },
+      "publishDate": "2026-05-09T05:13:33.208Z"
+    },
     {
       "id": "dubai-empower-q1-2026-aed-208m-net-citywalk-verve-business-bay-plant-may-7-2026",
       "categories": [
