@@ -1396,6 +1396,42 @@
         "market-data-comps",
         "auction-distress"
       ]
+    },
+    {
+      "id": "sweep-20260509t084203z",
+      "timestamp": "2026-05-09T08:42:03.723Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep at 2026-05-09T08:34Z found no qualifying new items. The 31-item feed already covers every May 7-9 story above the inclusion bar: Brookfield-Alshaya Dubai Hills JV (May 7), Empower Q1 (May 7), SAMANA Bay Square gallery (May 8), May 8 DLD print with 47.3% ready share (reported May 9), fäm/DLD holding-period study (May 9), The National 'buyer's market' shift (May 8), and the 2026-05-07 sub-AED 1B daily print. Remaining May-7-to-9 candidates (Mario Volpi tenancy-law Q&A column, D1 Tower owner-office thin lead, AGBI Gold Line analysis dated May 3) either fall short of the inclusion bar or fail the 72h date cap. No qualifying portal/auction signal surfaced.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "luxury",
+        "developer",
+        "auction",
+        "legal",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
