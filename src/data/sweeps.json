@@ -1281,6 +1281,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t031425z",
+      "timestamp": "2026-05-09T03:14:25.769Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-09. Tier-1 sources searched; one fresh, in-window market signal added: Empower's Q1 2026 results (07-May-2026) flag a new Meraas master cooling deal at Citywalk Phase 3 and Verve plus construction start on a 5th 44,000-RT plant in Business Bay — both feed directly into Citywalk/Verve service charges and Lumena/Business Bay commercial underwriting. Other tier-1 stories from the 72h window (DLD daily prints, SAMANA Bay Square Studio, BlackBrick Shabbo, The National buyer's-market shift, Tonino Lamborghini bulk deal, Khor Al Mamzar Beach, shared-housing portal, Brookfield x Alshaya) are already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-empower-q1-2026-aed-208m-net-citywalk-verve-business-bay-plant-may-7-2026",
+          "title": "Empower Q1 2026: AED 208M net profit (+44%), AED 631M revenue — Meraas master deal locks Citywalk Phase 3 + Verve cooling, 5th 44,000-RT Business Bay plant breaks ground Q4 2026",
+          "category": "market",
+          "note": "Fresh tier-1 print (07-May-2026) from Empower / Dubai Media Office. The +44% Q1 net is interesting; the new content for the feed is the Meraas Citywalk/Verve master cooling deal and the dated fifth Business Bay plant — both feed directly into service charges for handover-cluster buyers and Lumena commercial stock."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "commercial",
+        "developer"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }

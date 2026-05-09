@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-05-09T00:45:32.229Z",
+  "generatedAt": "2026-05-09T03:14:25.769Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-empower-q1-2026-aed-208m-net-citywalk-verve-business-bay-plant-may-7-2026",
+      "categories": [
+        "market",
+        "commercial",
+        "developer"
+      ],
+      "title": "Empower Q1 2026: AED 208M net profit (+44%), AED 631M revenue — Meraas master deal locks Citywalk Phase 3 + Verve cooling, 5th 44,000-RT Business Bay plant breaks ground Q4 2026",
+      "org": "Empower (Emirates Central Cooling Systems) / Dubai Media Office",
+      "date": "2026-05-07",
+      "url": "https://mediaoffice.ae/en/news/2026/may/07-05/empower",
+      "summary": "DEWA's 80%-owned district-cooling monopoly Empower books +44% YoY Q1 2026 net profit (AED 208M) on AED 631M revenue, signs a Meraas master agreement for 17,500 RT at Citywalk Phase 3 and Verve, and confirms construction Q4 2026 on a 5th Business Bay plant (44,000 RT).",
+      "tags": [
+        "empower",
+        "dewa",
+        "district-cooling",
+        "service-charges",
+        "business-bay",
+        "citywalk",
+        "verve",
+        "meraas",
+        "lumena",
+        "q1-results"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "BUSINESS-BAY",
+        "CITY-WALK",
+        "LUMENA",
+        "DXB-OFFICE"
+      ],
+      "metrics": {
+        "Q1 2026 net profit": "AED 208M (+44% YoY)",
+        "Q1 2026 pre-tax profit": "AED 229M",
+        "Q1 2026 revenue": "AED 631M (+16.8% YoY)",
+        "Q1 2026 EBITDA": "AED 358M",
+        "12M trailing revenue (Apr 2025–Mar 2026)": "AED 3.51B (+7.6%)",
+        "12M trailing EBITDA": "AED 1.71B (+11.7%)",
+        "New contracts signed Q1": "28 (35,662 RT)",
+        "Connected load added Q1": "33,500 RT",
+        "Total contracted capacity": "1.98M RT",
+        "Customer base": "~160,000 across 1,776 buildings",
+        "DEWA ownership": "80%",
+        "Meraas master agreement": "17,500 RT — Citywalk Phase 3 + Verve",
+        "Fifth Business Bay plant": "44,000 RT, construction starts Q4 2026",
+        "Q1 2026 dividend": "AED 437.5M (4.375 fils/share)"
+      },
+      "links": [
+        {
+          "label": "Dubai Media Office press release (07 May 2026)",
+          "url": "https://mediaoffice.ae/en/news/2026/may/07-05/empower"
+        },
+        {
+          "label": "Zawya: Empower reports 44% YoY growth in Q1 2026 net profit",
+          "url": "https://www.zawya.com/en/press-release/companies-news/empower-reports-44-yoy-growth-in-q1-2026-net-profit-to-aed-208mln-with-revenue-reaching-aed-631mln-iycgseg6"
+        },
+        {
+          "label": "Investing.com: Empower Q1 2026 slides — profit surges 44% on Dubai cooling demand",
+          "url": "https://uk.investing.com/news/company-news/empower-q1-2026-slides-profit-surges-44-on-dubai-cooling-demand-93CH-4658624"
+        }
+      ],
+      "explainer": {
+        "tagline": "DEWA's cooling utility prints +44% Q1 net, locks Meraas Citywalk Phase 3 + Verve, and breaks ground on a 5th Business Bay plant — three signals that touch service charges and commercial supply.",
+        "whatIsIt": "Empower, the world's largest district-cooling operator and now 80% DEWA-owned, reported Q1 2026 net profit of AED 208M (+44% YoY) on AED 631M revenue. The same release confirmed a Meraas master agreement for 17,500 RT covering Citywalk Phase 3 and Verve, and announced construction Q4 2026 on a fifth Business Bay plant with 44,000 RT capacity.",
+        "howItWorks": "Empower contracts capacity directly with developers, then bills end-users via cooling service charges (typically a fixed capacity charge plus consumption). Q1 added 33,500 RT of connected load and 28 new contracts (35,662 RT). Total contracted capacity now sits at 1.98M RT across ~160K customers in 1,776 buildings. The Meraas master deal puts Citywalk Phase 3 and Verve onto Empower's tariff schedule from handover. The Business Bay plant adds capacity for Lumena (Q4 2026 handover), surrounding Omniyat stock, and the broader office pipeline.",
+        "whyItMatters": "Cooling is typically the single biggest line in a Dubai apartment or office service charge. Empower's pipeline (master deals locked, fifth plant scheduled, capacity tracking handover clusters) limits surprise tariff hikes for buyers in those communities — and the Business Bay plant is a direct infrastructure dependency for the AED 3.4B Lumena off-plan office stock and any 2026–27 Citywalk/Verve handover. Buyers should pull the building's cooling-provider clause from the SPA and the published Empower tariff for accurate carry-cost underwriting.",
+        "forWho": "Buyers underwriting Citywalk Phase 3, Verve, Business Bay commercial (Lumena, Omniyat-managed stock) and Meraas-developed units; service-charge analysts; commercial leasing agents pricing fitted vs shell-and-core offers.",
+        "tryIt": "https://www.empower.ae/our-projects/"
+      },
+      "image": {
+        "url": "https://mediaoffice.ae/-/media/2026/may/07-05/01/dlrc-plant.jpg",
+        "alt": "Empower district cooling plant exterior",
+        "credit": "Dubai Media Office / Empower"
+      },
+      "publishDate": "2026-05-09T03:14:25.769Z"
+    },
     {
       "id": "dubai-samana-experience-studio-bay-square-may-8-2026",
       "categories": [
