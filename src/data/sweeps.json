@@ -1519,6 +1519,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t162509z",
+      "timestamp": "2026-05-09T16:25:09.163Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep on 2026-05-09: existing 31-item feed already covers Brookfield-Alshaya Dubai Hills JV, SAMANA Bay Square sales gallery, City Tower, the May 5-8 DLD daily prints, the Empower Q1 print, the buyer's-market shift coverage, the Symbolic Zen Residences promo, the AED 750k visa-floor removal, and the fäm Properties holding-period study. Web sweep surfaced no qualifying new opportunity within the 72h freshness window. The May 9 propertynews.ae items (micro-logistics-hub mandate, DLD AI mediation portal, decade-high homeownership) lacked tier-1 corroboration, exact effective dates, AED figures, and named regulators — they failed the verification bar and were intentionally dropped per zero-hallucination policy.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "offplan",
+        "ready",
+        "luxury",
+        "distress",
+        "rental",
+        "visa",
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
