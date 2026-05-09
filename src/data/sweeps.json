@@ -1495,6 +1495,30 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260509t143228z",
+      "timestamp": "2026-05-09T14:32:28.929Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 14:25Z, two hours after the 12:31Z run that already ingested the May 9 publication of the May 8 DLD daily print plus supporting context. WebSearch + WebFetch across portals, DLD/RERA, tier-1 outlets (Khaleej Times, Gulf News, AGBI, The National, Zawya, TradeArabia), Emirates Auction and PanicSelling.com surfaced nothing dated 2026-05-08 or 2026-05-09 that wasn't already in the feed, and the only May-9-dated propertynews.ae stories (DLD AI mediation tool, micro-logistics tower mandate, decade-high homeownership) had no named officials, no primary-source attribution and could not be cross-verified against any tier-1 outlet or DLD release, so they fail the zero-hallucination bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
