@@ -2044,6 +2044,39 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260510t222420z",
+      "timestamp": "2026-05-10T22:24:20.674Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 2026-05-10T22:17Z, two hours after the prior cron. Checked KT, The National, Zawya, Gulf News, Arabian Business, AGBI, Gulf Business, propertynews.ae and therealestatereports.com plus the every-sweep portal/DLD anchors. No new verifiable Dubai property opportunity in the past 72 hours that is not already in the 34-item feed: the strongest Sun May 10 stories (Danube Greenz launch, Betterhomes stabilisation webinar, fäm/DLD holding-period study, Unique Properties' Console acquisition, DLD May 8 daily print, Empower Q1) were already ingested in the prior sweep, and propertynews.ae May 9-10 leads on a 'Green Home registration-fee cut' and an 'AI rental dispute mediation' could not be corroborated against any DLD, KT, AGBI or Gulf News source — flagged as auto-generated content. The May 10 review covering May 9 DLD transactions has not yet been published by therealestatereports.com. Hayat Community AED 2B contract surfaced on propertynews.ae May 9 but the original credible Gulf News/Arabian Business reporting dates the announcement to 2026-03-30 (~41 days old). AGBI's Gold Line metro property-price analysis is dated 2026-05-03 (outside 72h).",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "distress",
+        "luxury",
+        "rental",
+        "legal",
+        "offplan",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
