@@ -1841,6 +1841,45 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t103318z",
+      "timestamp": "2026-05-10T10:33:18.735Z",
+      "source": "github-actions-sweep",
+      "summary": "Live scan on 2026-05-10 across portal, official, developer, auction, brokerage and market-data surfaces. Every qualifying ≤72h item already lives in the feed (Brookfield/Alshaya JV, Betterhomes stabilisation webinar, fäm/DLD holding-period study, Unique/Console acquisition, Empower Q1, SAMANA Bay Square gallery, Tonino Lamborghini bulk deal, BlackBrick Shabbo, Khor Al Mamzar Beach, shared-housing permits, The National buyer's market piece, Grovy/Wyndham Ramada, panicselling tracker, DLD daily prints 05–08 May). May 9 daily DLD print not yet published; May 10 review covers May 8 data already ingested. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
