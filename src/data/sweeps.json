@@ -1696,6 +1696,43 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t031350z",
+      "timestamp": "2026-05-10T03:13:50.230Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 2026-05-10T03:06Z, ~2.4 hours after the previous sweep. Tier-1 Dubai real-estate sources (Khaleej Times, Gulf News, The National, Zawya, AGBI, Bloomberg, therealestatereports, PanicSelling, Gulf Business, propertynews.ae) and the deterministic scan plan surfaced no new qualifying opportunities within the 72h date cap that are not already represented in the 33-item feed. Saturday weekend cadence is quiet on press releases and DLD daily prints (the next print covers May 9 transactions and is not yet published). The PanicSelling tracker still reads 81 active drops, 31.5% deepest cut, JVC/Downtown/Marina/Hills leading — identical to the existing 2026-05-08 card. Older candidates (Naïa Island Dh377M plot, Meraas Acres AED 2.4B contracts, Nakheel Palm Jebel Ali AED 3.5B contracts, Cheval Dubai Islands, ADCB and Dubai Holding/ENBD off-plan mortgage tie-ups, DLD tokenisation Phase 2) all fall outside the 72h cap on `date`.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "visa",
+        "auction",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
