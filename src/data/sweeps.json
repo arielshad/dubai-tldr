@@ -1733,6 +1733,42 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260510t052311z",
+      "timestamp": "2026-05-10T05:23:11.873Z",
+      "source": "github-actions-sweep",
+      "summary": "May 10 sweep: scanned every-sweep portal, official-data and developer/auction sources plus tier-1 Dubai property news outlets for the 72h window. Existing 33-item feed already covers the May 5-8 news cycle (DLD daily prints through May 8, Brookfield-Alshaya JV, Tonino Lamborghini bulk deal, BlackBrick AED 100M+ broker print, Casa AHS AED 101.2M sale, Jumeirah Coastline AED 400M land deal, Symbolic/Zen Jetour T2 promo, Grovy/Wyndham Ramada Dubai Islands launch, City Tower long-term leasing, Tilal Binghatti pre-launch, panicselling 81-drop tracker, betterhomes stabilisation, Khaleej Times softening note, Savills buyer-intent survey, Empower Q1 2026 cooling print, Khor Al Mamzar AED 3B coastal masterplan, shared-housing permit portal, Brookfield-Alshaya Dubai Hills JV, Villea West Jumeirah Garden City, fäm/DLD holding-period study, Unique Properties broker M&A, Golden Visa bank-guarantee mechanism, Harbour Bridge 85% milestone, off-plan office AED 3B April record, AED 750K visa floor removal, $10M+ deals 63% Q1 jump, weekly DLD AED 15.2B w1). Fresh May 9-10 web/news cycle produced only evergreen advice pieces (The National tenant-viewings column), Abu Dhabi-focused institutional analysis (Dubai Chronicle ADX piece), and feature/lifestyle pieces (propertynews.ae AI sensors / heritage-fusion). PanicSelling.com still shows 81 active drops with same -31.5% deepest cut as the existing card — no material movement. No qualifying new opportunity meets the inclusion bar (under-comp ask, motivated seller, specific actionable signal, or fresh regulatory change). Empty sweep per SWEEP_MEMORY 2026-05-05-A guidance — no padding.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "developer",
+        "luxury",
+        "market",
+        "rental",
+        "auction",
+        "commercial",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
