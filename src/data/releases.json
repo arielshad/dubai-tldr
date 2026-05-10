@@ -1,8 +1,96 @@
 {
-  "generatedAt": "2026-05-10T18:31:15.444Z",
+  "generatedAt": "2026-05-10T20:25:37.723Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-danube-greenz-villa-community-coca-cola-arena-launch-may-10-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Sheikh Nahyan unveils Danube's Greenz at Coca-Cola Arena — Dubai's first fully furnished master villa community, AED 3.5M start, 1% monthly plan, Q4 2029 handover",
+      "org": "Danube Properties",
+      "date": "2026-05-10",
+      "url": "https://www.khaleejtimes.com/business/property/uae-places-people-at-the-centre-of-its-national-development-says-sheikh-nahyan",
+      "summary": "Sheikh Nahyan bin Mubarak Al Nahyan unveiled Greenz by Danube on 10-May-2026 at Coca-Cola Arena in front of 7,000+ investors and brokers — Danube's first integrated master villa community, billed as Dubai's first fully furnished villa masterplan. Mix of 3/4-BR townhouses and 5-BR semi-detached / twin villas with Dolce Vita Italian interiors, 50+ amenities across five zones, AED 3.5M starting price on Danube's signature 1% monthly plan, handover December 2029.",
+      "tags": [
+        "Danube Properties",
+        "Greenz",
+        "Rizwan Sajan",
+        "Sheikh Nahyan",
+        "fully furnished",
+        "master villa community",
+        "1% monthly plan",
+        "Dubai International Academic City",
+        "Dubai Silicon Oasis",
+        "Q4 2029 handover"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DSO",
+        "DXB-DUBAILAND",
+        "DXB"
+      ],
+      "metrics": {
+        "Developer": "Danube Properties (Danube Group)",
+        "Project": "Greenz by Danube",
+        "Location": "Adjacent to Dubai International Academic City, behind Dubai Silicon Oasis",
+        "Unit mix": "3- & 4-BR townhouses; 5-BR semi-detached and twin villas",
+        "Interiors": "Dolce Vita Italian branded; private lifts, sky gardens, closed kitchens",
+        "Amenities": "50+ across 5 themed zones (sports courts, fitness/recovery, green spaces, family, beach-inspired, dancing fountain)",
+        "Starting price": "AED 3.5M",
+        "Payment plan": "1% monthly",
+        "Handover": "December 2029 (Q4 2029)",
+        "Construction window": "36–40 months",
+        "Launch venue": "Coca-Cola Arena, Dubai",
+        "Launch attendance": "7,000+",
+        "First-large-scale-villa for Danube": "Yes",
+        "Surrounding population": "100,000+ residents/professionals (DSO + Academic City)"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Sheikh Nahyan unveils Danube's Greenz (10-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-places-people-at-the-centre-of-its-national-development-says-sheikh-nahyan"
+        },
+        {
+          "label": "Gulf Today — Sheikh Nahyan unveils Dubai's first fully furnished master villa project (10-May-2026)",
+          "url": "https://www.gulftoday.ae/business/2026/05/10/sheikh-nahyan-unveils-dubais-first-fully-furnished-master-villa-project"
+        },
+        {
+          "label": "Travels Dubai — Dubai's first fully furnished master villa community launched by Danube Properties (10-May-2026)",
+          "url": "https://www.travelsdubai.com/10-May-2026/dubai-s-first-fully-furnished-master-villa-community-launched-danube-properties"
+        },
+        {
+          "label": "Zawya — Danube launches its first townhouse and villa master community in Dubai",
+          "url": "https://www.zawya.com/en/projects/construction/danube-launches-its-first-townhouse-and-villa-master-community-in-dubai-yb0pxj8x"
+        },
+        {
+          "label": "Greenz by Danube — official site",
+          "url": "https://greenzbydanube.co/"
+        },
+        {
+          "label": "Danube Properties — Greenz Master Community announcement",
+          "url": "https://danubeproperties.com/danube-properties-unveils-aed-3-5m-greenz-master-community-in-dubais-high-growth-academic-city/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Danube's first villa-led masterplan brings a 1%-monthly furnished townhouse to the Academic City / DSO spillover zone, three years out from handover.",
+        "whatIsIt": "On 10-May-2026 Sheikh Nahyan bin Mubarak Al Nahyan unveiled Greenz by Danube at a Coca-Cola Arena event attended by 7,000+ investors, brokers and dignitaries — Danube's first large-scale integrated master villa community and what the developer markets as Dubai's first fully furnished master villa project. The masterplan sits next to Dubai International Academic City and behind Dubai Silicon Oasis, two clusters that already host 100,000+ students, professionals and entrepreneurs. The product mix is 3- and 4-bedroom townhouses plus 5-bedroom semi-detached and twin villas, all delivered with Dolce Vita Italian branded interiors, private lifts, sky gardens and closed kitchens, with 50+ amenities split across five themed zones (sports, fitness/recovery, green spaces, family, beach-inspired plus a dancing fountain).",
+        "howItWorks": "Pricing starts from AED 3.5M with Danube's signature 1% monthly payment plan and a 36–40 month construction window targeting December 2029 (Q4 2029) handover. The townhouse end of the mix lands the buyer in Danube's existing operator stack (1% monthly, fully furnished) but on a villa-format product Danube hasn't built before — so EOI buyers should ask for (1) the registered Trakheesi/Oqood reference, (2) the construction milestones tied to each 1% installment, (3) the exact furnishing scope (which 'Dolce Vita' SKUs ship with the unit vs. broker-fitted), (4) the per-cluster service-charge estimate including the dancing-fountain / amenity opex, and (5) clarification on whether the 5-BR semi-detached vs. twin-villa product carries any plot-size differential.",
+        "whyItMatters": "Greenz is the first Q4 2029 villa-format launch with a true 1%-monthly cash plan in the DSO/Academic City corridor, where the comp set is mostly older Damac Hills 2 and Dubailand townhouse stock without furnishing. For buyers it converts a typical AED 3.5M villa underwrite into a fully-furnished package with end-2029 handover; for brokers it's a fresh inventory sheet on the Danube channel just as the May 2026 Khaleej Times Betterhomes data shows ready villas trading at-or-below fair value. Risks: villa execution risk for a developer whose track record is high-rise apartments, branded-interiors carrying cost inside service charges, and 2029 handover congestion as 60–120k Dubai units come online.",
+        "forWho": "End-user villa buyers using Danube's 1% monthly plan; off-plan brokers carrying EOIs in DSO/Academic City; investors comping branded-interior townhouses against Damac Lagoons / Hills 2 stock.",
+        "tryIt": "https://danubeproperties.com/danube-properties-unveils-aed-3-5m-greenz-master-community-in-dubais-high-growth-academic-city/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-10/s0hg0ta6/Danube-Greenz.jpg?width=1200&height=800&q=80&format=auto",
+        "alt": "Greenz by Danube master villa community render — Danube's first fully furnished villa masterplan, unveiled at Coca-Cola Arena on 10-May-2026",
+        "fit": "cover",
+        "credit": "Danube Properties via Khaleej Times"
+      },
+      "publishDate": "2026-05-10T20:25:37.723Z"
+    },
     {
       "id": "dubai-betterhomes-may-2026-stabilisation-rental-softening-webinar",
       "categories": [

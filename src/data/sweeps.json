@@ -2004,6 +2004,46 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t202537z",
+      "timestamp": "2026-05-10T20:25:37.723Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-05-10 found one fresh, well-corroborated launch story: Sheikh Nahyan unveiled Danube's Greenz master villa community at Coca-Cola Arena. Other May 9–10 surface signals (panicselling tracker, Dubai property hold-time study, Khaleej Times stabilisation piece) duplicated existing feed cards or fell outside the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-danube-greenz-villa-community-coca-cola-arena-launch-may-10-2026",
+          "title": "Sheikh Nahyan unveils Danube's Greenz at Coca-Cola Arena — Dubai's first fully furnished master villa community, AED 3.5M start, 1% monthly plan, Q4 2029 handover",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "distress",
+        "ready",
+        "rental",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
