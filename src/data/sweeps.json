@@ -1972,6 +1972,38 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260510t183115z",
+      "timestamp": "2026-05-10T18:31:15.444Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep on 2026-05-10: scanned DLD/RERA, primary news, developer launch and brokerage/luxury surfaces plus auction and market-data sources. The 33-item feed already absorbs the live 72h news (Brookfield/Alshaya JV, City Tower, fäm holding-period study, Empower Q1, Casa AHS Sky Villa, May 5–8 DLD daily prints, visa-floor removal, harbour bridge, Khor Al Mamzar, Tonino Lamborghini bulk deal, etc.). The newer May 9–10 items surfaced — propertynews.ae 'Hayat AED 2B' rehash (real award is March 30), 'Green Home registration fee' speculation, 'AI mediation portal' commentary and a 2026-05-09 The National advice column on tenant-viewing rights — failed primary verification or operator-action thresholds.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "luxury",
+        "distress",
+        "legal",
+        "rental",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
