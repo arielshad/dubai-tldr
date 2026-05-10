@@ -1805,6 +1805,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t084706z",
+      "timestamp": "2026-05-10T08:47:06.845Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 2026-05-10T08:38Z. Last 72h surfaced no qualifying new opportunities — the May 7 Brookfield/Alshaya JV, the DLD daily prints for May 6-8, the Edwards & Towers May 1-7 weekly rundown, the Aman Residences AED 171M deal, and the PanicSelling 81-drop tracker all already exist in the feed. The only items dated May 9 were a Mario Volpi Q&A column on tenant viewings (advice, not an opportunity) and a Dubai Chronicle analysis piece on ADX institutional flows (opinion, no actionable transaction). No filler added per the empty-sweep-is-success rule.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
