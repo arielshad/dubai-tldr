@@ -1880,6 +1880,38 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t123327z",
+      "timestamp": "2026-05-10T12:33:27.019Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 2026-05-10T12:20Z, ~2h after the previous run that ingested the May 8 DLD print and the fäm/DLD holding-period study. Verified candidates (KT 'flip market' May 10, KT 'metro gold line cushion' May 10) duplicate existing feed cards (fäm holding-period item; Betterhomes May stabilisation webinar). propertynews.ae items (Green Home transfer-fee cut, MyEquity portal, Dubai Islands 'Island Link') had no tier-1 corroboration and were rejected. ADCB off-plan mortgage (Khaleej Times) is dated 2026-04-30, outside the 72h cap.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "rental",
+        "luxury",
+        "developer",
+        "distress",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
