@@ -1912,6 +1912,41 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260510t143343z",
+      "timestamp": "2026-05-10T14:33:43.013Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep at 2026-05-10T14:30Z found no fresh, qualifying Dubai property opportunities within the 72h window that aren't already covered. All major May 7-10 signals (Brookfield/Alshaya Dubai Hills JV, fäm Properties holding-period study, May 7-8 DLD daily prints, Dubai Islands off-plan lead, AED 750k visa floor removal, panicselling 81-drops tracker, The National's 'buyer's market' piece) are already in the feed. KT May 10 'metro gold line cushion' and Dubai Chronicle May 9 ADX piece are analytical recaps of existing items rather than new opportunities. Empty newItems is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
