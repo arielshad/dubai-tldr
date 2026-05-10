@@ -1658,6 +1658,44 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t004257z",
+      "timestamp": "2026-05-10T00:42:57.373Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-10T00:35Z sweep: scanned every-sweep portal/DLD sources plus developer, auction, brokerage and market-data references. The May 9 DLD daily print (review-10-may-2026) is not yet published; major macro signals from May 7-9 (Brookfield/Alshaya JV, fäm holding-period study, betterhomes stabilisation note, Empower Q1, DLD May 8 daily, Casa AHS sale, Khor Al Mamzar opening, Symbolic Zen, Tilal Binghatti, Grovy/Wyndham) are already on the feed from the prior cron. No qualifying new opportunity within the 72h date cap.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "visa",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "dubizzle-houza-crosscheck",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
