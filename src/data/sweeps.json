@@ -1769,6 +1769,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t070453z",
+      "timestamp": "2026-05-10T07:04:53.414Z",
+      "source": "github-actions-sweep",
+      "summary": "No qualifying new opportunities. Sweep ran 2026-05-10T06:56Z, ~1.5h after the prior sweep at 05:23Z. Every Dubai property story dated within the 72h window (>= 2026-05-07) — Brookfield/Alshaya Dubai Hills JV (May 7), Empower Q1 release (May 7), DLD daily prints for May 5/6/7/8, Samana Bay Square Experience Studio (May 8), Tonino Lamborghini bulk deal, fäm holding-period study, Betterhomes May webinar, Unique Properties broker acquisition, BlackBrick Shabbo AED 100M sales, Khor Al Mamzar reopening, Grovy/Wyndham Ramada Residences, Symbolic Zen Residences Jetour promo, Casa AHS Sky Villa, City Tower SHZ, Tilal Binghatti pre-launch, Jumeirah Coastline AED 400M plot deal, Khaleej Times resale-within-5–15%-of-peak, Khaleej Times owners-still-doubling-money, Savills buyer-intent survey, The National buyers'-market shift (May 8), PanicSelling May 8 distress tracker, off-plan office April record, ADCB off-plan mortgage (April 30 — outside cap), Cheval Residences (April 20 — outside cap), Al Ghurair Al Jaddaf (April 14 — outside cap) — was already ingested in earlier sweeps, outside the 72h cap, or marginal Abu-Dhabi-centric commentary (Dubai Chronicle ADX piece). Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "auction",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
