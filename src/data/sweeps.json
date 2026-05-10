@@ -1947,6 +1947,31 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260510t162653z",
+      "timestamp": "2026-05-10T16:26:53.610Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 2026-05-10T16:35Z. Existing 33-item feed already densely covers May 5-10 (four daily DLD prints, BlackBrick AED 100M, Tonino Lamborghini AED 150M bulk deal, Casa AHS AED 101.2M, AED 400M Jumeirah plot deal, Brookfield/Alshaya Dubai Hills JV, Symbolic Zen, Grovy Wyndham Dubai Islands, City Tower Sheikh Zayed Road, Tilal Binghatti, Empower Q1, Khor Al Mamzar, fäm holding-period study, Betterhomes stabilisation, Unique Properties broker acquisition, panicselling 81 drops, Savills buyer-intent, KT 5-15% peak resale piece, buyers-market shift, AED 750k visa-floor removal, shared-housing portal, Harbour Bridge 85%). The May 9 The National tenant-viewings legal Q&A and the May 10 KT 'visa rules + Gold Line cushion' aggregator article are the only fresh in-window pieces; both are recap/column content with no material new datapoint not already represented. PropertyNews.ae surfaced three May 10 items (Green Home registration-fee discount, MyEquity homeowner portal, Dubai Islands 'Island Link' bridge) that could not be verified against any official channel or second source — flagged in SWEEP_MEMORY as fabrication risk. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
