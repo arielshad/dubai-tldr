@@ -2238,6 +2238,45 @@
         "market-data-comps",
         "brokerage-luxury-leads"
       ]
+    },
+    {
+      "id": "sweep-20260511t091756z",
+      "timestamp": "2026-05-11T09:17:56.692Z",
+      "source": "github-actions-sweep",
+      "summary": "Week 19 sweep: one fresh distress-signal item from AGBI (May 11) — LuxuryPriceDrops.com data shows AED 1.7B+ in seller price cuts across 2,800+ Dubai listings, including a Jumeirah villa cut from AED 110M to AED 85M and an Arabian Ranches villa marked down five times. Other May 10–11 narratives (Khaleej Times stabilisation piece, fäm holding-period study, Real Estate Reports weekly) duplicate existing feed entries.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-luxurypricedrops-aed-1-7b-cuts-2800-listings-may-11-2026",
+          "title": "AGBI / LuxuryPriceDrops.com: Dubai sellers cut AED 1.7B across 2,800+ listings — AED 110M Jumeirah villa marked to AED 85M, Arabian Ranches villa cut 5 times to AED 7.4M",
+          "category": "distress",
+          "note": "AGBI's 11 May (within 72h cap) third-party measurement of Dubai seller markdowns — distinct from the panicselling.com tracker already in the feed (different platform, different basket). Adds named villa-level price-cut data points buyers can negotiate against."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "market",
+        "ready",
+        "luxury",
+        "developer",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

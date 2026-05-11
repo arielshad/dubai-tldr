@@ -1,8 +1,69 @@
 {
-  "generatedAt": "2026-05-11T07:16:56.443Z",
+  "generatedAt": "2026-05-11T09:17:56.692Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-luxurypricedrops-aed-1-7b-cuts-2800-listings-may-11-2026",
+      "categories": [
+        "distress",
+        "market",
+        "ready"
+      ],
+      "title": "AGBI / LuxuryPriceDrops.com: Dubai sellers cut AED 1.7B across 2,800+ listings — AED 110M Jumeirah villa marked to AED 85M, Arabian Ranches villa cut 5 times to AED 7.4M",
+      "org": "AGBI / LuxuryPriceDrops.com",
+      "date": "2026-05-11",
+      "publishDate": "2026-05-11T09:17:56.692Z",
+      "url": "https://www.agbi.com/analysis/real-estate/2026/05/dubai-property-sellers-slashing-prices-data-shows/",
+      "summary": "AGBI (11 May) reports LuxuryPriceDrops.com tracking AED 1.7B ($463M) of asking-price cuts across 2,800+ Dubai listings out of ~27,000 monitored — 500+ new reductions in the past week. Secondary market markdowns outnumber off-plan ~2:1; deepest single cut to date is a 4-bed Jumeirah villa from AED 110M to AED 85M, and an Arabian Ranches villa has been re-priced 5 times from AED 8.5M to AED 7.4M without finding a buyer.",
+      "tags": [
+        "distress",
+        "luxury",
+        "secondary-market",
+        "price-cuts",
+        "Jumeirah",
+        "Arabian Ranches"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-JUMEIRAH",
+        "DXB-ARABIAN-RANCHES"
+      ],
+      "metrics": {
+        "Tracked listings": "~27,000",
+        "Active price drops": "2,800+",
+        "Cumulative cut": "AED 1.7B ($463M)",
+        "New drops this week": "500+",
+        "Biggest villa cut": "AED 110M → AED 85M (Jumeirah, 4-BR)",
+        "Arabian Ranches villa": "AED 8.5M → AED 7.4M (5 cuts)",
+        "March 2026 DLD residential sales": "AED 37B (-20%, steepest m/m drop since pandemic)",
+        "Secondary vs off-plan markdowns": "~2:1"
+      },
+      "links": [
+        {
+          "label": "AGBI report (Megha Merani, 11 May 2026)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/05/dubai-property-sellers-slashing-prices-data-shows/"
+        },
+        {
+          "label": "LuxuryPriceDrops.com Dubai dashboard",
+          "url": "https://www.luxurypricedrops.com/dubai/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Independent tracker logs AED 1.7B of Dubai asking-price cuts — secondary villas leading, off-plan a step behind.",
+        "whatIsIt": "AGBI's 11 May report cites LuxuryPriceDrops.com, an independent scraper that monitors ~27,000 live Dubai listings, finding 2,800+ properties have been marked down a cumulative AED 1.7B ($463M) since the regional conflict started in late February. Co-founder Matias Dorta says the pace of reductions is not slowing, with 500+ new drops logged in the past week alone.",
+        "howItWorks": "Secondary (ready) markdowns are running roughly 2× off-plan markdowns by count, suggesting tenant-owner sellers are repricing faster than developers can flex payment plans. The single biggest active cut is a 4-bedroom Jumeirah villa repriced from AED 110M to AED 85M (-23%); an Arabian Ranches villa has been cut five times from AED 8.5M to AED 7.4M (-13%) and is still unsold. AGBI also notes DLD March 2026 residential sales were AED 37B, down nearly 20% — the steepest monthly fall since the pandemic.",
+        "whyItMatters": "This is the most credible third-party measurement of seller motivation that buyers in Dubai have right now — it complements PanicSelling.com's 81-drop count already in the feed but uses a different basket and a longer measurement window. The dataset gives buyers a price-discovery anchor for negotiating off list prices in Jumeirah villas, Arabian Ranches, and mid-luxury Marina/Downtown stock, and tells sellers where the market is actually clearing versus where prices are still aspirational.",
+        "forWho": "Cash buyers hunting villa repricings, brokers running buy-side mandates, secondary sellers benchmarking their ask, and analysts pricing risk into Q2 2026 underwrites.",
+        "tryIt": "https://www.luxurypricedrops.com/dubai/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/2026/05/Dubai-prop-scaled.jpg?fit=633%2C633",
+        "alt": "Aerial photo of Dubai Marina towers and waterfront — AGBI illustration for the 11-May-2026 seller price-cut story citing LuxuryPriceDrops.com",
+        "fit": "cover",
+        "credit": "AGBI / Alamy"
+      }
+    },
     {
       "id": "dubai-emaar-q1-2026-aed-20-1b-sales-aed-3-5b-net-profit-may-11",
       "categories": [
