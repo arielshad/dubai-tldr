@@ -2392,6 +2392,45 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t170042z",
+      "timestamp": "2026-05-11T17:00:42.992Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-11T16:55Z sweep — feed already saturated with May 8–11 Dubai property coverage (Binghatti and Emaar Q1, DLD week-19 print, Metropolitan AED 4B remote conveyancing, AGBI/LuxuryPriceDrops, Volpi tenant viewings, WTC bridge, Danube Greenz). WebSearch + WebFetch surfaced no qualifying new opportunities inside the 72h window. Empty sweep.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "luxury",
+        "developer",
+        "market",
+        "rental",
+        "commercial",
+        "visa",
+        "legal",
+        "auction",
+        "lead",
+        "land"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
