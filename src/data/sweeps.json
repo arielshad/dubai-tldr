@@ -2351,6 +2351,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t151136z",
+      "timestamp": "2026-05-11T15:11:36.754Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-11 13:10Z sweep: every-2h sweep produced no qualifying new items. The May 8–11 news cycle is fully reflected in the existing feed (Emaar Q1, Binghatti Q1, DLD week 19, DLD daily prints 2026-05-05 to 2026-05-08, Metropolitan remote-conveyancing, tenant-viewing-rights playbook, WTC roundabout bridge opening, Khor Al Mamzar Beach reopen, Danube Greenz launch, Betterhomes stabilisation webinar, fäm Properties holding-period study, LuxuryPriceDrops AED 1.7B cuts, AGBI/buyers-market shift, Casa AHS AED 101.2M sale, Tonino Lamborghini AED 150M bulk deal, BlackBrick AED 100M villa run, Symbolic Zen Residences + Jetour T2 promo, Unique Properties / Alessandro Console acquisition, Empower Q1, SAMANA Experience Studio, City Tower Sheikh Zayed Road, Tilal Binghatti pre-launch, AED 750K visa floor removal, AED 400M Jumeirah Coastline plot deal, shared-housing permit portal, sub-AED 1B DLD day 2026-05-07). Surveyed candidates outside the inclusion bar: (a) Khaleej Times 2026-05-10 'Dubai property market stabilises' — aggregated commentary that recycles the April 22 Gold Line announcement (>72h) plus already-captured visa-floor removal; (b) The National 2026-05-11 Emaar parent-PJSC Q1 piece — same earnings event as existing Emaar Development card, no incremental opportunity signal; (c) propertynews.ae May 11 trio (Solar Credit initiative, Meydan Horizon infrastructure, AED 14.2B weekly print) — verified as speculative/editorial without concrete metrics, attributions, or DLD references; (d) AMWAJ Gate 11 ground-break — well past 72h (March 27). Per SWEEP_MEMORY 2026-05-06-A/B and the 'Empty sweep is success' policy, no padding added.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
