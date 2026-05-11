@@ -2208,6 +2208,36 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t071656z",
+      "timestamp": "2026-05-11T07:16:56.443Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep at 07:13 UTC 2026-05-11: the prior cron (05:30 UTC) already ingested every fresh Dubai signal inside the 72h window — Emaar Q1 print, weekly DLD week-19 report, fäm/DLD holding-period study, Metropolitan remote-conveyancing flow, Greenz/Coca-Cola Arena launch, tenant viewing-rights playbook, WTC roundabout bridge, Casa AHS AED 101.2M sale, Empower Q1, Betterhomes stabilisation webinar, SAMANA Bay Square gallery, Tonino Lamborghini bulk deal, and the May-7/8 DLD daily prints. Khaleej Times' 'New visa rules, metro gold line cushion market' (May 10) and 'Dubai sheds flip-market image' (May 10) both repackage stories already in the feed (Betterhomes stabilisation, fäm 16-year retention study, AED 750K visa-floor removal). No new launch, distress, auction, transaction or regulatory signal surfaced on Property Finder, Bayut, DLD/RERA, developer pipelines, or weekly comps that isn't already covered.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "ready",
+        "rental",
+        "luxury",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "market-data-comps",
+        "brokerage-luxury-leads"
+      ]
     }
   ]
 }
