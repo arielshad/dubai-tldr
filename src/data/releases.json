@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-05-11T11:10:48.531Z",
+  "generatedAt": "2026-05-11T13:10:21.075Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-binghatti-q1-2026-aed-1-43b-net-profit-4000-units-may-11",
+      "categories": [
+        "developer",
+        "offplan",
+        "market"
+      ],
+      "title": "Binghatti Q1 2026: AED 1.43B net profit (+73%), AED 5.88B sales across 4,000+ units, AED 52B backlog as 5 launches and $500M sukuk land in the quarter",
+      "org": "Binghatti Holding / Khaleej Times",
+      "date": "2026-05-11",
+      "url": "https://www.khaleejtimes.com/business/property/binghattis-q1-profit-jumps-73-to-dh143-billion-sells-over-4000-units",
+      "summary": "Binghatti's Q1 2026 print: AED 1.43B net profit (+73% YoY) on AED 4.39B revenue (+52%), AED 5.88B in sales across 4,000+ units, AED 52B development backlog and 10th straight quarter of growth.",
+      "tags": [
+        "binghatti",
+        "off-plan",
+        "developer-earnings",
+        "sukuk",
+        "Q1-2026",
+        "Dubai"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BINGHATTI",
+        "JVC",
+        "BUSINESS-BAY"
+      ],
+      "metrics": {
+        "Net profit Q1 2026": "AED 1.43B (+73% YoY)",
+        "Revenue Q1 2026": "AED 4.39B (+52%)",
+        "EBITDA Q1 2026": "AED 1.83B (+83%)",
+        "Net margin": "33% (vs 29% Q1 2025)",
+        "Gross margin": "43%",
+        "Sales Q1 2026": "AED 5.88B",
+        "Units sold Q1": "4,000+",
+        "New launches Q1": "5 projects / AED 8.58B / 4,696 units",
+        "Development backlog": "AED 52B",
+        "Sales backlog": "AED 16B",
+        "Revenue backlog": "AED 18B",
+        "Cash position": "AED 9.9B",
+        "Sukuk": "$500M, 5.5-yr tenor, 4.4x oversubscribed"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Binghatti Q1 2026 profit jumps 73%",
+          "url": "https://www.khaleejtimes.com/business/property/binghattis-q1-profit-jumps-73-to-dh143-billion-sells-over-4000-units"
+        },
+        {
+          "label": "Gulf News — Binghatti record quarter coverage",
+          "url": "https://gulfnews.com/business/property/dubai-developer-posts-record-profit-as-new-projects-fuels-growth-1.500536437"
+        },
+        {
+          "label": "Binghatti investor relations",
+          "url": "https://www.binghatti.com/en/investors-relations"
+        }
+      ],
+      "explainer": {
+        "tagline": "Second Dubai developer print of the day after Emaar: Binghatti clears AED 1.43B net profit on AED 5.88B sales — proof off-plan demand is broad, not Emaar-only.",
+        "whatIsIt": "Binghatti — Dubai's biggest pure off-plan developer by unit count and 4.4% market share — released Q1 2026 financials on 2026-05-11. Net profit hit AED 1.43B (+73% YoY) on AED 4.39B revenue (+52%), with AED 5.88B in sales across 4,000+ units. Five new launches in the quarter added AED 8.58B / 4,696 units to the pipeline, and Binghatti placed a $500M 5.5-year sukuk (4.4x oversubscribed) — the longest-tenor sukuk from a UAE private real-estate developer.",
+        "howItWorks": "The development backlog now stands at AED 52B, with AED 16B of sales backlog and AED 18B of revenue backlog yet to recognise. Net margin expanded to 33% (vs 29% in Q1 2025) and gross margin to 43%, with EBITDA up 83% to AED 1.83B. Cash on balance sheet is AED 9.9B against AED 32.87B total assets. Chairman Muhammad BinGhatti credits the vertically integrated model (in-house design, build and sales) for translating Dubai's primary-market demand into earnings; CFO Shehzad Janab points to scalable cash generation.",
+        "whyItMatters": "Pairs with Emaar's same-day Q1 print: two top-five off-plan developers both beating expectations on launch volume and absorption argues the April–Q1 off-plan dominance (76% of value) is structural, not concentrated. The sukuk being oversubscribed 4.4x — at the longest tenor any UAE private developer has placed — is a clean institutional credit signal during the regional-conflict overhang. Watch the AED 52B backlog as a forward indicator of handover supply in 2027–2029.",
+        "forWho": "Off-plan buyers tracking developer solvency, institutional credit investors, primary-market underwriters benchmarking Q1 2026 absorption versus Emaar/DAMAC/Sobha.",
+        "tryIt": "https://www.binghatti.com/en/investors-relations"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-11/1t48ms9f/Binghatti-pic.jpeg?width=800&height=600&q=60&format=auto",
+        "alt": "Binghatti Holding signage / project visual accompanying Khaleej Times coverage of Q1 2026 results",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-11T13:10:21.075Z"
+    },
     {
       "id": "dubai-luxurypricedrops-aed-1-7b-cuts-2800-listings-may-11-2026",
       "categories": [

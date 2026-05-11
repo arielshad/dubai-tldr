@@ -2315,6 +2315,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t131021z",
+      "timestamp": "2026-05-11T13:10:21.075Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-05-11 ingested one fresh developer earnings story — Binghatti's Q1 2026 results — surfacing Dubai's second top-five off-plan developer with a Q1 print after Emaar (already in the feed).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-binghatti-q1-2026-aed-1-43b-net-profit-4000-units-may-11",
+          "title": "Binghatti Q1 2026: AED 1.43B net profit (+73%), AED 5.88B sales across 4,000+ units, AED 52B backlog as 5 launches and $500M sukuk land in the quarter",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
