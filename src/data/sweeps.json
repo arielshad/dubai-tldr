@@ -2113,6 +2113,45 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t031519z",
+      "timestamp": "2026-05-11T03:15:19.604Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled 2026-05-11 03:08 UTC sweep. Coverage spans portals (Property Finder, Bayut, Dubizzle/Houza), DLD/RERA official data, developer launches, auction/distress, brokerage/luxury, and market-data references. No new qualifying card: the Dubai-property news cycle from the last 72 hours (Sheikh Nahyan Danube Greenz launch, fäm/DLD holding-period study, Betterhomes regional-conflict update, DLD prints for 06–08 May, BlackBrick AED 100M villa run, WTC bridge, Tonino Lamborghini bulk deal, Empower Q1 2026) is already represented in the feed; fresh KT/National pieces (Savills buyer-intent survey, fäm holding-period coverage) duplicate items already shipped, and propertynews.ae items lacked verifiable primary sources. Empty newItems is success per inclusion bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
