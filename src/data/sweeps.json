@@ -2152,6 +2152,62 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t052938z",
+      "timestamp": "2026-05-11T05:29:38.370Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep adds four 09–11 May 2026 items: Emaar's Q1 2026 print (AED 20.1B sales, AED 134.6B backlog, 10 new launches), the DLD week-19 weekly synthesis (AED 7.99B ex-land plus a 37-office AED 1.17B Lumena institutional aggregation), a Khaleej Times piece on remote-conveyancing share crossing AED 4B / 1,000+ deals, and a Mario Volpi legal explainer on tenant rights vs owner viewings during sale.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-emaar-q1-2026-aed-20-1b-sales-aed-3-5b-net-profit-may-11",
+          "title": "Emaar Q1 2026: AED 20.1B property sales (+22%), AED 3.5B net profit (+36%), AED 134.6B backlog as 10 new launches land before regional conflict spreads",
+          "category": "developer",
+          "note": "Q1 2026 print from the largest Dubai developer — major signal on primary-market depth, backlog and dividend posture during a quarter that ended with a regional shock."
+        },
+        {
+          "id": "dubai-dld-week-19-2026-weekly-aed-7-99b-lumena-37-offices-aed-1-17b-may-11",
+          "title": "DLD week 19 (May 4–10): AED 7.99B ex-land across 3,598 deals (-17% w/w) — Lumena books 37-office AED 1.17B institutional cluster, Eden House AED 49M ready flat, Numa Reserve AED 30M villa",
+          "category": "market",
+          "note": "First DLD weekly synthesis of May; surfaces the week-on-week normalisation off the May 5 jumbo day plus a 37-office Lumena institutional aggregation that no single daily print captured."
+        },
+        {
+          "id": "dubai-metropolitan-conveyancing-aed-4b-remote-overseas-deals-may-11",
+          "title": "Khaleej Times: AED 4B+ remote-conveyancing flow at Metropolitan over 1,000+ deals as overseas buyers close Dubai property without travelling",
+          "category": "lead",
+          "note": "Hard scale numbers on the remote-buyer funnel — concrete operator action both for brokers chasing overseas leads and for sellers underwriting POA-driven counterparties."
+        },
+        {
+          "id": "dubai-tenant-viewing-rights-volpi-rdc-may-9",
+          "title": "Selling a tenanted Dubai unit? Mario Volpi's playbook: tenants can't legally block sales, but unstructured viewings backfire — propose 2 evening slots + 1 weekend morning",
+          "category": "legal",
+          "note": "Operator-grade legal explainer touching a large share of resale flow; Mario Volpi's structured-viewing playbook plus RDC backstop is directly actionable for sell-side brokers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "market",
+        "commercial",
+        "lead",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

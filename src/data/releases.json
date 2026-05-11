@@ -1,8 +1,296 @@
 {
-  "generatedAt": "2026-05-11T03:15:19.604Z",
+  "generatedAt": "2026-05-11T05:29:38.370Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-emaar-q1-2026-aed-20-1b-sales-aed-3-5b-net-profit-may-11",
+      "categories": [
+        "developer",
+        "market"
+      ],
+      "title": "Emaar Q1 2026: AED 20.1B property sales (+22%), AED 3.5B net profit (+36%), AED 134.6B backlog as 10 new launches land before regional conflict spreads",
+      "org": "Emaar Properties / Khaleej Times",
+      "date": "2026-05-11",
+      "url": "https://www.khaleejtimes.com/business/property/strong-demand-new-project-launches-drive-emaar-to-record-over-dh20-billion-in-property-sales",
+      "summary": "Emaar Properties reports Q1 2026 property sales of AED 20.1 billion (+22% YoY) at Emaar Development, AED 12.4B group revenue (+23%), AED 3.5B net profit (+36%) and an AED 134.6B revenue backlog (+35%) — with 10 new residential launches across master-planned communities and an AED 8.9B / 100% dividend payout. Founder Mohamed Alabbar frames the quarter as proof of UAE economic resilience despite the late-quarter regional shock.",
+      "tags": [
+        "Emaar",
+        "Q1 2026",
+        "earnings",
+        "developer benchmark",
+        "Dubai master communities",
+        "backlog",
+        "dividend",
+        "Mohamed Alabbar",
+        "off-plan",
+        "regional volatility"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-EMAAR",
+        "DXB-DOWNTOWN",
+        "DXB-CREEK",
+        "DXB-HILLS",
+        "DXB-SOUTH",
+        "DXB-BEACHFRONT"
+      ],
+      "metrics": {
+        "Emaar Development Q1 2026 property sales": "AED 20.1B (+22% YoY)",
+        "Emaar Properties Q1 2026 revenue": "AED 12.4B (+23% YoY)",
+        "Emaar Properties Q1 2026 net profit": "~AED 3.5B (+36% YoY)",
+        "Emaar Development revenue backlog": "AED 134.6B / US$ 36.6B (+35% YoY)",
+        "Dividend payout (AGM)": "AED 8.9B (100% of share capital)",
+        "New residential launches in quarter": "10 across master-planned communities",
+        "Operations status late Q1": "Malls, hotels, development projects 'normal' through end-quarter regional escalation",
+        "Founder quote": "Reflects strength and resilience of UAE economy — Mohamed Alabbar"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Strong demand, new project launches drive Emaar to record over AED 20B in property sales (11-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/strong-demand-new-project-launches-drive-emaar-to-record-over-dh20-billion-in-property-sales"
+        },
+        {
+          "label": "Khaleej Times — Emaar Properties announces 100% dividend payout of AED 8.8B (background)",
+          "url": "https://www.khaleejtimes.com/business/property/emaar-properties-announces-100-dividend-payout-of-dh88-billion"
+        },
+        {
+          "label": "Emaar Properties — investor relations landing page",
+          "url": "https://properties.emaar.com/en/investor-relations/emaar-properties-pjsc/"
+        }
+      ],
+      "explainer": {
+        "tagline": "The biggest Dubai developer printed AED 20B of sales in a quarter that ended with a regional war — backlog now AED 134.6B and 10 new launches in flight.",
+        "whatIsIt": "Emaar Properties' Q1 2026 print, reported by Khaleej Times on 11-May-2026. Sales at Emaar Development were AED 20.1B (+22% YoY); group revenue AED 12.4B (+23%); net profit ~AED 3.5B (+36%); revenue backlog AED 134.6B (+35%). The company also paid out AED 8.9B (100% of share capital) at its AGM and launched 10 new residential projects across its master-planned communities during the quarter, with operations described as 'normal' through the late-quarter regional escalation.",
+        "howItWorks": "The Khaleej Times piece is built on the official Q1 financials: AED 20.1B in Q1 sales is roughly AED 6.7B per month, well ahead of Emaar's Q1 2025 base (~AED 19.3B for the same quarter a year earlier). The AED 134.6B backlog implies ~6.7 quarters of forward revenue at the Q1 sales pace. The 10 new launches plug into the existing master communities (Dubai Hills Estate, Dubai Creek Harbour, Emaar South, Emaar Beachfront, Downtown, Arabian Ranches III adjacency) — each typically structured as 80/20 or 70/30 payment plans with 2–3 year handover horizons. Diligence checkpoint: read the Q1 release on Emaar's IR page for the line-item breakdown between Emaar Development (residential pre-sales) vs Emaar Properties (recurring malls/hotels/leasing).",
+        "whyItMatters": "Emaar is the single biggest developer-side benchmark in Dubai; if its Q1 sales are up 22% and backlog up 35% during a quarter that ended with a hot regional conflict, the 'launches will dry up' thesis is wrong. For brokers that means continued primary-market commission flow and resale comps anchored to off-plan ask prices; for buyers it means the most-liquid developer is still selling forward inventory, so secondary sellers in Emaar communities have to negotiate against fresh-launch payment plans, not just other resale ads.",
+        "forWho": "Off-plan brokers tracking primary-market depth; resale sellers in Emaar communities benchmarking against new-launch ask; institutional analysts modelling Dubai supply 2027–28; lenders sizing developer-receivable backed financing.",
+        "tryIt": "https://properties.emaar.com/en/investor-relations/emaar-properties-pjsc/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/bcc3ae6d-f41e-47c6-a720-399109079658-org.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Emaar Properties Q1 2026 press image — Dubai skyline with Emaar developments visible",
+        "fit": "cover",
+        "credit": "Khaleej Times / Emaar Properties"
+      },
+      "publishDate": "2026-05-11T05:29:38.370Z"
+    },
+    {
+      "id": "dubai-dld-week-19-2026-weekly-aed-7-99b-lumena-37-offices-aed-1-17b-may-11",
+      "categories": [
+        "market",
+        "commercial"
+      ],
+      "title": "DLD week 19 (May 4–10): AED 7.99B ex-land across 3,598 deals (-17% w/w) — Lumena books 37-office AED 1.17B institutional cluster, Eden House AED 49M ready flat, Numa Reserve AED 30M villa",
+      "org": "The Real Estate Report (DLD weekly synthesis)",
+      "date": "2026-05-11",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-11-may-2026",
+      "summary": "Week 19 (4–10 May 2026) settled at AED 7.99B ex-land across 3,598 transactions (down 17.0% in value and 14.1% in count from week 18). Off-plan held 68.7% of ex-land activity (AED 5.49B); ready stock AED 2.50B. Business Bay led both books — AED 1.32B off-plan and AED 265.2M ready — and the week's standout institutional aggregation was Lumena by Omniyat clearing 37 offices for AED 1.17B; biggest residential prints were Casa AHS (AED 101.2M off-plan flat) and Eden House Dubai Water Canal (AED 49M ready flat).",
+      "tags": [
+        "DLD",
+        "weekly transactions",
+        "week 19",
+        "Business Bay",
+        "Dubai Islands",
+        "Wadi Al Safa 3",
+        "Lumena",
+        "Eden House",
+        "Numa Reserve",
+        "Burj Khalifa",
+        "Palm Jumeirah",
+        "off-plan share"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-BB",
+        "DXB-DOWNTOWN",
+        "DXB-PALM",
+        "DXB-DUBAI-ISLANDS",
+        "DXB-WADI-AL-SAFA",
+        "DXB-WATER-CANAL"
+      ],
+      "metrics": {
+        "Week 19 ex-land total": "AED 7.99B",
+        "Week 19 transaction count": "3,598",
+        "Change vs week 18 (value / count)": "-17.0% / -14.1%",
+        "Land transactions on top": "AED 3.77B (combined activity ~AED 11.76B)",
+        "Off-plan share of ex-land": "AED 5.49B (68.7%)",
+        "Ready share of ex-land": "AED 2.50B (31.3%)",
+        "Top off-plan community": "Business Bay AED 1.32B",
+        "Off-plan #2 / #3": "Dubai Islands AED 373.7M / Wadi Al Safa 3 AED 283.5M",
+        "Top ready communities": "Business Bay AED 265.2M; Burj Khalifa AED 197.7M; Palm Jumeirah AED 195.7M",
+        "Largest off-plan flat": "Casa AHS, Dubai Water Canal — AED 101.2M",
+        "Largest off-plan villa": "Numa Reserve, Wadi Al Safa 3 — AED 30.0M",
+        "Largest ready flat": "Eden House, Dubai Water Canal — AED 49.0M",
+        "Standout institutional aggregation": "Lumena by Omniyat, Business Bay — 37 offices for AED 1.17B"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — Dubai Real Estate Weekly Market Analysis 11-May-2026",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-11-may-2026"
+        },
+        {
+          "label": "The Real Estate Report — daily review 09-May-2026 (May 8 print, included in the week)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-may-2026"
+        },
+        {
+          "label": "DLD open data portal",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First weekly print since the May surge: AED 7.99B is still huge but down 17% w/w, and Business Bay is now both the off-plan AND ready leader — partly because Lumena alone aggregated 37 offices for AED 1.17B inside the week.",
+        "whatIsIt": "The Real Estate Report's week-19 synthesis covers DLD activity from 4-May to 10-May 2026. Ex-land settled at AED 7.99B over 3,598 deals — both down vs week 18, which had been distorted upward by Lumena's record AED 2.39B single day on May 5. Off-plan held 68.7% of activity. Business Bay topped both books, and the headline institutional aggregation was Lumena by Omniyat at Business Bay clearing 37 offices for AED 1.17B during the week. The biggest residential prints sat on Dubai Water Canal: Casa AHS (AED 101.2M off-plan flat) and Eden House (AED 49M ready flat); Numa Reserve in Wadi Al Safa 3 produced the week's biggest off-plan villa at AED 30M.",
+        "howItWorks": "The week-vs-week drop is not a market signal on its own — week 18 was lifted by the AED 1.02B single-day Lumena cluster on May 5. To pressure-test that, the week 19 weekly is a tighter base: AED 7.99B / 3,598 = ~AED 2.22M average ticket. The 68.7% off-plan share is consistent with the YTD pattern (off-plan running 70–78% on big days, drops to 52–62% on slower days). The Lumena 37-office aggregation is worth pulling apart in DLD raw data — it can either be a single buyer block or a cluster of separate institutional/family-office tickets, which changes how to read commercial pricing power in Business Bay. Diligence checkpoint: cross-read against the Real Estate Report's daily 08-May review for the May 8 ready-share jump to 47.3%, and against existing sweep cards for the May 5/6/7 daily prints.",
+        "whyItMatters": "Brokers and portfolio buyers should re-anchor to a normalised week (no single jumbo day): AED 7.99B ex-land says the May surge is durable, not a one-shot. The Business-Bay dominance is the second consecutive print where it's leading both the off-plan and the ready ledger — that compresses commercial yields and tightens negotiation room on Business Bay office blocks; 37 offices clearing AED 1.17B at Lumena is a hard comp for any buyer trying to negotiate on existing Business Bay shell-and-core stock. Risk: the week-on-week drop and a softening ready/off-plan mix point to mid-market negotiation returning, especially outside the marquee towers.",
+        "forWho": "Brokers writing weekly market notes; commercial buyers underwriting Business Bay office blocks; off-plan resale negotiators in Dubai Water Canal / Wadi Al Safa 3; analysts reconciling daily and weekly DLD prints.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-11-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9ac65706-44a3-4c6f-8624-fe218387c0fc/WhatsApp_Image_2026-05-08_at_9.57.53_PM.jpeg",
+        "alt": "Dubai skyline cover image — DLD weekly transaction analysis 11-May-2026",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-05-11T05:29:38.370Z"
+    },
+    {
+      "id": "dubai-metropolitan-conveyancing-aed-4b-remote-overseas-deals-may-11",
+      "categories": [
+        "lead",
+        "legal",
+        "market"
+      ],
+      "title": "Khaleej Times: AED 4B+ remote-conveyancing flow at Metropolitan over 1,000+ deals as overseas buyers close Dubai property without travelling",
+      "org": "Khaleej Times / Metropolitan Conveyancing",
+      "date": "2026-05-11",
+      "url": "https://www.khaleejtimes.com/business/property/why-more-overseas-investors-closing-dubai-property-deals-remotely",
+      "summary": "Khaleej Times reports on 11-May-2026 that Metropolitan Conveyancing facilitated more than AED 4 billion in fully-remote Dubai property transactions across 1,000+ deals over the past year, with conveyancing-service demand up ~30% since early 2026. Most clients are Europe / UK first-time buyers and experienced investors who can't or don't want to travel; the head of department, Saneta Daova, says remote completion 'isn't a passing trend, it's essential in the current climate.' March 2026 baseline: 12,852 DLD deals worth AED 37.43B, with average resale prices up 9.04% YoY to AED 3.11M and villa volumes +34.7% YoY.",
+      "tags": [
+        "remote conveyancing",
+        "Metropolitan Conveyancing",
+        "overseas buyers",
+        "Europe",
+        "UK",
+        "Saneta Daova",
+        "title transfer",
+        "POA",
+        "March 2026 DLD",
+        "villa transactions",
+        "resale price"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-CONVEYANCING"
+      ],
+      "metrics": {
+        "Metropolitan Conveyancing remote deal value (last year)": "AED 4B+",
+        "Remote deals closed": "1,000+",
+        "Conveyancing-service demand growth since early 2026": "~30%",
+        "March 2026 DLD transaction count": "12,852 (-9.6% YoY)",
+        "March 2026 DLD transaction value": "AED 37.43B",
+        "Average resale price (March 2026, YoY)": "AED 3.11M (+9.04%)",
+        "Villa transaction growth (March 2026, YoY)": "+34.7%",
+        "Dominant client geographies": "Europe and UK",
+        "Source quoted": "Saneta Daova, Head of Department, Metropolitan Conveyancing"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Why more overseas investors closing Dubai property deals remotely (11-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/why-more-overseas-investors-closing-dubai-property-deals-remotely"
+        },
+        {
+          "label": "Metropolitan Conveyancing — service overview",
+          "url": "https://metropolitan.realestate/conveyancing/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 4B in fully-remote Dubai conveyancing in a year is hard evidence that the buyer funnel for overseas capital is now POA-first — useful both for brokers chasing inbound leads and for sellers underwriting their counterparty.",
+        "whatIsIt": "Khaleej Times piece dated 11-May-2026 surfaces year-over-year scale numbers from Metropolitan Conveyancing: AED 4B+ in remote transactions, 1,000+ deals, ~30% YoY growth in conveyancing demand since early 2026. The article anchors that against March 2026 DLD baseline data (12,852 deals worth AED 37.43B; average resale price AED 3.11M, +9.04% YoY; villa volumes +34.7% YoY) and quotes Saneta Daova, the firm's head of department, calling remote completion 'essential in the current climate' — particularly for European and UK clients facing travel constraints or wanting comprehensive management.",
+        "howItWorks": "Remote Dubai conveyancing typically runs on (a) a notarised power of attorney from the buyer's home jurisdiction, apostilled and translated; (b) escrow / source-of-funds compliance reviewed by the conveyancer; (c) DLD title transfer, mortgage or Oqood registration handled in person by the conveyancer/POA holder; (d) handover and snagging coordinated by the same firm. AED 4B / 1,000+ deals = ~AED 4M average ticket — well above the citywide AED 3.11M resale average, consistent with a wealthier overseas buyer mix. Diligence checkpoint: confirm the POA scope (purchase only vs purchase + mortgage + handover + sale), the escrow account, and that the conveyancer holds DLD broker permits where signing on the buyer's behalf.",
+        "whyItMatters": "For brokers, this confirms an inbound-lead motion that doesn't depend on flying buyers in — a reason to keep WhatsApp / Calendly funnels live for European and UK names instead of waiting for the next IPS roadshow. For sellers, it reframes counterparty risk: a remote buyer with a credible conveyancer / POA structure is closeable, but they also negotiate harder on snagging and handover because they aren't physically inspecting. For HNW Europeans, it lowers the activation cost of a Dubai purchase and combines with the recent visa changes (no AED 750k floor; bank-guarantee golden-visa route) to widen the addressable buyer pool.",
+        "forWho": "Off-plan / luxury brokers servicing European and UK leads; sellers underwriting remote-buyer offers; conveyancers and tax advisors; anyone benchmarking the overseas share of Dubai resale flow.",
+        "tryIt": "https://metropolitan.realestate/conveyancing/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-11/p93d44k6/Dubai-property3.jpeg?width=800&height=600&q=60&format=auto",
+        "alt": "Khaleej Times image illustrating Dubai property remote-buyer story (11-May-2026)",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Waheed Abbas",
+        "handle": "Khaleej Times — Assistant Editor (Business / Property)"
+      },
+      "publishDate": "2026-05-11T05:29:38.370Z"
+    },
+    {
+      "id": "dubai-tenant-viewing-rights-volpi-rdc-may-9",
+      "categories": [
+        "legal",
+        "lead"
+      ],
+      "title": "Selling a tenanted Dubai unit? Mario Volpi's playbook: tenants can't legally block sales, but unstructured viewings backfire — propose 2 evening slots + 1 weekend morning",
+      "org": "The National / Mario Volpi",
+      "date": "2026-05-09",
+      "url": "https://www.thenationalnews.com/business/money/2026/05/09/uae-property-can-a-tenant-legally-prevent-the-owner-from-conducting-viewings/",
+      "summary": "The National's 09-May-2026 Mario Volpi column on a question every Dubai sell-side broker faces: can a tenant block viewings? Short answer — no, the owner has the right to sell at any time. But the tenant has rights to privacy and quiet enjoyment, and the existing tenancy contract survives a sale. Volpi's practical guidance: propose structured viewing windows (e.g. two evenings a week + one weekend morning), consider rent rebates / cleaning credits for cooperation, and escalate to the Rental Dispute Centre if blocked.",
+      "tags": [
+        "tenancy",
+        "viewings",
+        "Mario Volpi",
+        "Rental Dispute Centre",
+        "RDC",
+        "landlord rights",
+        "tenant rights",
+        "sale process",
+        "property management",
+        "quiet enjoyment"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-RENTAL-LAW"
+      ],
+      "metrics": {
+        "Owner's right to sell": "Unrestricted — sale can proceed at any point in the tenancy",
+        "Tenant's right that survives": "Existing tenancy contract continues post-sale; new owner inherits",
+        "Tenant rights claimed": "Privacy and quiet enjoyment of the unit",
+        "Volpi's recommended viewing cadence": "~2 evenings/week + 1 weekend morning",
+        "Cooperation incentives suggested": "Rent rebate, cleaning allowance, paid concierge",
+        "Escalation path": "Dubai Rental Dispute Centre (RDC) if tenant refuses reasonable access",
+        "Risk to seller": "Uncooperative tenant can materially reduce sale price / time-on-market",
+        "Author experience": "40+ years Dubai and London property practice"
+      },
+      "links": [
+        {
+          "label": "The National — Can a tenant legally prevent the owner from conducting viewings? (09-May-2026)",
+          "url": "https://www.thenationalnews.com/business/money/2026/05/09/uae-property-can-a-tenant-legally-prevent-the-owner-from-conducting-viewings/"
+        },
+        {
+          "label": "Dubai Rental Dispute Centre — DLD service portal",
+          "url": "https://dubailand.gov.ae/en/eservices/rental-disputes-center/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's most-asked sell-side question, answered cleanly: you CAN sell a tenanted unit and the tenant CAN'T block viewings — but the contract follows the sale and unstructured access tanks the price.",
+        "whatIsIt": "Mario Volpi's 09-May-2026 column for The National addresses a recurring Dubai sell-side problem: a landlord wants to sell a tenanted unit and the tenant resists viewings. Volpi confirms the owner's right to sell is unrestricted and the tenant cannot legally prevent viewings, but the tenant has rights to privacy and quiet enjoyment and the existing tenancy contract survives the sale (the buyer inherits it). His practical recommendation is to propose a structured viewing window — two evenings a week plus one weekend morning is the example given — and use small incentives (rent rebate, cleaning allowance) rather than escalating immediately.",
+        "howItWorks": "If the tenant continues to obstruct after a reasonable proposal, the owner can file at the Dubai Rental Dispute Centre (RDC) — the standard DLD-backed forum for landlord-tenant disputes. The cost-benefit on the seller side: an uncooperative tenant materially reduces sale price (fewer viewings, more cancelled offers) and lengthens time-on-market, so even a 5–10% goodwill rebate on the rent or a paid clean before each viewing is usually positive-NPV. For tenants, the article is also a heads-up: the new owner inherits the contract and the rent / Ejari are unchanged, so cooperation costs nothing material.",
+        "whyItMatters": "This is the kind of micro-legal doctrine that touches a meaningful share of Dubai resale flow — much of the ready stock in Marina, JVC, JLT, Business Bay, and Downtown is sold tenanted, and the seller's ability to run viewings is often the binding constraint on price discovery. Brokers who can structure tenant cooperation up-front (cadence + small incentives + RDC backstop) see narrower bid-ask spreads; brokers who can't end up either delisting until vacant possession or accepting a 5–15% chip from end-user buyers who can't get inside the unit. Risk: RDC escalation is slow — weeks-to-months — so the structured-cadence approach is the practically faster path.",
+        "forWho": "Sell-side brokers handling tenanted resale stock; landlords selling occupied units; tenants asked to facilitate viewings; property managers writing access-protocol clauses into new leases.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/rental-disputes-center/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/JZ2GRS2SPFGQBHYS3QFKE4F4QQ.jpg?smart=true&auth=d58af64604fef099f34523edf4e77542f2998a1f4352fc0933e51e71874155f0&width=400&height=225",
+        "alt": "Photo from The National illustrating tenant-viewing rights story by Mario Volpi (09-May-2026)",
+        "fit": "cover",
+        "credit": "The National"
+      },
+      "author": {
+        "name": "Mario Volpi",
+        "handle": "Real estate columnist — The National (40+ years Dubai/London experience)"
+      },
+      "publishDate": "2026-05-11T05:29:38.370Z"
+    },
     {
       "id": "dubai-wtc-roundabout-500m-bridge-opens-may-9-2026",
       "categories": [
