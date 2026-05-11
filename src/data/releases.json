@@ -1,8 +1,76 @@
 {
-  "generatedAt": "2026-05-10T22:24:20.674Z",
+  "generatedAt": "2026-05-11T00:41:44.689Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-wtc-roundabout-500m-bridge-opens-may-9-2026",
+      "categories": [
+        "market",
+        "media"
+      ],
+      "title": "Dubai RTA opens fourth WTC Roundabout bridge — 500m link cuts Al Bada → SZR commute from 8 min to 2 min, lifting WTC / DIFC fringe corridor accessibility",
+      "org": "Dubai Roads and Transport Authority (RTA)",
+      "date": "2026-05-09",
+      "url": "https://www.thenationalnews.com/news/uae/2026/05/09/dubai-opens-500-metre-bridge-to-cut-congestion-under-key-world-trade-centre-traffic-master-plan/",
+      "summary": "RTA opened the fourth of six bridges in the World Trade Centre Roundabout Development Project on 09-May-2026 — a 500-metre single-lane span carrying traffic from Al Bada towards 2nd December Street and onward to Sheikh Rashid Road and Al Mustaqbal Street, with capacity of 1,200 vehicles per hour and an 8 → 2 minute time saving for the corridor. Two prior phases (Feb and Dec 2025) already added 6,000 vph; the full programme totals 5,000m of bridges plus conversion of the WTC roundabout to a signalised at-grade intersection.",
+      "tags": [
+        "RTA",
+        "World Trade Centre",
+        "Al Bada",
+        "Sheikh Rashid Road",
+        "Al Mustaqbal Street",
+        "2nd December Street",
+        "Sheikh Zayed Road",
+        "infrastructure",
+        "traffic master plan",
+        "500-metre bridge"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-WTC",
+        "DXB-DIFC",
+        "DXB-SZR"
+      ],
+      "metrics": {
+        "Opening date": "09-May-2026",
+        "Bridge length": "500 metres",
+        "Capacity": "1,200 vehicles/hour",
+        "Time saving on corridor": "8 minutes → 2 minutes",
+        "Phase": "4 of 6 (4th bridge opened; 2 remain in master plan)",
+        "Total programme length when complete": "5,000 metres of bridges",
+        "Earlier phases (Feb + Dec 2025) capacity": "6,000 vehicles/hour combined",
+        "Catchment served": "~500,000 residents and visitors (RTA estimate)",
+        "Endpoints": "Al Bada → 2nd December Street → Sheikh Rashid Road / Al Mustaqbal Street",
+        "Master plan name": "World Trade Centre Roundabout Development Project",
+        "End-state": "Signalised at-grade intersection at WTC roundabout"
+      },
+      "links": [
+        {
+          "label": "The National — Dubai opens 500-metre bridge to cut congestion under key World Trade Centre traffic master plan (09-May-2026)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/05/09/dubai-opens-500-metre-bridge-to-cut-congestion-under-key-world-trade-centre-traffic-master-plan/"
+        },
+        {
+          "label": "Dubai 92 — Bridge opens near Dubai's World Trade Centre to ease congestion",
+          "url": "https://www.dubai92.com/news/uae/bridge-opens-near-dubais-world-trade-centre-to-ease-congestion/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A bridge most cards skip is exactly the kind of micro-infrastructure that re-rates corridor liquidity — 8 → 2 minutes between Al Bada and SZR/Al Mustaqbal is a real change for WTC / DIFC fringe stock.",
+        "whatIsIt": "On 09-May-2026 the Dubai Roads and Transport Authority opened a 500-metre single-lane bridge near the World Trade Centre as part of the broader WTC Roundabout Development Project. The bridge is the fourth of six structures planned under the master plan (two prior bridges opened February and December 2025) and the wider scope eventually converts the WTC roundabout itself into a signalised at-grade intersection. Coverage corridor: Al Bada → 2nd December Street with onward connections to Sheikh Rashid Road and Al Mustaqbal Street.",
+        "howItWorks": "Capacity is 1,200 vehicles per hour on the new span, on top of ~6,000 vph already added by the February and December 2025 phases. RTA estimates the corridor change cuts the Al Bada → 2nd December journey time from roughly eight minutes to about two. When the full programme finishes, the totalled bridge length reaches 5,000 metres and the WTC roundabout is replaced with a signalised at-grade junction — that's the diligence checkpoint for owners and brokers underwriting WTC fringe stock: phase-by-phase opening dates, lane counts, and which left-turn / U-turn movements survive the at-grade conversion.",
+        "whyItMatters": "For owners and brokers active in the WTC / Trade Centre 1 / DIFC fringe / SZR access strip, this is a measurable connectivity uplift, not a press release. Comparable transport up-grades in Dubai have historically been quoted at 8–11% corridor appreciation over the asset cycle (per the May-2026 Khaleej Times metro analysis), although that band is a precedent, not a guarantee. Risk: single-lane bottlenecks and the eventual at-grade conversion at the roundabout could re-shape traffic patterns adversely for blocks that lose direct left-turn access — diligence the specific block, not the master plan summary.",
+        "forWho": "Operators sourcing WTC / DIFC fringe ready stock; brokers re-pitching repositioned commercial floors along the Al Mustaqbal / Sheikh Rashid corridor; landlords benchmarking rental ask against the 'reduces commute by 6 minutes' angle.",
+        "tryIt": "https://www.thenationalnews.com/news/uae/2026/05/09/dubai-opens-500-metre-bridge-to-cut-congestion-under-key-world-trade-centre-traffic-master-plan/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/P6VYPG2DKNBLJAK7ZKQ6ZWHZKI.jpeg?smart=true&auth=29fbf82a8d706a7816d27103b02bd5d53aa38bde58d953e0527e94fad9b95346&width=1200&height=675",
+        "alt": "Aerial photo of Dubai's new 500-metre bridge near the World Trade Centre opened by RTA on 09-May-2026",
+        "fit": "cover",
+        "credit": "Dubai Roads and Transport Authority via The National"
+      },
+      "publishDate": "2026-05-11T00:41:44.689Z"
+    },
     {
       "id": "dubai-danube-greenz-villa-community-coca-cola-arena-launch-may-10-2026",
       "categories": [

@@ -2077,6 +2077,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260511t004144z",
+      "timestamp": "2026-05-11T00:41:44.689Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet sweep two hours after the May-10 22:24Z run. One fresh ingest: the AED-scale-undisclosed WTC roundabout bridge that the RTA opened on 09-May-2026 — fourth of six bridges in the World Trade Centre Roundabout Development Project, cutting the Al Bada → 2nd December Street → Sheikh Rashid Road / Al Mustaqbal Street corridor commute from ~8 minutes to ~2 minutes. Material for owners and brokers along the SZR / WTC / DIFC fringe corridor; no other tier-1 stories surfaced inside the 72h date cap that weren't already in the feed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-wtc-roundabout-500m-bridge-opens-may-9-2026",
+          "title": "Dubai RTA opens fourth WTC Roundabout bridge — 500m link cuts Al Bada → SZR commute from 8 min to 2 min, lifting WTC / DIFC fringe corridor accessibility",
+          "category": "market",
+          "note": "RTA opened the 4th of 6 WTC roundabout bridges on 09-May-2026; corridor-level connectivity uplift relevant for WTC/DIFC fringe and SZR access stock."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "media",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
