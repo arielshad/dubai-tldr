@@ -115,7 +115,7 @@ const WEBSITE_REF = {
   name: "DxbEstate Intel",
   alternateName: "DxbEstate Intel",
   description:
-    "Dubai property opportunities, duplicate listings, seller leads, developer launches, DLD/rent signals and deal checks — refreshed every 2 hours.",
+    "Dubai property opportunities, duplicate listings, seller leads, developer launches, DLD/rent signals and deal checks — refreshed every 12 hours.",
   inLanguage: "en-US",
   publisher: { "@id": `${SITE_URL}/#org` },
 };
@@ -349,11 +349,11 @@ function opportunityMeta(item: OpportunityItem): PageMeta {
 const HOME_META: PageMeta = {
   title: "Dubai Real-Estate Intelligence — Listings, Leads, Deals | DxbEstate Intel",
   description:
-    "Dubai property opportunities, duplicate listings, seller leads, developer launches, DLD/rent signals and deal checks — refreshed every 2 hours.",
+    "Dubai property opportunities, duplicate listings, seller leads, developer launches, DLD/rent signals and deal checks — refreshed every 12 hours.",
   canonical: `${SITE_URL}/`,
   ogType: "website",
   ogImage: DEFAULT_OG_IMAGE,
-  ogImageAlt: "DxbEstate Intel — Dubai property opportunities explained every 2 hours",
+  ogImageAlt: "DxbEstate Intel — Dubai property opportunities explained every 12 hours",
 };
 
 const SOURCES_META: PageMeta = {

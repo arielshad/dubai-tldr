@@ -26,7 +26,7 @@ The platform is informational. Every card should link back to its public source 
 
 ## How opportunities are found
 
-There is no hidden scraper in this repo and no private portal API integration yet. The automated workflow runs a Claude/WebSearch/WebFetch collector every 2 hours. That collector is now anchored to an explicit scan plan in `src/data/scan-plan.ts`, which lists the real-estate publishing surfaces to search, the exact query patterns to run, the opportunity signals to look for, and the duplicate keys to use before adding a card.
+There is no hidden scraper in this repo and no private portal API integration yet. The automated workflow runs a Claude/WebSearch/WebFetch collector every 12 hours. That collector is now anchored to an explicit scan plan in `src/data/scan-plan.ts`, which lists the real-estate publishing surfaces to search, the exact query patterns to run, the opportunity signals to look for, and the duplicate keys to use before adding a card.
 
 On each sweep the agent should:
 

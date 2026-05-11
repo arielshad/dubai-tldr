@@ -2,7 +2,7 @@
 
 ## Project
 
-DxbEstate Intel — a high-volume Dubai real-estate intelligence platform covering listings, duplicate ads, developer launches, DLD/RERA signals, distressed sellers, rent/yield screens, commercial stock, luxury leads, and off-plan assignments. Single-page React app powered by a JSON feed that an automated agent refreshes every 2 hours.
+DxbEstate Intel — a high-volume Dubai real-estate intelligence platform covering listings, duplicate ads, developer launches, DLD/RERA signals, distressed sellers, rent/yield screens, commercial stock, luxury leads, and off-plan assignments. Single-page React app powered by a JSON feed that an automated agent refreshes every 12 hours.
 
 ## Quick commands
 
