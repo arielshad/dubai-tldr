@@ -1,8 +1,79 @@
 {
-  "generatedAt": "2026-05-11T17:00:42.992Z",
+  "generatedAt": "2026-05-12T00:27:38.897Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-icd-emaar-22-27-percent-stake-transfer-emirates-power-investment-may-11-2026",
+      "categories": [
+        "market",
+        "developer"
+      ],
+      "title": "ICD transfers its entire 22.27% Emaar Properties stake to Dubai Holding's Emirates Power Investment — Dubai Holding consolidates to 29.73% as Emaar's largest shareholder",
+      "org": "Khaleej Times / Investment Corporation of Dubai / Dubai Holding",
+      "date": "2026-05-11",
+      "url": "https://www.khaleejtimes.com/business/property/investment-corporation-of-dubai-transfers-emaars-entire-stake-to-dubai-holding-subsidiary",
+      "summary": "Investment Corporation of Dubai (ICD) — Dubai's sovereign wealth fund with $429B in AUM at end-2025 — moved its full 22.2723% Emaar Properties shareholding to Emirates Power Investment, a Dubai Holding subsidiary. After the transfer ICD holds zero Emaar shares while Dubai Holding's combined group stake reaches 29.73%, making it Emaar's largest shareholder.",
+      "tags": [
+        "EMAAR",
+        "Dubai Holding",
+        "ICD",
+        "Emirates Power Investment",
+        "shareholding",
+        "DFM",
+        "sovereign wealth"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "EMAAR",
+        "DFM",
+        "ICD",
+        "DUBAI-HOLDING"
+      ],
+      "metrics": {
+        "Stake transferred": "22.2723%",
+        "Dubai Holding group stake post-transfer": "29.73%",
+        "ICD residual Emaar stake": "0%",
+        "Emaar Q1 2026 net profit before tax": "AED 7.2B (+33% YoY)",
+        "Emaar Q1 2026 total revenue": "AED 12.4B (+23% YoY)",
+        "ICD AUM (end 2025)": "$429B",
+        "ICD AUM target by 2030": "$602B",
+        "Announcement date": "2026-05-11"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: ICD transfers Emaar stake to Dubai Holding subsidiary",
+          "url": "https://www.khaleejtimes.com/business/property/investment-corporation-of-dubai-transfers-emaars-entire-stake-to-dubai-holding-subsidiary"
+        },
+        {
+          "label": "ICD official Emaar portfolio page",
+          "url": "https://icd.gov.ae/portfolio/emaar/"
+        },
+        {
+          "label": "Dubai Holding corporate site",
+          "url": "https://www.dubaiholding.com/en"
+        },
+        {
+          "label": "Emaar Properties PJSC investor relations",
+          "url": "https://properties.emaar.com/en/investor-relations/emaar-properties-pjsc/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai Inc. reshuffles Emaar's cap table: sovereign wealth fund ICD hands its full 22.27% stake to Dubai Holding's Emirates Power Investment, consolidating control under Sheikh Mohammed's investment vehicle.",
+        "whatIsIt": "On 11 May 2026 the Investment Corporation of Dubai — Dubai's sovereign wealth fund, ninth-largest globally with $429B in AUM — transferred its entire 22.2723% shareholding in Emaar Properties (DFM: EMAAR) to Emirates Power Investment, a wholly-owned Dubai Holding subsidiary. Dubai Holding's combined group stake now reaches 29.73%, making it Emaar's largest single shareholder. ICD retains zero Emaar shares post-transfer.",
+        "howItWorks": "The transfer is an intra-government corporate restructuring, not an open-market block trade — both ICD and Dubai Holding sit under the umbrella of Sheikh Mohammed bin Rashid Al Maktoum. The official statement frames the move as reinforcing the 'strategic partnership' between Emaar and Dubai Holding across existing joint ventures (Emaar Dubai South, Dubai Hills Estate with Meraas, etc.). This mirrors ICD's earlier 2024 transfer of Emirates NBD shares to Dubai Holding's DH 7 LLC vehicle — a pattern of consolidating sector-aligned holdings under Dubai Holding while ICD's mandate refocuses on diversification toward the $602B by-2030 AUM target.",
+        "whyItMatters": "For Emaar shareholders the practical impact is governance, not float: free float and listing status are unchanged, but the largest shareholder is now Dubai Holding (which owns Meraas, Dubai Properties, Nakheel-adjacent JVs and the new Brookfield JV) rather than the sovereign wealth fund. That makes Dubai Holding a kingmaker on dividend policy, capital allocation between Emaar Development and Emaar Malls/Hospitality, and any future Emaar-Meraas-Dubai Properties consolidation. The move also reduces the appearance of sovereign-fund overhang on EMAAR.AE and aligns control with the developer/master-community side of Dubai Inc.",
+        "forWho": "EMAAR.AE shareholders, Dubai-listed equity allocators, off-plan buyers tracking developer governance, anyone underwriting Dubai Holding/Meraas/Dubai Properties JVs, M&A watchers.",
+        "tryIt": "https://www.dfm.ae/the-exchange/market-information/company/EMAAR/profile"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-11/34y2ou01/Emaar.jpeg",
+        "alt": "Emaar Properties signage — Khaleej Times reports ICD has transferred its 22.27% stake to Dubai Holding's Emirates Power Investment",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-12T00:27:38.897Z"
+    },
     {
       "id": "dubai-binghatti-q1-2026-aed-1-43b-net-profit-4000-units-may-11",
       "categories": [
