@@ -1,8 +1,207 @@
 {
-  "generatedAt": "2026-05-12T00:27:38.897Z",
+  "generatedAt": "2026-05-12T12:42:59.333Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-may-11-2026-daily-print-aed-1-02b-offplan-rebounds-64-7-percent",
+      "categories": [
+        "market",
+        "offplan",
+        "ready",
+        "commercial"
+      ],
+      "title": "Dubai DLD daily print 2026-05-11: AED 1.02B with off-plan rebounding to 64.7% as flats drive two-thirds of off-plan flow",
+      "org": "TheRealEstateReports / DLD",
+      "date": "2026-05-11",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-12-may-2026",
+      "summary": "Sunday print clears AED 1.02B — off-plan AED 662.5M (64.7%), ready AED 360.8M (35.3%). Flats lead off-plan at AED 422.5M, commercial off-plan adds AED 103.9M.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan",
+        "ready",
+        "flats",
+        "commercial"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DLD"
+      ],
+      "metrics": {
+        "Total": "AED 1.02B",
+        "Off-plan": "AED 662.5M (64.7%)",
+        "Ready": "AED 360.8M (35.3%)",
+        "Off-plan flats": "AED 422.5M",
+        "Off-plan villas": "AED 133.1M",
+        "Off-plan commercial": "AED 103.9M",
+        "Ready flats": "AED 230.2M",
+        "Ready villas": "AED 82.6M",
+        "Ready commercial": "AED 37.9M",
+        "Hotel apt/rooms": "AED 13.1M",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "TheRealEstateReports daily review (12-May-2026)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-12-may-2026"
+        },
+        {
+          "label": "DLD daily transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sunday print bounces off Saturday's quiet — off-plan back above 64% as flats drive the recovery.",
+        "whatIsIt": "TheRealEstateReports tabulation of the 11-May-2026 DLD daily print, published the morning of 12-May. The AED 1.02B day is led by off-plan flats (AED 422.5M) and a healthy off-plan commercial slug (AED 103.9M).",
+        "howItWorks": "Off-plan share moves from the 60-62% range earlier in the week back up to 64.7% on a single day. Ready-flat clearance at AED 230.2M is steady; ready commercial cools to AED 37.9M after Lumena-heavy days. Hotel apartments/rooms register AED 13.1M, mostly on the ready side.",
+        "whyItMatters": "Confirms the off-plan engine is still leading 2026 DLD flow even after April's secondary-market noise. For ready brokers, the small ready-flat slug (~AED 230M) is a yardstick to read whether deals are clearing this week. For off-plan launch teams, flats are still the volume driver.",
+        "forWho": "Sales managers tracking daily off-plan/ready mix; brokers benchmarking their pipeline; analysts watching whether commercial off-plan stays buoyant after the Lumena bulk.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-12-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/115997a6-4f02-4c18-ad5e-c4ea9ffc7cf4/pexels-iamllwyd-33678824.jpg",
+        "alt": "Dubai skyline header from TheRealEstateReports daily DLD review",
+        "fit": "cover",
+        "credit": "TheRealEstateReports"
+      },
+      "publishDate": "2026-05-12T12:42:59.333Z"
+    },
+    {
+      "id": "dubai-kasco-volna-al-jaddaf-completion-ahead-schedule-may-11-2026",
+      "categories": [
+        "developer",
+        "ready",
+        "offplan"
+      ],
+      "title": "KASCO Developments completes 65-unit Volna by Kasco in Al Jaddaf ahead of its Q2 2026 handover — sold-out debut hands keys before the registered date",
+      "org": "KASCO Developments",
+      "date": "2026-05-11",
+      "url": "https://tradearabia.com/News/462343/Kasco-Developments-completes-debut-Dubai-project-ahead-of-schedule/CONS",
+      "summary": "KASCO confirms physical completion of Volna by Kasco at Dubai Creek/Al Jaddaf — 65 residences (studios to 3-BR), Property Finder lists it as sold out, project now in final administrative phase before homeowner transition.",
+      "tags": [
+        "KASCO",
+        "Volna",
+        "Al Jaddaf",
+        "handover",
+        "Dubai Creek",
+        "branded debut"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AL-JADDAF",
+        "DXB-CREEK"
+      ],
+      "metrics": {
+        "Units": 65,
+        "Floors": 11,
+        "Studio size": "494–547 sqft",
+        "1-BR size": "819–1,341 sqft",
+        "2-BR size": "1,570 sqft",
+        "3-BR size": "1,503 sqft",
+        "Launch price (from)": "AED 2.99M",
+        "Payment plan": "20% DP / 20% during / 60% handover",
+        "Original handover": "Q2 2026 (May 2026)",
+        "Sales status": "Sold out (Property Finder)"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia: completion announcement",
+          "url": "https://tradearabia.com/News/462343/Kasco-Developments-completes-debut-Dubai-project-ahead-of-schedule/CONS"
+        },
+        {
+          "label": "Volna by Kasco — Property Finder project page",
+          "url": "https://www.propertyfinder.ae/en/new-projects/kasco-properties/volna-by-kasco"
+        },
+        {
+          "label": "Volna by Kasco — Bayut project page",
+          "url": "https://www.bayut.com/new-projects/dubai/culture-village/volna-by-kasco/"
+        }
+      ],
+      "explainer": {
+        "tagline": "KASCO hands its debut Al Jaddaf block over ahead of schedule — first secondary inventory is days from arriving.",
+        "whatIsIt": "Volna by Kasco is an 11-floor, 65-residence project on the Dubai Creek/Al Jaddaf waterfront. Launched March 2025 with a 20/20/60 plan starting AED 2.99M, the project is marked sold out on Property Finder and on 2026-05-11 KASCO confirmed physical completion ahead of the registered Q2 2026 date.",
+        "howItWorks": "Now in 'final administrative phase' with DLD and developer coordinating homeowner transition. Once Oqood/title flips, end users move in and the 60% handover tranche settles. Expect first secondary listings — both end-user resales and investor flips — within weeks. Studios 494-547 sqft, 1-BR 819-1,341 sqft, 2-BR 1,570 sqft, 3-BR 1,503 sqft.",
+        "whyItMatters": "Al Jaddaf trades on Dubai Creek frontage / Business Bay proximity but at a fraction of Bay/Downtown PSF. A sold-out debut handing keys early gives an immediate ready comp for Culture Village/Al Jaddaf and a steady pipeline of investor-led resales to source. For underwriters, watch the first 5-10 secondary listings to set the 'true' Volna PSF.",
+        "forWho": "End users seeking Creek-adjacent ready stock under Downtown PSF; investors monitoring first secondary listings to gauge the handover spread; brokers building a sourcing roster on Al Jaddaf.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/kasco-properties/volna-by-kasco"
+      },
+      "image": {
+        "url": "https://new-projects-media.propertyfinder.com/project/88e1627c-398e-44d7-a80a-b9abb777f39a/gallery/image/fztItBJgWGlD-BM7U7KST6bi20YDssemEIUkz06KRL8=/big.webp",
+        "alt": "Volna by Kasco residential tower on the Dubai Creek waterfront in Al Jaddaf",
+        "fit": "cover",
+        "credit": "Property Finder / KASCO Developments"
+      },
+      "publishDate": "2026-05-12T12:42:59.333Z"
+    },
+    {
+      "id": "dubai-property-finder-april-2026-aed-9-02b-mortgages-4x-intent-may-12",
+      "categories": [
+        "market",
+        "rental",
+        "visa"
+      ],
+      "title": "Property Finder April 2026 read: AED 9.02B DLD-registered mortgages (yearly peak), 4x surge in Mortgage Finder buyer intent after March pause where 7 lenders cut LTV from 80% to 70%",
+      "org": "Property Finder",
+      "date": "2026-05-12",
+      "url": "https://www.zawya.com/en/press-release/research-and-studies/from-historic-highs-a-conflict-driven-pause-to-aed-9bln-in-april-mortgages-dubais-property-market-in-2026-qea6g1r4",
+      "summary": "Property Finder maps March's conflict-pause vs April's rebound: 10% of Mortgage Finder clients cancelled and 20% paused in March as 7 mainstream lenders cut LTV to 70%, but April mortgages hit AED 9.02B and buyer intent jumped 4x — villa searches reached 46% of all sale searches, the year's high.",
+      "tags": [
+        "Property Finder",
+        "Mortgage Finder",
+        "April mortgages",
+        "buyer intent",
+        "LTV",
+        "villa search"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MORTGAGE"
+      ],
+      "metrics": {
+        "April mortgages (DLD-registered)": "AED 9.02B",
+        "Mortgage Finder buyer intent vs March": "+~4x",
+        "Villa searches share (April)": "46% of all sale searches",
+        "March: Mortgage Finder cancellations": "10% of clients",
+        "March: Mortgage Finder pauses": "20% of clients",
+        "March: lenders cutting LTV from 80% to 70%": 7,
+        "March: secondary market YoY": "-34%",
+        "March: total transaction value YoY": "-8%",
+        "March: total transaction value MoM": "-19%",
+        "January transaction value": "AED 72.4B (+63% YoY)",
+        "April rental contract volumes": "+16% YoY",
+        "Off-plan primary YoY (March)": "+20%"
+      },
+      "links": [
+        {
+          "label": "Zawya: Property Finder April mortgage release",
+          "url": "https://www.zawya.com/en/press-release/research-and-studies/from-historic-highs-a-conflict-driven-pause-to-aed-9bln-in-april-mortgages-dubais-property-market-in-2026-qea6g1r4"
+        },
+        {
+          "label": "TradingView mirror (dated 2026-05-12)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-05-12:newsml_Zaw3bNhV4:0-zawya-from-historic-highs-a-conflict-driven-pause-to-aed-9bln-in-april-mortgages-dubai-s-property-market-in-2026/"
+        },
+        {
+          "label": "Mortgage Finder",
+          "url": "https://www.mortgagefinder.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Property Finder/Mortgage Finder: March's panic was a deferral, not a departure — April mortgages hit AED 9B and 7 lenders had cut LTV.",
+        "whatIsIt": "Property Finder's 12-May release stitches DLD mortgage filings and Mortgage Finder behaviour: April closed at AED 9.02B in DLD-registered mortgages, a 2026 high, after a March shock where 10% of Mortgage Finder clients cancelled, 20% paused, and seven mainstream lenders cut LTV from 80% to 70%.",
+        "howItWorks": "Investor purchase intent on Mortgage Finder rose ~4x between March and April. Villa searches on Property Finder hit 46% of all sale searches — the year's high. Secondary value was down 34% YoY in March, but rental contract volumes were +16% YoY in April. The headline quote from CRO Cherif Sleiman: 'Those who paused in March were making a timing decision, not a fundamentals-based one.'",
+        "whyItMatters": "Two operator takeaways: (1) Mortgage Finder/Property Finder intent and DLD mortgage filings are now leading indicators worth checking before pricing a deal; (2) the LTV cut from 80% to 70% at seven lenders means buyer cash requirements jumped during March — confirm with your lender whether the cut has reversed before underwriting any deal that needs >70% LTV.",
+        "forWho": "Mortgage brokers, originators, buyer-side agents, and underwriters needing to re-set LTV assumptions before pricing or committing.",
+        "tryIt": "https://www.mortgagefinder.ae/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-04/wo6ocrxd/Dubai-skyline.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline used in Khaleej Times Dubai property reporting",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-12T12:42:59.333Z"
+    },
     {
       "id": "dubai-icd-emaar-22-27-percent-stake-transfer-emirates-power-investment-may-11-2026",
       "categories": [

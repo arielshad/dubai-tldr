@@ -2466,6 +2466,58 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260512t124259z",
+      "timestamp": "2026-05-12T12:42:59.333Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh Dubai property signals on 2026-05-12: DLD daily print for 11 May at AED 1.02B with off-plan back to 64.7% share, KASCO Developments completes its 65-unit Volna Al Jaddaf debut ahead of schedule, and Property Finder's April 2026 release shows AED 9.02B in monthly mortgages and a 4x surge in Mortgage Finder buyer intent as 7 lenders had cut LTVs from 80% to 70% in March.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-may-11-2026-daily-print-aed-1-02b-offplan-rebounds-64-7-percent",
+          "title": "Dubai DLD daily print 2026-05-11: AED 1.02B with off-plan rebounding to 64.7% as flats drive two-thirds of off-plan flow",
+          "category": "market",
+          "note": "Fresh DLD daily print published 2026-05-12; off-plan share rebounds to 64.7% with flats leading."
+        },
+        {
+          "id": "dubai-kasco-volna-al-jaddaf-completion-ahead-schedule-may-11-2026",
+          "title": "KASCO Developments completes 65-unit Volna by Kasco in Al Jaddaf ahead of its Q2 2026 handover — sold-out debut hands keys before the registered date",
+          "category": "developer",
+          "note": "Debut KASCO project completes ahead of Q2 2026 schedule — first secondary listings imminent in Al Jaddaf."
+        },
+        {
+          "id": "dubai-property-finder-april-2026-aed-9-02b-mortgages-4x-intent-may-12",
+          "title": "Property Finder April 2026 read: AED 9.02B DLD-registered mortgages (yearly peak), 4x surge in Mortgage Finder buyer intent after March pause where 7 lenders cut LTV from 80% to 70%",
+          "category": "market",
+          "note": "Property Finder April mortgage release dated 2026-05-12 (TradingView mirror): AED 9.02B mortgages, 4x intent rebound, 7-lender LTV cut behaviour during March."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "developer",
+        "offplan",
+        "luxury",
+        "commercial",
+        "rental"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
