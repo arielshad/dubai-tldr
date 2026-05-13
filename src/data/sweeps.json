@@ -2572,6 +2572,84 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260513t125050z",
+      "timestamp": "2026-05-13T12:50:50.676Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-13 sweep: surfaced fresh May 12–13 market signals — Anarock's 22,500-unit Dubai handover delay, Moody's UAE cyclical-cooling call on Emaar/Damac/Binghatti/Arada, Whitewill's AED 139.2B Q1 print, the May 12 DLD daily, Newbury's sub-AED 750K Al Warsan launch, Boli.ae's first fully-digital City Walk auction, and Ellington's Dubai Hills + Arjan handover.",
+      "counts": {
+        "added": 7,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-handover-delays-2026-6-9-months-fitch-anarock-may-12-2026",
+          "title": "Dubai 2026 handovers face 6–9 month delays — Fitch and Anarock flag the bulk of the 45,000-unit pipeline slipping into 2027+ as Hormuz reroutes, aluminium shortage and 18–28% input-cost jumps stall sites",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-moodys-uae-property-cyclical-cooling-may-13-2026",
+          "title": "Moody's: UAE residential heading into cyclical cooling — finished-unit transactions down ~51% Mar-Apr vs Jan-Feb avg, but Emaar / Damac / Binghatti / Arada called 'better positioned than prior cycles'",
+          "category": "market",
+          "note": "Moody's frames the slowdown as cyclical, not credit; names rated developer cohort. Operator-relevant counterparty signal."
+        },
+        {
+          "id": "dubai-whitewill-q1-2026-aed-139-2b-44400-deals-may-13-2026",
+          "title": "Whitewill Q1 2026 print: AED 139.2B across 44,400 Dubai deals — Dubai South / JVC / DAMAC Islands 2 / The Valley lead, AED 1–1.5M off-plan apartments and AED 2–5M four-BR villas are the volume zone",
+          "category": "market",
+          "note": "Quarterly Whitewill view points at named communities (Dubai South, JVC, DAMAC Islands 2, The Valley) with price bands brokers can target."
+        },
+        {
+          "id": "dubai-dld-may-12-2026-daily-print-aed-1-25b-offplan-70-1-percent",
+          "title": "Dubai DLD daily print 2026-05-12: AED 1.25B with off-plan holding 70.1% — apartments AED 605.4M of off-plan, commercial AED 160.4M, ready stays the secondary engine at AED 374.9M",
+          "category": "market",
+          "note": "Continues the daily DLD print cadence already in feed; fills the 12-May gap."
+        },
+        {
+          "id": "dubai-newbury-chapter-al-warsan-aed-532k-studios-may-12-2026",
+          "title": "Newbury Developments launches 'Chapter' series in Al Warsan 4 / International City Phase 2 — studios from AED 532K, 1-BR from AED 835K, both visa-eligible under the new no-floor rule",
+          "category": "offplan",
+          "note": "Sub-AED 750K visa-eligible primary stock — actionable for first-time buyers under the no-floor visa rule."
+        },
+        {
+          "id": "dubai-boli-ae-city-walk-digital-auction-7-day-close-may-12-2026",
+          "title": "Boli.ae becomes the UAE's first fully-digital property auction platform — clears a 1,753 sqft City Walk 2-BR in 7 days from an AED 500,000 opening bid, no reserve, no buyer commission",
+          "category": "auction",
+          "note": "First UAE fully-digital auction that closed prime (not distress) stock. Real new alternative exit for sellers."
+        },
+        {
+          "id": "dubai-ellington-house-ii-arbor-view-handover-may-13-2026",
+          "title": "Ellington Properties starts handover of Ellington House II (Dubai Hills Estate) and Arbor View (Arjan) — first delivered Ellington project in Arjan, follow-on supply for the Ellington House cluster",
+          "category": "ready",
+          "note": "Two named Ellington handovers in Dubai Hills + Arjan — adds concrete resale + rental supply for two high-flow communities."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "offplan",
+        "ready",
+        "rental",
+        "visa",
+        "auction",
+        "lead",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

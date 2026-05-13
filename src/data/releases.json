@@ -1,8 +1,487 @@
 {
-  "generatedAt": "2026-05-13T00:33:31.356Z",
+  "generatedAt": "2026-05-13T12:50:50.676Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-handover-delays-2026-6-9-months-fitch-anarock-may-12-2026",
+      "categories": [
+        "market",
+        "developer",
+        "offplan"
+      ],
+      "title": "Dubai 2026 handovers face 6–9 month delays — Fitch and Anarock flag the bulk of the 45,000-unit pipeline slipping into 2027+ as Hormuz reroutes, aluminium shortage and 18–28% input-cost jumps stall sites",
+      "org": "Fitch Ratings / Anarock Middle East",
+      "date": "2026-05-12",
+      "url": "https://www.whalesbook.com/news/English/real-estate/Dubai-Property-Projects-Face-6-9-Month-Delays-From-Mideast-Conflict/6a022e0ce43db892c268fc5c",
+      "summary": "Two May-12 reports converge: Fitch Ratings says Middle East conflict will push Dubai construction timelines back 6-9 months across the 45,000-unit 2026 handover slate; Anarock Middle East separately estimates roughly half of those units now land in 2027+. Input costs +~30% overall; ceramics/aluminium/MEP components +18–28%; Strait of Hormuz reroutes adding 7-15 days on Asian inbound; EGA Abu Dhabi line needs ~12 months remediation. 58% of Dubai's 1,592 active projects (482,000 units in pipeline) sit at 0-20% completion — the most exposed cohort.",
+      "tags": [
+        "Fitch",
+        "Anarock",
+        "handover delay",
+        "Iran war",
+        "Strait of Hormuz",
+        "supply chain",
+        "aluminium",
+        "construction cost",
+        "2026 handovers",
+        "Emirates Global Aluminium"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB-MARKET",
+        "DXB-OFFPLAN"
+      ],
+      "metrics": {
+        "2026 planned handovers": "45,000 units",
+        "Anarock view": "~50% (~22,500 units) sliding to 2027+",
+        "Fitch view": "6–9 month delays across the slate",
+        "Input cost inflation": "~30% overall",
+        "Materials worst-hit": "Ceramics, aluminium sheets, fixtures, MEP — 18–28% up",
+        "Active Dubai projects": "1,592 (482,000 units in pipeline, AED 366B)",
+        "Early-stage projects (0–20%)": "58% of pipeline",
+        "EGA Abu Dhabi line": "~12 months remediation post-strike",
+        "Alba (Bahrain) capacity cut": "~20%",
+        "Asian shipping detour": "7–15 extra days via Cape route",
+        "Entry-level activity Y/Y": "-40%",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "Whalesbook / Fitch view: Dubai property projects face 6-9 month delays from Mideast conflict (12-May-2026)",
+          "url": "https://www.whalesbook.com/news/English/real-estate/Dubai-Property-Projects-Face-6-9-Month-Delays-From-Mideast-Conflict/6a022e0ce43db892c268fc5c"
+        },
+        {
+          "label": "Webnewswire / Anarock view: War hold-ups half of Dubai's 2026 home handovers (12-May-2026)",
+          "url": "https://www.webnewswire.com/2026/05/12/war-hold-ups-half-of-dubais-2026-home-handovers/"
+        },
+        {
+          "label": "Khaleej Times: Hormuz disruption strains supply chains as Iran conflict forces costly rerouting (23-Apr-2026)",
+          "url": "https://www.khaleejtimes.com/business/hormuz-disruption-strains-supply-chains-as-iran-conflict-forces-costly-rerouting"
+        }
+      ],
+      "explainer": {
+        "tagline": "Fitch and Anarock both call it: the bulk of Dubai's promised 2026 keys land in 2027 — a supply pause that resets rental, off-plan and yield maths simultaneously.",
+        "whatIsIt": "Two independent May-12 reports converge on the same conclusion. Fitch Ratings (via Whalesbook) estimates Dubai construction timelines push back 6-9 months across the 45,000-unit 2026 handover slate. Anarock Middle East (via Webnewswire) puts the slippage closer to half of the 45,000-unit cohort sliding into 2027+. Both cite the same drivers: Strait of Hormuz reroutes, an ~20% Aluminium Bahrain (Alba) capacity cut, a ~12-month remediation timeline at Emirates Global Aluminium's Abu Dhabi plant, and an aggregate ~30% jump in input costs. 58% of Dubai's 1,592 active projects sit at 0-20% completion — the cohort most exposed to the disruption.",
+        "howItWorks": "A construction stall this size resets two cash-flow models. (1) For off-plan buyers on payment plans, milestone draws push out — but so do oqood-to-title transfers, and any post-handover plan that was sold against a 2026 hand-key now compounds for an extra 6-12 months. (2) For rental supply, the planned 2026 inventory dump that was supposed to soften Marina / Business Bay / JVC asking rents now lands in tranches through 2027, keeping rental yields propped up. Investors holding ready stock get a passive tailwind; off-plan buyers waiting on keys should re-baseline interest-carry and rental-start dates with their developer in writing.",
+        "whyItMatters": "Operationally: check escrow draw schedules and developer force-majeure language on any unit due Q3-Q4 2026 — Dubai law allows up to 12-month delays without buyer rescission rights, so the contract date matters more than the marketing brochure. For brokers: tenants renewing in late 2026 face less new-supply pressure than the 45k-unit headline implied; lease negotiations should reflect that. For sellers of ready stock: the 12-month supply gap is the strongest argument against discounting to chase off-plan-comparable asks.",
+        "forWho": "Off-plan buyers due Q3-Q4 2026 keys; landlords negotiating 2026 renewals; analysts modelling Dubai rental supply through 2027; developers communicating handover slippage to escrow agents.",
+        "tryIt": "https://www.whalesbook.com/news/English/real-estate/Dubai-Property-Projects-Face-6-9-Month-Delays-From-Mideast-Conflict/6a022e0ce43db892c268fc5c"
+      },
+      "image": {
+        "url": "https://images.whalesbook.com/images/thumbnail_6a022e0ce43db892c268fc5b_1536_864.jpeg",
+        "alt": "Dubai property construction site — Whalesbook coverage of 6-9 month handover delays from Mideast conflict",
+        "fit": "cover",
+        "credit": "Whalesbook"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
+    {
+      "id": "dubai-moodys-uae-property-cyclical-cooling-may-13-2026",
+      "categories": [
+        "market",
+        "developer"
+      ],
+      "title": "Moody's: UAE residential heading into cyclical cooling — finished-unit transactions down ~51% Mar-Apr vs Jan-Feb avg, but Emaar / Damac / Binghatti / Arada called 'better positioned than prior cycles'",
+      "org": "Moody's",
+      "date": "2026-05-13",
+      "url": "https://www.khaleejtimes.com/business/property/uae-property-market-cools-but-developers-are-stronger-than-last-cycle-moodys",
+      "summary": "Moody's tracks a cyclical UAE residential downturn as population growth stabilises and off-plan completes. Transaction volumes for finished units dropped ~51% in Mar-Apr vs Jan-Feb. The four rated developers — Emaar, Damac, Binghatti, Arada — hold low-to-moderate leverage, high equity funding, front-loaded payment structures, and limited near-term capital-market reliance. Strait of Hormuz costs and slower cash collection flagged as downside risks.",
+      "tags": [
+        "Moody's",
+        "credit",
+        "Emaar",
+        "Damac",
+        "Binghatti",
+        "Arada",
+        "rated developers",
+        "cyclical cooling",
+        "off-plan",
+        "Strait of Hormuz"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "DXB-DEVELOPERS"
+      ],
+      "metrics": {
+        "Finished-unit transactions Mar–Apr vs Jan–Feb": "-51%",
+        "Rated developers": "Emaar, Damac, Binghatti, Arada",
+        "Funding profile": "Low-to-moderate leverage, high equity, limited near-term capital-market dependence",
+        "Payment structures": "Front-loaded — early cash collection",
+        "Liquidity outlook": "Solid buffers through 12-month horizon",
+        "Pricing tactic": "Flexible payment terms (not headline price cuts)",
+        "Downside flags": "Hormuz disruption raising construction costs; sustained collection slowdown pressuring liquidity",
+        "Source date": "2026-05-13"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: UAE property market cools but developers stronger than last cycle — Moody's (13-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-property-market-cools-but-developers-are-stronger-than-last-cycle-moodys"
+        },
+        {
+          "label": "AGBI: Dubai property sellers slashing millions off prices — AED 1.7B cut across 2,800+ listings (corroborating market-cooling print)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/05/dubai-property-sellers-slashing-prices-data-shows/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Moody's frames Dubai's slowdown as cyclical, not credit-driven — and the rated developers are walking in with stronger balance sheets than 2009 or 2018.",
+        "whatIsIt": "Moody's has published a UAE residential outlook calling the current slowdown a 'cyclical downturn' rather than a structural break: population growth is normalising and the inventory built during the 2022–2025 off-plan run is starting to complete. Finished-unit transactions fell ~51% in Mar-Apr versus the Jan-Feb monthly average. Crucially, the four developers Moody's rates — Emaar, Damac, Binghatti, Arada — sit on low-to-moderate leverage, high equity funding, and front-loaded payment plans that collected cash before the slowdown bit.",
+        "howItWorks": "The agency expects developers to defend asset values by widening payment plans rather than cutting headline prices — consistent with what's already visible in Binghatti's 5-launch quarter and Emaar's AED 20.1B Q1. Limited capital-market dependence over the next 12 months means no forced refinancing crystallisations are coming, even if cash collection from buyers slows further. Downside scenarios Moody's flagged: a prolonged Strait of Hormuz disruption pushing construction-cost inflation past current ranges, and sustained collection slowdowns that could pressure liquidity through 2027.",
+        "whyItMatters": "For buyers: developer counterparty risk on AED 1M+ off-plan deposits looks materially better than in past cycles — Moody's is endorsing the financial structure, not the market. For sellers and brokers: the 51% drop in ready-resale flow is the single sharpest macro print for anyone listing finished stock right now, and frames the negotiation. For yield buyers: front-loaded payment plans and slower headline price moves mean entry windows narrow at the developer counter even as resale signs soften.",
+        "forWho": "Off-plan buyers underwriting developer risk; ready-stock sellers calibrating ask vs comps; analysts and credit funds tracking Gulf real-estate counterparty exposure.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/uae-property-market-cools-but-developers-are-stronger-than-last-cycle-moodys"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "handle": "@somshankarb",
+        "profileUrl": "https://www.khaleejtimes.com/author/somshankar-bandyopadhyay"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-12/rgz59gez/d3-2025.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline — Khaleej Times coverage of Moody's UAE property outlook",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
+    {
+      "id": "dubai-whitewill-q1-2026-aed-139-2b-44400-deals-may-13-2026",
+      "categories": [
+        "market"
+      ],
+      "title": "Whitewill Q1 2026 print: AED 139.2B across 44,400 Dubai deals — Dubai South / JVC / DAMAC Islands 2 / The Valley lead, AED 1–1.5M off-plan apartments and AED 2–5M four-BR villas are the volume zone",
+      "org": "Whitewill",
+      "date": "2026-05-13",
+      "url": "https://www.biztoday.news/2026/05/13/whitewill-q1-2026-report-records-aed-139-2-billion-in-dubai-real-estate-transactions/",
+      "summary": "Whitewill's Q1 2026 Dubai market report logs AED 139.2B across 44,400 deals — off-plan 30K deals / AED 73.4B (vs 25K / AED 53.9B in Q1 2025), secondary AED 65.8B on fewer deals. Top apartment areas: Dubai South, JVC, Dubai Residence Complex, Dubai Islands, Business Bay, Marina, Majan. Top villa hotspots: DAMAC Islands 2, The Valley, The Oasis, Heights Country Club, Dubai South, DAMAC Hills 2. Luxury demand concentrated in Jumeirah Bay Island, Jumeirah, Palm, World Islands, La Mer, JBR. Volume sweet spots: 1-BR apartments at AED 1–1.5M and 4-BR off-plan villas at AED 2–5M.",
+      "tags": [
+        "Whitewill",
+        "Q1 2026",
+        "Dubai South",
+        "JVC",
+        "DAMAC Islands 2",
+        "The Valley",
+        "off-plan",
+        "secondary",
+        "1-BR",
+        "4-BR villa"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "DXB-SOUTH",
+        "JVC",
+        "DXB-VALLEY"
+      ],
+      "metrics": {
+        "Q1 2026 Dubai value": "AED 139.2B (USD 37.9B)",
+        "Q1 2026 Dubai deals": "44,400",
+        "Off-plan Q1 2026": "~30,000 deals / AED 73.4B",
+        "Off-plan Q1 2025": "~25,000 deals / AED 53.9B",
+        "Secondary Q1 2026 value": "AED 65.8B (deal count lower than Q1 2025)",
+        "Top apartment areas": "Dubai South, JVC, Dubai Residence Complex, Dubai Islands, Business Bay, Marina, Majan",
+        "Top villa/TH areas": "DAMAC Islands 2, The Valley, The Oasis, Heights Country Club, Dubai South, DAMAC Hills 2",
+        "Top luxury areas": "Jumeirah Bay Island, Jumeirah, Palm, World Islands, La Mer, JBR",
+        "Most popular apartment format": "1-BR",
+        "Volume off-plan apartment price": "AED 1–1.5M",
+        "Volume villa price band": "AED 2–5M, 4-BR off-plan / 3–4-BR secondary",
+        "Source date": "2026-05-13"
+      },
+      "links": [
+        {
+          "label": "Biz Today: Whitewill Q1 2026 Dubai market report (13-May-2026)",
+          "url": "https://www.biztoday.news/2026/05/13/whitewill-q1-2026-report-records-aed-139-2-billion-in-dubai-real-estate-transactions/"
+        },
+        {
+          "label": "GDN Online: Dubai records $37.9bn real estate transactions in Q1 (13-May-2026)",
+          "url": "https://www.gdnonline.com/Details/1394564/Dubai-records-$379bn-real-estate-transactions-in-Q1"
+        }
+      ],
+      "explainer": {
+        "tagline": "Whitewill's Q1 map points buyers and brokers at where Dubai liquidity actually sat — 1-BR apartments at AED 1–1.5M and four-BR villas at AED 2–5M in named communities.",
+        "whatIsIt": "Whitewill Dubai's Q1 2026 report puts the quarter at AED 139.2B across 44,400 transactions. Off-plan widened to 30K deals / AED 73.4B from 25K / AED 53.9B in Q1 2025 — the secondary book stayed thinner but still cleared AED 65.8B. The volume engine: 1-BR apartments in the AED 1–1.5M band (Dubai South, JVC, Business Bay, Marina, Dubai Islands) and 4-BR off-plan villas at AED 2–5M (DAMAC Islands 2, The Valley, The Oasis, DAMAC Hills 2, Heights Country Club). Luxury appetite stayed concentrated in Jumeirah Bay Island, Jumeirah, Palm, World Islands, La Mer and JBR.",
+        "howItWorks": "Use the report two ways. (1) Pricing: if your asking price for a 1-BR Marina or JVC unit sits outside the AED 1–1.5M cluster Whitewill highlights, you're competing with off-plan launches in the same band — fund your sweetener (a year of service charges, post-handover plan) accordingly. (2) Targeting: brokers chasing 4-BR end-user demand should run their canvassing list against DAMAC Islands 2, The Valley and The Oasis specifically — that's where the AED 2–5M villa volume actually closed, not Arabian Ranches or Springs.",
+        "whyItMatters": "Whitewill is a single brokerage view, not the full DLD print, but it lines up directionally with DLD weekly data already in the feed and identifies the price bands where conversion was densest. That matters for anyone deciding whether to take a price cut: Q1's volume sat 30%+ off-plan-weighted in named pockets, so a same-community comp is more meaningful than an emirate-wide average.",
+        "forWho": "Listing brokers calibrating asks against actual Q1 closing bands; underwriters scoring off-plan absorption risk by community; HNW seller reps in luxury super-prime nodes.",
+        "tryIt": "https://www.biztoday.news/2026/05/13/whitewill-q1-2026-report-records-aed-139-2-billion-in-dubai-real-estate-transactions/"
+      },
+      "image": {
+        "url": "https://www.biztoday.news/wp-content/uploads/2026/05/IMG-20260513-WA0012-850x491.jpg",
+        "alt": "Whitewill Dubai Q1 2026 report — AED 139.2B across 44,400 transactions",
+        "fit": "cover",
+        "credit": "Whitewill / Biz Today"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
+    {
+      "id": "dubai-dld-may-12-2026-daily-print-aed-1-25b-offplan-70-1-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-05-12: AED 1.25B with off-plan holding 70.1% — apartments AED 605.4M of off-plan, commercial AED 160.4M, ready stays the secondary engine at AED 374.9M",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-05-12",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-13-may-2026",
+      "summary": "DLD prints AED 1.25B on 12-May-2026. Off-plan AED 879.2M (70.1%) led by AED 605.4M of off-plan flats, AED 160.4M of off-plan commercial, AED 84.3M off-plan villas and AED 29.1M off-plan hotel apartments. Ready AED 374.9M (29.9%) with flats AED 227.1M and villas AED 75.8M. The Real Estate Reports flags Newbury's new 'Chapter' Al Warsan launch (studios from AED 532K, 1-BR from AED 835K) and a Boli.ae digital-auction sale of a City Walk apartment as the standout pipeline signals.",
+      "tags": [
+        "DLD",
+        "daily transactions",
+        "off-plan",
+        "Business Bay",
+        "Al Warsan",
+        "City Walk",
+        "TheRealEstateReports"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARKET",
+        "DXB-OFFPLAN"
+      ],
+      "metrics": {
+        "Date": "2026-05-12",
+        "Total value": "AED 1.25B",
+        "Off-plan share": "70.1% (AED 879.2M)",
+        "Off-plan flats": "AED 605.4M (68.9% of off-plan)",
+        "Off-plan commercial": "AED 160.4M (18.2% of off-plan)",
+        "Off-plan villas": "AED 84.3M (9.6% of off-plan)",
+        "Off-plan hotel apartments": "AED 29.1M (3.3% of off-plan)",
+        "Ready share": "29.9% (AED 374.9M)",
+        "Ready flats": "AED 227.1M (60.6% of ready)",
+        "Ready villas": "AED 75.8M (20.2% of ready)",
+        "Ready commercial": "AED 49.8M (13.3% of ready)",
+        "Highlighted launch": "Newbury 'Chapter' — Al Warsan 4, studios from AED 532K",
+        "Highlighted secondary signal": "Boli.ae digital auction sells City Walk 2-BR in 7 days"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports: Dubai Real Estate Market Review 13-May-2026 (covers DLD 12-May print)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-13-may-2026"
+        },
+        {
+          "label": "Dubai Land Department: real-estate data portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Single-day DLD print: AED 1.25B with off-plan at 70.1% — apartments doing the work, commercial holding the second slot.",
+        "whatIsIt": "The 12-May-2026 Dubai Land Department daily transaction print closed at AED 1.25B. Off-plan kept its grip at 70.1% — AED 879.2M total, of which AED 605.4M sat in flats and a notable AED 160.4M in commercial off-plan. Ready cleared AED 374.9M (29.9%), with flats at AED 227.1M and villas AED 75.8M. The Real Estate Reports' Tuesday write-up tied the day's launch and resale signals to Newbury's new Al Warsan 'Chapter' (studios from AED 532K, 1-BR from AED 835K) and a Boli.ae digital auction that cleared a City Walk apartment in seven days.",
+        "howItWorks": "Compare this print to the rolling May run already in the feed (AED 2.39B on 05-May, AED 1.47B on 06-May, AED 998.5M on 07-May, AED 1.14B on 08-May, AED 1.02B on 11-May). 12-May sits in the new normal band — sub-AED 1.5B but with off-plan share creeping back above 70%. Commercial at AED 160M of off-plan signals that institutional flow is still digesting the Lumena/Eden House-driven multi-day cluster from earlier in May rather than evaporating.",
+        "whyItMatters": "For buyers: the day's off-plan-heavy mix means most fresh stock entering the market is launch inventory with developer-set payment plans, not negotiable secondary listings — comp work should focus on launch pricing rather than asking-vs-listed. For brokers: a 70/30 off-plan/ready split is a useful guide to where commission flow is coming from this month.",
+        "forWho": "Daily DLD readers; off-plan brokers benchmarking absorption rate; analysts tracking the post-conflict mix shift.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-13-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c6a26173-724a-49fe-956a-84ffd6d36ba6/BeeHive_-_PRIMARY_AD_1__Volatility_doesn_t_create_weak_systems__it_exposes_them.png",
+        "alt": "Dubai skyline header from TheRealEstateReports daily DLD review 13-May-2026",
+        "fit": "cover",
+        "credit": "TheRealEstateReports"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
+    {
+      "id": "dubai-newbury-chapter-al-warsan-aed-532k-studios-may-12-2026",
+      "categories": [
+        "offplan",
+        "visa",
+        "ready"
+      ],
+      "title": "Newbury Developments launches 'Chapter' series in Al Warsan 4 / International City Phase 2 — studios from AED 532K, 1-BR from AED 835K, both visa-eligible under the new no-floor rule",
+      "org": "Newbury Developments",
+      "date": "2026-05-12",
+      "url": "https://www.biztoday.news/2026/05/12/newbury-developments-launches-chapter-residential-series-in-dubai-with-prices-starting-from-aed-532000/",
+      "summary": "Newbury Developments rolls out its 'Chapter' residential series in Al Warsan 4 (International City Phase 2). Studios start AED 532,000 (~426 sqft+); 1-BR units start AED 835,000 (~726 sqft+). MD Mustafa Saya positions the project against Dubai's sub-AED 750K visa-eligible cohort after the floor was removed. Chapter 01 is a G+9 block of 126 units with December 2027 handover; the wider Chapter series stretches to Chapter 02.",
+      "tags": [
+        "Newbury Developments",
+        "Chapter",
+        "Al Warsan 4",
+        "International City Phase 2",
+        "studio",
+        "visa-eligible",
+        "Blue Line metro",
+        "off-plan launch"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-WARSAN",
+        "DXB-INTLCITY"
+      ],
+      "metrics": {
+        "Studio entry price": "AED 532,000",
+        "Studio size from": "426 sqft (priced) / 393 sqft (smaller layout earlier listed)",
+        "1-BR entry price": "AED 835,000",
+        "1-BR size from": "726 sqft",
+        "Chapter 01 units": 126,
+        "Chapter 01 building": "G + 9 floors",
+        "Chapter 01 handover": "December 2027",
+        "Location": "Al Warsan 4, International City Phase 2",
+        "Connectivity": "~5 min to planned Blue Line metro station; Sheikh Mohammed Bin Zayed Rd access",
+        "Visa angle": "Studios at AED 532K now visa-eligible under the removed AED 750K floor",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "Biz Today: Newbury Developments launches 'Chapter' Dubai series (12-May-2026)",
+          "url": "https://www.biztoday.news/2026/05/12/newbury-developments-launches-chapter-residential-series-in-dubai-with-prices-starting-from-aed-532000/"
+        },
+        {
+          "label": "Property Finder: Chapter 01 by Newbury Development (verify availability)",
+          "url": "https://www.propertyfinder.ae/en/new-projects/newbury-development/chapter-01"
+        },
+        {
+          "label": "Property Finder: Chapter 02 by Newbury Development",
+          "url": "https://www.propertyfinder.ae/en/new-projects/newbury-development/chapter-02"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sub-AED 750K studios still exist — Newbury's Chapter 01 ticks the new no-floor property-visa box with a December 2027 keys date.",
+        "whatIsIt": "Newbury Developments has launched its 'Chapter' series in Al Warsan 4 (International City Phase 2). Chapter 01 is a 126-unit, G+9 building with studios from AED 532K (from 426 sqft) and 1-BR units from AED 835K (from 726 sqft). Managing Director Mustafa Saya pitches the project as a Dubai entry-point that still works on yield and on the new property-investor visa rules — the AED 750K visa floor was removed in late April, so a AED 532K studio now qualifies for the 2-year residency route. Handover is December 2027; a Chapter 02 sister project is listed on Property Finder as well.",
+        "howItWorks": "Run the numbers: an AED 532K studio at International City rental comps (typically AED 35-45K/year on the high end of stabilised stock) implies a gross yield in the 6.5-8% range — competitive but not best-in-class, with the kicker being the visa eligibility. The Chapter is roughly 5 minutes from the planned Dubai Metro Blue Line station and sits on Sheikh Mohammed Bin Zayed Road, which is the actual underwrite for a 2027 handover. DLD fee 4%, broker commission typically 2%, plus oqood and developer admin charges land all-in around AED 565-575K to take ownership.",
+        "whyItMatters": "Two thresholds intersect here. (1) The new no-floor visa route makes International City and Al Warsan visa-eligible territory for the first time — the Chapter is one of the few clean primary launches at that band. (2) International City is a high-supply, high-vacancy zone historically, so building credibility and management quality matter more than the headline price. Verify Newbury's track record (this is an early launch — confirm escrow registration and any prior delivered projects via DLD's Real Estate Project Status portal).",
+        "forWho": "First-time Dubai buyers chasing the new property visa; yield buyers underwriting International City; brokers building visa-stock lists post no-floor rule.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/newbury-development/chapter-01"
+      },
+      "image": {
+        "url": "https://www.biztoday.news/wp-content/uploads/2026/05/IMG-20260512-WA0008-850x491.jpg",
+        "alt": "Newbury Developments 'Chapter' residential series launch — Al Warsan 4, International City Phase 2",
+        "fit": "cover",
+        "credit": "Newbury Developments / Biz Today"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
+    {
+      "id": "dubai-boli-ae-city-walk-digital-auction-7-day-close-may-12-2026",
+      "categories": [
+        "auction",
+        "lead",
+        "media"
+      ],
+      "title": "Boli.ae becomes the UAE's first fully-digital property auction platform — clears a 1,753 sqft City Walk 2-BR in 7 days from an AED 500,000 opening bid, no reserve, no buyer commission",
+      "org": "Boli.ae",
+      "date": "2026-05-12",
+      "url": "https://www.khaleejtimes.com/business/dubai-tests-digital-property-auctions-as-city-walk-home-sells-in-seven-days",
+      "summary": "Boli.ae sells a 1,753 sqft 2-BR City Walk apartment in 7 days through a fully digital auction — AED 500K opening bid, no reserve, transparent live bidding, no buyer commission. CEO Imran Agha pitches it as a tighter alternative to Emirates Auction–style processes, with property pre-verification and broker-friendly listings. App at 500+ downloads / 4.8 rating.",
+      "tags": [
+        "Boli.ae",
+        "digital auction",
+        "City Walk",
+        "Imran Agha",
+        "transparency",
+        "no reserve",
+        "broker-friendly",
+        "PropTech"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-CITYWALK",
+        "DXB-AUCTION"
+      ],
+      "metrics": {
+        "Property": "City Walk 2-BR, 1,753 sqft",
+        "Opening bid": "AED 500,000",
+        "Reserve": "None",
+        "Time to close": "7 days",
+        "Buyer commission": "None",
+        "Broker upfront fee": "None",
+        "Auction close": "11pm UAE time",
+        "App downloads (iOS + Android)": "500+",
+        "App rating": "4.8",
+        "CEO": "Imran Agha",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: Dubai tests digital property auctions as City Walk home sells in seven days (12-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/dubai-tests-digital-property-auctions-as-city-walk-home-sells-in-seven-days"
+        },
+        {
+          "label": "Gulf Today: Boli.ae launches UAE's first fully digital property auction (12-May-2026)",
+          "url": "https://www.gulftoday.ae/business/2026/05/12/boliae-launches-uaes-first-fully-digital-property-auction-closing-elite-city-walk-asset-within-7-days"
+        },
+        {
+          "label": "Boli.ae platform",
+          "url": "https://boli.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A digital auction took a City Walk 2-BR from listing to closed in seven days — Dubai's first proof that the model works on prime stock, not just bank-distress lots.",
+        "whatIsIt": "Boli.ae has demonstrated the UAE's first fully-digital end-to-end property auction by selling a 1,753 sqft 2-BR in City Walk in seven days. The listing went up with no reserve and a AED 500,000 opening bid, with live transparent bidding closing at 11pm UAE time. CEO Imran Agha frames the model as a fix for the typical 8-12 week Dubai resale timeline; the platform also waives buyer commission and broker upfront fees.",
+        "howItWorks": "The mechanic is meaningful: a no-reserve, time-bound auction forces price discovery in days rather than weeks, and the buyer side pays no commission — meaning sellers can effectively price closer to net. For sellers of mid-prime ready stock (Downtown, City Walk, DIFC), this is a real alternative to Emirates Auction (typically distress-driven) and traditional brokerage listings. Bidder verification, AI-supported pricing input and publicly visible bid tracking address the historical trust deficit on digital auctions. Brokers can list without upfront fees, but should confirm the commission/co-broke arrangement with Boli before pitching to clients.",
+        "whyItMatters": "Two flows to watch. (1) Sellers with carrying-cost pressure (service charges, mortgage, dual-income switches) now have a Dubai-native 7-day exit option without going to bank-distress channels — a useful alternative to a 10-20% off-comp panic listing. (2) Cash buyers and HNW operators with quick-decision capital can hunt for under-marketed prime stock; the no-reserve format means a low-attention auction can clear materially below comps if bidder count stays thin. Always verify the title and service-charge ledger with DLD before bidding.",
+        "forWho": "Time-pressured sellers in City Walk / Downtown / DIFC / Jumeirah; cash buyers running tactical bid lists; brokers building digital-auction co-broke pipelines.",
+        "tryIt": "https://boli.ae/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-12/jeapmul9/Dubai-City-Walk.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai City Walk apartment cleared via Boli.ae digital auction — Khaleej Times",
+        "fit": "cover",
+        "credit": "Khaleej Times / Boli.ae"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
+    {
+      "id": "dubai-ellington-house-ii-arbor-view-handover-may-13-2026",
+      "categories": [
+        "ready",
+        "developer",
+        "rental"
+      ],
+      "title": "Ellington Properties starts handover of Ellington House II (Dubai Hills Estate) and Arbor View (Arjan) — first delivered Ellington project in Arjan, follow-on supply for the Ellington House cluster",
+      "org": "Ellington Properties",
+      "date": "2026-05-13",
+      "url": "https://tradearabia.com/News/462440/Ellington-Properties-begins-handover-of-two-key-residential-projects-in-Dubai",
+      "summary": "Ellington Properties has begun handover of two Dubai residential projects: Ellington House II in Dubai Hills Estate (its second tower in the cluster after Ellington House I) and Arbor View in Arjan (the developer's first delivered project in that community). Co-founder Joseph Thomas confirms Ellington House III and IV still under construction; Ellington House I's stabilised rentals reportedly trade ~28% above the local market average.",
+      "tags": [
+        "Ellington Properties",
+        "Ellington House II",
+        "Arbor View",
+        "Dubai Hills Estate",
+        "Arjan",
+        "handover",
+        "Joseph Thomas",
+        "rental premium"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DHE",
+        "DXB-ARJAN"
+      ],
+      "metrics": {
+        "Project 1": "Ellington House II — Dubai Hills Estate",
+        "Project 2": "Arbor View — Arjan (Ellington's first delivered Arjan project)",
+        "Handover start": "May 2026",
+        "Ellington House cluster pipeline": "III and IV still under construction",
+        "Ellington House I rent premium": "~28% above local market (per company)",
+        "Q1 2026 Dubai-wide deliveries (context)": "~8,000+ residential units",
+        "Co-founder quote": "Joseph Thomas — 'continued focus on delivery and consistency'",
+        "Source date": "2026-05-13"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia: Ellington Properties begins handover of two key Dubai residential projects (13-May-2026)",
+          "url": "https://tradearabia.com/News/462440/Ellington-Properties-begins-handover-of-two-key-residential-projects-in-Dubai"
+        },
+        {
+          "label": "Property Finder: Ellington House cluster — Dubai Hills Estate",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington-properties/ellington-house"
+        }
+      ],
+      "explainer": {
+        "tagline": "Two fresh Ellington handovers — Dubai Hills follow-on plus first Arjan delivery — add design-led supply to two of Dubai's most rent-tested communities.",
+        "whatIsIt": "Ellington Properties has started handover on two projects: Ellington House II in Dubai Hills Estate (its second Ellington House cluster tower after Ellington House I) and Arbor View, the developer's first completed project in Arjan. Co-founder Joseph Thomas tied the handover to the developer's bigger 'design-led' track record and confirmed Ellington House III and IV remain under construction. The company says Ellington House I, the prior tower, trades at a ~28% premium to local stabilised rents.",
+        "howItWorks": "Operationally these are two distinct underwrites. (1) Dubai Hills Estate: Ellington House II is high-spec mid-rise stock in a community where end-user demand has stayed firm through the regional war drag — expect a wave of 1-BR and 2-BR listings to surface on Property Finder over the next 60 days as investor owners take vacant possession. (2) Arjan: Arbor View is the first Ellington completion in Arjan, which has historically been a high-yield (8-9%) tenant-driven community. The pricing test will be whether Arbor View can support a measurable premium to existing Arjan stock based on developer brand.",
+        "whyItMatters": "For brokers: two fresh inventory pools that will hit listings within 4-8 weeks — Dubai Hills 1-BR / 2-BR turnover historically clears within 90 days at <5% negotiation. For yield buyers: Arbor View units leased on long tenancies could anchor a clean 7-9% yield in Arjan if priced against new-build comps; verify the actual handover unit ledger via DLD's Project Status portal before pricing. For sellers in Ellington House I: incremental supply nearby may compress the prior ~28% premium claim — re-comp against fresh Ellington House II listings.",
+        "forWho": "Dubai Hills and Arjan brokers; yield buyers underwriting Arjan stock; investors holding Ellington House I units calibrating ask vs new-build supply.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/ellington-properties/ellington-house"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/13/TA_20260513110720.webp",
+        "alt": "Ellington Properties handover — Ellington House II (Dubai Hills) and Arbor View (Arjan)",
+        "fit": "cover",
+        "credit": "Trade Arabia / Ellington Properties"
+      },
+      "publishDate": "2026-05-13T12:50:50.676Z"
+    },
     {
       "id": "dubai-deyaar-q1-2026-aed-447m-revenue-1425-unit-handover-may-12",
       "categories": [
