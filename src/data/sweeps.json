@@ -2518,6 +2518,60 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260513t003331z",
+      "timestamp": "2026-05-13T00:33:31.356Z",
+      "source": "github-actions-sweep",
+      "summary": "Tuesday-evening sweep: Deyaar's May-12 Q1 print + 1,425-unit Q1 handover, Esnaad hands over The Spark in MBR City District 11, Khaleej Times measures the villa-demand surge (DAMAC Lagoons +189% impressions, Al Barari +105%), and The National catches Arada's CEO confirming a Downtown Dubai plot launch by year-end with a 4,000-home delivery / AED 9B revenue target for 2026.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-deyaar-q1-2026-aed-447m-revenue-1425-unit-handover-may-12",
+          "title": "Deyaar Q1 2026: AED 447.1M revenue (+3.2%), AED 147.7M PBT (+23.3%), 1,425 units handed over across Regalia / Jannat / Talia",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-esnaad-the-spark-mbr-city-district-11-handover-may-12-2026",
+          "title": "Esnaad hands over The Spark in Mohammed Bin Rashid City District 11 — 50-unit boutique block adds fresh 1-BR / 2-BR supply on Al Ain Road",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-villa-demand-damac-lagoons-al-barari-arjan-may-12-2026",
+          "title": "Khaleej Times maps the May 2026 villa-demand surge: DAMAC Lagoons +189% impressions, Al Barari +105%, Arjan flats post 8–9% rental yields",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-arada-downtown-plot-4000-homes-aed-9b-2026-target-may-12",
+          "title": "Arada CEO confirms Downtown Dubai plot launch by year-end + ~6 launches across UAE in 2026, with 4,000-home delivery and AED 9B revenue target",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "ready",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

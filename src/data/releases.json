@@ -1,8 +1,271 @@
 {
-  "generatedAt": "2026-05-12T12:42:59.333Z",
+  "generatedAt": "2026-05-13T00:33:31.356Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-deyaar-q1-2026-aed-447m-revenue-1425-unit-handover-may-12",
+      "categories": [
+        "developer",
+        "ready",
+        "market"
+      ],
+      "title": "Deyaar Q1 2026: AED 447.1M revenue (+3.2%), AED 147.7M PBT (+23.3%), 1,425 units handed over across Regalia / Jannat / Talia",
+      "org": "Deyaar Development",
+      "date": "2026-05-12",
+      "url": "https://www.khaleejtimes.com/business/property/deyaar-posts-dh4471-million-in-revenue-despite-downturn-in-hospitality",
+      "summary": "Deyaar prints Q1 2026: revenue AED 447.1M (+3.2%), profit before tax AED 147.7M (+23.3%), total assets AED 8.15B (+12.1%). Property and FM offset a hospitality dip tied to the regional war; CEO Saeed Al Qatami calls fundamentals 'robust'.",
+      "tags": [
+        "Deyaar",
+        "Q1 2026",
+        "handover",
+        "Regalia",
+        "Jannat",
+        "Talia Residences",
+        "Business Bay",
+        "Al Furjan",
+        "Midtown"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-BBAY",
+        "DXB-FURJAN",
+        "DXB-MIDTOWN"
+      ],
+      "metrics": {
+        "Q1 revenue": "AED 447.1M (+3.2% YoY)",
+        "Q1 PBT": "AED 147.7M (+23.3% YoY)",
+        "Total assets": "AED 8,151.5M (+12.1%)",
+        "Q1 handovers": "1,425 units across 3 projects",
+        "Regalia (Business Bay)": "913 luxury units, studios → 3-BR + penthouses",
+        "Jannat (Midtown, Dubai Production City)": "362 units, final district of master plan",
+        "Talia Residences (Al Furjan)": "161 furnished hotel apartments, Millennium-operated",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: Deyaar Q1 revenue and hospitality dip (12-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/deyaar-posts-dh4471-million-in-revenue-despite-downturn-in-hospitality"
+        },
+        {
+          "label": "Trade Arabia: Deyaar 1,400+ Dubai unit handover (April release)",
+          "url": "https://tradearabia.com/News/461438/Deyaar-completes-handover-of-over-1,400-residential-units-in-Dubai"
+        },
+        {
+          "label": "Business Today ME: Deyaar Q1 results detail",
+          "url": "https://businesstoday.me/real-estate/deyaar-announces-q1-financial-results-sustaining-strong-strategic-momentum-into-2026/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Mid-cap listed developer puts up a clean Q1 against a war-hit hospitality book — and 1,425 ready units now hit the secondary market.",
+        "whatIsIt": "Dubai-listed Deyaar reported Q1 2026 on 12-May: revenue AED 447.1M (+3.2%), PBT AED 147.7M (+23.3%), total assets AED 8.15B. The Q1 included a 1,425-unit handover across Regalia (913 units, Business Bay), Jannat (362 units, Midtown / Dubai Production City) and Talia Residences (161 furnished serviced-apartments, Al Furjan, Millennium-operated).",
+        "howItWorks": "Property and facility-management revenue offset a hospitality decline the CEO attributed directly to the regional war. The 23.3% PBT jump came on only 3.2% revenue growth — operating leverage as Q1 handovers converted backlog. With 1,425 keys now in owners' hands, expect a wave of re-listings on Property Finder and Bayut over the next two quarters: Regalia studios + 1-BR in Business Bay and Talia furnished short-term-rental candidates in Al Furjan are the obvious flow.",
+        "whyItMatters": "Three concrete supply slugs to underwrite: Business Bay studio/1-BR resale, Midtown closing slate (Jannat is the final district), and Al Furjan furnished short-let inventory. For yield buyers, the Talia hotel-apartments are a comp set against existing Al Furjan furnished rentals. For brokers, fresh-handover Regalia listings need title-deed verification — check Oqood→title transfer status before signing mandates.",
+        "forWho": "Business Bay / Al Furjan / Midtown brokers tracking resale inflows; short-let operators eyeing newly-handed-over Talia units; analysts tracking listed-developer Q1 profitability under regional-war drag.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/deyaar-posts-dh4471-million-in-revenue-despite-downturn-in-hospitality"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-12/atfxws8u/DeyaarSuppliedPhoto.jpeg",
+        "alt": "Deyaar handover and Q1 2026 release — Khaleej Times",
+        "fit": "cover",
+        "credit": "Khaleej Times / Deyaar"
+      },
+      "publishDate": "2026-05-13T00:33:31.356Z"
+    },
+    {
+      "id": "dubai-esnaad-the-spark-mbr-city-district-11-handover-may-12-2026",
+      "categories": [
+        "developer",
+        "ready"
+      ],
+      "title": "Esnaad hands over The Spark in Mohammed Bin Rashid City District 11 — 50-unit boutique block adds fresh 1-BR / 2-BR supply on Al Ain Road",
+      "org": "Esnaad",
+      "date": "2026-05-12",
+      "url": "https://tradearabia.com/News/462386/Esnaad-completes-MBR-City-residential-project-handover-",
+      "summary": "Esnaad confirms handover of The Spark — a 50-unit, ground + 5 floors + rooftop residential block in MBR City District 11. CEO Ashraf Elbendari frames it as a milestone debut handover, with amenities including pool, gym, sauna, co-working space and EV charging.",
+      "tags": [
+        "Esnaad",
+        "The Spark",
+        "MBR City",
+        "District 11",
+        "handover",
+        "boutique",
+        "Mohammed Bin Rashid City"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MBR",
+        "DXB-MEYDAN"
+      ],
+      "metrics": {
+        "Units": 50,
+        "Configuration": "G + 5 residential + rooftop",
+        "Unit mix": "1-BR and 2-BR apartments",
+        "Location": "District 11, Mohammed Bin Rashid City, Dubai",
+        "Amenities": "Pool, gym, sauna, steam room, co-working space, lobby café, bicycle parking, EV charging",
+        "Connectivity": "Al Ain Road to Downtown / DIFC / Meydan / Marina / DXB airport",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia: Esnaad completes MBR City handover (12-May-2026)",
+          "url": "https://tradearabia.com/News/462386/Esnaad-completes-MBR-City-residential-project-handover-"
+        },
+        {
+          "label": "Zawya: Esnaad hands over The Spark in Mohammed Bin Rashid City",
+          "url": "https://www.zawya.com/en/business/real-estate/esnaad-hands-over-the-spark-in-mohammed-bin-rashid-city-i73f6uzq"
+        }
+      ],
+      "explainer": {
+        "tagline": "A small but concrete MBR City handover — 50 fresh 1-BR / 2-BR keys land on the Al Ain Road corridor.",
+        "whatIsIt": "On 12-May-2026 Esnaad announced the handover of The Spark, a 50-unit boutique apartment block in MBR City's District 11. The G+5+rooftop scheme delivers 1-BR and 2-BR layouts with a hotel-style amenity stack (pool, gym, sauna, steam, co-working, café, EV charging, bicycle parking).",
+        "howItWorks": "MBR City District 11 sits east of Al Khail Road on the Al Ain Road corridor — strong connectivity to Downtown, DIFC, Meydan and Mall of the Emirates. At 50 keys the building is too small to move community-level rent indices, but it adds verified secondary-market inventory in a district where most stock is still off-plan or pre-handover. Esnaad CEO Ashraf Elbendari positions it as a milestone first delivery for the firm.",
+        "whyItMatters": "For end-users who want a smaller-scale, lower-density block versus the giant MBR City towers, this is fresh ready stock with title in place. For agents prospecting in District 11, the 50-unit owner list is a defined call-tree for both end-user resale and yield-driven re-listings. Verify title-deed transfer on Dubai REST before mandating any individual unit.",
+        "forWho": "MBR City / Meydan brokers building District-11 farm lists; end-users tilting boutique-over-tower; analysts tracking small-developer first-handover cadence.",
+        "tryIt": "https://tradearabia.com/News/462386/Esnaad-completes-MBR-City-residential-project-handover-"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/12/TA_20260512132634.webp",
+        "alt": "The Spark by Esnaad — Mohammed Bin Rashid City handover, May 2026",
+        "fit": "cover",
+        "credit": "Trade Arabia / Esnaad"
+      },
+      "publishDate": "2026-05-13T00:33:31.356Z"
+    },
+    {
+      "id": "dubai-villa-demand-damac-lagoons-al-barari-arjan-may-12-2026",
+      "categories": [
+        "market",
+        "ready",
+        "rental"
+      ],
+      "title": "Khaleej Times maps the May 2026 villa-demand surge: DAMAC Lagoons +189% impressions, Al Barari +105%, Arjan flats post 8–9% rental yields",
+      "org": "Khaleej Times",
+      "date": "2026-05-12",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-villa-demand-buyers-prioritise-space-privacy-family-living",
+      "summary": "KT compiles broker/portal data on Dubai villa-community demand 51 days into the regional-war recovery cycle: DAMAC Lagoons listings draw +189% impressions / +186% views, Al Barari +105% / +126%. Sub-AED 2M apartments and Arjan flats (8–9% yields vs <4% mortgage rates) lead the pivot to lower-ticket stock.",
+      "tags": [
+        "villa demand",
+        "DAMAC Lagoons",
+        "Al Barari",
+        "Mudon",
+        "The Springs",
+        "Arjan",
+        "yield",
+        "buyer intent"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-LAGOONS",
+        "DXB-BARARI",
+        "DXB-MUDON",
+        "ARJAN",
+        "DXB-CREEK"
+      ],
+      "metrics": {
+        "DAMAC Lagoons impressions": "+189% YoY",
+        "DAMAC Lagoons views": "+186% YoY",
+        "Al Barari impressions": "+105% YoY",
+        "Al Barari views": "+126% YoY",
+        "Total platform impressions (Day 51 of recovery)": "17 million",
+        "High-intent enquiry share": "89%",
+        "Enquiries → viewings/follow-ups": "74%",
+        "Apartment sweet spot": "< AED 2M",
+        "Townhouse sweet spot": "AED 2–3M",
+        "Arjan rental yields": "8–9%",
+        "UAE mortgage rates": "< 4%",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: Dubai villa-demand article (12-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-villa-demand-buyers-prioritise-space-privacy-family-living"
+        },
+        {
+          "label": "Bayut DAMAC Lagoons community page",
+          "url": "https://www.bayut.com/area-guides/damac-lagoons/"
+        },
+        {
+          "label": "Property Finder Al Barari villa listings",
+          "url": "https://www.propertyfinder.ae/en/buy/dubai/villas-for-sale-al-barari.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "Hard buyer-intent numbers for the post-war villa recovery — DAMAC Lagoons and Al Barari lead, Arjan's yield-vs-mortgage spread is the apartment tell.",
+        "whatIsIt": "Khaleej Times compiles broker/portal data 51 days into Dubai's regional-war recovery cycle. Damac Lagoons listing impressions are up 189% YoY (views +186%) and Al Barari is +105% / +126%. 17M platform impressions cycled in 51 days; 89% of enquiries were classified high-intent and 74% converted to viewings or follow-ups. Brokers Abdulla Al Shaibani (Alphabeta Properties) and Bhaskara Santosh (Arthouse Hills) attribute the move to families prioritizing space + lower-ticket pricing.",
+        "howItWorks": "Demand is bifurcating: villa communities (Lagoons, Al Barari, Mudon, The Springs, Dubai Hills Estate, Dubai Creek Harbour, The Valley) pull on family-living narrative, while affordable flats < AED 2M and townhouses AED 2–3M absorb yield-driven buyers. Arjan apartments offer 8–9% gross yields against sub-4% UAE mortgage rates — a 400+ bps spread is the underwriting case for leveraged investors. Mortgage Finder reported buyer-intent +4x in April after seven lenders cut LTV from 80% to 70% in March.",
+        "whyItMatters": "Maps where to fish for Q2 mandates — Lagoons and Al Barari are the hottest farm areas; AED <2M flats and AED 2–3M townhouses are where the volume sits. For sellers in those communities, pricing too tight to peak risks the listing going stale; pricing to current intent (vs. last cycle's comps) is what converts. For yield buyers, Arjan's spread is documented enough to take to a lender meeting.",
+        "forWho": "Listing brokers picking villa/townhouse farm areas; yield buyers screening Arjan / JVC flats; family end-users comparing Lagoons vs Mudon vs Springs.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/dubai-villa-demand-buyers-prioritise-space-privacy-family-living"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-12/8kunehbx/WhatsApp-Image-2026-05-05-at-11.36.01.jpeg",
+        "alt": "Dubai villa community drone view — Khaleej Times villa-demand article",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-13T00:33:31.356Z"
+    },
+    {
+      "id": "dubai-arada-downtown-plot-4000-homes-aed-9b-2026-target-may-12",
+      "categories": [
+        "developer",
+        "offplan"
+      ],
+      "title": "Arada CEO confirms Downtown Dubai plot launch by year-end + ~6 launches across UAE in 2026, with 4,000-home delivery and AED 9B revenue target",
+      "org": "Arada",
+      "date": "2026-05-12",
+      "url": "https://www.thenationalnews.com/business/property/2026/05/12/arada-lines-up-new-uae-projects-despite-iran-war-uncertainty/",
+      "summary": "Speaking to The National on 12-May, Arada Group CEO Ahmed Alkhoshaibi confirms a Downtown Dubai plot will launch by end-2026, names a second war-period Dubai acquisition, and outlines six total UAE launches plus 4,000 deliveries and AED 9B revenue this year.",
+      "tags": [
+        "Arada",
+        "Downtown Dubai",
+        "pipeline",
+        "Ahmed Alkhoshaibi",
+        "off-plan launches",
+        "Sharjah",
+        "Ras Al Khaimah"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DOWNTOWN"
+      ],
+      "metrics": {
+        "Dubai plots flagged": "2 (Downtown + 1 acquired during war)",
+        "Downtown Dubai launch window": "by end of 2026",
+        "Planned 2026 UAE launches": "~6 projects",
+        "2026 delivery target": "~4,000 homes",
+        "2026 revenue target": "AED 9B (~+25% YoY)",
+        "Other geographies": "Sharjah (Aljada + Masaar phases), Ras Al Khaimah, Abu Dhabi (Reem Hospital)",
+        "Pricing call": "CEO: no rate growth expected, demand growth instead",
+        "Source date": "2026-05-12"
+      },
+      "links": [
+        {
+          "label": "The National: Arada lines up new UAE projects (12-May-2026)",
+          "url": "https://www.thenationalnews.com/business/property/2026/05/12/arada-lines-up-new-uae-projects-despite-iran-war-uncertainty/"
+        },
+        {
+          "label": "Arada — corporate developer site",
+          "url": "https://www.arada.com/en"
+        }
+      ],
+      "explainer": {
+        "tagline": "Arada confirms it'll plant its first Downtown Dubai flag this year — and bought a second Dubai plot while everyone else was watching the war.",
+        "whatIsIt": "Sharjah-headquartered Arada — best known for Aljada and Masaar — told The National on 12-May-2026 that it owns a Downtown Dubai plot it will launch by end-2026, plus a second Dubai plot bought during the regional conflict (location undisclosed). Group CEO Ahmed Alkhoshaibi is guiding ~6 UAE launches total in 2026, 4,000 home deliveries and AED 9B revenue (~+25% YoY).",
+        "howItWorks": "Arada has been Sharjah-anchored to date; a Downtown Dubai flag would be its first true central-Dubai project and a pricing test. CEO call is 'no rate growth, demand growth' — i.e. they plan to absorb softer sentiment with volume + payment-plan flexibility rather than headline price cuts. The Reem Hospital majority stake adds an Abu-Dhabi healthcare arm to the residential pipeline. Six 2026 launches imply roughly one every two months — broker mandate competition will start before year-end.",
+        "whyItMatters": "Dubai brokers should track when the Downtown plot, project name and payment plan drop — Downtown launches tend to absorb investor demand from Business Bay and Burj Khalifa-area resale stock. For Arada channel partners, six 2026 launches is a higher cadence than 2025; positioning for early-access agencies happens now. For sellers in Downtown / Old Town / DIFC fringe, a fresh launch resets the relative-value conversation.",
+        "forWho": "Downtown Dubai brokers; off-plan channel partners building 2026 inventory pipelines; analysts watching cross-emirate developer expansion under regional-war drag.",
+        "tryIt": "https://www.thenationalnews.com/business/property/2026/05/12/arada-lines-up-new-uae-projects-despite-iran-war-uncertainty/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/YCSSJAGAEVAQJGVG4QKKIDW3VI.jpg",
+        "alt": "Arada CEO Ahmed Alkhoshaibi — The National interview on Downtown Dubai pipeline",
+        "fit": "cover",
+        "credit": "The National / Arada"
+      },
+      "publishDate": "2026-05-13T00:33:31.356Z"
+    },
     {
       "id": "dubai-dld-may-11-2026-daily-print-aed-1-02b-offplan-rebounds-64-7-percent",
       "categories": [
