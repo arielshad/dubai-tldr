@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-05-13T12:50:50.676Z",
+  "generatedAt": "2026-05-14T00:40:11.919Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-investments-q1-2026-aed-185m-pbt-violet-asayel-danah-may-12-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "market"
+      ],
+      "title": "Dubai Investments Q1 2026: AED 185M PBT, Violet Tower (JVC) at 57.61% with Q4 2026 handover, Asayel Avenue (Mirdif Hills) at 28.47% with Q2 2027 — three live property projects on schedule",
+      "org": "TradeArabia / Dubai Investments PJSC",
+      "date": "2026-05-12",
+      "publishDate": "2026-05-14T00:40:11.919Z",
+      "url": "https://tradearabia.com/News/462383/Dubai-Investments-Q1-profits-steady-at-$50.54m",
+      "summary": "Dubai Investments PJSC posted AED 185.06M profit before tax for Q1 2026 (vs AED 184.89M Y/Y) and confirmed three live residential projects are on schedule: Violet Tower in JVC at 57.61% complete with a Q4 2026 handover, Asayel Avenue at Mirdif Hills at 28.47% with Q2 2027 handover, and Danah Bay in Al Marjan Island (RAK) progressing on its Q1–Q3 2027 timeline.",
+      "tags": [
+        "dubai",
+        "developer",
+        "dubai-investments",
+        "violet-tower",
+        "asayel-avenue",
+        "danah-bay",
+        "jvc",
+        "mirdif-hills",
+        "q1-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "JVC",
+        "MIRDIF-HILLS",
+        "AL-MARJAN"
+      ],
+      "metrics": {
+        "Q1 2026 PBT": "AED 185.06M (+0.1% Y/Y)",
+        "Q1 2026 PAT": "AED 168.97M (+1.1% Y/Y)",
+        "Total assets (31 Mar 2026)": "AED 23.43B",
+        "Total equity (31 Mar 2026)": "AED 15.39B",
+        "Violet Tower (JVC) progress": "57.61% complete (Q4 2026 handover)",
+        "Asayel Avenue (Mirdif Hills) progress": "28.47% complete (Q2 2027 handover)",
+        "Danah Bay (Al Marjan, RAK) progress": "Residential 32.1% / Hotel 24.0% (Q1–Q3 2027)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia: Dubai Investments Q1 profits steady at $50.54m (12 May 2026)",
+          "url": "https://tradearabia.com/News/462383/Dubai-Investments-Q1-profits-steady-at-$50.54m"
+        },
+        {
+          "label": "Salaam Gateway: Dubai Investments reports stable Q1 2026 performance",
+          "url": "https://salaamgateway.com/story/dubai-investments-reports-stable-q1-2026-performance-with-profit-before-tax-of-aed-185-million"
+        },
+        {
+          "label": "Dubai Investment Real Estate (DIR) project portfolio",
+          "url": "https://dirc.ae/our-portfolio-ongoing.php"
+        },
+        {
+          "label": "Property Finder: Violet Tower at JVC by Dubai Investment Properties",
+          "url": "https://www.propertyfinder.ae/en/new-projects/dubai-investment-properties/violet-tower"
+        }
+      ],
+      "explainer": {
+        "tagline": "Stable Q1 from Dubai Investments puts hard completion percentages on the desk for any buyer underwriting a Violet Tower (JVC) or Asayel Avenue (Mirdif Hills) ticket.",
+        "whatIsIt": "Dubai Investments PJSC's Q1 2026 print, with explicit construction progress on three live residential developments. Violet Tower in JVC and Asayel Avenue at Mirdif Hills are the two Dubai-located projects; Danah Bay sits on Al Marjan Island in Ras Al Khaimah but is built by the same group.",
+        "howItWorks": "PBT AED 185.06M (vs AED 184.89M Y/Y) and PAT AED 168.97M (+1.1% Y/Y), with total assets AED 23.43B and total equity AED 15.39B at 31 March 2026. Construction status: Violet Tower (JVC) at 57.61% complete with Q4 2026 handover, Asayel Avenue (Mirdif Hills) at 28.47% complete with Q2 2027 handover, Danah Bay (Al Marjan) residential tower at 32.1% and hotel tower at 24.0% with Q1–Q3 2027 deliveries. CEO Khalid Bin Kalban: 'consistent outcomes despite varying market conditions.' Cross-check progress on the DIR portal and Property Finder before signing.",
+        "whyItMatters": "Buyers eyeing JVC or Mirdif Hills off-plan get a rare hard percentage instead of a 'on track' soundbite — Violet Tower past the 50% mark de-risks the registered 30% off-plan resale floor, and Asayel Avenue's Q2 2027 handover gives a clean payment-plan runway. Listed developer disclosure means the numbers are auditable, not marketing.",
+        "forWho": "JVC / Mirdif Hills off-plan buyers, secondary brokers tracking Dubai Investments inventory, analysts modelling small/mid-cap Dubai developer cash flow.",
+        "tryIt": "https://dirc.ae/our-portfolio-ongoing.php"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/12/TA_20260512114638.webp",
+        "alt": "Khalid Bin Kalban, Vice Chairman & CEO of Dubai Investments PJSC, announcing Q1 2026 results",
+        "fit": "cover",
+        "credit": "TradeArabia / Dubai Investments"
+      }
+    },
+    {
+      "id": "dubai-dld-emirati-real-estate-incubator-phase-2-25-seats-may-12-2026",
+      "categories": [
+        "legal",
+        "lead",
+        "market"
+      ],
+      "title": "DLD opens phase 2 of the Emirati Real Estate Business Incubator — 25 broker seats, six-month curriculum with DSO + New Economy Academy + RIT Dubai, registration shuts 25 May 2026",
+      "org": "Dubai Land Department (UAE Government Media Office)",
+      "date": "2026-05-12",
+      "publishDate": "2026-05-14T00:40:11.919Z",
+      "url": "https://www.mediaoffice.ae/en/news/2026/may/12-05/dubai-land-department",
+      "summary": "Dubai Land Department launched the second phase of its Emirati Real Estate Business Incubator on 12 May 2026. The six-month programme will train 25 new Emirati participants to launch licensed brokerages, covering regulatory, legal, operational, marketing, financial, and AI-application modules with Dubai Silicon Oasis, New Economy Academy, and RIT Dubai. Registration closes 25 May 2026.",
+      "tags": [
+        "dubai",
+        "dld",
+        "regulation",
+        "brokerage",
+        "emirati",
+        "incubator",
+        "license"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DSO"
+      ],
+      "metrics": {
+        "Phase 2 seats": "25 Emirati participants",
+        "Programme length": "6 months",
+        "Registration deadline": "25 May 2026",
+        "Strategic partners": "Dubai Silicon Oasis, New Economy Academy, RIT Dubai",
+        "Modules": "Regulation, legal, operations, marketing, finance, AI in real estate"
+      },
+      "links": [
+        {
+          "label": "UAE Government Media Office: DLD launches phase 2 of Emirati Real Estate Business Incubator (12 May 2026)",
+          "url": "https://www.mediaoffice.ae/en/news/2026/may/12-05/dubai-land-department"
+        },
+        {
+          "label": "Gulf News: DLD launches second phase of Emirati Real Estate Incubator",
+          "url": "https://gulfnews.com/business/property/dubai-land-department-launches-second-phase-of-emirati-real-estate-incubator-programme-1.500537663"
+        },
+        {
+          "label": "Economy Middle East: DLD launches phase 2 to attract 25 new participants",
+          "url": "https://economymiddleeast.com/news/dld-launches-second-phase-of-emirati-real-estate-business-incubator-program/"
+        },
+        {
+          "label": "New Economy Academy programme page (delivery partner)",
+          "url": "https://newea.ae/en/course/dld-inc-en/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD is funding 25 more Emirati brokerage launches with a six-month curriculum — a signal of where regulator attention is heading and a concrete talent pipeline for agencies hiring nationals.",
+        "whatIsIt": "An official six-month training programme run by Dubai Land Department to help Emirati nationals set up and operate licensed real-estate brokerages. Phase 1 ran in 2025 and produced UAE-led brokerage firms; phase 2 was announced 12 May 2026 with 25 new participant seats.",
+        "howItWorks": "Curriculum spans regulatory, legal, operational, marketing and financial modules plus AI applications in real estate, delivered with Dubai Silicon Oasis, New Economy Academy and Rochester Institute of Technology – Dubai. The programme adds mentorship and direct engagement with developers and other ecosystem partners. Eligible Emirati nationals — both experienced professionals and career switchers — must register before 25 May 2026 via DLD's intake.",
+        "whyItMatters": "DLD is leaning into Emiratisation of brokerage at the same moment that the post-visa-floor and conflict-driven repricing has crowded the field with 6,700+ new brokers. Agencies that want first call on government-backed Emirati hires get an explicit pipeline; new entrants get a structured runway to a license. It is also a regulator-direction signal worth watching alongside the new shared-housing permit law and tightening broker conduct rules.",
+        "forWho": "Emirati nationals targeting a brokerage license, brokerage owners hiring or partnering with UAE nationals, recruiters tracking the licensed-broker pipeline.",
+        "tryIt": "https://newea.ae/en/course/dld-inc-en/"
+      },
+      "image": {
+        "url": "https://www.mediaoffice.ae/-/media/2026/may/12-05/05/group-photo.jpg",
+        "alt": "Dubai Land Department leadership announcing the second phase of the Emirati Real Estate Business Incubator Programme",
+        "fit": "cover",
+        "credit": "UAE Government Media Office / DLD"
+      }
+    },
     {
       "id": "dubai-handover-delays-2026-6-9-months-fitch-anarock-may-12-2026",
       "categories": [

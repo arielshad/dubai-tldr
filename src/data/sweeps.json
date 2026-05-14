@@ -2650,6 +2650,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260514t004011z",
+      "timestamp": "2026-05-14T00:40:11.919Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new May-12 Dubai signals: Dubai Investments Q1 2026 results give visibility into Violet Tower JVC (57.61% complete, Q4 2026 handover) and Asayel Avenue Mirdif Hills (28.47%, Q2 2027), and DLD opens phase 2 of the Emirati Real Estate Business Incubator with 25 seats and a May 25 registration deadline. Most other May 12-13 wires (Whitewill Q1, Moody's, Dubai Holding/Emaar, daily DLD print, Ellington handover) were already captured in the prior sweep.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-investments-q1-2026-aed-185m-pbt-violet-asayel-danah-may-12-2026",
+          "title": "Dubai Investments Q1 2026: AED 185M PBT, Violet Tower (JVC) at 57.61% with Q4 2026 handover, Asayel Avenue (Mirdif Hills) at 28.47% with Q2 2027 — three live property projects on schedule",
+          "category": "developer",
+          "note": "Dubai Investments PJSC Q1 2026 release dropped 12 May with auditable construction percentages on Violet Tower JVC (57.61%) and Asayel Avenue Mirdif Hills (28.47%) — actionable for off-plan buyers underwriting either project. Complements existing Q1 prints from Emaar / Binghatti / Deyaar / Empower without duplicating coverage."
+        },
+        {
+          "id": "dubai-dld-emirati-real-estate-incubator-phase-2-25-seats-may-12-2026",
+          "title": "DLD opens phase 2 of the Emirati Real Estate Business Incubator — 25 broker seats, six-month curriculum with DSO + New Economy Academy + RIT Dubai, registration shuts 25 May 2026",
+          "category": "legal",
+          "note": "Official DLD launch of phase 2 of the Emirati broker incubator (25 seats, 25 May registration deadline). Regulatory-direction signal feeding the brokerage market and Emiratisation hiring — not duplicated by any existing card."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "legal",
+        "lead",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
