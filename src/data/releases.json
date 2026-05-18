@@ -1,8 +1,229 @@
 {
-  "generatedAt": "2026-05-14T00:40:11.919Z",
+  "generatedAt": "2026-05-18T00:29:07.658Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-realty-momentum-april-dld-betterhomes-bayut-may-17-2026",
+      "categories": [
+        "market",
+        "rental"
+      ],
+      "title": "Khaleej Times: Dubai realty regains momentum — DLD transactions +2% MoM in April, tenant enquiries +40%, rental inventory doubles from ~1,000 to ~2,200 units as ~70% of listings cut ask ~10%",
+      "org": "Khaleej Times",
+      "date": "2026-05-17",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-realty-regains-momentum-as-buyers-tenants-return",
+      "summary": "Issac John, KT, 17 May 2026: Betterhomes and Bayut/Dubizzle Property data show Dubai property re-engaging — DLD up ~2% MoM in April, sales enquiries +11%, tenant enquiries +40%, rental inventory doubled to ~2,200 units, ~70% of listings cut ask by ~10%.",
+      "tags": [
+        "market",
+        "rental",
+        "DLD",
+        "Betterhomes",
+        "Bayut",
+        "Dubizzle",
+        "Issac John",
+        "Khaleej Times",
+        "Dubai Hills",
+        "JVC"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARINA",
+        "DOWNTOWN",
+        "JVC",
+        "BUSINESS-BAY",
+        "DUBAI-HILLS"
+      ],
+      "metrics": {
+        "April DLD MoM": "+~2%",
+        "Sales enquiries Mar→Apr": "+11%",
+        "Tenant enquiries Mar→Apr": "+40%",
+        "Rental inventory (start Mar → end Apr)": "~1,000 → ~2,200 units",
+        "Listings with price cuts": "~70% averaging ~10%",
+        "Enquiry-to-listing ratio": "6.6 (down from 10)",
+        "Active platform users vs 2026 baseline": "85%",
+        "Unique buyers vs baseline": "87%",
+        "High-intent enquiries vs baseline": "80%"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai realty regains momentum (17 May 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-realty-regains-momentum-as-buyers-tenants-return"
+        },
+        {
+          "label": "Khaleej Times property section",
+          "url": "https://www.khaleejtimes.com/business/property"
+        },
+        {
+          "label": "DLD daily real-estate transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Eight weeks into the regional conflict, Dubai sales enquiries are +11%, tenant enquiries +40%, rental stock has doubled and ~70% of listings have already adjusted ask by ~10%.",
+        "whatIsIt": "Khaleej Times' 17 May read on combined Betterhomes and Bayut/Dubizzle Property data — the cleanest mid-May snapshot of how the Dubai market is absorbing the 28-Feb regional shock. DLD transactions rose ~2% MoM in April, with sales and tenant intent recovering toward 2026 baseline and rental landlords already repricing.",
+        "howItWorks": "Betterhomes (Louis Harding, Rupert Simmonds) reports inbound sales enquiries up 11% Mar→Apr and tenant enquiries up 40% over the same window, while rental inventory more than doubled from just over 1,000 units in early March to nearly 2,200 by end-April; about 70% of listings underwent price adjustments averaging close to 10%. Bayut/Dubizzle's Matt Gregory reports active platform users at 85% of 2026 baseline, unique buyers at 87%, high-intent enquiries at 80% and engagement metrics already 104–108% of 2025 levels — apartment intent concentrates in JVC, Business Bay, Downtown, Dubai Marina and Arjan; villa intent in Dubai Hills, Arabian Ranches, Arabian Ranches 3, DAMAC Hills 2, Dubai South, The Oasis, The Valley and DAMAC Lagoons.",
+        "whyItMatters": "Underwrite Dubai rentals on a softer landlord stance: ~70% of listings cut ~10% within eight weeks and supply doubled, which compresses rent-comp tables fast. Sales-side, the +11%/+40% Mar→Apr enquiry curve plus the $9bn Gold Line Metro lifeline argue buyers are coming back but with negotiation leverage — best applied in the named ready/off-plan winners.",
+        "forWho": "Dubai landlords reprising rents, agency leasing teams chasing the 40% intent uplift, buy-side investors triangulating where to deploy as the market re-engages, and analysts marking April DLD against March prints.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/dubai-realty-regains-momentum-as-buyers-tenants-return"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-17/7nk48va6/Dubai-skyline.jpg",
+        "alt": "Dubai skyline — Khaleej Times feature on Dubai realty regaining momentum, May 2026",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Issac John",
+        "handle": "@khaleejtimes",
+        "profileUrl": "https://www.khaleejtimes.com/authors/issac-john"
+      },
+      "publishDate": "2026-05-18T00:29:07.658Z"
+    },
+    {
+      "id": "dubai-uae-59-project-launches-dh118-3b-property-monitor-may-17-2026",
+      "categories": [
+        "developer",
+        "market",
+        "offplan"
+      ],
+      "title": "Property Monitor / Khaleej Times: UAE absorbs 59 new project launches worth Dh118.3B across 12,000+ units in 58 days since 28-Feb regional conflict start — Dubai off-plan favourites Majan, JVC, Business Bay, Dubai South, MBR City lead intent",
+      "org": "Khaleej Times",
+      "date": "2026-05-17",
+      "url": "https://www.khaleejtimes.com/business/property/uae-property-defies-regional-war-sees-59-new-projects-launches-worth-dh1183-billion",
+      "summary": "Waheed Abbas, KT, 17 May 2026: Property Monitor (via Bayut/Dubizzle) counts 59 launches worth Dh118.3B and 12,000+ units across the UAE in the 58 days since 28-Feb war start — Majan, JVC, Business Bay, Dubai South, MBR City top off-plan intent.",
+      "tags": [
+        "developer",
+        "off-plan",
+        "Property Monitor",
+        "Bayut",
+        "Dubizzle",
+        "Khaleej Times",
+        "Waheed Abbas",
+        "Majan",
+        "JVC",
+        "Business Bay"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JVC",
+        "BUSINESS-BAY",
+        "DXB-SOUTH",
+        "MAJAN",
+        "MBR-CITY",
+        "JVT"
+      ],
+      "metrics": {
+        "New project launches since 28 Feb 2026": 59,
+        "Total launch value": "AED 118.3B",
+        "Units launched": "12,000+",
+        "Active users vs 2026 baseline": "85%",
+        "Unique buyers vs baseline": "87%",
+        "Impressions vs baseline": "92%",
+        "Views vs baseline": "89%",
+        "High-intent enquiries vs baseline": "80%"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — UAE absorbs 59 launches worth Dh118.3B (17 May 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-property-defies-regional-war-sees-59-new-projects-launches-worth-dh1183-billion"
+        },
+        {
+          "label": "Bayut new-projects index",
+          "url": "https://www.bayut.com/new-projects/uae/"
+        },
+        {
+          "label": "DLD project-status enquiry",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-project-status-landing/real-estate-project-status/"
+        }
+      ],
+      "explainer": {
+        "tagline": "59 new UAE launches, AED 118.3B and 12,000+ units in the 58 days since the 28-Feb regional war started — a hard sanity check on Dubai launch supply.",
+        "whatIsIt": "Property Monitor (via Bayut and Dubizzle Property) count of new project launches across the UAE since the 28 February 2026 regional escalation, reported by Khaleej Times on 17 May. It quantifies that developer supply has held up despite the war, names the Dubai sub-markets that lead intent, and pins down where new stock is competing with resale.",
+        "howItWorks": "Property Monitor logs 59 launches / 12,000+ units / AED 118.3B since 28 Feb 2026. Demand on Bayut/Dubizzle recovered to 85% of the 2026 baseline for active users, 87% for unique buyers, 92% impressions, 89% views and 80% high-intent enquiries by day 58. Dubai apartment off-plan intent concentrates in Majan, JVC, Dubai South, Jumeirah Village Triangle and Business Bay; villa off-plan intent in The Oasis by Emaar, The Valley by Emaar, DAMAC Lagoons, Dubai South and MBR City. For ready stock, the most-searched apartment markets are JVC, Business Bay, Downtown, Dubai Marina and Arjan and villas are Damac Hills 2, Dubai Hills Estate, Arabian Ranches 3, Arabian Ranches and Dubai South.",
+        "whyItMatters": "Anyone underwriting a new Dubai off-plan deal can now stress-test against a freshly measured Dh118.3B / 12k-unit competing pipeline rather than vibes. The named winners tell you where developer GDV is most likely to find absorption — and where re-sellers face the most competing primary supply.",
+        "forWho": "Off-plan brokers building short-lists, developers benchmarking launch GDV vs the field, secondary-market sellers gauging supply pressure in JVC / Business Bay / Majan, and operators screening off-plan vs ready in the same micro-market.",
+        "tryIt": "https://www.bayut.com/new-projects/uae/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-17/g32k0tuf/Dubai-property3.jpeg",
+        "alt": "Dubai off-plan towers — Khaleej Times feature on UAE absorbing 59 new launches worth Dh118.3B, May 2026",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Waheed Abbas",
+        "handle": "@khaleejtimes",
+        "profileUrl": "https://www.khaleejtimes.com/authors/waheed-abbas"
+      },
+      "publishDate": "2026-05-18T00:29:07.658Z"
+    },
+    {
+      "id": "dubai-uae-tenant-credit-score-etihad-aecb-uae-pass-may-17-2026",
+      "categories": [
+        "legal",
+        "rental"
+      ],
+      "title": "Etihad Credit Bureau opens tenant credit-score screening for UAE landlords via UAE PASS — new pre-lease diligence rail, plus AI cheque-clearance scoring tool, live alongside TDRA + Digital Dubai",
+      "org": "Khaleej Times",
+      "date": "2026-05-17",
+      "url": "https://www.khaleejtimes.com/business/property/uae-landlords-can-now-check-tenants-credit-scores-with-consent-before-leasing",
+      "summary": "Khaleej Times, 17 May 2026: Etihad Credit Bureau, with TDRA + Digital Dubai, lets UAE landlords pull a prospective tenant's credit score (via the AECB app / web + UAE PASS consent) and adds an AI cheque-clearance scoring tool — a new pre-lease diligence stack.",
+      "tags": [
+        "legal",
+        "rental",
+        "Etihad Credit Bureau",
+        "AECB",
+        "UAE PASS",
+        "TDRA",
+        "Digital Dubai",
+        "Khaleej Times",
+        "landlord",
+        "tenant"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UAE",
+        "AECB",
+        "UAE-PASS"
+      ],
+      "metrics": {
+        "Operator": "Etihad Credit Bureau (AECB)",
+        "Partners": "TDRA + Digital Dubai",
+        "Consent rail": "UAE PASS",
+        "Access channels": "AECB app + web portal",
+        "Additional tool": "AI cheque-clearance scoring (uses credit data)"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — UAE landlords credit-score screening (17 May 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-landlords-can-now-check-tenants-credit-scores-with-consent-before-leasing"
+        },
+        {
+          "label": "Etihad Credit Bureau (AECB) — consumer reports",
+          "url": "https://aecb.gov.ae/"
+        },
+        {
+          "label": "UAE PASS digital identity",
+          "url": "https://www.uaepass.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AECB + UAE PASS now lets Dubai landlords pull a prospective tenant's credit score (and an AI cheque-clearance score) before signing — the first national pre-lease diligence rail.",
+        "whatIsIt": "Etihad Credit Bureau, in partnership with TDRA and Digital Dubai, has switched on a new tenant-screening flow. Landlords request a prospective tenant's credit score (or 'tenant report') through the AECB app or web portal; the tenant authorises the data share via UAE PASS, after which the landlord sees the score plus an AI-driven cheque-clearance likelihood.",
+        "howItWorks": "Flow: (1) landlord initiates request in AECB; (2) tenant receives a consent prompt in UAE PASS and authorises; (3) AECB returns the credit score plus, optionally, an AI cheque-clearance score that predicts the probability of post-dated rent cheques bouncing using credit-history data. Article does not disclose fees or an explicit effective date — verify directly with AECB before relying on it for a live tenancy decision.",
+        "whyItMatters": "Until now, Dubai landlords had no national, consent-based tenant credit channel — diligence ran on payslips, NOCs and broker grapevine. A live AECB rail re-prices risk for tenanted-yield deals, sharpens the case for landlords to insist on UAE PASS-verified tenants, and gives brokers a new value-add at lease signing. Pair it with viewing-rights playbooks and rent-cap calculators when repositioning tenanted stock.",
+        "forWho": "Dubai landlords screening prospective tenants, leasing brokers building higher-trust tenancy stacks, build-to-rent operators with portfolios of post-dated cheques, and yield-investors underwriting tenanted purchases.",
+        "tryIt": "https://aecb.gov.ae/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-17/sqzgkdli/Dubai-property-rent.jpeg",
+        "alt": "Dubai apartment leasing key handover — Khaleej Times feature on Etihad Credit Bureau tenant credit screening via UAE PASS, May 2026",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-18T00:29:07.658Z"
+    },
     {
       "id": "dubai-investments-q1-2026-aed-185m-pbt-violet-asayel-danah-may-12-2026",
       "categories": [

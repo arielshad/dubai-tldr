@@ -2694,6 +2694,55 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260518t002907z",
+      "timestamp": "2026-05-18T00:29:07.658Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep of 2026-05-18 ingests three verified Dubai-relevant items dated 2026-05-17: Khaleej Times reports Dubai realty regaining momentum on +2% April DLD MoM and a doubling of rental inventory; Property Monitor / KT log 59 new UAE launches worth Dh118.3B since the 28-Feb conflict start; and Etihad Credit Bureau opens tenant credit-score screening for UAE landlords via UAE PASS.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-realty-momentum-april-dld-betterhomes-bayut-may-17-2026",
+          "title": "Khaleej Times: Dubai realty regains momentum — DLD transactions +2% MoM in April, tenant enquiries +40%, rental inventory doubles from ~1,000 to ~2,200 units as ~70% of listings cut ask ~10%",
+          "category": "market",
+          "note": "Fresh Issac John / KT readout for 17 May: Betterhomes + Bayut/Dubizzle confirm Dubai realty is regaining momentum — April DLD prints +2% MoM, inbound sales enquiries +11%, tenant enquiries +40%, rental inventory has doubled from ~1,000 to ~2,200 units and ~70% of listings cut ask by ~10%. Materially fresher data than the 2026-05-10 Betterhomes webinar already in the feed."
+        },
+        {
+          "id": "dubai-uae-59-project-launches-dh118-3b-property-monitor-may-17-2026",
+          "title": "Property Monitor / Khaleej Times: UAE absorbs 59 new project launches worth Dh118.3B across 12,000+ units in 58 days since 28-Feb regional conflict start — Dubai off-plan favourites Majan, JVC, Business Bay, Dubai South, MBR City lead intent",
+          "category": "developer",
+          "note": "First sweep-window Property Monitor count of new launch supply during the regional conflict: 59 launches / 12,000+ units / AED 118.3B in 58 days from 28 Feb 2026. Names the Dubai sub-markets that lead off-plan demand (Majan, JVC, Business Bay, Jumeirah Village Triangle, Dubai South) — useful for off-plan / lead sourcing."
+        },
+        {
+          "id": "dubai-uae-tenant-credit-score-etihad-aecb-uae-pass-may-17-2026",
+          "title": "Etihad Credit Bureau opens tenant credit-score screening for UAE landlords via UAE PASS — new pre-lease diligence rail, plus AI cheque-clearance scoring tool, live alongside TDRA + Digital Dubai",
+          "category": "legal",
+          "note": "New regulatory rail surfaced 17 May: Etihad Credit Bureau, with TDRA + Digital Dubai, now lets UAE landlords pull tenant credit scores (and an AI cheque-clearance score) with tenant consent through UAE PASS. Changes pre-lease diligence + cheque underwriting for every Dubai landlord and broker."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "rental",
+        "developer",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
