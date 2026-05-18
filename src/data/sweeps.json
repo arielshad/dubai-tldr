@@ -2743,6 +2743,59 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260518t131326z",
+      "timestamp": "2026-05-18T13:13:26.257Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh Dubai property signals dated 16–18 May: DLD week-20 weekly print at AED 15.39B with Binghatti Skyflame propelling Majan to #2, Sterling Capital's prime-segment stress-test framework (mortgage tightening + cash dominance), and the new Dubai Holding × ADIB Sharia dual-track financing rail across Nakheel/Meraas/Dubai Properties.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-week-20-2026-weekly-aed-15-39b-binghatti-skyflame-majan-may-18",
+          "title": "DLD week 20 (May 11–17, 2026): AED 15.39B total (AED 7.86B ex-land) — Binghatti Skyflame propels Majan to #2 with 569 deals worth AED 402.3M; off-plan share back to 68.1%",
+          "category": "market",
+          "note": "Closes the May daily/weekly DLD run already in the feed (week 19 + dailies through 12-May) with the first week-20 print — AED 15.39B total, AED 7.86B ex-land, off-plan share lifted back to 68.1%, Binghatti Skyflame propels Majan to #2 community."
+        },
+        {
+          "id": "dubai-sterling-capital-prime-stress-test-q2-2026-may-17",
+          "title": "Sterling Capital prime-segment stress test (1-Mar → mid-May 2026): viewing volumes / second-visit conversions down sharply, asking prices hold, mid-market AED 1.5–4M sees 500+ price drops in a single week",
+          "category": "luxury",
+          "note": "Adds a concrete prime-segment stress-test framework with Palm/Hills/Downtown/Bluewaters/Marina breakdown, bank-valuation tightening data and mid-market 500-cuts-per-week observation that the existing 'buyer's market shift' and resale-within-5–15% pieces don't quantify."
+        },
+        {
+          "id": "dubai-holding-adib-sharia-financing-nakheel-meraas-may-18-2026",
+          "title": "Dubai Holding Real Estate × ADIB launch Sharia-compliant dual-track home financing — off-plan + handover, up to 25-year terms across Nakheel, Meraas and Dubai Properties",
+          "category": "legal",
+          "note": "Brand-new financing rail — Sharia-compliant 25-year dual-track (off-plan + handover) across Nakheel, Meraas and Dubai Properties — directly relevant to the active Dubai Holding portfolio cycle the feed already tracks."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "commercial",
+        "rental",
+        "legal",
+        "developer",
+        "offplan",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

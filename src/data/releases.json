@@ -1,8 +1,233 @@
 {
-  "generatedAt": "2026-05-18T00:29:07.658Z",
+  "generatedAt": "2026-05-18T13:13:26.257Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-week-20-2026-weekly-aed-15-39b-binghatti-skyflame-majan-may-18",
+      "categories": [
+        "market",
+        "offplan",
+        "developer"
+      ],
+      "title": "DLD week 20 (May 11–17, 2026): AED 15.39B total (AED 7.86B ex-land) — Binghatti Skyflame propels Majan to #2 with 569 deals worth AED 402.3M; off-plan share back to 68.1%",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-05-18",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-18-may-2026",
+      "summary": "The Real Estate Reports' week-20 (11–17 May 2026) read on Dubai Land Department transactions: AED 15.39B total across off-plan, ready and land — AED 7.86B ex-land with off-plan back at 68.1%. Off-plan flats AED 4.051B dominate; Binghatti Skyflame drives Majan to #2 community at 569 deals / AED 402.3M.",
+      "tags": [
+        "DLD",
+        "weekly",
+        "off-plan",
+        "Majan",
+        "Binghatti Skyflame",
+        "Binghatti",
+        "TheRealEstateReports",
+        "market"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "DXB-OFFPLAN",
+        "MAJAN"
+      ],
+      "metrics": {
+        "Week": "Week 20 (11–17 May 2026)",
+        "Total market activity": "AED 15.39B",
+        "Off-plan + ready (ex-land)": "AED 7.86B",
+        "Land transactions": "AED 7.53B",
+        "Off-plan share (ex-land)": "68.1% (AED 5.35B)",
+        "Ready share (ex-land)": "31.9% (AED 2.50B)",
+        "Off-plan flats": "AED 4.051B",
+        "Off-plan villas": "AED 664.9M",
+        "Off-plan commercial": "AED 506.5M",
+        "Off-plan hotel apts/rooms": "AED 132.5M",
+        "Ready flats": "AED 1.714B",
+        "Ready villas": "AED 541.2M",
+        "Ready commercial": "AED 165.3M",
+        "Top community #2": "Majan — 569 deals / AED 402.3M",
+        "Top project driver": "Binghatti Skyflame (Majan)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai weekly market analysis 18-May-2026 (week 20)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-18-may-2026"
+        },
+        {
+          "label": "Dubai Land Department — real-estate data portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        },
+        {
+          "label": "Binghatti Skyflame — official project page (Majan)",
+          "url": "https://www.binghatti.com/en/projects/binghatti-skyflame"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's week-20 DLD print closes at AED 15.39B with off-plan share back at 68.1% and Binghatti Skyflame single-handedly propelling Majan to the #2 community by deal count.",
+        "whatIsIt": "The first week-20 (11–17 May 2026) read from The Real Estate Reports, published 18 May. The week's DLD-registered activity totalled AED 15.39B — AED 7.86B in property (off-plan + ready) plus AED 7.53B of land. Off-plan share lifted back to 68.1% of the ex-land mix after week-19's softer 64.7% reading, with off-plan flats alone clearing AED 4.051B.",
+        "howItWorks": "Off-plan: flats AED 4.051B, villas AED 664.9M, commercial AED 506.5M, hotel apartments / rooms AED 132.5M. Ready: flats AED 1.714B, villas AED 541.2M, commercial AED 165.3M. The community standout is Majan — 569 transactions worth AED 402.3M — almost entirely driven by Binghatti's Skyflame launch (1,406-unit, 34-storey resort-styled tower at Majan with projected 7–9.5% gross yield). Land transactions at AED 7.53B exceed the entire property mix, signalling continued developer assembly activity even as residential cools.",
+        "whyItMatters": "Off-plan reasserting at 68% of property flow tells underwriters that fresh launch inventory — not secondary stock — is still the dominant supply channel in this market, so comp tables for new mid-market plays should anchor on launch pricing not portal asks. Binghatti Skyflame's outsized weekly contribution makes Majan a competitive set worth pricing against for anyone underwriting JVC / Arjan / Dubailand alternatives.",
+        "forWho": "Off-plan brokers building short-lists; developers benchmarking launch absorption vs the field; secondary-market sellers gauging supply pressure in Majan / mid-market sub-AED 1M segment; analysts tracking the week-on-week off-plan share rebound.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-18-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/becc3563-0224-40c2-87a9-aed70bae76c8/image.png",
+        "alt": "Dubai DLD weekly transaction breakdown chart — week 20 (May 11–17, 2026) from The Real Estate Reports",
+        "fit": "cover",
+        "credit": "TheRealEstateReports"
+      },
+      "publishDate": "2026-05-18T13:13:26.257Z"
+    },
+    {
+      "id": "dubai-sterling-capital-prime-stress-test-q2-2026-may-17",
+      "categories": [
+        "luxury",
+        "market",
+        "ready"
+      ],
+      "title": "Sterling Capital prime-segment stress test (1-Mar → mid-May 2026): viewing volumes / second-visit conversions down sharply, asking prices hold, mid-market AED 1.5–4M sees 500+ price drops in a single week",
+      "org": "Dubai Chronicle / Sterling Capital",
+      "date": "2026-05-17",
+      "url": "https://www.dubaichronicle.com/2026/05/17/dubai-property-prices-under-stress-test/",
+      "summary": "Sterling Capital's stress-test of Dubai's prime segment from 1 March through mid-May 2026: viewing volumes, second-visit conversions and offers fell sharply but ask prices held; bank valuations tightened, financed buyers had to top up in cash; mid-market AED 1.5–4M saw 500+ price drops in a single week.",
+      "tags": [
+        "prime",
+        "luxury",
+        "Sterling Capital",
+        "stress test",
+        "Palm Jumeirah",
+        "Dubai Hills",
+        "Downtown",
+        "Bluewaters",
+        "Marina",
+        "mortgage",
+        "DubaiChronicle"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PALM",
+        "DOWNTOWN",
+        "DUBAI-HILLS",
+        "BLUEWATERS",
+        "DXB-MARINA"
+      ],
+      "metrics": {
+        "Reporting window": "1 Mar 2026 → mid-May 2026",
+        "Author": "Sterling Capital research",
+        "Apartment gross yield (Mar 2026)": "7.10%",
+        "Dubai Hills rental decline floor": "~5.5%",
+        "Cash-close timeline": "5–10 business days",
+        "Financed-deal timeline": "Several weeks",
+        "Mid-market stress band": "AED 1.5–4M",
+        "Mid-market price drops in a single week": "500+",
+        "Stressed communities (off-plan resale)": "JVC, Business Bay, Dubai South",
+        "Prime community status — Palm Jumeirah": "Prices held 2025 benchmarks; villas show little discount appetite",
+        "Prime community status — Dubai Hills Estate": "End-user demand anchors; apartments transact regularly",
+        "Prime community status — Downtown Dubai": "Two-tier pricing emerged; premium units sit longer",
+        "Prime community status — Bluewaters": "Short marketing periods; price cuts on weaker units",
+        "Prime community status — Dubai Marina": "Marina-view stock clears when sharply priced; secondary stock holds longer"
+      },
+      "links": [
+        {
+          "label": "Dubai Chronicle — Dubai property prices under stress test (17 May 2026)",
+          "url": "https://www.dubaichronicle.com/2026/05/17/dubai-property-prices-under-stress-test/"
+        },
+        {
+          "label": "Sterling Capital research desk",
+          "url": "https://www.sterlingcapital.ae/"
+        },
+        {
+          "label": "DLD daily real-estate transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Slowdown without a price reset: Sterling Capital says prime asks held from 1-Mar through mid-May while mid-market AED 1.5–4M absorbed 500+ price drops in a single week.",
+        "whatIsIt": "Dubai Chronicle's 17 May write-up of Sterling Capital's prime-segment stress test covering 1 March through mid-May 2026. The thesis: viewing volumes, second-visit conversions and offer activity fell sharply across prime communities post-1 March, but asking prices held — Sterling reports cash buyers dominated, bank valuations tightened, and financed deals collapsed when valuation came in below ask unless the buyer topped up in cash.",
+        "howItWorks": "Community-level: Palm Jumeirah villas held 2025 benchmarks with little discount appetite; Dubai Hills Estate stayed an end-user-anchored market with apartments still transacting; Downtown developed a two-tier price structure with two/three-bed units sitting longer; Bluewaters showed short marketing periods with price cuts on weaker units; Marina-view stock cleared at sharp prices while secondary stock held longer. Cash deals closed in 5–10 business days versus several weeks for financed deals. Apartment gross yields at 7.10% (March 2026) and Dubai Hills rental decline floor of ~5.5% gave income-buyers a reason to hold. Stress concentrates in the AED 1.5–4M band, especially off-plan resale in JVC, Business Bay and Dubai South — 500+ price drops in a single week.",
+        "whyItMatters": "If you're underwriting a prime ticket, expect to deal in cash and at-or-near 2025 ask — Sterling's data says owners aren't capitulating yet. The real bid-ask is in the mid-market AED 1.5–4M band where off-plan resale supply is reset weekly. For brokers: financed buyers in 2026 need bank-valuation pre-checks before going under contract, not after.",
+        "forWho": "Prime-segment buyers triangulating Palm / Hills / Marina; off-plan resellers in JVC / Business Bay / Dubai South needing weekly comp resets; mortgage brokers screening 2026 financed deals against tighter bank valuations.",
+        "tryIt": "https://www.dubaichronicle.com/2026/05/17/dubai-property-prices-under-stress-test/"
+      },
+      "image": {
+        "url": "https://www.dubaichronicle.com/wp-content/uploads/2017/09/Palm-Jumeirah-Nakheel_com-600px.jpg",
+        "alt": "Palm Jumeirah aerial — Dubai Chronicle feature on Sterling Capital's prime-segment stress test, May 2026",
+        "fit": "cover",
+        "credit": "Dubai Chronicle / Nakheel"
+      },
+      "publishDate": "2026-05-18T13:13:26.257Z"
+    },
+    {
+      "id": "dubai-holding-adib-sharia-financing-nakheel-meraas-may-18-2026",
+      "categories": [
+        "legal",
+        "offplan",
+        "ready"
+      ],
+      "title": "Dubai Holding Real Estate × ADIB launch Sharia-compliant dual-track home financing — off-plan + handover, up to 25-year terms across Nakheel, Meraas and Dubai Properties",
+      "org": "Dubai Holding Real Estate / Abu Dhabi Islamic Bank",
+      "date": "2026-05-18",
+      "url": "https://www.gdnonline.com/Details/1395084",
+      "summary": "Dubai Holding Real Estate signs a strategic partnership with Abu Dhabi Islamic Bank (ADIB) for Sharia-compliant home financing across Nakheel, Meraas and Dubai Properties. Dual-track covers off-plan and completed units, up to 25-year terms, payments aligned to project milestones — Khalid Al Malik (CEO DHRE) and Mohamed Abdelbary (CEO ADIB Group) sign.",
+      "tags": [
+        "Sharia",
+        "Islamic finance",
+        "ADIB",
+        "Dubai Holding",
+        "Nakheel",
+        "Meraas",
+        "Dubai Properties",
+        "off-plan",
+        "handover",
+        "mortgage"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-HOLDING",
+        "NAKHEEL",
+        "MERAAS",
+        "ADIB"
+      ],
+      "metrics": {
+        "Developer side": "Dubai Holding Real Estate — Nakheel, Meraas, Dubai Properties",
+        "Bank": "Abu Dhabi Islamic Bank (ADIB)",
+        "Structure": "Sharia-compliant dual-track (off-plan + completed/handover)",
+        "Max tenor": "Up to 25 years",
+        "Payment cadence": "Aligned to project milestones",
+        "DHRE CEO": "Khalid Al Malik",
+        "ADIB Group CEO": "Mohamed Abdelbary",
+        "Coverage": "DHRE's waterfront, urban and master-planned communities"
+      },
+      "links": [
+        {
+          "label": "GDN Online — DHRE × ADIB Sharia-compliant home financing partnership (18 May 2026)",
+          "url": "https://www.gdnonline.com/Details/1395084"
+        },
+        {
+          "label": "Emirates 24|7 — DHRE × ADIB Sharia financing for Nakheel, Meraas, Dubai Properties",
+          "url": "https://www.emirates247.com/business/dubai-holding-real-estate-and-adib-launch-sharia-compliant-home-financing-for-nakheel-meraas-and-dubai-properties/1704"
+        },
+        {
+          "label": "ADIB UAE — home finance landing",
+          "url": "https://www.adib.ae/en/personal/finance/home-finance"
+        }
+      ],
+      "explainer": {
+        "tagline": "New Sharia-compliant mortgage rail across Nakheel + Meraas + Dubai Properties — 25-year terms covering both off-plan and handover units, payments aligned to milestones.",
+        "whatIsIt": "Dubai Holding Real Estate (DHRE) and Abu Dhabi Islamic Bank (ADIB) signed a strategic partnership on 18 May 2026 to provide Sharia-compliant home financing across DHRE's consumer brands — Nakheel, Meraas and Dubai Properties. The rail is dual-track: it covers both off-plan units mid-construction and completed (handover) stock, with terms up to 25 years and payment milestones aligned to project drawdowns.",
+        "howItWorks": "Buyers on qualifying DHRE projects (DHRE's waterfront, urban and master-planned communities under the three brands) can apply for the financing structured under ADIB's Sharia framework. CEO Khalid Al Malik (DHRE) frames it as 'expanding access to structured home financing'; CEO Mohamed Abdelbary (ADIB Group) frames it as innovating Sharia-compliant solutions for the UAE real-estate sector. Approvals run through ADIB's standard underwriting; rates, LTV ratios and minimum down payments are not disclosed in the announcement — buyers should request the term sheet from ADIB directly. Compare against the parallel Emirates NBD off-plan mortgage product already rolled out across DHRE projects.",
+        "whyItMatters": "Sharia-compliant buyers — a meaningful slice of the GCC end-user pool — get a single rail across the entire DHRE portfolio for the first time, with the rare feature of being able to draw on milestones rather than wait for handover to convert to a mortgage. For brokers, this is a new financing chip to qualify off-plan buyers on Nakheel / Meraas / Dubai Properties stock without forcing them onto conventional product.",
+        "forWho": "Sharia-compliant end-users buying DHRE off-plan or handover stock; mortgage brokers screening clients across Nakheel / Meraas / Dubai Properties projects; investors comparing the new ADIB rail against existing DHRE × Emirates NBD off-plan mortgage product.",
+        "tryIt": "https://www.adib.ae/en/personal/finance/home-finance"
+      },
+      "image": {
+        "url": "https://api.emirates247.com/emirates247/uploads/images/2026/05/18/2456.webp",
+        "alt": "Dubai Holding Real Estate and ADIB sign Sharia-compliant home financing partnership, 18 May 2026",
+        "fit": "cover",
+        "credit": "Emirates 24|7"
+      },
+      "publishDate": "2026-05-18T13:13:26.257Z"
+    },
     {
       "id": "dubai-realty-momentum-april-dld-betterhomes-bayut-may-17-2026",
       "categories": [
