@@ -2840,6 +2840,55 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260519t130657z",
+      "timestamp": "2026-05-19T13:06:57.357Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh items from the May 18–19 window: a seismic AED 62B Dubai South × Majid Al Futtaim master-community signing, Boring Company's Dubai Loop locking Phase-1 design with Parsons (DIFC↔Dubai Mall, AED 565M, 9-month runway to ground-breaking), and Sobha Realty becoming Keeta Drone's first UAE Smart Community partner with DCAA backing. No removals, no updates.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-south-majid-al-futtaim-aed-62b-22m-sqft-mall-anchored-may-19-2026",
+          "title": "Dubai South × Majid Al Futtaim sign AED 62B (≈USD 16.9B) mixed-use master community at Al Maktoum International Airport — 22 million sqft, mall-anchored",
+          "category": "developer",
+          "note": "Largest single Dubai master-community signing of 2026 — 22M sqft, AED 62B GDV, mall-anchored, at the doorstep of Al Maktoum International Airport. Confirmed via Dubai Media Office, Gulf News, Khaleej Times and TradeArabia on 19 May 2026."
+        },
+        {
+          "id": "dubai-loop-difc-dubai-mall-construction-2027-parsons-may-18-2026",
+          "title": "Boring Company's Dubai Loop locks Phase-1 design with Parsons — DIFC↔Dubai Mall in 3 min, AED 565M ($153.8M), four-station 6.4km route, ground-break early 2027, opens ~2029",
+          "category": "market",
+          "note": "The National confirmed on 18 May 2026 that Parsons has a nine-month design contract on the Dubai Loop Phase 1 — construction starts ≈early 2027, opens ~2029, AED 565M capex on the DIFC↔Dubai Mall corridor. Material for commercial/retail/luxury exposure in the four-station catchment."
+        },
+        {
+          "id": "dubai-sobha-keeta-drone-mou-air-delivery-hartland-may-18-2026",
+          "title": "Sobha Realty becomes Keeta Drone's first UAE Smart Community partner — DCAA-witnessed MoU stages air-delivery rollout from Sobha Hartland across 2026 and beyond",
+          "category": "developer",
+          "note": "Sobha Realty becomes Keeta Drone's first UAE Smart Community partner under a DCAA-witnessed MoU signed 18 May 2026. Sobha Hartland is the named first community; rollout phased across 2026 and beyond. Adds a verifiable amenity layer to the Sobha branded-community pipeline."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "market",
+        "commercial",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

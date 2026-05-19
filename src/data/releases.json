@@ -1,8 +1,222 @@
 {
-  "generatedAt": "2026-05-19T00:34:28.012Z",
+  "generatedAt": "2026-05-19T13:06:57.357Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-south-majid-al-futtaim-aed-62b-22m-sqft-mall-anchored-may-19-2026",
+      "categories": [
+        "developer",
+        "market",
+        "commercial"
+      ],
+      "title": "Dubai South × Majid Al Futtaim sign AED 62B (≈USD 16.9B) mixed-use master community at Al Maktoum International Airport — 22 million sqft, mall-anchored",
+      "org": "Dubai South / Majid Al Futtaim",
+      "date": "2026-05-19",
+      "url": "https://www.mediaoffice.ae/en/news/2026/may/19-05/dubai-south-and-majid-al-futtaim",
+      "summary": "Dubai South Group CEO Nabil Alkindi and Majid Al Futtaim Holding CEO Ahmed Galal Ismail signed an AED 62B (≈USD 16.9B) JV on 19 May 2026 to build a 22M sqft mall-anchored mixed-use community next to Al Maktoum International Airport — apartments, villas, townhouses, retail and lifestyle spaces, witnessed by HE Khalifa Alzaffin and Fadel Al Ali.",
+      "tags": [
+        "dubai-south",
+        "majid-al-futtaim",
+        "mall-anchored",
+        "al-maktoum-airport",
+        "DWC",
+        "mixed-use",
+        "d33",
+        "master-community"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB-SOUTH",
+        "DWC",
+        "AL-MAKTOUM"
+      ],
+      "metrics": {
+        "Total investment": "AED 62B (≈USD 16.9B)",
+        "Site area": "22 million sqft",
+        "Anchor": "Large shopping mall (MAF)",
+        "Components": "Residential (apartments, villas, townhouses), retail, lifestyle, F&B",
+        "Location": "Dubai South, adjacent Al Maktoum International Airport (DWC)",
+        "Signed by": "Nabil Alkindi (Dubai South) × Ahmed Galal Ismail (MAF Holding)",
+        "Witnessed by": "HE Khalifa Alzaffin (DACC), Fadel Al Ali (MAF Holding)",
+        "Date signed": "2026-05-19"
+      },
+      "links": [
+        {
+          "label": "Dubai Media Office — 19-05-2026 official announcement",
+          "url": "https://www.mediaoffice.ae/en/news/2026/may/19-05/dubai-south-and-majid-al-futtaim"
+        },
+        {
+          "label": "Gulf News — Dubai South / MAF AED 62B community",
+          "url": "https://gulfnews.com/business/retail/dubai-south-majid-al-futtaim-to-build-dh62-billion-mixed-use-community-1.500545634"
+        },
+        {
+          "label": "Khaleej Times — Dubai South / MAF AED 62B community",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-south-majid-al-futtaim-to-build-dh62-billion-mixed-use-community"
+        },
+        {
+          "label": "TradeArabia — Majid Al Futtaim $16.8B Dubai South master community",
+          "url": "https://tradearabia.com/News/462674/Majid-Al-Futtaim-to-develop-$16.8bn-master-community-in-Dubai-South"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's largest single master-community signing of 2026: 22 million sqft at the Al Maktoum airport doorstep with a Majid Al Futtaim mall as the anchor.",
+        "whatIsIt": "Dubai South and Majid Al Futtaim formally signed an AED 62B (≈USD 16.9B) joint venture on 19 May 2026 to build a 22-million-sqft mixed-use master community next to Al Maktoum International Airport — apartments, villas and townhouses anchored by a large MAF-operated shopping mall, plus retail, F&B, and lifestyle spaces. Signed at Dubai South HQ by Group CEO Nabil Alkindi and MAF Holding CEO Ahmed Galal Ismail, witnessed by Dubai Aviation City Corporation Executive Chairman Khalifa Alzaffin and MAF Holding Chairman Fadel Al Ali.",
+        "howItWorks": "No unit count, launch sequencing or sale price was published with the signing — what was disclosed is the AED 62B GDV, the 22M-sqft footprint and the airport-adjacent location inside the Dubai South masterplan (Dubai 2040 Urban Master Plan area). Buyers and brokers should watch for the master-plan release (community phasing, Oqood-eligible plots) and the first off-plan sales tranche; MAF's anchor mall and the proximity to DWC will be the price-discovery levers. Diligence: confirm phase plot maps, road and metro feeder timelines, and whether MAF's residential brand is end-user-priced or institutional-bulk-led.",
+        "whyItMatters": "This is the biggest single Dubai master-community signing of 2026 and re-rates the corridor that runs from Expo City through Dubai South to the DWC airport — the same corridor Aldar opened with Al Ghadeer Gardens on 18 May. A mall-anchored, 22M-sqft community delivered by Dubai South + MAF tightens the case for early plot/land positioning along the DWC catchment, sets a new benchmark for retail-led residential demand, and validates D33 Economic Agenda urbanisation flows. Risk: launch cadence and DWC airport delivery timeline drive exit liquidity; very large GDVs can stagger over a decade.",
+        "forWho": "Land/plot buyers along the Dubai South–DWC corridor, off-plan investors waiting for the first launch tranche, institutional buyers / sukuk holders watching MAF and Dubai South issuance, brokers placing Expo City / Al Ghadeer / Palm Jebel Ali catchment product.",
+        "tryIt": "https://www.dubaisouth.ae/"
+      },
+      "image": {
+        "url": "https://mediaoffice.ae/-/media/2026/may/19-05/02/dubai-south-x-maf---signing-ceremony.jpg",
+        "alt": "Dubai South CEO Nabil Alkindi and Majid Al Futtaim Holding CEO Ahmed Galal Ismail signing the AED 62B mixed-use master community joint venture",
+        "fit": "cover",
+        "credit": "Dubai Media Office"
+      },
+      "publishDate": "2026-05-19T13:06:57.357Z"
+    },
+    {
+      "id": "dubai-loop-difc-dubai-mall-construction-2027-parsons-may-18-2026",
+      "categories": [
+        "market",
+        "commercial",
+        "ready"
+      ],
+      "title": "Boring Company's Dubai Loop locks Phase-1 design with Parsons — DIFC↔Dubai Mall in 3 min, AED 565M ($153.8M), four-station 6.4km route, ground-break early 2027, opens ~2029",
+      "org": "Roads & Transport Authority / The Boring Company / Parsons",
+      "date": "2026-05-18",
+      "url": "https://www.thenationalnews.com/news/uae/2026/05/18/dubai-loop-construction-to-minimise-traffic-disruption-as-plans-take-shape/",
+      "summary": "The National confirmed on 18 May 2026 that Dubai Loop's first phase is design-locked with Parsons under a nine-month contract: a 6.4km, four-station underground link from DIFC to Dubai Mall priced at AED 565M ($153.8M), cutting the surface commute from 20 min to 3 min, ground-broken in early 2027 and operating from ~2029. The full network is 22.2km / 19 stations.",
+      "tags": [
+        "dubai-loop",
+        "boring-company",
+        "rta",
+        "parsons",
+        "difc",
+        "dubai-mall",
+        "burj-khalifa",
+        "infrastructure"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DIFC",
+        "DOWNTOWN",
+        "BURJ-KHALIFA",
+        "DUBAI-MALL"
+      ],
+      "metrics": {
+        "Phase-1 capex": "AED 565M ($153.8M)",
+        "Route length (Phase 1)": "6.4 km",
+        "Stations (Phase 1)": "4 — Burj Khalifa, DIFC 2, Zabeel/Dubai Mall Parking, ICD Brookfield Place",
+        "Commute time": "20 min → 3 min (DIFC ↔ Dubai Mall)",
+        "Daily passengers (Phase 1)": "13,000+",
+        "Full network": "22.2 km / 19 stations",
+        "Full-network capacity": "≈30,000 passengers/day",
+        "Tunnel diameter": "3.6 m",
+        "Design partner": "Parsons (9-month contract, May 2026)",
+        "Construction start": "~early 2027 (≈9 months from May 2026)",
+        "Service start": "~2029 (two years post ground-break)"
+      },
+      "links": [
+        {
+          "label": "The National — Dubai Loop construction plans take shape (18 May 2026)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/05/18/dubai-loop-construction-to-minimise-traffic-disruption-as-plans-take-shape/"
+        },
+        {
+          "label": "The National — Dubai Loop first four stations and $545M (Feb 2026)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/02/03/dubai-loop-elon-musk/"
+        },
+        {
+          "label": "Time Out Dubai — Loop project located at DIFC and Dubai Mall",
+          "url": "https://www.timeoutdubai.com/news/elon-musk-dubai-loop-project-2026"
+        }
+      ],
+      "explainer": {
+        "tagline": "The DIFC↔Dubai Mall underground loop is now design-locked: 9 months to ground-break, 2-year build, 20→3 min commute under the most expensive square kilometres in the city.",
+        "whatIsIt": "On 18 May 2026 The National reported that Dubai's RTA × Boring Company × Parsons design contract is set: Parsons has a nine-month brief to finalise the Phase-1 design of the Dubai Loop, a 6.4-km four-station tunnel running from DIFC to Dubai Mall via Burj Khalifa, DIFC 2, Zabeel/Dubai Mall parking and ICD Brookfield Place. Ground-break is expected in early 2027, service ~2029, total Phase-1 cost AED 565M ($153.8M).",
+        "howItWorks": "The 3.6-m diameter tunnels run under existing utilities and buildings 'with no surface interruption to traffic' (Pierre Santoni, Parsons), and the first phase moves 13,000+ riders per day — full network 22.2 km / 19 stations / ≈30k riders, eventually linking the Dubai World Trade Centre, financial district and Business Bay. Commute time on the DIFC-to-Dubai-Mall leg compresses from 20 minutes to 3. Owners and tenants in the four-station catchment (Burj Khalifa, DIFC 2, Zabeel/Dubai Mall, ICD Brookfield Place) should track the formal RTA station footprint maps and any RERA/DLD permit notices around 2027 ground-break — entry-exit positioning, ventilation shafts, and right-of-way encroachments are the variables that move adjacent values.",
+        "whyItMatters": "Loop-station catchments have historically driven 5–15% land-value uplifts in metro-station precincts (Dubai Marina, Business Bay, JLT) once the line is design-locked and ground-broken. Phase 1 covers the most expensive ready-office and ultra-prime residential block in the city — DIFC offices, Burj Khalifa-cluster apartments, Dubai Mall retail, ICD Brookfield Place tenants — and re-prices commercial yield on commute compression. Risk: a Boring Company schedule slip is the live downside; assume 6–12 months of optionality before pricing the uplift fully into 2028 acquisitions.",
+        "forWho": "DIFC/Downtown office tenants and landlords pricing 2027–2029 lease renewals, Burj Khalifa-cluster apartment sellers timing their exit, retail/F&B operators along Mohammed Bin Rashid Boulevard, ICD Brookfield Place owners, hotel asset managers in the Address/Armani cluster.",
+        "tryIt": "https://www.rta.ae/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/JYDE5NKJR5GEXILUKUOI4Z53MA.jpg",
+        "alt": "Pierre Santoni of Parsons Corporation, design lead on Dubai Loop Phase 1, discussing the DIFC to Dubai Mall tunnel route",
+        "fit": "cover",
+        "credit": "The National"
+      },
+      "publishDate": "2026-05-19T13:06:57.357Z"
+    },
+    {
+      "id": "dubai-sobha-keeta-drone-mou-air-delivery-hartland-may-18-2026",
+      "categories": [
+        "developer",
+        "media",
+        "market"
+      ],
+      "title": "Sobha Realty becomes Keeta Drone's first UAE Smart Community partner — DCAA-witnessed MoU stages air-delivery rollout from Sobha Hartland across 2026 and beyond",
+      "org": "Sobha Realty / Keeta Drone / Dubai Civil Aviation Authority",
+      "date": "2026-05-18",
+      "url": "https://www.khaleejtimes.com/business/drone-deliveries-set-to-expand-in-dubai-as-sobha-realty-keeta-sign-deal",
+      "summary": "Sobha Realty and Keeta Drone signed a strategic MoU on 18 May 2026, witnessed by the Dubai Civil Aviation Authority, making Sobha the first UAE Smart Community partner for green air delivery — Sobha Hartland is the named first community with a phased rollout planned across 2026 and beyond, parks/beach trials later this year through a separate DM-Keeta arrangement.",
+      "tags": [
+        "sobha-realty",
+        "keeta-drone",
+        "dcaa",
+        "sobha-hartland",
+        "MBR-city",
+        "proptech",
+        "smart-community",
+        "air-delivery"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "SOBHA-HARTLAND",
+        "MBR-CITY"
+      ],
+      "metrics": {
+        "Signed": "2026-05-18 (DCAA-witnessed)",
+        "First community": "Sobha Hartland (MBR City)",
+        "Rollout": "Phased — 2026 and beyond",
+        "First UAE smart-community partner": "Sobha Realty",
+        "Parallel rollout": "Dubai Municipality + Keeta drone trials at parks/beaches later 2026",
+        "Sobha quote": "Francis Alfred — 'reimagining how communities function in a rapidly evolving urban landscape'",
+        "DCAA quote": "Mohammed Abdulla Lengawi — 'pleased to support the responsible advancement of air deliveries by Keeta Drone within the integrated community of Sobha Hartland'"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — drone deliveries expand as Sobha + Keeta sign deal (18-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/drone-deliveries-set-to-expand-in-dubai-as-sobha-realty-keeta-sign-deal"
+        },
+        {
+          "label": "GDN Online — Sobha × Keeta Drone air delivery in Sobha Realty communities",
+          "url": "https://www.gdnonline.com/Details/1395085"
+        },
+        {
+          "label": "ME Construction News — Sobha Realty introduces Keeta Drone delivery",
+          "url": "https://meconstructionnews.com/67650/sobha-realty-introduces-keeta-drone-delivery-in-its-communities"
+        },
+        {
+          "label": "Zawya — official Sobha × Keeta MoU release",
+          "url": "https://www.zawya.com/en/press-release/companies-news/sobha-realty-and-keeta-drone-sign-strategic-mou-launching-air-delivery-in-sobha-communities-lwj4ge7y"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sobha Hartland gets a DCAA-blessed drone-delivery rail — the first Smart Community partner in the UAE and a new amenity layer for branded master communities.",
+        "whatIsIt": "On 18 May 2026 Sobha Realty signed a strategic MoU with Keeta Drone, witnessed by the Dubai Civil Aviation Authority (DCAA), to introduce a next-generation air-delivery ecosystem inside its integrated communities. The first deployment is Sobha Hartland in MBR City; the rollout is phased across 2026 and beyond, and Sobha now sits as Keeta Drone's first official Smart Community partner in the UAE.",
+        "howItWorks": "No financial terms, drone count, or delivery-volume target was disclosed. What was confirmed: drone deliveries operate under government-approved frameworks; the DCAA will continue to gate operations; trial use-cases include food and last-mile parcels; Sobha and Keeta plan to extend the model beyond the UAE. Buyers underwriting Sobha Hartland (and the wider Sobha pipeline — Hartland II, Sobha Sanctuary) should ask agents for the published amenity sheet update once the trial flights are in the air, since proven drone delivery becomes part of the resale narrative; investors should track whether the service is included in the service-charge or billed à la carte.",
+        "whyItMatters": "Branded master communities in Dubai are increasingly competing on 'smart' amenity stacks rather than pure spec sheets — drone delivery is a tangible, photographable upgrade that maps onto the same end-user demographic that pays a premium for golf-course frontage or branded concierge. The DCAA witness gives the MoU regulatory cover that earlier proptech experiments lacked. Risk: trial deliveries can drag, the integration into facility-management workflows is untested, and the amenity may end up a marketing line rather than a resident habit.",
+        "forWho": "Sobha Hartland end-users underwriting resale story, Sobha Hartland II / Sanctuary off-plan investors, broker-marketing teams positioning branded amenity stacks, proptech operators benchmarking DCAA-licensed air mobility, Dubai branded-residence buyers comparing amenity-stack premium.",
+        "tryIt": "https://sobharealty.com/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-18/y26ajy3h/Keeta-Drone.jpeg?width=800&height=600&q=60&format=auto",
+        "alt": "Keeta Drone aerial delivery unit flying over a Sobha Realty community in Dubai",
+        "fit": "cover",
+        "credit": "Khaleej Times / Sobha Realty"
+      },
+      "publishDate": "2026-05-19T13:06:57.357Z"
+    },
     {
       "id": "dubai-aldar-al-ghadeer-gardens-aed-1-6m-437-homes-may-18-2026",
       "categories": [
