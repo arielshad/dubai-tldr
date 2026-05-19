@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-05-18T13:13:26.257Z",
+  "generatedAt": "2026-05-19T00:34:28.012Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-aldar-al-ghadeer-gardens-aed-1-6m-437-homes-may-18-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "visa"
+      ],
+      "title": "Aldar puts Al Ghadeer Gardens on sale on the Abu Dhabi-Dubai corridor — 437 villas & townhouses from AED 1.6M, 55/45 plan, Q4 2029 handover, Estidama Pearl 2 target",
+      "org": "Aldar Properties",
+      "date": "2026-05-18",
+      "publishDate": "2026-05-19T00:34:28.012Z",
+      "url": "https://www.zawya.com/en/press-release/companies-news/aldar-unveils-al-ghadeer-gardens-bringing-modern-family-living-to-the-key-growth-corridor-between-abu-dhabi-and-dubai-r09e8c92",
+      "summary": "Aldar opened sales on Al Ghadeer Gardens on 18 May — 437 family villas and townhouses on the Abu Dhabi-Dubai border priced from AED 1.6M (2BR TH) to AED 3M (4BR villa), on a 5%-down 55/45 plan to Q4 2029 handover.",
+      "tags": [
+        "aldar",
+        "al-ghadeer",
+        "abu-dhabi-dubai-corridor",
+        "expo-city",
+        "off-plan",
+        "55-45-plan",
+        "estidama-pearl-2",
+        "fitwel"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AL-GHADEER",
+        "DXB",
+        "AUH",
+        "EXPO-CITY"
+      ],
+      "metrics": {
+        "Total units": "437 villas & townhouses",
+        "Bedroom mix": "2BR / 3BR townhouses, 4BR standalone villas",
+        "2BR TH start": "AED 1.6M",
+        "3BR TH start": "AED 2.3M",
+        "4BR villa start": "AED 3M",
+        "Payment plan": "5% on booking, 50% during construction, 45% on handover (55/45)",
+        "Handover": "Q4 2029",
+        "Drive time to Expo City Dubai": "~20 min",
+        "Sustainability target": "Estidama Pearl 2 + Fitwel 2-star",
+        "On-site school": "Al Ghadeer British School, opening 2030, 2,800-pupil capacity",
+        "Landscape": "30,000+ sqm of open space",
+        "Sales centres": "Yas Island & Jumeirah Beach Road, Dubai"
+      },
+      "links": [
+        {
+          "label": "Zawya press release",
+          "url": "https://www.zawya.com/en/press-release/companies-news/aldar-unveils-al-ghadeer-gardens-bringing-modern-family-living-to-the-key-growth-corridor-between-abu-dhabi-and-dubai-r09e8c92"
+        },
+        {
+          "label": "Engel & Völkers project page (prices & payment plan)",
+          "url": "https://www.engelvoelkers.com/ae/en/off-plan/al-ghadeer-gardens-by-aldar"
+        },
+        {
+          "label": "Aldar — Al Ghadeer master community",
+          "url": "https://www.aldar.com/en/explore-aldar/businesses/development/land/al-ghadeer"
+        }
+      ],
+      "explainer": {
+        "tagline": "Aldar's first major Dubai-corridor villa launch of 2026: AED 1.6M entry and a 5%-down plan inside the Expo City catchment.",
+        "whatIsIt": "Aldar opened sales on Al Ghadeer Gardens on 18 May 2026 — a 437-unit gated villa and townhouse community in Al Ghadeer, the Abu Dhabi-Dubai border community within ~20 min of Expo City Dubai, Dubai Parks and the future Palm Jebel Ali. Two- and three-bedroom townhouses sit alongside four-bedroom standalone villas, with sales centres on both Yas Island and Jumeirah Beach Road.",
+        "howItWorks": "Tickets begin at AED 1.6M for a 2BR townhouse, AED 2.3M for a 3BR townhouse and AED 3M for a 4BR villa. The payment plan is 5% on booking, 50% during construction and 45% on handover (55/45 split), with Q4 2029 delivery. The development is targeting Estidama Pearl 2 and Fitwel 2-star certifications, sits beside 30,000+ sqm of landscape, and reserves a 2,800-pupil British curriculum school (Al Ghadeer British School, Aldar Education) for 2030. Diligence: verify the Oqood, the on-site infrastructure phasing relative to the school's 2030 opening, and the resale/rental case on the Dubai-side commuting corridor before signing.",
+        "whyItMatters": "Sub-AED 2M townhouses with a 5%-down construction-linked plan are the live entry point into the Dubai growth corridor west of Al Maktoum International Airport, and the 4BR villa at AED 3M sits cleanly inside the AED 2M property-investor visa threshold. The 55/45 plan is more capital-efficient than the 70/30 plans elsewhere on the corridor, and the school + Estidama Pearl 2 anchor underwrites a family end-user resale story rather than pure investor flipping. Liquidity risk is the standard off-plan 2029 exposure — handover concentration and assignment-resale spreads should be tracked through 2027.",
+        "forWho": "End-user families on the Abu Dhabi-Dubai commute, AED 2M visa-route investors, brokers placing yield-light end-user product, off-plan buyers looking for 5%-down 4-year construction exposure on the Expo City catchment.",
+        "tryIt": "https://www.engelvoelkers.com/ae/en/off-plan/al-ghadeer-gardens-by-aldar"
+      },
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/07dbdb8c-111a-4a4e-9b4d-a44f5a64c765/0/11u03rml1ka0w3spn-jpg.webp",
+        "alt": "Aldar Al Ghadeer Gardens — render of the villa and townhouse community on the Abu Dhabi-Dubai corridor",
+        "fit": "cover",
+        "credit": "Aldar Properties / Zawya"
+      }
+    },
     {
       "id": "dubai-dld-week-20-2026-weekly-aed-15-39b-binghatti-skyflame-majan-may-18",
       "categories": [

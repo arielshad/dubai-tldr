@@ -2796,6 +2796,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260519t003428z",
+      "timestamp": "2026-05-19T00:34:28.012Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep added one verified launch: Aldar's Al Ghadeer Gardens — a 437-unit villa and townhouse community on the Abu Dhabi-Dubai corridor that went on sale on 18 May 2026 with AED 1.6M entry and a 55/45 plan to Q4 2029.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-aldar-al-ghadeer-gardens-aed-1-6m-437-homes-may-18-2026",
+          "title": "Aldar puts Al Ghadeer Gardens on sale on the Abu Dhabi-Dubai corridor — 437 villas & townhouses from AED 1.6M, 55/45 plan, Q4 2029 handover, Estidama Pearl 2 target",
+          "category": "offplan",
+          "note": "Aldar opened sales 18 May on a 437-unit family villa/townhouse community on the Abu Dhabi-Dubai corridor — first major cross-emirate Aldar launch of the May cycle, with sub-AED 2M entry and a 5%-down 55/45 plan that materially undercuts other 2029-handover product on the same corridor."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "developer",
+        "visa",
+        "ready",
+        "distress",
+        "rental",
+        "luxury",
+        "commercial",
+        "market",
+        "legal",
+        "auction"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
