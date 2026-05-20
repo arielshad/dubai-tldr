@@ -2943,6 +2943,64 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260520t125706z",
+      "timestamp": "2026-05-20T12:57:06.276Z",
+      "source": "github-actions-sweep",
+      "summary": "Four new opportunities added on 20-May-2026: the 19-May DLD daily print at AED 1.75B (off-plan back to 64%), Nakheel's 16-villa Podium Villas drop at Palm Beach Towers (H1 2027 handover), Dubai launches the AED 500/entry 'Win Your Home in Dubai' draw with Binghatti supplying 11 studios + a 2-BR (May 22 – Aug 30), and Dugasta breaks ground on Al Haseen 6 (Dubai Industrial City) with studios from AED 650K.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-may-19-2026-daily-print-aed-1-75b-offplan-64-percent",
+          "title": "Dubai DLD daily print 2026-05-19: AED 1.753B with off-plan rebounding to 64.0% — off-plan flats AED 769M lead; ready flats AED 449M + ready villas AED 107M anchor the rest",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-nakheel-palm-beach-towers-podium-villas-16-homes-h1-2027-may-19-2026",
+          "title": "Nakheel unveils Podium Villas at Palm Beach Towers — 16 limited beachfront 2/3/4-BR homes at the Palm Jumeirah gateway with H1 2027 handover and private residents-only beach",
+          "category": "luxury",
+          "note": "Added under luxury."
+        },
+        {
+          "id": "dubai-win-your-home-binghatti-12-units-dfre-chambers-may-19-2026",
+          "title": "Dubai launches 'Win Your Home in Dubai' — AED 500/spend retail draw gives away 11 Binghatti studios + 1 two-BR over 22 May – 30 August 2026 across 1,000+ brands and 3,500+ outlets",
+          "category": "media",
+          "note": "Added under media."
+        },
+        {
+          "id": "dubai-dugasta-al-haseen-6-dubai-industrial-city-aed-650k-studios-may-19-2026",
+          "title": "Dugasta breaks ground on Al Haseen 6 in Dubai Industrial City — AED 650K studios / AED 1.2M one-BR / AED 1.9M two-BR alongside the new Al Maktoum airport corridor, with 40–50% during construction and a 3/5/10-year plan",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "developer",
+        "offplan",
+        "visa",
+        "lead",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

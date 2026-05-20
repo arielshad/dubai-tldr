@@ -1,8 +1,293 @@
 {
-  "generatedAt": "2026-05-20T00:34:03.579Z",
+  "generatedAt": "2026-05-20T12:57:06.276Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-may-19-2026-daily-print-aed-1-75b-offplan-64-percent",
+      "categories": [
+        "market",
+        "ready"
+      ],
+      "title": "Dubai DLD daily print 2026-05-19: AED 1.753B with off-plan rebounding to 64.0% — off-plan flats AED 769M lead; ready flats AED 449M + ready villas AED 107M anchor the rest",
+      "org": "The Real Estate Reports — DLD daily review",
+      "date": "2026-05-19",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-20-may-2026",
+      "summary": "DLD daily transactions on 19-May-2026 closed at AED 1.753B (off-plan AED 1.122B / 64.0%, ready AED 630.8M / 36.0%). Off-plan flats led at AED 769.2M (68.5% of off-plan), off-plan commercial AED 255.8M (22.8%) and off-plan villas AED 89.7M (8.0%). Ready flats led their side at AED 449.1M (71.2%), with ready villas AED 107.2M and ready commercial AED 63.1M.",
+      "tags": [
+        "dld",
+        "daily-transactions",
+        "may-2026",
+        "off-plan",
+        "ready",
+        "flats",
+        "commercial",
+        "villas"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-05-19",
+        "Total transactions": "AED 1.753B",
+        "Off-plan": "AED 1.122B (64.0%)",
+        "Ready": "AED 630.8M (36.0%)",
+        "Off-plan flats": "AED 769.2M (68.5% of off-plan)",
+        "Off-plan commercial": "AED 255.8M (22.8% of off-plan)",
+        "Off-plan villas": "AED 89.7M (8.0% of off-plan)",
+        "Off-plan hotel apts": "AED 7.5M (0.7%)",
+        "Ready flats": "AED 449.1M (71.2% of ready)",
+        "Ready villas": "AED 107.2M (17.0% of ready)",
+        "Ready commercial": "AED 63.1M (10.0% of ready)",
+        "Ready hotel apts/rooms": "AED 11.4M (1.8%)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai DLD review 20-May-2026 (covers 19-May data)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-20-may-2026"
+        },
+        {
+          "label": "DLD official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "19-May tape jumps to AED 1.75B with off-plan back at 64% — flats are still the engine, but off-plan commercial reasserts itself at AED 256M after the post-Lumena lull.",
+        "whatIsIt": "Dubai Land Department daily transaction print for 19-May-2026: AED 1.753B total, split AED 1.122B off-plan (64.0%) and AED 630.8M ready (36.0%). Off-plan flats alone were AED 769.2M (68.5% of off-plan); off-plan commercial bounced back to AED 255.8M (22.8% of off-plan); off-plan villas a thin AED 89.7M (8.0%). On the ready side, flats led at AED 449.1M (71.2%), with villas AED 107.2M (17.0%) and commercial AED 63.1M (10.0%).",
+        "howItWorks": "Compared to 18-May (AED 1.28B / 61.2% off-plan), the 19-May tape adds AED 470M of new flow and lifts off-plan share by ~3pp. The driver is two-sided: off-plan flats up ~AED 153M and off-plan commercial up ~AED 165M (from AED 91.0M to AED 255.8M), suggesting another mid-week institutional / Business-Bay-style cluster is moving through SPA registration. Ready flats also strengthened (AED 276.1M → AED 449.1M), while ready villas softened from the unusually heavy AED 166.4M to a more typical AED 107.2M. Operators should watch the 20-May print to see whether off-plan commercial holds above AED 200M or fades back to last week's ~AED 90M baseline.",
+        "whyItMatters": "Daily prints are the highest-frequency signal Dubai operators get. The 19-May reading confirms that the May tape is structurally 60–65% off-plan, with flats carrying the bulk and intermittent off-plan commercial bursts setting the upper bound on daily totals. For brokers, off-plan flat listings remain the easiest fill; ready-flat demand at AED 449M is the strongest single-day end-user signal of the week and supports negotiation leverage on stale ready stock.",
+        "forWho": "Brokers calibrating short-term inventory bets, off-plan sales teams watching whether 60%+ off-plan share holds, ready-flat sellers benchmarking actual end-user demand, and analysts comping the May 2026 daily tape to ValuStrat / Property Monitor monthly prints.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-20-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f1210fa9-6aa4-4974-bfc8-1fef79c1109f/pexels-nywrex-flores-183943-837908__1_.jpg",
+        "alt": "Dubai Land Department daily transaction print chart for 19 May 2026",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-05-20T12:57:06.276Z"
+    },
+    {
+      "id": "dubai-nakheel-palm-beach-towers-podium-villas-16-homes-h1-2027-may-19-2026",
+      "categories": [
+        "luxury",
+        "developer",
+        "offplan"
+      ],
+      "title": "Nakheel unveils Podium Villas at Palm Beach Towers — 16 limited beachfront 2/3/4-BR homes at the Palm Jumeirah gateway with H1 2027 handover and private residents-only beach",
+      "org": "Nakheel (Dubai Holding Real Estate)",
+      "date": "2026-05-19",
+      "url": "https://www.zawya.com/en/press-release/companies-news/nakheel-introduces-a-limited-collection-of-beachfront-homes-at-palm-beach-towers-pj3041wo",
+      "summary": "Nakheel on 19-May-2026 introduced the Podium Villas at Palm Beach Towers — a 16-unit limited collection of beachfront homes across Towers Two and Three at the Palm Jumeirah gateway. The line-up runs 2-BR (3,400–3,500 sqft), 3-BR (2,500–3,800 sqft) and 4-BR (3,900–4,500 sqft), with an exclusive residents' beach, infinity pools, wellness facilities and a rooftop dining lounge. Handover is targeted for H1 2027; pricing was not disclosed.",
+      "tags": [
+        "Nakheel",
+        "Palm Beach Towers",
+        "Podium Villas",
+        "Palm Jumeirah",
+        "branded-amenity",
+        "H1 2027 handover",
+        "ultra-prime",
+        "beachfront"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PALM",
+        "DXB"
+      ],
+      "metrics": {
+        "Developer": "Nakheel (Dubai Holding Real Estate)",
+        "Project": "Podium Villas at Palm Beach Towers",
+        "Unit count": "16 beachfront homes",
+        "Towers": "Towers Two and Three (podium level)",
+        "2-BR size": "3,400–3,500 sqft",
+        "3-BR size": "2,500–3,800 sqft",
+        "4-BR size": "3,900–4,500 sqft",
+        "Handover": "H1 2027",
+        "Amenities": "Residents-only beach, infinity pools, wellness suite, outdoor yoga, spa, rooftop dining lounge",
+        "Location": "Palm Jumeirah gateway (near Dubai Harbour, Dubai Marina, SZR)",
+        "Pricing": "Not disclosed at launch"
+      },
+      "links": [
+        {
+          "label": "Zawya — Nakheel introduces Podium Villas at Palm Beach Towers (19-May-2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/nakheel-introduces-a-limited-collection-of-beachfront-homes-at-palm-beach-towers-pj3041wo"
+        },
+        {
+          "label": "TradeArabia — Nakheel unveils beachfront homes at Palm Jumeirah (19-May-2026)",
+          "url": "https://tradearabia.com/News/462675/Nakheel-unveils-limited-collection-of-beachfront-homes-at-Palm-Jumeirah"
+        },
+        {
+          "label": "GDN Online — Nakheel beachfront homes coverage (19-May-2026)",
+          "url": "https://www.gdnonline.com/Details/1395235/Nakheel-unveils-limited-collection-of-beachfront-homes-at-Palm-Jumeirah"
+        },
+        {
+          "label": "Nakheel — Palm Beach Towers construction page",
+          "url": "https://www.nakheel.com/en/construction-progress/palm-beach-towers"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sixteen podium-level beachfront homes at the Palm Jumeirah gateway, with H1 2027 keys — Nakheel's tightest Palm-front drop of the year goes to a single 4,000-sqft-typical size band.",
+        "whatIsIt": "Nakheel — a member of Dubai Holding Real Estate — announced the Podium Villas at Palm Beach Towers, a strictly capped 16-home release at the foot of Towers Two and Three on the Palm Jumeirah gateway. The product mixes villa-scale layouts (2-BR 3,400–3,500 sqft, 3-BR 2,500–3,800 sqft, 4-BR 3,900–4,500 sqft) with tower-grade services: an exclusive residents-only beach, infinity pools, fitness and wellness areas, outdoor yoga, spa experiences, landscaped gardens and a rooftop lounge. Handover is targeted H1 2027.",
+        "howItWorks": "Nakheel did not publish pricing or a public payment plan at announcement, so underwriting starts from comparable Palm-front Nakheel stock and the existing Palm Beach Towers AED/sqft band (call broker for the Trakheesi/Oqood-registered ask and the staged-construction plan). Buyer due diligence list: (1) confirm DLD Oqood registration for each unit, (2) request the SPA's handover-date guarantee and grace-period language given the wider Dubai 6–9 month handover-delay flags raised by Fitch/Anarock, (3) verify which units have direct beach access vs podium-only access, (4) clarify ongoing service-charge band given the residents-only beach and infinity pool stack. With only 16 units and an H1 2027 keys date, this product is positioned ahead of most competing branded launches on the Palm.",
+        "whyItMatters": "Palm-Jumeirah gateway product almost never comes in 16-unit drops at podium level — it usually arrives as either ultra-prime sky villas (Casa AHS comp: AED 101.2M, May 2026) or as tower mass stock. A capped 16-home villa-format release on Nakheel's own freehold land is a scarcity event for the gateway sub-market, and the H1 2027 handover beats almost every competing Palm-area branded launch. For sellers of secondary Palm-front villas, expect Nakheel's pricing benchmark (once published) to reset asking-price anchors. For buyers, the binding constraint is allocation — 16 units across three layout bands means almost every layout will be 'one available' in practice.",
+        "forWho": "Ultra-prime end-users wanting villa-scale layouts with hotel-grade service stack; brokers running Palm-front off-plan inventory lists; existing Palm Beach Towers owners benchmarking unit-mix and resale comps; investors comping branded-residence yield vs Cheval / Aman / Six Senses Palm pipeline.",
+        "tryIt": "https://www.nakheel.com/en/construction-progress/palm-beach-towers"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/19/TA_20260519124143.webp",
+        "alt": "Render of Nakheel's Podium Villas at Palm Beach Towers — beachfront homes at Palm Jumeirah gateway",
+        "fit": "cover",
+        "credit": "Nakheel via TradeArabia"
+      },
+      "publishDate": "2026-05-20T12:57:06.276Z"
+    },
+    {
+      "id": "dubai-win-your-home-binghatti-12-units-dfre-chambers-may-19-2026",
+      "categories": [
+        "media",
+        "market",
+        "lead"
+      ],
+      "title": "Dubai launches 'Win Your Home in Dubai' — AED 500/spend retail draw gives away 11 Binghatti studios + 1 two-BR over 22 May – 30 August 2026 across 1,000+ brands and 3,500+ outlets",
+      "org": "Dubai Festivals and Retail Establishment (DFRE) × Dubai Chambers × Binghatti Developers",
+      "date": "2026-05-19",
+      "url": "https://www.mediaoffice.ae/en/news/2026/may/19-05/dubai-launches-win-your-home-in-dubai",
+      "summary": "Dubai Festivals and Retail Establishment (part of DET) and Dubai Chambers on 19-May-2026 announced 'Win Your Home in Dubai' — a 12-week citywide draw running 22 May to 30 August 2026. Shoppers aged 18+ unlock entries with a minimum AED 500 spend (any additional AED 500 stacks more entries) at 1,000+ participating brands across 3,500+ retail outlets, and scan campaign QR codes to upload receipts. Binghatti Developers is the exclusive real-estate partner, supplying 12 residential units: 11 studio apartments (one per week) plus a 2-BR grand prize in the final week, spanning Eid Al Adha, the 3-Day Super Sale and Dubai Summer Surprises.",
+      "tags": [
+        "DFRE",
+        "Dubai Chambers",
+        "Binghatti Developers",
+        "retail-real-estate",
+        "summer-2026",
+        "homeownership-promo",
+        "DET",
+        "campaign"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Campaign window": "22 May – 30 August 2026 (12 weeks)",
+        "Real-estate partner": "Binghatti Developers (exclusive)",
+        "Total prize pool": "12 residential units (11 studio apts + 1 two-BR)",
+        "Weekly cadence": "1 studio per week",
+        "Grand prize": "Two-bedroom apartment (final week)",
+        "Entry threshold": "AED 500 minimum spend per entry",
+        "Stacking": "Each additional AED 500 = another entry",
+        "Participating brands": "1,000+",
+        "Participating outlets": "3,500+",
+        "Eligibility": "18+ citizens, residents and visitors",
+        "Mechanic": "Scan QR code on campaign materials and upload receipt",
+        "Anchor moments": "Eid Al Adha, 3-Day Super Sale, Dubai Summer Surprises"
+      },
+      "links": [
+        {
+          "label": "Government of Dubai Media Office — Dubai launches 'Win Your Home in Dubai' (19-May-2026)",
+          "url": "https://www.mediaoffice.ae/en/news/2026/may/19-05/dubai-launches-win-your-home-in-dubai"
+        },
+        {
+          "label": "Gulf Business — Emirate's new retail campaign: Shop and Win Your Home in Dubai",
+          "url": "https://gulfbusiness.com/en/2026/real-estate/emirates-new-retail-campaign-shop-and-win-your-home-in-dubai-see-details/"
+        },
+        {
+          "label": "ARN News Centre — Win Your Home in Dubai turns shopping into homeownership opportunity",
+          "url": "https://www.arnnewscentre.ae/en/news/lifestyle/win-your-home-in-dubai-turns-shopping-into-homeownership-opportunity/"
+        },
+        {
+          "label": "Travels Dubai — Win Your Home in Dubai launches with 12 residential units up for grabs",
+          "url": "https://www.travelsdubai.com/19-May-2026/win-home-dubai-launches-12-residential-units-grabs"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai turns 12 weeks of summer retail spend into a homeownership pipeline — every AED 500 ticket gets you in the weekly Binghatti studio draw, with a 2-BR grand prize.",
+        "whatIsIt": "On 19-May-2026 the Dubai Festivals and Retail Establishment (under the Department of Economy and Tourism) and Dubai Chambers jointly launched 'Win Your Home in Dubai', a first-of-its-kind citywide draw that converts retail spend into a chance to own a Binghatti-supplied apartment. The mechanic is simple: spend at least AED 500 at any of 1,000+ participating brands across 3,500+ outlets, scan the QR code on official campaign materials, upload a receipt. Each additional AED 500 stacks another entry. The campaign window is 22 May – 30 August 2026 — 12 weeks straddling Eid Al Adha, the 3-Day Super Sale and Dubai Summer Surprises.",
+        "howItWorks": "Binghatti Developers is the exclusive real-estate partner. The prize pool is 12 residential units total: 11 studio apartments handed out one per week, plus a two-bedroom apartment as the grand prize in the final week. Eligibility is open to citizens, residents and visitors aged 18+. The campaign is government-run (DFRE under DET, with Dubai Chambers) rather than developer-run, which is the unusual signal: the public sector is steering a retail consumption funnel into the residential ownership funnel during the slow summer trading period. Operators tracking Binghatti should also note this is incremental free distribution of finished/handover-ready studio stock on top of the AED 1.43B Q1 2026 net-profit print and the developer's 4,000+ Q1 unit-sales tally.",
+        "whyItMatters": "This is the first city-level public–private campaign that explicitly fuses retail spend with homeownership entry — a deliberate counter-cyclical demand-side push during a buyer's-market debate (the 19.81% YoY REPI print, the May 2026 stabilisation narrative). For Binghatti it's a multi-channel brand activation that puts inventory in front of every Dubai shopper for 12 weeks; for brokers it generates qualified-shopper leads via the receipt-upload funnel; for owners and short-let operators, the campaign-driven footfall across malls and high-street boosts visitor demand at exactly the period when summer leasing is usually softest. Risks: prize-value disclosure transparency, terms-of-entry compliance with UAE consumer-protection rules, and whether the giveaway crystallises into actual purchase intent beyond the 12 winners.",
+        "forWho": "Brokers running Binghatti EOI lists and end-user studio-buyer pipelines; mall and retail-strip landlords measuring summer footfall uplift; PR / brand teams comping public-private campaigns; Dubai-summer media planners.",
+        "tryIt": "https://www.mediaoffice.ae/en/news/2026/may/19-05/dubai-launches-win-your-home-in-dubai"
+      },
+      "image": {
+        "url": "https://mediaoffice.ae/-/media/2026/may/19-05/11/gdmo1-p01-19-05-26.jpg",
+        "alt": "Officials announce 'Win Your Home in Dubai' citywide retail draw at Dubai Chambers on 19 May 2026",
+        "fit": "cover",
+        "credit": "Government of Dubai Media Office"
+      },
+      "publishDate": "2026-05-20T12:57:06.276Z"
+    },
+    {
+      "id": "dubai-dugasta-al-haseen-6-dubai-industrial-city-aed-650k-studios-may-19-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "visa"
+      ],
+      "title": "Dugasta breaks ground on Al Haseen 6 in Dubai Industrial City — AED 650K studios / AED 1.2M one-BR / AED 1.9M two-BR alongside the new Al Maktoum airport corridor, with 40–50% during construction and a 3/5/10-year plan",
+      "org": "Dugasta Properties",
+      "date": "2026-05-19",
+      "url": "https://www.zawya.com/en/press-release/companies-news/new-al-maktoum-airport-proximity-fuels-continued-investor-interest-in-dugastas-al-haseen-6-og16m680",
+      "summary": "Dugasta Properties on 19-May-2026 broke ground on Al Haseen 6, the sixth Al Haseen Residences phase in Dubai Industrial City. Studios start at AED 650K, one-BR from AED 1.2M and two-BR from AED 1.9M — all in the visa-eligible band under the new no-floor rule. Payment structure runs 40% or 50% during construction with the balance over 3, 5 or 10 years. The site is ~10 minutes to Expo City and ~15 minutes to Jebel Ali Industrial Area, riding the new Al Maktoum International Airport infrastructure push.",
+      "tags": [
+        "Dugasta Properties",
+        "Al Haseen 6",
+        "Dubai Industrial City",
+        "Al Maktoum airport corridor",
+        "10-year payment plan",
+        "visa-eligible",
+        "yield-focused",
+        "Tauseef Khan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-INDUSTRIAL",
+        "DXB-SOUTH",
+        "DXB"
+      ],
+      "metrics": {
+        "Developer": "Dugasta Properties",
+        "Project": "Al Haseen 6 (Al Haseen Residences phase 6)",
+        "Location": "Dubai Industrial City",
+        "Studio ask": "From AED 650,000",
+        "1-BR ask": "From AED 1.2M",
+        "2-BR ask": "From AED 1.9M",
+        "Payment plan": "40% or 50% during construction + 3/5/10-year post-handover balance",
+        "Developer-claimed ROI": "10% (per developer; verify independently)",
+        "Distance to Expo City": "~10 minutes",
+        "Distance to Jebel Ali Industrial Area": "~15 minutes",
+        "Prior Al Haseen 1–5 portfolio": "Developer cites ~AED 1B portfolio value",
+        "Amenities": "Gymnasium, swimming pool, sauna, community areas"
+      },
+      "links": [
+        {
+          "label": "Zawya — Dugasta breaks ground on Al Haseen 6 (19-May-2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/new-al-maktoum-airport-proximity-fuels-continued-investor-interest-in-dugastas-al-haseen-6-og16m680"
+        },
+        {
+          "label": "Dugasta Properties — Al Haseen Residences corporate page",
+          "url": "https://dugasta.com/property/al-haseen-residences/"
+        },
+        {
+          "label": "Property Finder — Al Haseen Residence 6 by Dugasta",
+          "url": "https://www.propertyfinder.ae/en/new-projects/dugasta/al-haseen-residence-6"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sub-AED 1M studios on the Al Maktoum airport / Expo City corridor — visa-eligible under the new no-floor rule, with a 10-year post-handover tail for cash-light buyers.",
+        "whatIsIt": "Dugasta Properties broke ground on 19-May-2026 on Al Haseen 6, the sixth consecutive Al Haseen Residences phase in Dubai Industrial City. The product is a yield-focused stack of studios from AED 650K, one-BR from AED 1.2M and two-BR from AED 1.9M, with a flexible payment structure that lets a buyer put down 40% or 50% during construction and then stretch the balance across 3, 5 or 10 years. The site sits ~10 minutes from Expo City and ~15 minutes from Jebel Ali Industrial Area, on the corridor benefiting from the Al Maktoum International Airport expansion push that anchored the recent AED 62B Dubai South × Majid Al Futtaim deal.",
+        "howItWorks": "Underwriting is straightforward: AED 650K studio with a 40% / construction-period plan implies ~AED 260K in during-build instalments, then a 3/5/10-year tail on the remaining ~AED 390K. Buyers should (1) get the registered Oqood per unit, (2) ask Dugasta to size the post-handover instalment vs achievable monthly rent in Dubai Industrial City, (3) verify the 10% return claim against actual achieved rents from Al Haseen 1–5 (the developer cites the prior phases as an AED 1B portfolio — request DLD rental-index pulls for those buildings) and (4) clarify whether the post-handover balance is interest-bearing. Note that the developer's '10% return on investment' headline is a developer-claimed metric, not an independent yield — treat it as a starting hypothesis to verify, not a guarantee.",
+        "whyItMatters": "Sub-AED 750K studio stock is now visa-eligible under the post-no-floor regime, so Al Haseen 6 studios at AED 650K sit firmly inside the qualifying band. The bigger thesis is the Al Maktoum airport / Dubai South corridor: with the AED 62B mall-anchored mixed-use community just signed next door and Dubai South / DAMAC / Aldar pushing the same corridor, micro-locations like Dubai Industrial City should see workforce-housing demand strengthen through 2027. Risks: yield assumption depends on Industrial City rental absorption holding; Fitch / Anarock have flagged 6–9 month handover delays for the wider 45,000-unit pipeline.",
+        "forWho": "Yield-focused buyers screening sub-AED 1M tickets; visa-route investors using the no-floor rule; brokers building Dubai South / Industrial City inventory lists tied to the Al Maktoum airport story; underwriters comping Dugasta's claimed 10% ROI vs DLD rental-index reads from Al Haseen 1–5.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/dugasta/al-haseen-residence-6"
+      },
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/198d0dd0-a843-4efe-a5d8-e33f504bdc2c/0/alhaseen6-jpg.webp",
+        "alt": "Dugasta Properties Al Haseen 6 groundbreaking in Dubai Industrial City, 19 May 2026",
+        "fit": "cover",
+        "credit": "Dugasta Properties via Zawya"
+      },
+      "publishDate": "2026-05-20T12:57:06.276Z"
+    },
     {
       "id": "dubai-repi-2025-9-81-percent-villas-14-83-offices-15-86-may-19-2026",
       "categories": [
