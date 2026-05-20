@@ -2889,6 +2889,60 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260520t003403z",
+      "timestamp": "2026-05-20T00:34:03.579Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-05-20: ingests official Dubai Data and Statistics 2025 REPI print (residential +9.81%, villas +14.83%, offices +15.86%), Property Finder's May 18 buyer-intent survey (68% of seekers planning to buy within 6 months), Century 21's May 19 UAE regional HQ launch in Dubai, and the DLD daily transaction print for 18-May-2026 (AED 1.28B).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-repi-2025-9-81-percent-villas-14-83-offices-15-86-may-19-2026",
+          "title": "Dubai Data & Statistics 2025 REPI print: residential +9.81%, villas +14.83%, apartments +7.38%, offices +15.86%, retail +11.52% — first full-year benchmark for the 2026 buyer's-market debate",
+          "category": "market",
+          "note": "Official 2025 full-year REPI from Dubai Data & Statistics — the 2025 base that all 2026 contraction prints (ValuStrat -3.8%, Moody's cyclical cooling) are measured against. Validates the office story that's been bubbling all month."
+        },
+        {
+          "id": "dubai-property-finder-buyer-intent-68-percent-six-months-may-18-2026",
+          "title": "Property Finder Market Pulse: 68% of Dubai property seekers plan to buy within 6 months even as 70–73% now expect prices to soften — buyer-intent holds while price-expectation flips",
+          "category": "market",
+          "note": "Only public Dubai-resident buyer-intent survey. 68% near-term intent is high; the flip in price expectations from 36% expecting softening to 70–73% in two months is the structural shift."
+        },
+        {
+          "id": "dubai-century-21-uae-regional-hq-burj-khalifa-district-may-19-2026",
+          "title": "Century 21 establishes UAE regional headquarters in Dubai's Burj Khalifa district — 82-country, 400,000-member global network plants flag during a buyer's-market debate",
+          "category": "lead",
+          "note": "Branded brokerage entry during the buyer's-market debate — same direction signal as Brookfield + Alshaya (May 7) and Unique Properties / Console acquisition (May 7). Confirms agency consolidation thesis."
+        },
+        {
+          "id": "dubai-dld-may-18-2026-daily-print-aed-1-28b-offplan-61-2-percent",
+          "title": "Dubai DLD daily print 2026-05-18: AED 1.28B with off-plan back to 61.2% — ready-flat share rebuilds to AED 276M as the post-Lumena commercial spike normalises",
+          "category": "market",
+          "note": "Continues the daily-print series. Post-Lumena normalisation: off-plan back to 61%, commercial back to ~AED 120M, ready-villa share unusually heavy at 33.5%."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "lead",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

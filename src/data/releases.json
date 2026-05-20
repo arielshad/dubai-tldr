@@ -1,8 +1,265 @@
 {
-  "generatedAt": "2026-05-19T13:06:57.357Z",
+  "generatedAt": "2026-05-20T00:34:03.579Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-repi-2025-9-81-percent-villas-14-83-offices-15-86-may-19-2026",
+      "categories": [
+        "market",
+        "commercial",
+        "luxury"
+      ],
+      "title": "Dubai Data & Statistics 2025 REPI print: residential +9.81%, villas +14.83%, apartments +7.38%, offices +15.86%, retail +11.52% — first full-year benchmark for the 2026 buyer's-market debate",
+      "org": "Dubai Data and Statistics Establishment (Digital Dubai)",
+      "date": "2026-05-19",
+      "url": "https://www.zawya.com/en/business/real-estate/dubai-real-estate-price-index-records-981-growth-in-2025-lvtsg9so",
+      "summary": "Dubai Data & Statistics, the Digital Dubai unit, released its 2025 full-year Real Estate Price Index on 19 May 2026: residential overall +9.81% YoY (villas +14.83%, apartments +7.38%), commercial +9.54% (offices +15.86%, retail/shops +11.52%), hospitality +4.80% (hotel apartments +6.25%, hotel rooms +0.85%). CEO Younus Al Nasser called the print a maturity milestone for Dubai's D33 data ecosystem.",
+      "tags": [
+        "repi",
+        "dubai-data-statistics",
+        "digital-dubai",
+        "2025-full-year",
+        "villas",
+        "offices",
+        "retail",
+        "hospitality",
+        "d33"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DXB-VILLA",
+        "DXB-OFFICE",
+        "DXB-RETAIL"
+      ],
+      "metrics": {
+        "Residential REPI 2025": "+9.81% YoY",
+        "Villa REPI 2025": "+14.83% YoY",
+        "Apartment REPI 2025": "+7.38% YoY",
+        "Commercial REPI 2025": "+9.54% YoY",
+        "Office REPI 2025": "+15.86% YoY",
+        "Retail/shop REPI 2025": "+11.52% YoY",
+        "Hospitality REPI 2025": "+4.80% YoY",
+        "Hotel apartments REPI 2025": "+6.25% YoY",
+        "Hotel rooms REPI 2025": "+0.85% YoY",
+        "Publisher": "Dubai Data & Statistics Establishment (Digital Dubai)",
+        "Release date": "2026-05-19"
+      },
+      "links": [
+        {
+          "label": "Zawya — Dubai REPI 2025: 9.81% growth print",
+          "url": "https://www.zawya.com/en/business/real-estate/dubai-real-estate-price-index-records-981-growth-in-2025-lvtsg9so"
+        },
+        {
+          "label": "Khaleej Times — Villas, offices drive 2025 REPI growth",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-property-prices-climb-as-villas-offices-drive-market-growth"
+        },
+        {
+          "label": "Voice of Emirates — Dubai Data & Statistics REPI 2025",
+          "url": "https://www.voiceofemirates.com/en/business/2026/05/19/dubai-data-and-statistics-releases-real-estate-price-index-for-2025/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Official 2025 benchmark: villas +14.83%, offices +15.86% — the numbers ValuStrat's 'first quarterly contraction since 2020' is being measured against.",
+        "whatIsIt": "Dubai Data & Statistics Establishment, the Digital Dubai unit, published its Real Estate Price Index for 2025 on 19 May 2026 — the official emirate-level benchmark for residential, commercial and hospitality price growth. Residential closed the year +9.81% YoY, with villas (+14.83%) running roughly 2× apartments (+7.38%); commercial closed +9.54% (offices the standout at +15.86%, retail/shops +11.52%); hospitality +4.80% with hotel apartments (+6.25%) outpacing hotel rooms (+0.85%).",
+        "howItWorks": "REPI is the closed-2025 print, so it sets the base index against which Q1–Q2 2026 contractions get measured. ValuStrat already flagged the first quarterly residential contraction since 2020 in March (-3.8% QoQ) and Moody's called the market 'cyclically cooling' on 13 May — both readings sit on top of this +9.81% full-year base. Practical use: when underwriting, anchor the entry comp to a 2025 print that grew 14.83% on villas and 15.86% on offices, and apply the post-Feb 2026 conflict-driven correction on top.",
+        "whyItMatters": "It puts a hard number on the 2025 base that 2026's softer prints are being compared against — and it confirms offices (+15.86%) outpaced everything residential except villas, which validates the Business Bay / Lumena / commercial-record stories from earlier in May. For sellers it is the strongest argument against discounting beyond 5–15% of peak; for buyers it tells how much air-cover the YTD softening still has before negative-equity risk meaningfully picks up. For asset allocators it argues offices remain the underweighted Dubai exposure.",
+        "forWho": "Underwriters anchoring 2026 entry comps to a verifiable 2025 base, sellers defending sub-peak asks, office investors confirming the +15.86% reading, hospitality buyers watching the wide hotel-apartment vs. hotel-room spread, and economists tying Dubai's print to D33 / Dubai Real Estate Strategy 2033.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/residential-properties-price-index-rppi/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-19/xpzweu74/Dubai-skyline-10.jpg",
+        "alt": "Dubai skyline at dusk illustrating the 2025 Real Estate Price Index print released by Dubai Data and Statistics Establishment",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-20T00:34:03.579Z"
+    },
+    {
+      "id": "dubai-property-finder-buyer-intent-68-percent-six-months-may-18-2026",
+      "categories": [
+        "market",
+        "lead"
+      ],
+      "title": "Property Finder Market Pulse: 68% of Dubai property seekers plan to buy within 6 months even as 70–73% now expect prices to soften — buyer-intent holds while price-expectation flips",
+      "org": "Property Finder / Khaleej Times",
+      "date": "2026-05-18",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-buyers-expect-price-correction-2026",
+      "summary": "Property Finder's latest Market Pulse survey of 4,735 active Dubai property seekers (March + April 2026) showed 68% planning to buy within six months (67% in April) — but the share expecting price softening jumped from 36% (Jan–Feb) to 70–73% (Mar–Apr), with only 16–17% still expecting increases. CRO Cherif Sleiman called it a market 'recalibrating, not retreating'.",
+      "tags": [
+        "property-finder",
+        "buyer-intent",
+        "market-pulse",
+        "khaleej-times",
+        "april-2026",
+        "price-correction",
+        "demand-survey"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Survey sample": "4,735 active property seekers",
+        "Survey period": "March + April 2026",
+        "Intent to buy in 6 months (March)": "68%",
+        "Intent to buy in 6 months (April)": "67%",
+        "Expecting price softening (Jan–Feb 2026)": "36%",
+        "Expecting price softening (Mar–Apr 2026)": "70–73%",
+        "Expecting price increases (Mar–Apr 2026)": "16–17%",
+        "Off-plan apartment sales — April 2026": "~AED 20B",
+        "Total Dubai transactions — full-year 2025": "AED 760B+",
+        "Source": "Property Finder Market Pulse via Khaleej Times"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai buyers expect price correction, still rushing to buy",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-buyers-expect-price-correction-2026"
+        },
+        {
+          "label": "Property Finder — Market Pulse",
+          "url": "https://www.propertyfinder.ae/en/insights/market-pulse"
+        }
+      ],
+      "explainer": {
+        "tagline": "Two-thirds of Dubai buyers still planning to transact within 6 months even though 70%+ now expect prices to soften — intent is holding while expectations flip.",
+        "whatIsIt": "Property Finder's Market Pulse, the only public Dubai-resident buyer-intent survey, polled 4,735 active platform seekers across March and April 2026 and was reported by Khaleej Times on 18 May 2026. Headline: 68% (March) / 67% (April) plan to purchase within six months. The structural shift is in the price-expectation column: the share expecting prices to soften jumped from 36% in Jan–Feb to 70–73% in Mar–Apr, while the share expecting increases collapsed from 35% to 16–17%.",
+        "howItWorks": "Sleiman's framing — 'two-thirds planning to buy isn't a number you see in a market that has lost confidence' — is the operator-relevant read. The mechanics: April off-plan apartment sales still cleared ~AED 20B and 2025 totals topped AED 760B, so demand has not actually rolled over. What changed is the timing optionality buyers think they have — they're queueing, not exiting. Diligence: use the price-expectation flip when negotiating asks (sellers can no longer assume increases are priced in), and watch June Market Pulse to see whether intent erodes if the price expectation persists for a third month.",
+        "whyItMatters": "It is the strongest evidence yet that the 'buyer's market' framing The National and Khaleej Times have run for two weeks is being driven by expectations, not by buyer withdrawal. For brokers it changes the negotiation script: the leverage to discount is in the seller's hands but the volume is still there. For developers it justifies launching now — 67% near-term intent rarely lasts. Risk: if June/July prints break below 60% intent, the recalibration could turn into a real pause.",
+        "forWho": "Brokers writing offers against newly soft sellers, developers timing the next launch tranche, sellers benchmarking whether to discount, off-plan sales teams calibrating commission and 30-day close incentives, and anyone tracking the gap between sentiment and transactions.",
+        "tryIt": "https://www.propertyfinder.ae/en/insights/market-pulse"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-18/aabdo2tt/Dubai-property-stock.jpg",
+        "alt": "Dubai residential skyline illustrating Property Finder's May 2026 Market Pulse buyer-intent survey",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-20T00:34:03.579Z"
+    },
+    {
+      "id": "dubai-century-21-uae-regional-hq-burj-khalifa-district-may-19-2026",
+      "categories": [
+        "lead",
+        "market"
+      ],
+      "title": "Century 21 establishes UAE regional headquarters in Dubai's Burj Khalifa district — 82-country, 400,000-member global network plants flag during a buyer's-market debate",
+      "org": "Century 21 UAE",
+      "date": "2026-05-19",
+      "url": "https://www.zawya.com/en/business/real-estate/century-21-establishes-regional-headquarters-in-dubai-hw5ulkki",
+      "summary": "Century 21 Real Estate launched UAE operations on 19 May 2026, opening its regional headquarters in the Burj Khalifa district next to The Dubai Mall. The 82-country, 400,000-member global brand is led in the region by Group CEO Peter Matthews. The launch lands during the May 2026 buyer's-market debate and the same week that Property Finder logged 68% near-term buyer intent.",
+      "tags": [
+        "century-21",
+        "brokerage",
+        "regional-hq",
+        "burj-khalifa",
+        "peter-matthews",
+        "agency-launch"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DXB-DOWNTOWN"
+      ],
+      "metrics": {
+        "Brand network": "82 countries, 400,000+ agents",
+        "UAE launch date": "2026-05-19",
+        "Regional HQ location": "Burj Khalifa district, Downtown Dubai (next to The Dubai Mall)",
+        "Regional leadership": "Peter Matthews, Group CEO Century 21 UAE & India",
+        "Market context": "Property Finder buyer-intent at 67–68% same week"
+      },
+      "links": [
+        {
+          "label": "Zawya — Century 21 establishes UAE regional HQ in Dubai",
+          "url": "https://www.zawya.com/en/business/real-estate/century-21-establishes-regional-headquarters-in-dubai-hw5ulkki"
+        },
+        {
+          "label": "Century 21 UAE coming-soon site",
+          "url": "https://century21.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Global brokerage giant Century 21 plants its UAE flag in the Burj Khalifa district just as 6,700+ Dubai brokers crowd the field — agency war is escalating, not cooling.",
+        "whatIsIt": "Century 21 Real Estate — the 82-country, 400,000-agent global brokerage — formally launched UAE operations on 19 May 2026 with a regional headquarters in Downtown Dubai's Burj Khalifa district, next to The Dubai Mall. Peter Matthews leads as Group CEO of Century 21 UAE and India. This is a franchise-led entry; the network typically operates through licensed regional master franchisees, with revenue split between the global brand and local operators.",
+        "howItWorks": "Century 21's UAE shape will look familiar from its 82 other country networks: a master franchisor seats regional brokers under one brand, sets quality and tech standards, and clears commissions through the global system. The Downtown HQ signals luxury-and-prime positioning rather than mid-market portal play. Diligence for brokers considering joining: confirm the franchise fee schedule, lead-routing model, and how Century 21's tech stack integrates with Property Finder and Bayut listings. For sellers, the entry is reputation-additive but commissions will still anchor to local norms (1.5–2% standard, 2% Dubai broker fees on rentals).",
+        "whyItMatters": "Two signals: (1) global brands continue to bet on Dubai despite the May 2026 buyer's-market debate — same direction as Brookfield + Alshaya's Dubai Hills JV (May 7) and Property Finder's 68% buyer-intent print (May 18); (2) consolidation pressure on the long tail of Dubai's ~6,700 newly-registered brokers intensifies — Unique Properties paid 7 figures for Alessandro Console on May 7, and a global franchisor lands two weeks later. Risk for boutique brokers: lead-generation costs rise as branded competition increases.",
+        "forWho": "Independent Dubai brokers weighing whether to join a branded franchise, agency-acquisition targets watching consolidation, HNW sellers comparing branded vs. boutique representation, and operators tracking how new entrants concentrate around the Burj Khalifa / DIFC luxury axis.",
+        "tryIt": "https://century21.ae/"
+      },
+      "image": {
+        "url": "https://images.zawya.com/2026/05/19/century-21-uae-launch-downtown-dubai.jpg",
+        "alt": "Century 21 UAE regional headquarters launch in Downtown Dubai's Burj Khalifa district",
+        "fit": "cover",
+        "credit": "Zawya"
+      },
+      "publishDate": "2026-05-20T00:34:03.579Z"
+    },
+    {
+      "id": "dubai-dld-may-18-2026-daily-print-aed-1-28b-offplan-61-2-percent",
+      "categories": [
+        "market",
+        "ready"
+      ],
+      "title": "Dubai DLD daily print 2026-05-18: AED 1.28B with off-plan back to 61.2% — ready-flat share rebuilds to AED 276M as the post-Lumena commercial spike normalises",
+      "org": "The Real Estate Reports — DLD daily review",
+      "date": "2026-05-18",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-19-may-2026",
+      "summary": "DLD daily transactions on 18-May-2026 closed at AED 1.28B (off-plan AED 782.2M / 61.2%, ready AED 496.5M / 38.8%). Off-plan flats dominated at AED 616.1M (78.8% of off-plan); ready flats led at AED 276.1M with ready villas adding AED 166.4M (33.5% of ready). Commercial activity normalised back to AED 91.0M off-plan + AED 29.4M ready after the early-May Business-Bay / Lumena institutional clusters.",
+      "tags": [
+        "dld",
+        "daily-transactions",
+        "may-2026",
+        "off-plan",
+        "ready",
+        "flats",
+        "villas",
+        "commercial"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-05-18",
+        "Total transactions": "AED 1.28B",
+        "Off-plan": "AED 782.2M (61.2%)",
+        "Ready": "AED 496.5M (38.8%)",
+        "Off-plan flats": "AED 616.1M (78.8% of off-plan)",
+        "Off-plan commercial": "AED 91.0M (11.6% of off-plan)",
+        "Off-plan villas": "AED 70.3M (9.0% of off-plan)",
+        "Off-plan hotel apts": "AED 4.7M (0.6%)",
+        "Ready flats": "AED 276.1M (55.6% of ready)",
+        "Ready villas": "AED 166.4M (33.5% of ready)",
+        "Ready commercial": "AED 29.4M (5.9% of ready)",
+        "Ready hotel apts/rooms": "AED 24.6M (5.0% of ready)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai DLD review 19-May-2026 (covers 18-May data)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-19-may-2026"
+        },
+        {
+          "label": "DLD official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First post-Lumena week sees Dubai DLD daily flow normalise to AED 1.28B with off-plan back at 61% — flats still doing the heavy lifting on both sides.",
+        "whatIsIt": "The 18-May-2026 daily Dubai Land Department transaction print: AED 1.28B total, split AED 782.2M off-plan (61.2%) and AED 496.5M ready (38.8%). Inside off-plan, flats alone accounted for AED 616.1M (78.8%), with commercial AED 91.0M (11.6%) and villas a thin AED 70.3M (9.0%). On the ready side, flats led at AED 276.1M but villas were unusually heavy at AED 166.4M (33.5% of ready) — well above the typical 20% ready-villa share.",
+        "howItWorks": "Compare 18 May to the early-May ramp: 05-May AED 2.39B (Lumena alone AED 1.02B), 06-May AED 1.47B (Business Bay offices AED 646M), 07-May AED 998M (the first sub-AED 1B day), then back up to 11-May AED 1.02B, 12-May AED 1.25B and 13-May AED 1.14B with ready flats at 47.3%. 18-May at AED 1.28B with off-plan back to 61.2% and commercial normalising to ~AED 120M total fits the post-institutional-spike pattern: flats carry the off-plan tape, ready villas swing the wider weekly mix. Operators using this for underwriting should treat 60–65% off-plan as the running base and look at the ready-villa AED 166M as evidence of selective end-user demand at the high end.",
+        "whyItMatters": "Daily prints are the highest-frequency signal Dubai operators get — they isolate which segments are clearing vs. queueing. The 18 May reading confirms ready-villa demand is holding even as the wider ValuStrat / Moody's narrative says villas are cooling, and that off-plan flats are still the highest-volume settlement category. For brokers, off-plan flat listings remain the easiest fill; for sellers of ready villas, the 33.5% ready share is leverage against pre-Feb 2026 anchored asks.",
+        "forWho": "Brokers calibrating short-term inventory bets, off-plan sales teams watching whether 60%+ off-plan share holds, ready-villa sellers benchmarking demand, and anyone underwriting against the next ValuStrat / Property Monitor monthly print.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-19-may-2026"
+      },
+      "image": {
+        "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdld-daily-print.jpg",
+        "alt": "Dubai Land Department daily transaction print for 18 May 2026",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-05-20T00:34:03.579Z"
+    },
     {
       "id": "dubai-south-majid-al-futtaim-aed-62b-22m-sqft-mall-anchored-may-19-2026",
       "categories": [
