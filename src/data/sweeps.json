@@ -3001,6 +3001,68 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260521t004438z",
+      "timestamp": "2026-05-21T00:44:38.170Z",
+      "source": "github-actions-sweep",
+      "summary": "Five fresh tier-1 prints from 20-May-2026: Colliers' UAE Q1 report quantifies Dubai's handover pulse (>10K apartments/month for two straight months + 65K+12.5K pipeline through year-end + rents +2% QoQ), Arabian Business's exclusive flags a 30% Dubai brokerage shake-out in the next 5-6 months on 1,000-brokers-per-100K saturation, BlackBrick maps where luxury HNW capital is migrating sub-community by sub-community, and two ground-breakings reshape Dubai Science Park (Lantana Hills 390 townhouses with Group AMANA's AED 680M / $185M modular contract) and Dubai Islands (Innovate Living's Omoria, 26 ultra-luxury hospitality residences advancing an AED 2B / $545M pipeline).",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-colliers-q1-2026-handover-10k-apartments-65k-pipeline-may-20",
+          "title": "Colliers Q1 2026 UAE report: Dubai apartment handovers top 10,000 for second straight month + 1,900 villas delivered; 65,000 apartments and 12,500 villas still in 2026 pipeline as apartment rents nudge +2% QoQ",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-brokerage-shakeout-30-percent-1000-per-100k-arabian-business-may-20-2026",
+          "title": "Arabian Business exclusive: up to 30% of Dubai's brokerages may shut in five-to-six months — Dubai now has ~1,000 brokers per 100,000 residents vs London's 176 as smaller agents approach larger firms for mergers and acquisitions",
+          "category": "lead",
+          "note": "Added under lead."
+        },
+        {
+          "id": "dubai-blackbrick-sanctuary-luxury-flame-tree-victory-heights-al-barari-may-20-2026",
+          "title": "BlackBrick: post-March geopolitical shock pushes Dubai HNW capital into 'sanctuary' sub-communities — Flame Tree (17–18th holes JGE), Estella Street 1 (Victory Heights), Savannah & La Avenida (Arabian Ranches), Cluster 44 (Jumeirah Islands, 11,000+ sqft plots), The Nest Street A (Al Barari)",
+          "category": "luxury",
+          "note": "Added under luxury."
+        },
+        {
+          "id": "dubai-lantana-hills-dham-group-amana-aed-680m-390-townhouses-may-20-2026",
+          "title": "Dubai Holding Asset Management breaks ground on Lantana Hills — Group AMANA wins AED 680M ($185M) contract for 390 3/4-BR modular townhouses in Dubai Science Park with H2 2027 handover and LEED Silver precertification",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-omoria-private-residences-innovate-living-dubai-islands-aed-2b-may-20-2026",
+          "title": "Innovate Living breaks ground on Omoria Private Residences at Dubai Islands — 26 ultra-luxury G+7 beachfront homes (1–4 BR + duplexes + Royal Penthouse) by Poltrona Frau / B&B Italia / Minotti, Q4 2027 handover, advancing AED 2B ($545M) pipeline",
+          "category": "luxury",
+          "note": "Added under luxury."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "lead",
+        "developer",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
