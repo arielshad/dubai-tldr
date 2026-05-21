@@ -1,8 +1,210 @@
 {
-  "generatedAt": "2026-05-21T00:44:38.170Z",
+  "generatedAt": "2026-05-21T13:08:19.817Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-may-20-2026-daily-print-aed-1-43b-offplan-56-6-percent",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-05-20: AED 1.43B with off-plan at 56.6% — ready share rebuilds to 43.4% as ready-flat flow hits AED 451.8M",
+      "org": "The Real Estate Reports",
+      "date": "2026-05-20",
+      "publishDate": "2026-05-21T13:08:19.817Z",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-21-may-2026",
+      "summary": "Dubai DLD posts AED 1.43B on 2026-05-20: off-plan AED 812.1M (56.6%) led by flats at AED 574.7M (70.8% of off-plan), ready AED 622.1M with ready flats AED 451.8M and ready villas AED 107.9M.",
+      "tags": [
+        "DLD",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "market-data"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Daily total": "AED 1.43B",
+        "Off-plan share": "56.6% (AED 812.1M)",
+        "Ready share": "43.4% (AED 622.1M)",
+        "Off-plan flats": "AED 574.7M",
+        "Off-plan commercial": "AED 196.2M",
+        "Ready flats": "AED 451.8M",
+        "Ready villas": "AED 107.9M",
+        "Off-plan villas": "AED 34.3M",
+        "Ready commercial": "AED 56.6M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai DLD daily print 21-May-2026",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-21-may-2026"
+        },
+        {
+          "label": "DLD open-data portal (transaction feed source)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions dataset",
+          "url": "https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan dominance pulls back to 56.6% as ready-flat flow rebuilds to AED 451.8M in the latest DLD print.",
+        "whatIsIt": "DLD's published transaction tape for 2026-05-20 totals AED 1.43B. Off-plan still leads at AED 812.1M (56.6%) but the ready share rebuilds to AED 622.1M (43.4%) — the highest ready share in three sessions as the Lumena/Skyflame commercial spike normalises.",
+        "howItWorks": "Off-plan is led by flats at AED 574.7M (70.8% of off-plan), commercial at AED 196.2M (24.2%) and villas at just AED 34.3M (4.2%). The ready side prints AED 451.8M of flats (72.6%), AED 107.9M of villas (17.3%) and AED 56.6M of commercial. The narrower off-plan/ready spread is the fastest 24h rotation toward ready stock since the late-week jump on 2026-05-08.",
+        "whyItMatters": "Operators screening for late-cycle entries can use this as a 'mix is rotating' signal — ready-flat flow at AED 451.8M is back near the 2026-05-08 high (AED 463M) and is the tape to watch if you're trying to time a resale or yield-driven ready buy. Off-plan still controls more than half of every AED, so commercial-heavy launches will keep dominating headlines.",
+        "forWho": "Yield-driven ready-stock buyers, developers tracking the off-plan/ready mix, and brokers timing resale launches.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-21-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c247b981-8718-4b66-b5a0-af9ba9bfc304/pexels-alexey-komissarov-85164430-19612571.jpg",
+        "alt": "Dubai skyline aerial view illustrating DLD daily transaction print for 2026-05-20.",
+        "fit": "cover",
+        "credit": "Photo via Pexels (Alexey Komissarov), hosted by The Real Estate Reports"
+      }
+    },
+    {
+      "id": "dubai-holm-linea-jumeirah-garden-city-aroma-contractor-may-19-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "ready"
+      ],
+      "title": "HOLM Developments locks Aroma International as main contractor for LINEA by HOLM in Jumeirah Garden City — pre-sold-out project from AED 960K studios with Q1 2028 handover",
+      "org": "HOLM Developments / Gulf News",
+      "date": "2026-05-19",
+      "publishDate": "2026-05-21T13:08:19.817Z",
+      "url": "https://gulfnews.com/business/property/dubai-residential-project-awards-main-construction-contract-1.500546018",
+      "summary": "HOLM Developments names Aroma International Building Contracting main contractor for LINEA by HOLM in Jumeirah Garden City — second HOLM project sold out before its public launch, studios from AED 960K with a 35/65 plan and Q1 2028 handover.",
+      "tags": [
+        "HOLM",
+        "LINEA",
+        "Jumeirah Garden City",
+        "Aroma International",
+        "off-plan",
+        "developer"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "JUMEIRAH-GARDEN-CITY"
+      ],
+      "metrics": {
+        "Project": "LINEA by HOLM",
+        "Developer": "HOLM Developments",
+        "Main contractor": "Aroma International Building Contracting",
+        "Location": "Jumeirah Garden City, Dubai",
+        "Studio start": "AED 960K (from 386 sqft)",
+        "1-BR start": "AED 1.5M (from 626 sqft)",
+        "2-BR start": "AED 2.4M (from 986 sqft)",
+        "Payment plan": "35/65, 5% at booking",
+        "Sales status": "Sold out before public launch",
+        "Construction start": "Q1 2026",
+        "Handover": "Q1 2028"
+      },
+      "links": [
+        {
+          "label": "Gulf News — HOLM names Aroma main contractor for LINEA",
+          "url": "https://gulfnews.com/business/property/dubai-residential-project-awards-main-construction-contract-1.500546018"
+        },
+        {
+          "label": "HOLM Developments — LINEA by HOLM project page",
+          "url": "https://holm.ae/projects/linea-by-holm/"
+        },
+        {
+          "label": "Zawya — HOLM Developments press release",
+          "url": "https://www.zawya.com/en/press-release/companies-news/holm-developments-appoints-aroma-international-as-main-contractor-for-linea-by-holm-in-jumeirah-garden-city-qj1d55cw"
+        }
+      ],
+      "explainer": {
+        "tagline": "Pre-sold-out Jumeirah Garden City launch from AED 960K — main contractor named, Q1 2028 handover on the clock.",
+        "whatIsIt": "HOLM Developments awarded the main construction contract for LINEA by HOLM in Jumeirah Garden City to Aroma International Building Contracting — a previous contractor for Emaar projects. LINEA is HOLM's second project in JGC and was fully sold out before its public launch.",
+        "howItWorks": "Studios start at AED 960K from 386 sqft, 1-BRs from AED 1.5M (626 sqft) and 2-BRs from AED 2.4M (986 sqft). The plan is 35/65 with 5% at booking. Construction commenced Q1 2026 and HOLM's stated handover window is Q1 2028. Amenities include a rooftop infinity pool, rooftop padel court, gym, landscaped outdoor spaces and children's play areas.",
+        "whyItMatters": "JGC sits behind Sheikh Zayed Road between Satwa and the World Trade Centre — close-in central stock with limited new supply. A sold-out launch at sub-AED 1M studios with a contractor lock is a credible re-trade or assignment lead: track Property Finder and Bayut for any out-the-back assignment posts before handover.",
+        "forWho": "Off-plan flippers screening Q1 2028 handover blocks, brokers sourcing assignments, and end-user investors hunting central Dubai sub-AED 1M entries.",
+        "tryIt": "https://holm.ae/projects/linea-by-holm/"
+      },
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-19%2F32eyuany%2Fhotel.jpg",
+        "alt": "Render of LINEA by HOLM in Jumeirah Garden City, Dubai — the developer's pre-sold-out second Jumeirah Garden City project.",
+        "fit": "cover",
+        "credit": "Image via Gulf News / HOLM Developments"
+      }
+    },
+    {
+      "id": "dubai-bayut-dubizzle-recovery-day-58-may-20-2026",
+      "categories": [
+        "market",
+        "lead",
+        "rental"
+      ],
+      "title": "Bayut + dubizzle Day-58 recovery print: UAE property portal engagement back to 80–108% of 2026 baseline as JVC, Business Bay and Dubai Marina lead apartment search",
+      "org": "Bayut / dubizzle / Gulf News",
+      "date": "2026-05-20",
+      "publishDate": "2026-05-21T13:08:19.817Z",
+      "url": "https://gulfnews.com/gn-focus/company-news/bayut-dubizzle-data-shows-sustained-recovery-and-resilience-across-uae-property-market-1.500547156",
+      "summary": "Bayut + dubizzle Property Day-58 read: active users 85% of 2026 baseline, unique buyers 87%, impressions 92%, high-intent enquiries 80% (108% vs 2025) — JVC, Business Bay, Downtown, Marina and Arjan lead ready-flat search; Majan and JVC lead off-plan.",
+      "tags": [
+        "Bayut",
+        "dubizzle",
+        "portal-data",
+        "recovery",
+        "JVC",
+        "Business Bay"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "JVC",
+        "BUSINESS-BAY",
+        "DXB-MARINA"
+      ],
+      "metrics": {
+        "Active users vs 2026 baseline": "85%",
+        "Unique buyers vs 2026 baseline": "87%",
+        "Impressions vs 2026 baseline": "92% (104% vs 2025)",
+        "Views vs 2026 baseline": "89% (105% vs 2025)",
+        "High-intent enquiries vs 2026 baseline": "80% (108% vs 2025)",
+        "Agent responses vs 2026 baseline": "107%",
+        "Top ready-flat areas": "JVC, Business Bay, Downtown, Marina, Arjan",
+        "Top off-plan flat areas": "Majan, JVC, Dubai South, JVT, Business Bay",
+        "Top off-plan villa areas": "The Oasis (Emaar), The Valley (Emaar), DAMAC Lagoons, Dubai South, MBR City",
+        "Top rental flat areas": "JVC, Arjan, Business Bay, Marina, Meydan"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Bayut + dubizzle Day-58 recovery data",
+          "url": "https://gulfnews.com/gn-focus/company-news/bayut-dubizzle-data-shows-sustained-recovery-and-resilience-across-uae-property-market-1.500547156"
+        },
+        {
+          "label": "Bayut for-sale Dubai inventory",
+          "url": "https://www.bayut.com/for-sale/property/dubai/"
+        },
+        {
+          "label": "Bayut to-rent Dubai inventory",
+          "url": "https://www.bayut.com/to-rent/property/dubai/"
+        }
+      ],
+      "explainer": {
+        "tagline": "58 days into the regional conflict, Bayut/dubizzle engagement is back to 80–108% of 2026 baseline — JVC and Business Bay dominate every list.",
+        "whatIsIt": "Bayut and dubizzle Property published their Day-58 recovery read of UAE portal engagement after the 2026 regional shock. Active users are at 85% of the 2026 baseline, unique buyers 87%, impressions 92%, views 89% and high-intent enquiries 80% — but vs 2025 the same metrics print 104–108%, so the dip is purely against the early-2026 acceleration.",
+        "howItWorks": "For ready apartments, JVC leads search interest followed by Business Bay, Downtown, Dubai Marina and Arjan. Off-plan apartment intent stacks Majan first, then JVC, Dubai South, JVT and Business Bay — confirming the Majan/Binghatti Skyflame surge. Off-plan villa intent runs through Emaar's The Oasis and The Valley, DAMAC Lagoons, Dubai South and MBR City. Rental apartment search is JVC, Arjan, Business Bay, Marina and Meydan.",
+        "whyItMatters": "Operators get a clean liquidity map: ready flats track to JVC/BB/Downtown/Marina; off-plan flats track to Majan and JVC; villa intent is locked to Emaar's master communities and DAMAC Lagoons. Pricing a listing in any of these zones below the recent comp set should still draw inbound — engagement is functionally back. Outside these names, expect slower closes.",
+        "forWho": "Brokers pricing ready-flat resale, off-plan launch planners, and yield/rental operators choosing where to hold inventory.",
+        "tryIt": "https://gulfnews.com/gn-focus/company-news/bayut-dubizzle-data-shows-sustained-recovery-and-resilience-across-uae-property-market-1.500547156"
+      },
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2Fimport%2F2020%2F08%2F12%2FStock-aerial-Dubai-skyline_173e34e774b_large.jpg",
+        "alt": "Aerial view of the Dubai skyline accompanying Bayut + dubizzle Day-58 recovery data.",
+        "fit": "cover",
+        "credit": "Image via Gulf News / Bayut + dubizzle Property"
+      }
+    },
     {
       "id": "dubai-colliers-q1-2026-handover-10k-apartments-65k-pipeline-may-20",
       "categories": [

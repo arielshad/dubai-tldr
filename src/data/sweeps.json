@@ -3063,6 +3063,58 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260521t130819z",
+      "timestamp": "2026-05-21T13:08:19.817Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Dubai-property cards added: DLD daily print 2026-05-20 at AED 1.43B (off-plan back to 56.6% as ready rebuilds to 43.4%), HOLM Developments' LINEA pre-sold-out Jumeirah Garden City project locks in Aroma International as main contractor with Q1 2028 handover, and Bayut + dubizzle data showing UAE property portal engagement recovered to 80–108% of 2026 baseline 58 days into the regional conflict.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-may-20-2026-daily-print-aed-1-43b-offplan-56-6-percent",
+          "title": "Dubai DLD daily print 2026-05-20: AED 1.43B with off-plan at 56.6% — ready share rebuilds to 43.4% as ready-flat flow hits AED 451.8M",
+          "category": "market",
+          "note": "Continues the daily DLD tape — first sub-60% off-plan day of the month, ready flats rebuild to AED 451.8M."
+        },
+        {
+          "id": "dubai-holm-linea-jumeirah-garden-city-aroma-contractor-may-19-2026",
+          "title": "HOLM Developments locks Aroma International as main contractor for LINEA by HOLM in Jumeirah Garden City — pre-sold-out project from AED 960K studios with Q1 2028 handover",
+          "category": "developer",
+          "note": "Pre-sold-out HOLM project with main contractor signed — concrete assignment-lead candidate and Q1 2028 handover anchor for JGC."
+        },
+        {
+          "id": "dubai-bayut-dubizzle-recovery-day-58-may-20-2026",
+          "title": "Bayut + dubizzle Day-58 recovery print: UAE property portal engagement back to 80–108% of 2026 baseline as JVC, Business Bay and Dubai Marina lead apartment search",
+          "category": "market",
+          "note": "Fresh portal-engagement data from the two largest UAE portals — operator-level liquidity map for ready/off-plan/rental segments."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "ready",
+        "developer",
+        "rental",
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
