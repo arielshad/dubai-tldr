@@ -1,8 +1,222 @@
 {
-  "generatedAt": "2026-05-22T00:34:23.565Z",
+  "generatedAt": "2026-05-22T12:53:45.556Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-may-21-2026-daily-print-aed-1-22b-offplan-55-8-percent",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-05-21: AED 1.22B with off-plan easing to 55.8% — ready share rebuilds to 44.2% as ready-flat flow holds AED 376.4M",
+      "org": "The Real Estate Reports — DLD daily review",
+      "date": "2026-05-21",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-22-may-2026",
+      "summary": "DLD daily transactions on 21-May-2026 closed at AED 1.22B (off-plan AED 679.2M / 55.8%, ready AED 538.8M / 44.2%). Off-plan flats led at AED 557.6M (82.1% of off-plan), off-plan commercial AED 67.4M (9.9%) and off-plan villas AED 52.4M (7.7%). Ready flats led their side at AED 376.4M (69.9% of ready), with ready villas AED 92.6M (17.2%) and ready commercial AED 38.5M (7.1%).",
+      "tags": [
+        "DLD",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "market-data",
+        "may-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Date": "2026-05-21",
+        "Daily total": "AED 1.22B",
+        "Off-plan": "AED 679.2M (55.8%)",
+        "Ready": "AED 538.8M (44.2%)",
+        "Off-plan flats": "AED 557.6M (82.1% of off-plan)",
+        "Off-plan commercial": "AED 67.4M (9.9% of off-plan)",
+        "Off-plan villas": "AED 52.4M (7.7% of off-plan)",
+        "Off-plan hotel apts": "AED 1.7M (0.3% of off-plan)",
+        "Ready flats": "AED 376.4M (69.9% of ready)",
+        "Ready villas": "AED 92.6M (17.2% of ready)",
+        "Ready commercial": "AED 38.5M (7.1% of ready)",
+        "Ready hotel apts/rooms": "AED 31.4M (5.8% of ready)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai DLD review 22-May-2026 (covers 21-May data)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-22-may-2026"
+        },
+        {
+          "label": "DLD official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions dataset",
+          "url": "https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions"
+        }
+      ],
+      "explainer": {
+        "tagline": "21-May tape eases to AED 1.22B and pulls off-plan share down to 55.8% — ready-flat flow still holds AED 376M, the cleanest end-user read of the week.",
+        "whatIsIt": "Dubai Land Department daily transaction print for 21-May-2026: AED 1.22B total, split AED 679.2M off-plan (55.8%) and AED 538.8M ready (44.2%). Off-plan flats carry the off-plan side at AED 557.6M (82.1% of off-plan); off-plan commercial drops back to AED 67.4M (9.9%) and off-plan villas a thin AED 52.4M (7.7%). On the ready side, flats lead at AED 376.4M (69.9% of ready), with villas AED 92.6M (17.2%), commercial AED 38.5M (7.1%) and a notable AED 31.4M of ready hotel apartments/rooms (5.8%).",
+        "howItWorks": "Compared to 20-May (AED 1.43B / 56.6% off-plan) the 21-May tape sheds AED 210M of daily flow while keeping the off-plan/ready balance close — off-plan share only drops ~0.8pp. The deceleration is entirely off-plan-led: off-plan flats slip from AED 574.7M to AED 557.6M (-AED 17M) and off-plan commercial collapses from AED 196.2M to AED 67.4M (-AED 129M), confirming the post-Lumena commercial cluster has cleared. Ready flats also softened (AED 451.8M → AED 376.4M, -AED 75M) but remain the highest single end-user line on the page; ready hotel-apt prints at AED 31.4M are the day's surprise leg.",
+        "whyItMatters": "Two prints into the post-Lumena normalisation, the May tape is settling into a 55–65% off-plan / 35–45% ready band with off-plan flats and ready flats as the two reliable engines. Operators screening yield deals can use today's print as evidence that ready-flat demand keeps clearing AED 350M+ even on a softer headline day; off-plan teams should price the assumption that a single commercial cluster (Lumena-style) is now needed to push daily totals back above AED 1.5B.",
+        "forWho": "Yield-driven ready-flat buyers, off-plan sales teams watching whether off-plan share holds above 55%, brokers timing resale launches into a softer total tape, and analysts feeding the May 2026 daily data into ValuStrat / Property Monitor comps.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-22-may-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/11c51886-8b60-4054-8a98-a52dd7c52050/pexels-walidphotoz-33779634.jpg",
+        "alt": "Dubai skyline aerial view illustrating DLD daily transaction print for 21 May 2026.",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-05-22T12:53:45.556Z"
+    },
+    {
+      "id": "dubai-bayut-ultra-luxury-resilience-haider-ali-khan-may-21-2026",
+      "categories": [
+        "luxury",
+        "lead",
+        "ready",
+        "rental"
+      ],
+      "title": "Bayut + dubizzle 21-May read: Dubai ultra-luxury demand resilient — villas AED 20–100M and apartments AED 10–50M are the price bands still clearing, family-villa rentals AED 100K–500K lead leasing",
+      "org": "Bayut + dubizzle (via Gulf News)",
+      "date": "2026-05-21",
+      "url": "https://gulfnews.com/business/property/demand-holding-strong-for-ultra-luxury-properties-bayut-data-suggests-1.500548421",
+      "summary": "Bayut + dubizzle CEO Haider Ali Khan tells Gulf News on 21-May-2026 that 'verified, trackable' agent interactions show ultra-prime Dubai is still clearing — villa sales recovering in the AED 20–50M and AED 50–100M bands across Dubai Hills, Palm Jumeirah and Emirates Hills, apartment demand strong in AED 10–20M and AED 20–50M bands across JBR, Marina, Downtown, Jumeirah and Palm Jumeirah, and family-villa rentals AED 100K–200K and AED 200K–500K leading leasing across Arabian Ranches 3, DAMAC Lagoons, Tilal Al Ghaf, The Springs and The Meadows.",
+      "tags": [
+        "Bayut",
+        "dubizzle",
+        "ultra-luxury",
+        "villa",
+        "apartment",
+        "rental",
+        "price-band",
+        "may-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-HILLS",
+        "PALM",
+        "EMIRATES-HILLS",
+        "DXB-MARINA",
+        "DOWNTOWN",
+        "JBR"
+      ],
+      "metrics": {
+        "Source": "Bayut + dubizzle verified agent-interaction data",
+        "CEO quote": "Haider Ali Khan — interactions are 'verified, trackable' between seekers and agents",
+        "Villa sale bands clearing": "AED 2–5M, AED 20–50M, AED 50–100M",
+        "Apartment sale bands clearing": "AED 10–20M, AED 20–50M",
+        "Villa rental bands leading": "AED 100K–200K, AED 200K–500K",
+        "Villa sale areas": "Dubai Hills Estate, Palm Jumeirah, Emirates Hills",
+        "Apartment areas": "JBR, Dubai Marina, Downtown, Jumeirah, Palm Jumeirah",
+        "Family-villa rental areas": "Arabian Ranches 3, DAMAC Lagoons, Tilal Al Ghaf, The Springs, The Meadows"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Demand holding strong for ultra-luxury properties, Bayut data suggests (21 May 2026)",
+          "url": "https://gulfnews.com/business/property/demand-holding-strong-for-ultra-luxury-properties-bayut-data-suggests-1.500548421"
+        },
+        {
+          "label": "Bayut Index — UAE sale + rent prices",
+          "url": "https://www.bayut.com/index/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bayut's 21-May intent read says ultra-prime didn't disappear — it just moved into specific bands and specific addresses worth a broker's calendar.",
+        "whatIsIt": "Gulf News on 21-May-2026 publishes Bayut + dubizzle's CEO Haider Ali Khan summarising what the portal is actually seeing in 'verified, trackable interactions between property seekers and agents' through Q2 2026. The framing: demand isn't broadly returning — it's selectively concentrated in family housing, established ownership communities and ultra-prime, with specific named price bands per asset class.",
+        "howItWorks": "Villa sales: stronger recovery in the AED 20–50M and AED 50–100M brackets across Dubai Hills Estate, Palm Jumeirah and Emirates Hills, with the AED 2–5M band also active on mainstream end-user demand. Apartment sales: AED 10–20M and AED 20–50M are the bands seeing 'remarkable growth' across JBR, Dubai Marina, Downtown, Jumeirah and Palm Jumeirah. Villa rentals: AED 100K–200K and AED 200K–500K leading across Arabian Ranches 3, DAMAC Lagoons, Tilal Al Ghaf, The Springs and The Meadows. No explicit transaction counts or YoY % are shared, only the band-level qualitative pattern.",
+        "whyItMatters": "Pairs cleanly with the panicselling.com / luxurypricedrops.com headlines about AED 1.7B of cuts across 2,800 ready listings: the cuts are real, but the demand intent map shows the high end is where momentum hasn't broken. Brokers screening seller leads should weight the named villa sub-communities and family-rental belts; buyers can size negotiations against the fact that Bayut's CEO is publicly framing these segments as 'still clearing'.",
+        "forWho": "Luxury brokers building targeted seller-lead lists in Emirates Hills / Dubai Hills / Palm Jumeirah, prime-apartment teams in Marina / JBR / Downtown / Jumeirah, family-villa rental leasing teams in the Ranches / Lagoons / Tilal / Springs / Meadows belt, and HNW buyers benchmarking which price bands actually clear today.",
+        "tryIt": "https://www.bayut.com/index/"
+      },
+      "image": {
+        "url": "https://imgcdn.gulfnews.com/webp/gn-focus/2024-06-04/bayut.jpg",
+        "alt": "Bayut + dubizzle headquarters and brand mark, illustrating Gulf News coverage of the 21 May 2026 ultra-luxury demand read.",
+        "fit": "cover",
+        "credit": "Gulf News / Bayut"
+      },
+      "publishDate": "2026-05-22T12:53:45.556Z"
+    },
+    {
+      "id": "dubai-ahs-properties-aed-50b-pipeline-abbas-sajwani-may-21-2026",
+      "categories": [
+        "developer",
+        "luxury",
+        "market"
+      ],
+      "title": "AHS Properties targets AED 50B (USD 13.61B) Dubai pipeline as 26-year-old founder Abbas Sajwani is named Forbes' youngest billionaire in global real estate",
+      "org": "AHS Properties (via TradeArabia / Zawya)",
+      "date": "2026-05-21",
+      "url": "https://tradearabia.com/News/462778/Youngest-Arab-billionaire-Abbas-Sajwani-aims-to-scale-project-pipeline-to-$13.61bn/CONS",
+      "summary": "AHS Properties founder/CEO Abbas Sajwani — 26, USD 1.9B net worth, Forbes 2026's youngest Arab billionaire and youngest billionaire globally in real estate — confirms on 21-May-2026 that AHS is scaling its Dubai pipeline to AED 50B (USD 13.61B) by year-end, anchored by AHS Tower on Sheikh Zayed Road (commercial flagship sold out during construction) and the Casa branded line on Dubai Water Canal (USD 750M Casa AHS, 32 ultra-luxury Sky Villas / Sky Mansions / Sky Palaces, 5,088–29,700 sqft, HBA interiors, Shaun Killa architecture). Direct quote: 'The real risk in this market isn't volatility, it's waiting.'",
+      "tags": [
+        "AHS-Properties",
+        "Abbas-Sajwani",
+        "Casa-AHS",
+        "Casa-Canal",
+        "Sheikh-Zayed-Road",
+        "Dubai-Water-Canal",
+        "branded-residences",
+        "ultra-luxury",
+        "may-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DXB-SZR",
+        "DXB-WATER-CANAL"
+      ],
+      "metrics": {
+        "Founder/CEO": "Abbas Sajwani, 26",
+        "Forbes ranking": "Youngest Arab billionaire + youngest billionaire globally in real estate (2026)",
+        "Net worth (Forbes)": "USD 1.9B",
+        "AHS pipeline target": "AED 50B / USD 13.61B by year-end 2026",
+        "Founded": "2021",
+        "Casa AHS GDV": "USD 750M",
+        "Casa AHS units": "32 ultra-luxury (Sky Villas / Sky Mansions / Sky Palaces)",
+        "Casa AHS size range": "5,088–29,700 sqft",
+        "Casa AHS interiors": "HBA Residential",
+        "Casa AHS architect": "Shaun Killa",
+        "Casa AHS location": "Dubai Water Canal",
+        "AHS Tower": "Commercial flagship on Sheikh Zayed Road — sold out during construction"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Youngest Arab billionaire Sajwani aims to scale pipeline to $13.61B (21 May 2026)",
+          "url": "https://tradearabia.com/News/462778/Youngest-Arab-billionaire-Abbas-Sajwani-aims-to-scale-project-pipeline-to-$13.61bn/CONS"
+        },
+        {
+          "label": "Zawya — AHS Properties: At 26, Abbas Sajwani is deploying billions into Dubai's future (21 May 2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/ahs-properties-at-26-abbas-sajwani-is-deploying-billions-into-dubais-future-x04v67ow"
+        },
+        {
+          "label": "AETOSWire — AHS to launch USD 750M Casa AHS on Dubai Water Canal (Casa AHS details)",
+          "url": "https://www.aetoswire.com/en/news/1705202546706"
+        },
+        {
+          "label": "Entrepreneur Middle East — Position of Strength: How Abbas Sajwani became one of the youngest billionaires in global real estate",
+          "url": "https://mena.entrepreneur.com/leadership/position-of-strength-how-abbas-sajwani-became-one-of-the-youngest-billionaires-in-global-real-estate"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's youngest billionaire developer says quiet quarter, deploy harder — AHS goes from villa-redev boutique to AED 50B Dubai pipeline by year-end.",
+        "whatIsIt": "On 21-May-2026, TradeArabia and Zawya publish Abbas Sajwani's first detailed pipeline update since Forbes named him the youngest Arab billionaire and youngest billionaire globally in real estate (net worth USD 1.9B). Sajwani — 26, founder/CEO of AHS Properties since 2021 — confirms a pipeline target of AED 50B / USD 13.61B by year-end 2026, with AHS Tower on Sheikh Zayed Road already sold-out-during-construction as the commercial flagship and the Casa branded line on Dubai Water Canal as the ultra-luxury anchor.",
+        "howItWorks": "Casa AHS, the USD 750M Dubai Water Canal tower, offers 32 ultra-luxury residences across Sky Villas, Sky Mansions and Sky Palaces, ranging 5,088–29,700 sqft, with HBA Residential interiors, Shaun Killa architecture, private elevators, infinity-edge pools and a five-star spa/wellness/24-7 concierge stack. Casa Canal is the sister project (Fendi Casa interiors, sold ~80% within days at launch). AHS's broader playbook: ultra-luxury villa redevelopments → Grade-A commercial (AHS Tower) → branded residential (Casa line) → large-scale mixed-use across Dubai. Direct Sajwani framing: 'The real risk in this market isn't volatility, it's waiting' — explicitly a counter-cyclical capital-deployment thesis as other Dubai developers throttle launches into the regional-war drawdown.",
+        "whyItMatters": "AHS is the visible benchmark for the 'capital destination, not luxury destination' thesis — a 26-year-old founder pulling forward USD 13.61B of GDV during a 60-day buyers' market makes the bullish case for HNW capital concentration concrete rather than abstract. Brokers chasing ultra-prime end-user mandates should be on the AHS broker mailing list before the next launch; secondary brokers underwriting Casa AHS/Casa Canal resales now have an anchor figure for the program's eventual sell-out economics; competing developers can use the Sajwani target as a calibration point for when fresh AED 1B–5B SZR/Canal launches are likely to drop.",
+        "forWho": "Luxury sales teams chasing AHS mandates, ultra-prime buyers monitoring Casa AHS / Casa Canal inventory and resale, capital-allocators benchmarking Dubai HNW concentration, and competing developers reading AHS's deployment cadence as a market signal.",
+        "tryIt": "https://www.aetoswire.com/en/news/1705202546706"
+      },
+      "image": {
+        "url": "https://imgcdn.gulfnews.com/webp/zawya/Article/2026/05/casa-ahs-dubai-water-canal-1.jpg",
+        "alt": "Casa AHS render on Dubai Water Canal, AHS Properties' USD 750M ultra-luxury tower, May 2026.",
+        "fit": "cover",
+        "credit": "AHS Properties / Zawya"
+      },
+      "publishDate": "2026-05-22T12:53:45.556Z"
+    },
     {
       "id": "dubai-rdc-dar-al-ber-aed-1m-yad-al-khair-tenant-relief-may-21-2026",
       "categories": [

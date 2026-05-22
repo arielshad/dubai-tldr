@@ -3158,6 +3158,57 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260522t125345z",
+      "timestamp": "2026-05-22T12:53:45.556Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-05-22 sweep adds the 21-May DLD daily print (AED 1.22B at 55.8% off-plan with ready share rebuilding to 44.2%), the 21-May Bayut ultra-luxury read on which Dubai price bands are still clearing, and AHS Properties' AED 50B / USD 13.61B 2026 pipeline target laid out by 26-year-old founder Abbas Sajwani.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-may-21-2026-daily-print-aed-1-22b-offplan-55-8-percent",
+          "title": "Dubai DLD daily print 2026-05-21: AED 1.22B with off-plan easing to 55.8% — ready share rebuilds to 44.2% as ready-flat flow holds AED 376.4M",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-bayut-ultra-luxury-resilience-haider-ali-khan-may-21-2026",
+          "title": "Bayut + dubizzle 21-May read: Dubai ultra-luxury demand resilient — villas AED 20–100M and apartments AED 10–50M are the price bands still clearing, family-villa rentals AED 100K–500K lead leasing",
+          "category": "luxury",
+          "note": "Added under luxury."
+        },
+        {
+          "id": "dubai-ahs-properties-aed-50b-pipeline-abbas-sajwani-may-21-2026",
+          "title": "AHS Properties targets AED 50B (USD 13.61B) Dubai pipeline as 26-year-old founder Abbas Sajwani is named Forbes' youngest billionaire in global real estate",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "offplan",
+        "luxury",
+        "developer",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
