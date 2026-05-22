@@ -1,8 +1,76 @@
 {
-  "generatedAt": "2026-05-21T13:08:19.817Z",
+  "generatedAt": "2026-05-22T00:34:23.565Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-rdc-dar-al-ber-aed-1m-yad-al-khair-tenant-relief-may-21-2026",
+      "categories": [
+        "legal",
+        "rental"
+      ],
+      "title": "Dar Al Ber donates AED 1M to Dubai Rental Disputes Center's 'Yad Al Khair' fund — Year-of-the-Family 2026 tenant-arrears relief lane formalised",
+      "org": "Rental Disputes Center / Dar Al Ber Society",
+      "date": "2026-05-21",
+      "url": "https://gulfnews.com/uae/dubai-allocates-relief-fund-for-tenants-in-rental-distress-1.500548718",
+      "summary": "RDC banks an AED 1M cheque from Dar Al Ber for its 'Yad Al Khair' committee, screening tenants in arrears on social conditions, debt level, income and prior payment commitment before disbursing under RDC's legal framework.",
+      "tags": [
+        "RDC",
+        "Yad-Al-Khair",
+        "Dar-Al-Ber",
+        "tenant-arrears",
+        "Year-of-the-Family",
+        "rental",
+        "legal"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "RDC"
+      ],
+      "metrics": {
+        "Donation": "AED 1M (Dar Al Ber → RDC Yad Al Khair)",
+        "Administrator": "Rental Disputes Center — Yad Al Khair Committee",
+        "Eligibility screen": "Social conditions + debt level + income sources + prior payment commitment + supporting documents",
+        "Aligned with": "UAE Year of the Family 2026",
+        "Year of Family theme": "Family + social stability",
+        "RDC chairman": "Judge Abdulqader Mousa Mohammed",
+        "Dar Al Ber spokesperson": "Hisham Al Hashemi"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Dubai allocates Dh1M relief fund for tenants in rental distress (21 May 2026)",
+          "url": "https://gulfnews.com/uae/dubai-allocates-relief-fund-for-tenants-in-rental-distress-1.500548718"
+        },
+        {
+          "label": "Zawya / RDC press release — AED 1M from Dar Al Ber Society",
+          "url": "https://www.zawya.com/en/press-release/government-news/rental-disputes-center-receives-aed-1mln-from-dar-al-ber-society-to-support-tenants-facing-rental-defaults-in-dubai-nwe1f0zy"
+        },
+        {
+          "label": "Gulf Today — Dar Al Ber Dhs1M to RDC (21 May 2026)",
+          "url": "https://www.gulftoday.ae/news/2026/05/21/dar-al-ber-gives-dhs1m-to-rdc-to-help-tenants-facing-difficulties-in-rental-cases"
+        },
+        {
+          "label": "RDC Yad Al Khair Committee — official page",
+          "url": "https://rdc.gov.ae/en/news-events/yad-alkhair-committee-at-the-rental-dispute-center"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's judicial-body-run tenant-arrears relief lane gets an AED 1M top-up — small in absolute terms, but a structural signal that 2026's non-payment posture continues to soften.",
+        "whatIsIt": "Dar Al Ber Society handed Dubai's Rental Disputes Center (RDC) an AED 1 million cheque on 21 May 2026, earmarked for RDC's 'Yad Al Khair' (Hand of Goodness) committee — the formal channel through which tenants in active rental disputes or sudden financial hardship can receive screened, documented relief. RDC pitches the donation under the UAE's 'Year of the Family 2026' theme of family + social stability.",
+        "howItWorks": "Yad Al Khair vets each beneficiary against five named criteria — social circumstances, debt levels, income sources, prior payment commitment, and supporting documentation — and disburses inside RDC's legal framework, not as ad-hoc charity. The AED 1M sets the size of the current pool; per-case caps aren't disclosed in either the Gulf News or Zawya write-ups. RDC Chairman Judge Abdulqader Mousa Mohammed framed the pact as 'integration between institutions [as] a key pillar in supporting family and social stability'; Dar Al Ber's Hisham Al Hashemi flagged transparent regulatory delivery to 'rightful beneficiaries'.",
+        "whyItMatters": "Tenant-side stress is rising in Q2 2026 — rental inventory roughly doubled (Khaleej Times: ~1,000 → ~2,200 units across April), ~70% of listings cut ask ~10%, and tenant enquiries jumped +40% MoM — which means a higher non-payment baseline for landlords. A judicial-body-administered relief fund creates a documented off-ramp before eviction filings, nudges landlord/PM playbooks toward staged payment-plan negotiation, and indicates RDC will keep using Yad Al Khair as the structured alternative to fast-track evictions through the rest of the Year-of-the-Family year.",
+        "forWho": "Landlords with delinquent tenants, property managers triaging arrears, dispute trustees, and lease-side brokers scoping non-payment cases before defaulting to a RERA eviction notice.",
+        "tryIt": "https://rdc.gov.ae/en/news-events/yad-alkhair-committee-at-the-rental-dispute-center"
+      },
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-21%2Fzn3vx59h%2FImage-Upon-receiving-the-donation.jpeg",
+        "alt": "Officials from Dubai's Rental Disputes Center and Dar Al Ber Society at the AED 1 million Yad Al Khair donation ceremony, Dubai, 21 May 2026.",
+        "fit": "cover",
+        "credit": "Photo: Gulf News (Rental Disputes Center handout)"
+      },
+      "publishDate": "2026-05-22T00:34:23.565Z"
+    },
     {
       "id": "dubai-dld-may-20-2026-daily-print-aed-1-43b-offplan-56-6-percent",
       "categories": [
