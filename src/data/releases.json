@@ -1,8 +1,88 @@
 {
-  "generatedAt": "2026-05-23T00:32:00.836Z",
+  "generatedAt": "2026-05-23T12:24:36.173Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-emirates-nbd-cpipg-aed-367m-loan-bvlgari-lighthouse-casa-canal-one-canal-mr-c-may-21-2026",
+      "categories": [
+        "luxury",
+        "lead",
+        "market",
+        "ready"
+      ],
+      "title": "Emirates NBD × CPI Property Group execute AED 367.3M (~EUR 86M) loan against a 19-unit ultra-prime Dubai portfolio — Bvlgari The Lighthouse, Casa Canal, One Canal, Mr. C Residences Downtown — divested in phases post-completion",
+      "org": "Emirates NBD Capital + CPI Property Group (CPIPG)",
+      "date": "2026-05-21",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-05-21:newsml_Zaw4RJLr5:0-zawya-emirates-nbd-and-cpi-property-group-strike-financing-for-ultra-luxury-residential-portfolio-in-dubai/",
+      "summary": "Emirates NBD and Czech-listed CPI Property Group closed an AED 367.3M (~EUR 86M) loan facility on 21 May 2026 secured against 19 ultra-prime Dubai residences (15 still under construction, 4 completed) spread across Bvlgari The Lighthouse (Jumeirah Bay), Casa Canal and One Canal (Dubai Water Canal) and Mr. C Residences Downtown. The facility funds CPIPG's developer deferred payments through 2026–2027; CPIPG plans a phased divestment after completion to European, Asian and Middle Eastern buyers.",
+      "tags": [
+        "emirates-nbd",
+        "cpi-property-group",
+        "cpipg",
+        "bvlgari-the-lighthouse",
+        "casa-canal",
+        "one-canal",
+        "mr-c-residences-downtown",
+        "ultra-luxury",
+        "branded-residence",
+        "institutional-finance",
+        "deferred-payment",
+        "phased-divestment"
+      ],
+      "importance": "major",
+      "tickers": [
+        "BVLGARI-LIGHTHOUSE",
+        "JUMEIRAH-BAY",
+        "DXB-WATER-CANAL",
+        "DOWNTOWN-DXB",
+        "DXB-LUXURY",
+        "AED-2M-VISA"
+      ],
+      "metrics": {
+        "Loan facility": "AED 367.3M (~EUR 86M)",
+        "Lender": "Emirates NBD (executed by Emirates NBD Capital)",
+        "Borrower": "CPI Property Group S.A. (CPIPG) — Czech-listed real-estate group",
+        "Asset count": "19 ultra-prime Dubai residences",
+        "Under construction": "15 units",
+        "Completed": "4 units",
+        "Buildings — branded": "Bvlgari The Lighthouse (Jumeirah Bay) · Casa Canal (Dubai Water Canal) · One Canal (Dubai Water Canal) · Mr. C Residences Downtown",
+        "Use of proceeds": "Finance CPIPG's developer deferred payments during 2026 and 2027",
+        "Exit plan": "Phased divestment after each building's completion, marketed to European / Asian / wider-MEA buyers",
+        "Buyers David Greenbaum quote": "'CPIPG is delighted to partner with Emirates NBD on this innovative financing. The loan enhances our Group's flexibility.'",
+        "Hitesh Asarpota (CEO Emirates NBD Capital) quote": "'This facility reflects our commitment to supporting leading corporates with tailored financing solutions that enable long-term growth.'",
+        "Announced": "21 May 2026"
+      },
+      "links": [
+        {
+          "label": "TradingView / Zawya press wire — Emirates NBD × CPI Property Group AED 367.3M facility (21 May 2026)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-05-21:newsml_Zaw4RJLr5:0-zawya-emirates-nbd-and-cpi-property-group-strike-financing-for-ultra-luxury-residential-portfolio-in-dubai/"
+        },
+        {
+          "label": "MENAFN — Emirates NBD × CPI Property Group ultra-luxury portfolio financing",
+          "url": "https://menafn.com/1111148726/Emirates-NBD-And-CPI-Property-Group-Strike-Financing-For-Ultra-Luxury-Residential-Portfolio-In-Dubai"
+        },
+        {
+          "label": "Russian Tourism News — Emirates NBD finances Dubai luxury residences with €86M facility",
+          "url": "https://www.rustourismnews.com/2026/05/21/emirates-nbd-finances-dubai-luxury-residences-with-e86-million-facility/"
+        }
+      ],
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2Fimport%2F2024%2F09%2F16%2FStock-Bvlgari-Lighthouse--Jumeira-Bay-_191fa2719e9_large.jpg",
+        "alt": "Rendering of the Bvlgari Lighthouse 27-storey residential tower on Jumeirah Bay Island, one of the four ultra-prime Dubai branded residences pledged to the Emirates NBD × CPI Property Group AED 367.3M loan facility",
+        "fit": "cover",
+        "credit": "Gulf News / Meraas"
+      },
+      "explainer": {
+        "tagline": "AED 367.3M Emirates NBD loan tells you a Czech-listed institutional landlord is locking in 19 ultra-prime Dubai units for staged 2027+ resale across Bvlgari Lighthouse, Casa Canal, One Canal and Mr. C Downtown.",
+        "whatIsIt": "Emirates NBD Capital (the investment-banking arm of UAE's largest lender) and Luxembourg/Czech-listed CPI Property Group S.A. — Europe's largest commercial landlord — closed an AED 367.3M (~EUR 86M) loan facility on 21 May 2026, secured against 19 ultra-prime Dubai residences. 15 of the 19 units are still under construction by tier-1 developers; the other 4 are completed. The portfolio sits in four branded clusters: Bvlgari The Lighthouse on Jumeirah Bay, Casa Canal and One Canal on the Dubai Water Canal, and Mr. C Residences Downtown.",
+        "howItWorks": "Loan proceeds finance CPIPG's developer deferred-payment obligations during 2026 and 2027 — i.e. the back-loaded installments owed as each tower hits handover. After each building completes, CPIPG plans a phased divestment, marketing units individually to European, Asian and wider-Middle East buyers. Net effect: 19 ready-or-near-ready ultra-prime units enter the secondary market over the next 24–36 months, with CPIPG as a motivated, financed-against-completion seller rather than a long-hold owner. Buyer diligence: confirm Oqood and developer payment status on the under-construction units, lock the building completion dates with each developer, and track CPIPG's IR releases for divestment timing — first secondary listings should surface as each tower hands over.",
+        "whyItMatters": "This is one of the largest publicly-disclosed institutional debt facilities specifically against a Dubai branded-residence portfolio and confirms two things the local market has been arguing about since the March geopolitical shock: (1) ultra-prime branded residences (AED 20–100M villa and AED 10–50M apartment bands per the existing Bayut + dubizzle 21-May read) remain bankable collateral for a tier-1 UAE lender, and (2) at least one European institutional holder is now positioning to liquidate completed luxury inventory rather than hold for yield — adding 19 verifiable secondary units to the same Jumeirah Bay / Dubai Water Canal / Downtown corridor that BlackBrick (existing feed item) flagged as the 'sanctuary' cluster for incoming HNW capital. Worth tracking against the AHS Casa Sky Villa AED 101.2M print and the AED 400M Jumeirah Coastline land deal — primary versus institutional-secondary supply will set the tape for super-prime asks through 2027.",
+        "forWho": "Brokers and bulk-deal desks who want to be on the inside of CPIPG's 2027 divestment cadence; HNW buyers willing to bid against an institutional seller in a thin super-prime market; lenders sizing up branded-residence collateral coverage; ultra-prime resale-comp watchers on Jumeirah Bay, Dubai Water Canal and Downtown.",
+        "tryIt": "https://www.cpipg.com/"
+      },
+      "publishDate": "2026-05-23T12:24:36.173Z"
+    },
     {
       "id": "dubai-samana-business-hub-banke-capital-downtown-jebel-ali-may-22-2026",
       "categories": [

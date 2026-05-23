@@ -3256,6 +3256,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260523t122436z",
+      "timestamp": "2026-05-23T12:24:36.173Z",
+      "source": "github-actions-sweep",
+      "summary": "12h follow-on sweep after the 23-May 00:32 UTC run already ingested Samana Business Hub × Banke Capital and the 21-May DLD daily print. One genuinely new 21-May ultra-prime capital-flow card added: Emirates NBD × CPI Property Group AED 367.3M loan against a 19-unit Dubai luxury portfolio (Bvlgari The Lighthouse / Casa Canal / One Canal / Mr. C Residences Downtown). 22-May surface dominated by previously-covered material (Win Your Home, KHDA fee freeze) and a thin AI-tech PR (Rechitta) that didn't clear the inclusion bar.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-emirates-nbd-cpipg-aed-367m-loan-bvlgari-lighthouse-casa-canal-one-canal-mr-c-may-21-2026",
+          "title": "Emirates NBD × CPI Property Group execute AED 367.3M (~EUR 86M) loan against a 19-unit ultra-prime Dubai portfolio — Bvlgari The Lighthouse, Casa Canal, One Canal, Mr. C Residences Downtown — divested in phases post-completion",
+          "category": "luxury",
+          "note": "Added under luxury."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "lead",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "dubizzle-houza-crosscheck",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
