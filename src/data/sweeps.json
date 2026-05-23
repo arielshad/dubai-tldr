@@ -3209,6 +3209,53 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260523t003200z",
+      "timestamp": "2026-05-23T00:32:00.836Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep added one commercial off-plan card (Samana Business Hub × Banke Capital master agency mandate at the 22-May Bay Square unveiling) and updated the Aldar Al Ghadeer Gardens entry to reflect the 21-May AED 1B+ launch-day sell-out and phase-2 acceleration.",
+      "counts": {
+        "added": 1,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-samana-business-hub-banke-capital-downtown-jebel-ali-may-22-2026",
+          "title": "Samana Business Hub × Banke Capital — 23-storey Downtown Jebel Ali office tower opens with AED 1.46M starts, 60/10/30 plan, Q2 2029 handover",
+          "category": "offplan",
+          "note": "First major Downtown Jebel Ali commercial launch of 2026 with an exclusive master-agency structure — SME-ticket freehold offices on a 60/10/30 plan, anchoring the SZR/Al Maktoum corridor commercial thesis already in the feed."
+        }
+      ],
+      "updated": [
+        {
+          "id": "dubai-aldar-al-ghadeer-gardens-aed-1-6m-437-homes-may-18-2026",
+          "title": "Aldar Al Ghadeer Gardens sells out at launch — AED 1B+ across 437 homes in 3 days, 83% first-time Aldar buyers, phase 2 accelerated on the Abu Dhabi-Dubai corridor",
+          "note": "Aldar reported Al Ghadeer Gardens sold out at launch on 21 May 2026 — AED 1B+ in sales across 437 homes, 83% first-time Aldar buyers, 64% expat/overseas; phase 2 brought forward."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "developer",
+        "commercial",
+        "lead",
+        "market",
+        "ready",
+        "rental",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

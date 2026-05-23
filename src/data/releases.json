@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-05-22T12:53:45.556Z",
+  "generatedAt": "2026-05-23T00:32:00.836Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-samana-business-hub-banke-capital-downtown-jebel-ali-may-22-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "commercial",
+        "lead"
+      ],
+      "title": "Samana Business Hub × Banke Capital — 23-storey Downtown Jebel Ali office tower opens with AED 1.46M starts, 60/10/30 plan, Q2 2029 handover",
+      "org": "Samana Developers + Banke Capital",
+      "date": "2026-05-22",
+      "url": "https://gulfnews.com/amp/story/business/corporate-news/banke-capital-and-samana-developers-join-hands-for-samana-business-hub-in-landmark-dubai-real-estate-event-1.500549739",
+      "summary": "Samana Developers unveiled Samana Business Hub on 22 May 2026 with Banke Capital as exclusive master agency — a 23-storey freehold office tower in Downtown Jebel Ali, units 610–1,573 sqft from AED 1.46M (≈AED 2,393/sqft), 60/10/30 payment plan, Q2 2029 handover.",
+      "tags": [
+        "samana",
+        "banke-capital",
+        "downtown-jebel-ali",
+        "office",
+        "commercial",
+        "off-plan",
+        "60-10-30-plan",
+        "exclusive-mandate"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DJA",
+        "JEBEL-ALI",
+        "DXB-SOUTH",
+        "SZR"
+      ],
+      "metrics": {
+        "Project type": "23-storey commercial office tower (3 basements + 5 podiums + GF + 18 office floors + rooftop)",
+        "Location": "Downtown Jebel Ali, off Sheikh Zayed Road",
+        "Unit types": "Optima / Ultima / Supreme / Half Floor / Full Floor freehold offices",
+        "Size range": "610–1,573 sqft",
+        "Start price": "AED 1,460,000",
+        "Avg AED/sqft": "AED 2,393",
+        "Payment plan": "60% during construction / 10% on handover / 30% post-handover",
+        "Handover": "Q2 2029",
+        "Exclusive master agency": "Banke Capital (CEO Porush Jhunjhunwala)",
+        "Launch event": "22 May 2026 at Samana HQ, Bay Square — 700+ brokers / channel partners attended",
+        "Banke Capital footprint": "UAE / UK / Qatar / India / South Africa"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Banke Capital × Samana Business Hub launch (22 May 2026)",
+          "url": "https://gulfnews.com/amp/story/business/corporate-news/banke-capital-and-samana-developers-join-hands-for-samana-business-hub-in-landmark-dubai-real-estate-event-1.500549739"
+        },
+        {
+          "label": "Banke Capital — Samana Business Hub project page",
+          "url": "https://bankecapital.com/portfolio/samana-business-park/"
+        },
+        {
+          "label": "Eplog Properties — unit mix & price-per-sqft sheet",
+          "url": "https://eplogoffplan.com/projects/samana-business-hub-at-downtown-jebel-ali"
+        }
+      ],
+      "explainer": {
+        "tagline": "First branded Downtown Jebel Ali office launch of 2026: AED 1.46M tickets on a 60/10/30 plan, exclusive-broker-mandate distribution from day one.",
+        "whatIsIt": "Samana Developers and Banke Capital unveiled Samana Business Hub at a 22 May 2026 event at Samana's Bay Square HQ, attended by 700+ brokers, channel partners and industry stakeholders. The project is a 23-storey freehold office tower in Downtown Jebel Ali on Sheikh Zayed Road, with 18 office floors, retail / podium amenities and rooftop facilities. Banke Capital has the exclusive master-agency mandate — meaning all sub-brokerage flow routes through them.",
+        "howItWorks": "Office units run 610–1,573 sqft across Optima / Ultima / Supreme / half-floor / full-floor configurations, starting at AED 1.46M (~AED 2,393/sqft). The payment plan is 60% during construction, 10% on handover and 30% post-handover, with Q2 2029 delivery. Buyer diligence: confirm Oqood and escrow before transferring, model net AED/sqft against Business Bay (now AED 2,800–3,500) and the Lumena-led office spike (existing feed item shows Business Bay Q1 2026 record AED 3B off-plan office month), and stress-test the 30% post-handover tail against expected vacancy in the first 24 months of a new commercial cluster.",
+        "whyItMatters": "Downtown Jebel Ali is the SZR-aligned commercial counterpart to the Al Maktoum Airport corridor (Dugasta Al Haseen 6, Dubai South × Majid Al Futtaim 22M-sqft mall already in this feed) — and Samana is one of the top-5 off-plan sellers (4.4% market share, AED 7.1B GDV per the Bay Square Experience Studio entry). Sub-AED 1.5M freehold office stock is rare; that ticket is a fraction of the Business Bay floor-plate offices clearing AED 4–5M+ and is positioned for owner-occupier SMEs and the FZ-adjacent service-sector tenants who can't get into Jebel Ali Free Zone freehold. Exclusive master-agency mandates compress information flow — assignment-resale spreads against the developer sheet are worth tracking from day 30.",
+        "forWho": "Owner-occupier SMEs priced out of Business Bay, FZ-adjacent service-sector tenants who need a non-free-zone freehold address, brokers placing AED 1.5–4M commercial tickets, and AED 2M property-investor-visa applicants who want a yield-bearing commercial alternative to ready apartments.",
+        "tryIt": "https://bankecapital.com/portfolio/samana-business-park/"
+      },
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-22%2Flnnd9va6%2FPicture.jpg?format=auto",
+        "alt": "Samana Developers and Banke Capital signing the Samana Business Hub master-agency mandate at the 22 May 2026 launch event in Bay Square, Dubai",
+        "fit": "cover",
+        "credit": "Gulf News / Samana Developers"
+      },
+      "publishDate": "2026-05-23T00:32:00.836Z"
+    },
     {
       "id": "dubai-dld-may-21-2026-daily-print-aed-1-22b-offplan-55-8-percent",
       "categories": [
@@ -1639,12 +1712,12 @@
         "developer",
         "visa"
       ],
-      "title": "Aldar puts Al Ghadeer Gardens on sale on the Abu Dhabi-Dubai corridor — 437 villas & townhouses from AED 1.6M, 55/45 plan, Q4 2029 handover, Estidama Pearl 2 target",
+      "title": "Aldar Al Ghadeer Gardens sells out at launch — AED 1B+ across 437 homes in 3 days, 83% first-time Aldar buyers, phase 2 accelerated on the Abu Dhabi-Dubai corridor",
       "org": "Aldar Properties",
       "date": "2026-05-18",
       "publishDate": "2026-05-19T00:34:28.012Z",
       "url": "https://www.zawya.com/en/press-release/companies-news/aldar-unveils-al-ghadeer-gardens-bringing-modern-family-living-to-the-key-growth-corridor-between-abu-dhabi-and-dubai-r09e8c92",
-      "summary": "Aldar opened sales on Al Ghadeer Gardens on 18 May — 437 family villas and townhouses on the Abu Dhabi-Dubai border priced from AED 1.6M (2BR TH) to AED 3M (4BR villa), on a 5%-down 55/45 plan to Q4 2029 handover.",
+      "summary": "Aldar said on 21 May 2026 that Al Ghadeer Gardens sold out at launch, generating more than AED 1B across all 437 townhouses & villas in days. 83% of buyers were first-time Aldar customers, 64% expat/overseas (top nationalities UAE / India / China / Jordan). Phase 2 is being brought forward.",
       "tags": [
         "aldar",
         "al-ghadeer",
@@ -1664,6 +1737,9 @@
       ],
       "metrics": {
         "Total units": "437 villas & townhouses",
+        "Launch sales": "AED 1B+ (full sell-out at launch)",
+        "First-time Aldar buyers": "83%",
+        "Expat / overseas share": "64% (top: UAE, India, China, Jordan)",
         "Bedroom mix": "2BR / 3BR townhouses, 4BR standalone villas",
         "2BR TH start": "AED 1.6M",
         "3BR TH start": "AED 2.3M",
@@ -1674,11 +1750,15 @@
         "Sustainability target": "Estidama Pearl 2 + Fitwel 2-star",
         "On-site school": "Al Ghadeer British School, opening 2030, 2,800-pupil capacity",
         "Landscape": "30,000+ sqm of open space",
-        "Sales centres": "Yas Island & Jumeirah Beach Road, Dubai"
+        "Phase 2": "Brought forward — release date pending"
       },
       "links": [
         {
-          "label": "Zawya press release",
+          "label": "Zawya — Aldar sells out Al Ghadeer Gardens (21 May 2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/aldar-sells-out-al-ghadeer-gardens-at-launch-generating-more-than-aed-1bln-y4ugupzl"
+        },
+        {
+          "label": "Zawya — Al Ghadeer Gardens unveiling press release (18 May 2026)",
           "url": "https://www.zawya.com/en/press-release/companies-news/aldar-unveils-al-ghadeer-gardens-bringing-modern-family-living-to-the-key-growth-corridor-between-abu-dhabi-and-dubai-r09e8c92"
         },
         {
@@ -1691,11 +1771,11 @@
         }
       ],
       "explainer": {
-        "tagline": "Aldar's first major Dubai-corridor villa launch of 2026: AED 1.6M entry and a 5%-down plan inside the Expo City catchment.",
-        "whatIsIt": "Aldar opened sales on Al Ghadeer Gardens on 18 May 2026 — a 437-unit gated villa and townhouse community in Al Ghadeer, the Abu Dhabi-Dubai border community within ~20 min of Expo City Dubai, Dubai Parks and the future Palm Jebel Ali. Two- and three-bedroom townhouses sit alongside four-bedroom standalone villas, with sales centres on both Yas Island and Jumeirah Beach Road.",
-        "howItWorks": "Tickets begin at AED 1.6M for a 2BR townhouse, AED 2.3M for a 3BR townhouse and AED 3M for a 4BR villa. The payment plan is 5% on booking, 50% during construction and 45% on handover (55/45 split), with Q4 2029 delivery. The development is targeting Estidama Pearl 2 and Fitwel 2-star certifications, sits beside 30,000+ sqm of landscape, and reserves a 2,800-pupil British curriculum school (Al Ghadeer British School, Aldar Education) for 2030. Diligence: verify the Oqood, the on-site infrastructure phasing relative to the school's 2030 opening, and the resale/rental case on the Dubai-side commuting corridor before signing.",
-        "whyItMatters": "Sub-AED 2M townhouses with a 5%-down construction-linked plan are the live entry point into the Dubai growth corridor west of Al Maktoum International Airport, and the 4BR villa at AED 3M sits cleanly inside the AED 2M property-investor visa threshold. The 55/45 plan is more capital-efficient than the 70/30 plans elsewhere on the corridor, and the school + Estidama Pearl 2 anchor underwrites a family end-user resale story rather than pure investor flipping. Liquidity risk is the standard off-plan 2029 exposure — handover concentration and assignment-resale spreads should be tracked through 2027.",
-        "forWho": "End-user families on the Abu Dhabi-Dubai commute, AED 2M visa-route investors, brokers placing yield-light end-user product, off-plan buyers looking for 5%-down 4-year construction exposure on the Expo City catchment.",
+        "tagline": "Aldar's first 2026 Dubai-corridor villa launch sold out at launch — AED 1B+ across 437 homes in days, 83% first-time Aldar buyers, phase 2 accelerated.",
+        "whatIsIt": "Aldar announced on 21 May 2026 that Al Ghadeer Gardens has sold out at launch — all 437 townhouses & villas on the Abu Dhabi-Dubai corridor cleared, generating more than AED 1B in three days. 83% of buyers were first-time Aldar customers and 64% were expatriate residents or overseas (top nationalities: UAE, India, China, Jordan). The community sits ~20 min from Expo City Dubai with sales centres on Yas Island and Jumeirah Beach Road.",
+        "howItWorks": "Tickets started at AED 1.6M for a 2BR townhouse, AED 2.3M for a 3BR townhouse and AED 3M for a 4BR villa, all on a 5%-down 55/45 plan with Q4 2029 handover. Estidama Pearl 2 + Fitwel 2-star certifications, 30,000+ sqm of landscape and a 2,800-pupil Aldar Education British school (open 2030) underwrote the family resale story. With phase 1 fully cleared, Aldar will bring phase 2 forward — interested buyers should register interest with the Yas Island or Jumeirah Beach Road sales centres now and verify the Oqood / school-phasing timeline before signing.",
+        "whyItMatters": "Selling 437 mid-market townhouses in three days inside a market where AGBI's broker chatter is that deals are taking 5–6 hours each (per the Greenz launch piece) is a signal that the Dubai growth corridor west of Al Maktoum is the strongest pocket in the current cycle, not the prime market. The buyer-mix data (83% first-time Aldar, 64% expat/overseas) corroborates the Whitewill / Property Finder reads that family end-users — not flippers — are now the marginal buyer. Assignment-resale watch starts now: any sub-launch reselling at a premium becomes the next comp for phase 2 pricing.",
+        "forWho": "End-user families on the Abu Dhabi-Dubai commute, AED 2M visa-route investors, brokers placing yield-light end-user product on the Expo City catchment, and assignment-resale operators watching for the first premium-bid prints out of phase 1 buyers.",
         "tryIt": "https://www.engelvoelkers.com/ae/en/off-plan/al-ghadeer-gardens-by-aldar"
       },
       "image": {
