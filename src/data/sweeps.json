@@ -3345,6 +3345,47 @@
         "auction-distress",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260524t123020z",
+      "timestamp": "2026-05-24T12:30:20.019Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet UAE weekend (Fri 22 May → Sun 24 May) — most prior-week tier-1 stories already in the feed. One fresh, high-impact signal added: HHM Sheikh Mohammed's new antiquities & archaeological-sites law (Law 11/2026) inserts a mandatory Dubai Culture NOC step into excavation/construction across all Dubai land, marine and free zones (incl. DIFC), with 48-hour discovery-reporting and a 1-year compliance window.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-antiquities-archaeological-sites-law-11-2026-noc-difc-may-22",
+          "title": "HHM Sheikh Mohammed issues Law No. 11 of 2026 on Dubai antiquities & archaeological sites — Dubai Culture NOC now mandatory before any excavation, construction or landscaping in flagged zones, including DIFC and other free zones",
+          "category": "legal",
+          "note": "Legal/regulatory signal that materially affects Dubai development workflow — NOC pinch-point + 48h discovery rule + DIFC inclusion. Verified from mediaoffice.ae primary source plus four tier-1 outlets (The National, Khaleej Times, Gulf News, TradeArabia)."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "legal",
+        "market",
+        "developer",
+        "luxury",
+        "rental",
+        "ready",
+        "offplan",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

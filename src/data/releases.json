@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-05-24T00:45:57.958Z",
+  "generatedAt": "2026-05-24T12:30:20.019Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-antiquities-archaeological-sites-law-11-2026-noc-difc-may-22",
+      "categories": [
+        "legal",
+        "market",
+        "developer"
+      ],
+      "title": "HHM Sheikh Mohammed issues Law No. 11 of 2026 on Dubai antiquities & archaeological sites — Dubai Culture NOC now mandatory before any excavation, construction or landscaping in flagged zones, including DIFC and other free zones",
+      "org": "Dubai Government Media Office",
+      "date": "2026-05-22",
+      "publishDate": "2026-05-24T12:30:20.019Z",
+      "url": "https://mediaoffice.ae/en/news/2026/may/22-05/mohammed-bin-rashid-issues-law-on-antiquities-and-archaeological-sites-in-dubai",
+      "summary": "New Dubai-wide law makes Dubai Culture & Arts Authority the regulator over all archaeological sites and antiquities — including in DIFC and other special development zones. Major projects in flagged areas now need a Dubai Culture no-objection certificate; site discoveries must be reported within 48 hours (land) / 7 days (marine) and ownership of the land does not confer ownership of antiquities found on or beneath it. Operators get a 1-year compliance window (extendable once).",
+      "tags": [
+        "Law 11/2026",
+        "Sheikh Mohammed",
+        "Dubai Culture",
+        "antiquities",
+        "DIFC",
+        "free zones",
+        "NOC",
+        "development risk"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DIFC",
+        "LEGAL"
+      ],
+      "metrics": {
+        "Law number": "Law No. 11 of 2026",
+        "Issued": "2026-05-22 (Friday, 11:56 local)",
+        "Regulator": "Dubai Culture & Arts Authority",
+        "Geographic scope": "All land, marine and mountainous areas of Dubai, including special development zones and free zones (DIFC explicitly named)",
+        "Trigger for NOC": "Any excavation, construction, landscaping or similar work in areas with actual or potential archaeological sites",
+        "Discovery reporting — land": "48 hours to Dubai Culture or Dubai Police",
+        "Discovery reporting — marine": "7 days",
+        "Ownership rule": "Land ownership does NOT include rights over antiquities on or beneath the plot — artefacts belong to the Emirate unless prior private ownership is proven",
+        "Compliance window": "1 year from publication, extendable once by 1 additional year",
+        "Penalty regime": "Administrative penalties (rates not yet published)"
+      },
+      "links": [
+        {
+          "label": "Dubai Government Media Office — official release",
+          "url": "https://mediaoffice.ae/en/news/2026/may/22-05/mohammed-bin-rashid-issues-law-on-antiquities-and-archaeological-sites-in-dubai"
+        },
+        {
+          "label": "The National — Dubai introduces law to preserve emirate's key archaeological sites",
+          "url": "https://www.thenationalnews.com/news/uae/2026/05/22/dubai-introduces-law-to-preserve-emirates-key-archaeological-sites/"
+        },
+        {
+          "label": "Khaleej Times — Dubai Ruler announces new law to protect antiquities, archaeological sites",
+          "url": "https://www.khaleejtimes.com/uae/government/dubai-ruler-new-law-protect-antiquities-archaeological-sites"
+        },
+        {
+          "label": "TradeArabia — New law on antiquities, archaeological sites in Dubai issued",
+          "url": "https://tradearabia.com/News/462809/New-law-on-antiquities,-archaeological-sites-in-Dubai-issued"
+        },
+        {
+          "label": "Gulf News — Sheikh Mohammed issues law regulating antiquities and archaeological sites in Dubai",
+          "url": "https://gulfnews.com/uae/government/sheikh-mohammed-issues-law-regulating-antiquities-and-archaeological-sitesin-dubai-1.500549719"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai just added an archaeology checkpoint to its construction permit chain — every excavation / build / landscape touch in flagged or potentially-flagged zones now needs Dubai Culture sign-off, even inside DIFC.",
+        "whatIsIt": "On Friday 22 May 2026, HHM Sheikh Mohammed bin Rashid Al Maktoum issued Law No. 11 of 2026 on antiquities and archaeological sites in Dubai. The Dubai Culture & Arts Authority becomes the single regulator over identification, registration, classification and preservation of archaeological sites and artefacts across all land, marine and mountainous areas — explicitly including special development zones and free zones such as DIFC. Land ownership does not include rights over antiquities found on or beneath the plot; those belong to the Emirate unless private ownership is documented.",
+        "howItWorks": "Operationally the law inserts two new pinch points into the development workflow. (1) Pre-work consent: any excavation, construction, landscaping or similar work in areas that 'actually or potentially' contain archaeological assets now requires a no-objection certificate from Dubai Culture before site works begin. (2) Mid-work stop: anyone who discovers an artefact must immediately halt work and notify Dubai Culture or Dubai Police within 48 hours for land finds, 7 days for marine finds. Compliance is required within 1 year of publication, extendable once by 1 additional year; administrative penalties apply for violations (specific fine schedule not yet published).",
+        "whyItMatters": "This is a structural change to Dubai's pre-permit chain, not a price story — but it touches everything. Developers underwriting new plots in older Dubai (Bur Dubai, Deira, Al Fahidi, Shindagha, Hatta corridor) and coastal/marine work (Jumeirah Coastline, World Islands, Palm Jebel Ali) should re-scope timelines for archaeological NOC and surface-survey contingencies. The DIFC inclusion is particularly notable: super-prime towers at Bvlgari Lighthouse, Casa Canal, One Canal and the Dubai Loop alignment all sit in or near the zones now under Dubai Culture's reach. Title-deed buyers gain certainty that random artefact finds will not be claimed against the land owner — the Emirate carries that risk and process — but timelines on disturbed-soil sites can stretch.",
+        "forWho": "Developers and contractors underwriting Dubai plots, super-prime / coastal / heritage-corridor project teams, conveyancing lawyers running pre-purchase diligence on legacy plots, family offices buying DIFC and Dubai Creek land for redevelopment, and brokers fielding 'how long until handover' questions on sites adjacent to historic Dubai neighbourhoods.",
+        "tryIt": "https://mediaoffice.ae/en/news/2026/may/22-05/mohammed-bin-rashid-issues-law-on-antiquities-and-archaeological-sites-in-dubai"
+      },
+      "image": {
+        "url": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-22%2Ftsoykc8d%2FMBR?w=1200&auto=format%2Ccompress&fit=max",
+        "alt": "HHM Sheikh Mohammed bin Rashid Al Maktoum — Law No. 11 of 2026 on antiquities and archaeological sites in Dubai",
+        "fit": "cover",
+        "credit": "Gulf News / Government of Dubai Media Office"
+      }
+    },
     {
       "id": "dubai-al-barari-the-collection-aed-14m-2yr-villa-lease-record-fam-may-22-2026",
       "categories": [
