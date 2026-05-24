@@ -3292,6 +3292,59 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260524t004557z",
+      "timestamp": "2026-05-24T00:45:57.958Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh signals dated 2026-05-22: a record-breaking AED 14M / 2-year villa lease in Al Barari that resets the community's rental ceiling +46%, an ADIB×DAMAC home-finance product that lifts LTV to 85% with takaful and digital onboarding, and the public launch of Rechitta — an AI broker-developer comms layer pitched at Dubai inventory distribution.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-al-barari-the-collection-aed-14m-2yr-villa-lease-record-fam-may-22-2026",
+          "title": "Al Barari resets its rental ceiling: 14,500 sqft Collection villa leased for AED 14M over 2 years (~AED 7M/yr) via fäm Properties — +46% above the prior AED 4.8M/yr peak",
+          "category": "rental",
+          "note": "First-of-its-kind print: a single 5-BR Al Barari Collection lease at AED 7M/yr resets the community rental ceiling by 46% on a 12.8% gross-yield basis. Operator-grade rent comp."
+        },
+        {
+          "id": "dubai-adib-damac-home-finance-85-percent-ltv-takaful-may-22-2026",
+          "title": "ADIB × DAMAC launch comprehensive home-finance plan — up to 85% LTV, complimentary Sharia-compliant takaful, valuation fees waived, digital onboarding cut from days to minutes",
+          "category": "developer",
+          "note": "Second major bank-developer Sharia financing rail in five days (after Dubai Holding × ADIB on 18-May). 85% LTV restores the cash-tight buyer after the March LTV crunch."
+        },
+        {
+          "id": "dubai-rechitta-ai-broker-developer-comms-launch-may-22-2026",
+          "title": "Rechitta launches AI broker-developer comms layer for Dubai real estate — real-time inventory/pricing/payment-plan responses, multilingual, founders pitch '20x broker reach' for developers",
+          "category": "lead",
+          "note": "PropTech entrant taking direct aim at broker-developer comms fragmentation during the broker-shakeout phase. Worth tracking adoption."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rental",
+        "luxury",
+        "developer",
+        "ready",
+        "lead",
+        "market",
+        "visa",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "auction-distress",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
