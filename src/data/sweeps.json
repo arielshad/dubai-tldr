@@ -3386,6 +3386,46 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260525t131136z",
+      "timestamp": "2026-05-25T13:11:36.485Z",
+      "source": "github-actions-sweep",
+      "summary": "One fresh item lands inside the 72h window: DLD week 21 (May 18–24) prints AED 12.42B / 4,254 transactions with off-plan rebuilding to ~62%. The MBC-2 inauguration (May 22, AED 160M, 78% pre-leased) was verified but its event date is now 85h old — dropped to respect the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-week-21-2026-weekly-aed-12-42b-offplan-62-percent-may-25",
+          "title": "DLD week 21 (May 18–24, 2026): AED 12.42B total (AED 7.67B ex-land, -2.4% w/w) across 4,254 transactions — off-plan rebuilds to ~62% as flats hold AED 5.64B and commercial books AED 971.8M",
+          "category": "market",
+          "note": "Continues the weekly DLD cadence after week 20 (AED 15.39B). First soft week of May 2026 — useful macro datapoint and counterbalance to softening-mid-market headlines."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commercial",
+        "developer",
+        "market",
+        "offplan",
+        "ready",
+        "luxury",
+        "rental"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

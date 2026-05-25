@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-05-24T12:30:20.019Z",
+  "generatedAt": "2026-05-25T13:11:36.485Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-week-21-2026-weekly-aed-12-42b-offplan-62-percent-may-25",
+      "categories": [
+        "market",
+        "offplan",
+        "ready",
+        "commercial"
+      ],
+      "title": "DLD week 21 (May 18–24, 2026): AED 12.42B total (AED 7.67B ex-land, -2.4% w/w) across 4,254 transactions — off-plan rebuilds to ~62% as flats hold AED 5.64B and commercial books AED 971.8M",
+      "org": "Dubai Land Department / TheRealEstateReports",
+      "date": "2026-05-25",
+      "publishDate": "2026-05-25T13:11:36.485Z",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-25-may-2026",
+      "summary": "DLD week-21 print: AED 12.42B all-in, AED 7.67B ex-land (-2.4% w/w) on 4,254 deals (-6.9% w/w). Off-plan ~62% of property value; flats AED 3.63B off-plan + AED 2.01B ready; villas AED 332.9M / 600.7M; commercial AED 762.7M / 209.1M.",
+      "tags": [
+        "DLD",
+        "weekly",
+        "transactions",
+        "off-plan",
+        "ready",
+        "flats",
+        "villas",
+        "commercial",
+        "week 21"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB-MARKET"
+      ],
+      "metrics": {
+        "Week covered": "May 18–24, 2026 (week 21)",
+        "Total trading (incl. land)": "AED 12.42B",
+        "Ex-land trading": "AED 7.67B",
+        "Week-on-week change (ex-land)": "-2.4%",
+        "Land transactions": "AED 4.75B",
+        "Transactions (with land)": 4254,
+        "Transactions w/w change": "-6.9%",
+        "Off-plan ex-land value": "AED 4,753.7M",
+        "Ready ex-land value": "AED 2,916.6M",
+        "Off-plan share of property value": "~62%",
+        "Flats off-plan": "AED 3,628.1M",
+        "Flats ready": "AED 2,012.2M",
+        "Villas off-plan": "AED 332.9M",
+        "Villas ready": "AED 600.7M",
+        "Commercial off-plan": "AED 762.7M",
+        "Commercial ready": "AED 209.1M",
+        "Hotel apts/rooms off-plan": "AED 29.9M",
+        "Hotel apts/rooms ready": "AED 94.7M"
+      },
+      "links": [
+        {
+          "label": "TheRealEstateReports weekly analysis 25-May-2026",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-25-may-2026"
+        },
+        {
+          "label": "Prior week (week 20) review for comparison",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-18-may-2026"
+        },
+        {
+          "label": "Dubai Land Department — real-estate data portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Week 21 confirms the rotation off recent ex-land highs — AED 7.67B trading is -2.4% w/w, but off-plan and commercial both stay firm.",
+        "whatIsIt": "TheRealEstateReports' DLD week-21 wrap (published 25 May 2026) covers transactions registered between May 18 and 24. Total trading lands at AED 12.42B all-in, with ex-land trading at AED 7.67B on 4,254 transactions — both down on week 20 (AED 7.86B ex-land, 4,567 deals).",
+        "howItWorks": "Off-plan held AED 4,753.7M (~62% of property value) vs AED 2,916.6M ready. Flats are still the engine: AED 3,628.1M off-plan + AED 2,012.2M ready. Villas inverted ready vs off-plan (AED 600.7M ready > AED 332.9M off-plan), while commercial booked AED 762.7M off-plan + AED 209.1M ready — keeping the post-Lumena/Business-Bay commercial pulse alive. Land alone moved AED 4.75B.",
+        "whyItMatters": "After the May 2026 string of AED 1.0–2.4B daily prints and AED 15.39B week-20 print, a -2.4% ex-land step-down is the first soft week for the May run — but absolute trading remains well above the April baseline. Off-plan refusing to sub-60 and commercial staying near AED 1B/week argue that the 'buyer's market' narrative is concentrated in mid-market ready apartments, not the headline number. Use as the latest macro benchmark when scoping under-comp asks or pitching sellers.",
+        "forWho": "Brokers benchmarking ask-to-close timing; underwriters validating yield comps; sellers checking whether to hold or cut; commercial investors watching whether off-plan offices keep clearing.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0871edeb-a107-4ac6-a35c-81961274f2e6/image.png",
+        "alt": "Dubai DLD weekly transaction breakdown chart — week 21 (May 18–24, 2026) from TheRealEstateReports",
+        "fit": "cover",
+        "credit": "TheRealEstateReports"
+      }
+    },
     {
       "id": "dubai-antiquities-archaeological-sites-law-11-2026-noc-difc-may-22",
       "categories": [
