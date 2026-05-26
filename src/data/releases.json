@@ -1,8 +1,214 @@
 {
-  "generatedAt": "2026-05-26T00:35:44.375Z",
+  "generatedAt": "2026-05-26T13:02:36.902Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-villa-gaia-jumeirah-bay-aed-280m-sothebys-may-25-2026",
+      "categories": [
+        "luxury",
+        "ready",
+        "market"
+      ],
+      "title": "Villa Gaia, Jumeirah Bay Island — AED 280M (USD 76M) six-BR beachfront resale sold by Dubai Sotheby's at ~AED 12,794/sqft BUA, one of Q2 2026's largest ready-villa re-sales",
+      "org": "Dubai Sotheby's International Realty (via Gulf Today)",
+      "date": "2026-05-25",
+      "url": "https://www.gulftoday.ae/news/2026/05/25/dubai-beachfront-luxury-mansion-sold-for-dhs280m-in-landmark-deal",
+      "summary": "Dubai Sotheby's International Realty closes Villa Gaia on Jumeirah Bay Island for AED 280M (~USD 76M): a six-bedroom beachfront mansion on a 24,002 sqft plot with 21,884 sqft built-up area — ~AED 12,794/sqft BUA. Direct access to the Bvlgari Resort, Yacht Club and Marina; 2025 Identity Design Award; 9-car garage and staff quarters. George Azar (chairman/CEO, Sotheby's UAE/KSA/UK) frames the deal as evidence international HNW capital is still clearing Dubai beachfront despite global volatility.",
+      "tags": [
+        "luxury",
+        "jumeirah-bay-island",
+        "beachfront",
+        "villa",
+        "sothebys",
+        "resale",
+        "Q2-2026",
+        "ultra-prime"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-JBI",
+        "LUXURY",
+        "DXB"
+      ],
+      "metrics": {
+        "Sale price (AED)": "AED 280M",
+        "Sale price (USD)": "~USD 76M",
+        "Bedrooms": 6,
+        "Built-up area": "21,884 sqft",
+        "Plot size": "24,002 sqft",
+        "AED per sqft (BUA)": "~AED 12,794",
+        "Selling broker": "Dubai Sotheby's International Realty",
+        "Community": "Jumeirah Bay Island",
+        "Property status": "Ready / completed villa, resale",
+        "Architecture award": "Identity Design Awards 2025",
+        "Trade date": "2026-05-25",
+        "Q2 2026 context": "One of the highest-value ready-villa re-sales of the quarter"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Dubai beachfront luxury mansion sold for Dhs280m in landmark deal (25-May-2026)",
+          "url": "https://www.gulftoday.ae/news/2026/05/25/dubai-beachfront-luxury-mansion-sold-for-dhs280m-in-landmark-deal"
+        },
+        {
+          "label": "Dubai Sotheby's International Realty — agency homepage / contact",
+          "url": "https://www.sothebysrealty.ae/"
+        },
+        {
+          "label": "Property Finder — Jumeirah Bay Island villa transaction comps",
+          "url": "https://www.propertyfinder.ae/en/transactions/buy/dubai/jumeirah-bay-island"
+        }
+      ],
+      "explainer": {
+        "tagline": "Villa Gaia clears AED 280M on Jumeirah Bay — Dubai Sotheby's prints another nine-figure beachfront resale at ~AED 12,794/sqft.",
+        "whatIsIt": "On 25-May-2026 Gulf Today reported that Dubai Sotheby's International Realty had closed Villa Gaia, a six-bedroom beachfront mansion on Jumeirah Bay Island, for AED 280M (~USD 76M). The property sits on a 24,002 sqft plot with a 21,884 sqft built-up area, won an Identity Design Award in 2025, and offers direct access to the Bvlgari Resort, Yacht Club and Marina, with a 9-car garage and a service kitchen sized for 50+ guests.",
+        "howItWorks": "At AED 280M / 21,884 sqft BUA, the deal pencils at ~AED 12,794/sqft — below the AED ~14,500/sqft set by the AED 330M Jumeirah Bay record (June 2025) but firmly in the AED 10K+/sqft ultra-prime band. It is one of the highest-value re-sales of a ready villa in Dubai this quarter. George Azar — chairman/CEO of Sotheby's UAE/KSA/UK — anchors the narrative to HNW demand for privacy and 'sustainable investment opportunities' on the island.",
+        "whyItMatters": "Two months into the post-March correction debate, a nine-figure Jumeirah Bay ready resale is hard data that the >AED 150M segment is still clearing — even as mid-market ready apartments soften. This is the second public Sotheby's Jumeirah Bay print of the cycle and reinforces the AED 377M Naïa Island plot record as evidence that ultra-prime is bifurcating away from the broader market. Comp-set this against the AED 101.2M Casa AHS sky villa (Dubai Water Canal) and AED 400M Jumeirah Coastline plot assembly when underwriting prime resale exits.",
+        "forWho": "HNW seller representation in Jumeirah Bay, Palm Jumeirah, Emirates Hills and the new Naïa Island; ultra-prime buyer's agents tracking who is clearing at AED 250M+; appraisers benchmarking Jumeirah Bay AED/sqft; and analysts watching whether the >AED 150M tier continues to outperform the citywide tape.",
+        "tryIt": "https://www.propertyfinder.ae/en/transactions/buy/dubai/jumeirah-bay-island"
+      },
+      "image": {
+        "url": "https://cdnx.premiumread.com/?url=https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/25/1081895.webp&w=800&q=100&f=webp&t=0.0.2",
+        "alt": "Villa Gaia six-bedroom beachfront mansion on Jumeirah Bay Island, sold by Dubai Sotheby's International Realty for AED 280M in May 2026.",
+        "fit": "cover",
+        "credit": "Gulf Today / Dubai Sotheby's International Realty"
+      },
+      "publishDate": "2026-05-26T13:02:36.902Z"
+    },
+    {
+      "id": "dubai-real-estate-court-business-bay-hotel-unit-aed-443k-installment-default-may-24-2026",
+      "categories": [
+        "legal",
+        "distress",
+        "ready"
+      ],
+      "title": "Dubai Real Estate Court cancels a Business Bay hotel-unit sale and reverses the buyer's registration after a four-year, AED 443K installment default — developer keeps the unit, buyer pays costs",
+      "org": "Dubai Real Estate Court (via Gulf Today)",
+      "date": "2026-05-24",
+      "url": "https://www.gulftoday.ae/news/2026/05/24/dubai-court-cancels-ownership-of-property-worth-dhs443000-after-buyer-fails-to-pay-installments",
+      "summary": "The Dubai Real Estate Court — ruling on 24-May-2026 — terminated a Business Bay hotel-unit sale agreement worth AED 443,000 (incl. admin and registration fees), cancelled the buyer's title-registration, ordered re-registration to the developer, and made the defaulting buyer cover all fees and costs. The unit had been ready since 2021 and registered in the buyer's name, but installments stopped in July 2025 and the buyer ignored repeated demand notices.",
+      "tags": [
+        "Dubai Real Estate Court",
+        "installment-default",
+        "title-cancellation",
+        "Business Bay",
+        "hotel-apartment",
+        "off-plan-completed",
+        "legal-precedent"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-BBAY",
+        "LEGAL",
+        "DLD"
+      ],
+      "metrics": {
+        "Property value": "AED 443,000 (incl. admin + registration fees)",
+        "Property type": "Hotel-apartment unit",
+        "Community": "Business Bay",
+        "Project status": "Ready since 2021",
+        "Original registration": "In buyer's name post-handover",
+        "Default start": "July 2025",
+        "Court": "Dubai Real Estate Court (Court of First Instance)",
+        "Ruling date": "2026-05-24",
+        "Outcome": "Sale terminated, title cancelled, re-registration to developer, buyer pays fees and costs",
+        "Buyer participation in proceedings": "Did not appear"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Dubai court cancels ownership of property worth Dhs443,000 after buyer fails to pay installments (24-May-2026)",
+          "url": "https://www.gulftoday.ae/news/2026/05/24/dubai-court-cancels-ownership-of-property-worth-dhs443000-after-buyer-fails-to-pay-installments"
+        },
+        {
+          "label": "Dubai Courts — Real Estate Court e-services",
+          "url": "https://www.dubaicourts.gov.ae/portal/page/portal/dc/home"
+        },
+        {
+          "label": "DLD official transactions portal (for title-check workflow)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Stop paying after handover and Dubai's Real Estate Court will reverse your title: a Business Bay hotel-apartment buyer just lost his unit over an AED 443K default.",
+        "whatIsIt": "Gulf Today reported on 24-May-2026 that Dubai's Real Estate Court (Court of First Instance) had terminated the sale of a Business Bay hotel-apartment unit, cancelled the buyer's title registration, re-registered the unit to the developer, and ordered the buyer to pay all legal fees and costs. The property is worth AED 443,000 inclusive of administrative and registration fees. The developer had completed the building in 2021 and registered the unit in the buyer's name, but installments stopped in July 2025 and the buyer ignored repeated demand notices before failing to appear at court.",
+        "howItWorks": "The court treated the installment default as a material breach of the sale agreement: under Law 13 of 2008 and subsequent Dubai property statutes, a developer can move to terminate the contract, reclaim the unit, and reverse title registration even after handover when contractual payments are missed. The buyer absorbs administrative, registration and legal fees on top of losing any equity already paid. The case is not headline-grabbing on size — AED 443K is a small-ticket hotel-apartment — but it is a clean precedent on what happens when a post-handover buyer walks away from a payment plan.",
+        "whyItMatters": "Post-handover and post-construction payment plans are now the default selling tool for Dubai developers — Aldar Al Ghadeer Gardens, Danube Greenz, IMAN Oxford Cove and many others lean on 50/50 or 60/40 post-handover structures. This ruling is a fresh, public reminder that 'post-handover' does not mean 'cannot be reversed': brokers pitching default-resilience to buyers should price the legal optionality the developer retains. For buyers it underlines the importance of restructuring early rather than going silent; for distressed-asset buyers it is a reminder that title quality on bank-/developer-recovered units is real.",
+        "forWho": "Off-plan buyers running tight cash plans; brokers selling post-handover structures who need to set expectations honestly; conveyancers and lawyers advising defaulting buyers on restructure options; and distressed-asset desks tracking developer-recovered inventory.",
+        "tryIt": "https://www.dubaicourts.gov.ae/portal/page/portal/dc/home"
+      },
+      "image": {
+        "url": "https://cdnx.premiumread.com/?url=https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/24/1081444.webp&w=800&q=100&f=webp&t=0.0.2",
+        "alt": "Illustrative photograph of a Dubai courthouse interior accompanying Gulf Today's report on the Real Estate Court cancelling a Business Bay hotel-apartment sale.",
+        "fit": "cover",
+        "credit": "Gulf Today / Dubai Real Estate Court"
+      },
+      "publishDate": "2026-05-26T13:02:36.902Z"
+    },
+    {
+      "id": "dubai-dld-may-25-2026-daily-print-aed-405m-eid-al-adha-eve",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-05-25 collapses to AED 405.06M ex-land as Eid Al Adha holiday window begins — the lightest single-day tape of the May 2026 run",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-05-25",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-26-may-2026",
+      "summary": "On 25-May-2026 — the first session into the public-sector Eid Al Adha break — DLD ex-land transactions printed at AED 405,059,630, down roughly two-thirds from recent AED 1.0–1.5B daily ranges. The Real Estate Reports notes the drop is 'due to the start of Eid Al Adha Holidays', signalling DLD execution will be light through 26-May (Arafat Day) and the 27–29 May Eid Al Adha window.",
+      "tags": [
+        "DLD",
+        "daily-print",
+        "Eid Al Adha",
+        "holiday-effect",
+        "market-data",
+        "may-2026",
+        "execution-window"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB",
+        "DXB-MARKET"
+      ],
+      "metrics": {
+        "Trading date": "2026-05-25 (Monday)",
+        "Ex-land total": "AED 405.06M",
+        "Reason for drop": "Start of Eid Al Adha holidays",
+        "Recent daily baseline (May 18-21)": "~AED 1.02-1.75B ex-land",
+        "Eid Al Adha 2026 (UAE)": "Arafat Day 26-May; Eid 27-29 May",
+        "Public-sector break": "23-May to 31-May (9 days)",
+        "Private-sector break": "26-May to 31-May (6 days)",
+        "Likely next normal-trading DLD day": "Monday 1-June 2026"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai DLD review 26-May-2026 (covers 25-May data)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-26-may-2026"
+        },
+        {
+          "label": "Gulf News — Eid Al Adha 2026 in UAE: nine-day public-sector holiday explained",
+          "url": "https://gulfnews.com/living-in-uae/ask-us/eid-al-adha-2026-who-qualifies-for-the-9-day-uae-public-holiday-1.500548625"
+        },
+        {
+          "label": "DLD official transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Eid Al Adha shuts down the DLD tape: 25-May ex-land transactions print AED 405M, the lowest single-day reading of the May 2026 run.",
+        "whatIsIt": "The Real Estate Reports' 26-May-2026 daily review (covering 25-May trading) reports DLD ex-land transactions at AED 405,059,630 — roughly a third of the AED 1.02–1.75B daily band the print ran in last week. The newsletter attributes the drop directly to 'the start of Eid Al Adha Holidays' rather than any underlying demand shift. Arafat Day falls on 26-May, with Eid Al Adha 27–29 May; public-sector workers are off 23-May to 31-May and private-sector 26-May to 31-May.",
+        "howItWorks": "DLD's transaction-registration counters effectively pause during the public-sector Eid window, so any deal not lodged before the close on Sunday/Monday rolls into the post-holiday queue. Expect 26-May to print near-zero and 27–29 May to be dark, with a Monday 1-June re-opening that historically sees a 'catch-up' day combining 2–3 days of held registrations. Recent comparables: post-Ramadan (Eid Al Fitr) reopens have produced single-day prints 30–60% above the trailing average.",
+        "whyItMatters": "Anyone targeting a SPA-signing or DLD transfer window this week should plan around 1-June at the earliest — and brokers booking buyer travel, NOC requests or rent-vacate timing should treat the next 5 working days as effectively non-DLD. The print also resets the May 2026 run: with 25-May at AED 405M, week 22 will mechanically be much lower than week 21's AED 12.42B headline regardless of demand. Use this when framing 'is the market slowing' questions to clients next week — the answer is partly calendar, not fundamentals.",
+        "forWho": "Conveyancers planning transfer slots; brokers timing buyer/seller diligence visits; analysts adjusting week-22 transaction prints for holiday effect; and operators scheduling post-Eid relaunches or price-revisions.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/11c51886-8b60-4054-8a98-a52dd7c52050/pexels-walidphotoz-33779634.jpg",
+        "alt": "Dubai skyline aerial view illustrating DLD daily transaction print collapsing to AED 405M on 25 May 2026 at the start of the Eid Al Adha holiday window.",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-05-26T13:02:36.902Z"
+    },
     {
       "id": "dubai-jll-q1-2026-office-grade-b-23-4-prime-17-2-vacancy-7-3-may-25",
       "categories": [

@@ -3462,6 +3462,59 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260526t130236z",
+      "timestamp": "2026-05-26T13:02:36.902Z",
+      "source": "github-actions-sweep",
+      "summary": "Pre-Eid Al Adha sweep on 2026-05-26 captures three verified items: the AED 280M Villa Gaia resale on Jumeirah Bay (Dubai Sotheby's, 25-May), a Dubai Real Estate Court ruling cancelling a Business Bay hotel-unit registration after an installment default (24-May), and the 25-May DLD daily print collapsing to AED 405M ex-land as the public-sector holiday begins.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-villa-gaia-jumeirah-bay-aed-280m-sothebys-may-25-2026",
+          "title": "Villa Gaia, Jumeirah Bay Island — AED 280M (USD 76M) six-BR beachfront resale sold by Dubai Sotheby's at ~AED 12,794/sqft BUA, one of Q2 2026's largest ready-villa re-sales",
+          "category": "luxury",
+          "note": "Verified ultra-prime resale benchmark (AED 280M, ~AED 12,794/sqft BUA) — confirms the >AED 150M tier is still clearing while the broader market debates the buyer's-market call."
+        },
+        {
+          "id": "dubai-real-estate-court-business-bay-hotel-unit-aed-443k-installment-default-may-24-2026",
+          "title": "Dubai Real Estate Court cancels a Business Bay hotel-unit sale and reverses the buyer's registration after a four-year, AED 443K installment default — developer keeps the unit, buyer pays costs",
+          "category": "legal",
+          "note": "Fresh Dubai Real Estate Court precedent on post-handover installment defaults — useful operator-level reminder as Dubai's post-handover payment plans become the default selling tool."
+        },
+        {
+          "id": "dubai-dld-may-25-2026-daily-print-aed-405m-eid-al-adha-eve",
+          "title": "Dubai DLD daily print 2026-05-25 collapses to AED 405.06M ex-land as Eid Al Adha holiday window begins — the lightest single-day tape of the May 2026 run",
+          "category": "market",
+          "note": "Calendar-driven DLD execution gap: AED 405M ex-land confirms Eid Al Adha shuts down the registration tape until ~1-June; useful framing when week-22 prints land soft."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "legal",
+        "market",
+        "ready",
+        "distress",
+        "commercial",
+        "rental",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "auction-distress",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }
