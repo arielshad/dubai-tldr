@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-05-25T13:11:36.485Z",
+  "generatedAt": "2026-05-26T00:35:44.375Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-jll-q1-2026-office-grade-b-23-4-prime-17-2-vacancy-7-3-may-25",
+      "categories": [
+        "commercial",
+        "market",
+        "rental"
+      ],
+      "title": "JLL Q1 2026 UAE Market Dynamics — Dubai office rents post double-digit growth across the board (Grade B +23.4%, Grade A +19%, Prime +17.2% YoY) with prime vacancy at 0.7% and renewals +11.2% even as new contracts fall -7.7%",
+      "org": "JLL via Khaleej Times",
+      "date": "2026-05-25",
+      "publishDate": "2026-05-26T00:35:44.375Z",
+      "url": "https://www.khaleejtimes.com/business/property/uae-office-rents-surge-as-prime-space-shortage-tightens-market",
+      "summary": "JLL's Q1 2026 UAE Real Estate Market Dynamics report: Dubai Grade B office rents lead at +23.4% YoY as occupiers pushed out of locked prime stock; Grade A +19%, Prime +17.2%. Citywide vacancy nudges to 7.3% on deliveries but prime stays at 0.7%. Retail vacancy tightens to 4.8%, super-regional mall rents +12.4%.",
+      "tags": [
+        "jll",
+        "q1-2026",
+        "office",
+        "commercial",
+        "retail",
+        "rent",
+        "vacancy",
+        "renewals",
+        "flight-to-quality"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-CBD",
+        "DIFC",
+        "DXB-BBAY",
+        "DXB-MARINA",
+        "DXB-SZR"
+      ],
+      "metrics": {
+        "Dubai Prime office rent YoY": "+17.2%",
+        "Dubai Grade A office rent YoY": "+19.0%",
+        "Dubai Grade B office rent YoY": "+23.4%",
+        "Dubai citywide office vacancy": "7.3%",
+        "Dubai prime office vacancy": "0.7%",
+        "Dubai office inventory": "101.1 million sqft",
+        "Dubai office new contracts YoY": "-7.7%",
+        "Dubai office renewals YoY": "+11.2%",
+        "Dubai retail vacancy": "4.8%",
+        "Dubai super-regional mall rents YoY": "+12.4%",
+        "Abu Dhabi Prime office rent YoY": "+11.7%",
+        "Abu Dhabi prime office vacancy": "0.1%",
+        "Report quarter": "Q1 2026"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — UAE office rents surge as prime space shortage tightens market (25-May)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-office-rents-surge-as-prime-space-shortage-tightens-market"
+        },
+        {
+          "label": "GDN Online — UAE sees double-digit office rent growth, retail vacancy tightens: JLL (25-May)",
+          "url": "https://www.gdnonline.com/Details/1395787"
+        },
+        {
+          "label": "JLL UAE — Insights & Market Dynamics index",
+          "url": "https://www.jll.com/en-ae/insights"
+        }
+      ],
+      "explainer": {
+        "tagline": "Grade B is the new Grade A: Dubai office rents post double-digit growth across all tiers in Q1 2026 as prime stock runs at 0.7% vacancy.",
+        "whatIsIt": "JLL published its Q1 2026 UAE Real Estate Market Dynamics report on 25-May-2026. Dubai office rents grew double-digits across every tier — Grade B +23.4%, Grade A +19%, Prime +17.2% — as occupiers locked out of full prime stock cascade down to lower grades. Citywide vacancy nudged to 7.3% on new deliveries, but prime stayed compressed at 0.7%; renewals climbed +11.2% YoY while new contract registrations fell -7.7%.",
+        "howItWorks": "Dubai inventory: 101.1M sqft total office stock. Prime vacancy 0.7% means a tenant looking for premium SZR / DIFC / Business Bay space has almost nothing to choose from at any price. The 'flight to quality' shows in Grade B's +23.4% — landlords of Grade B in the right submarkets can re-paper deals at materially higher rates as prime-displaced tenants accept the trade. Retail tightened to 4.8% vacancy, super-regional malls +12.4% rent growth. Renewals +11.2% confirms existing occupiers are staying put rather than testing the market.",
+        "whyItMatters": "For commercial owners and brokers: this is the first hard Q1 2026 office number from a tier-1 advisor — it validates the AED 3B April off-plan office print and the 210% YTD commercial sales jump. Landlords of Grade A/B in Business Bay, DIFC fringe, SZR and Tecom can push at renewal. Occupiers should expect 15–25% increases on rollover and consider 5+ year leases now while supply lag persists. The new-contract -7.7% pullback flags how much price-elastic demand has already been priced out.",
+        "forWho": "Commercial landlords pricing renewals, asset managers underwriting office cap rates, brokers running corporate tenant rep, occupiers about to roll a Q3/Q4 2026 lease, and analysts watching the divergence between supply-led citywide vacancy and demand-led prime compression.",
+        "tryIt": "https://www.jll.com/en-ae/insights"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-25/n25nu8w3/Dubai-commercial-property.png",
+        "alt": "Dubai commercial office skyline along Sheikh Zayed Road, illustrating JLL's Q1 2026 Real Estate Market Dynamics report on rent growth and vacancy.",
+        "fit": "cover",
+        "credit": "Khaleej Times / JLL"
+      }
+    },
     {
       "id": "dubai-dld-week-21-2026-weekly-aed-12-42b-offplan-62-percent-may-25",
       "categories": [

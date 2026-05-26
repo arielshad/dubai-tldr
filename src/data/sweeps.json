@@ -3426,6 +3426,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260526t003544z",
+      "timestamp": "2026-05-26T00:35:44.375Z",
+      "source": "github-actions-sweep",
+      "summary": "JLL Q1 2026 UAE Real Estate Market Dynamics print landed 25-May, anchoring Dubai's commercial story: Grade B office leads with +23.4% YoY rent and prime vacancy stays compressed at 0.7% even as citywide vacancy eases to 7.3% on new deliveries.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-jll-q1-2026-office-grade-b-23-4-prime-17-2-vacancy-7-3-may-25",
+          "title": "JLL Q1 2026 UAE Market Dynamics — Dubai office rents post double-digit growth across the board (Grade B +23.4%, Grade A +19%, Prime +17.2% YoY) with prime vacancy at 0.7% and renewals +11.2% even as new contracts fall -7.7%",
+          "category": "commercial",
+          "note": "First tier-1 Q1 2026 office print from JLL — fills the gap between the existing AED 3B off-plan-office record (April) and the 210% commercial sales jump, with concrete grade-by-grade rent and vacancy figures."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commercial",
+        "market",
+        "rental"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
