@@ -1,8 +1,154 @@
 {
-  "generatedAt": "2026-05-26T13:02:36.902Z",
+  "generatedAt": "2026-05-27T00:35:54.915Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-al-mamzar-mega-plot-aed-300m-82k-sqft-jumeirah-bay-companion-may-25-2026",
+      "categories": [
+        "land",
+        "luxury",
+        "market"
+      ],
+      "title": "AED 300M Al Mamzar mega-plot trades on 2026-05-25 — 82,080 sqft at AED 3,655/sqft, alongside a 24,000 sqft Jumeirah Bay plot at AED 11,667/sqft for a combined AED 580M land print",
+      "org": "Dubai REST / Gulf Today",
+      "date": "2026-05-25",
+      "url": "https://www.gulftoday.ae/news/2026/05/25/two-plots-of-land-in-dubai-sold-for-dhs580-million",
+      "summary": "Dubai REST data published by Gulf Today on 25-May-2026 records two land plots changing hands for a combined AED 580M on the day: an 82,080 sqft Al Mamzar mega-plot at AED 300M (~AED 3,655/sqft) and a ~24,000 sqft Jumeirah Bay plot at AED 280M (~AED 11,667/sqft). The day's full sales tape printed AED 1.7B across 505 transactions; mortgages added AED 279M across 122 deals and gifts AED 160.5M across 15 deals.",
+      "tags": [
+        "land",
+        "al-mamzar",
+        "jumeirah-bay",
+        "luxury",
+        "coastal",
+        "DLD",
+        "may-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "AL-MAMZAR",
+        "DXB-JBI",
+        "DLD",
+        "LAND"
+      ],
+      "metrics": {
+        "Trade date": "2026-05-25 (Monday)",
+        "Plot 1 — Al Mamzar": "82,080 sqft @ AED 300M (~AED 3,655/sqft)",
+        "Plot 2 — Jumeirah Bay": "~24,000 sqft @ AED 280M (~AED 11,667/sqft)",
+        "Combined land print": "AED 580M",
+        "Day sales tape": "AED 1.7B across 505 transactions",
+        "Mortgages": "AED 279M across 122 deals",
+        "Gifts": "AED 160.5M across 15 deals",
+        "Source feed": "Dubai REST app (cited by Gulf Today, 25-May-2026 17:34)",
+        "Holiday context": "Last DLD session before Arafat Day (26-May) + Eid Al Adha (27-29 May)"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Two plots of land in Dubai sold for Dhs580 million (25-May-2026)",
+          "url": "https://www.gulftoday.ae/news/2026/05/25/two-plots-of-land-in-dubai-sold-for-dhs580-million"
+        },
+        {
+          "label": "Dubai REST app (official DLD transactions feed)",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        },
+        {
+          "label": "Property Finder — Al Mamzar land for sale comps",
+          "url": "https://www.propertyfinder.ae/en/buy/dubai/land-for-sale-deira-al-mamzar.html"
+        },
+        {
+          "label": "Property Finder — Jumeirah Bay Island transactions",
+          "url": "https://www.propertyfinder.ae/en/transactions/buy/dubai/jumeirah-bay-island"
+        }
+      ],
+      "explainer": {
+        "tagline": "Al Mamzar's 82,080 sqft mega-plot clears at AED 3,655/sqft on the last DLD session before Eid — the city's coastal-redev market is still bidding even into the holiday window.",
+        "whatIsIt": "Gulf Today on 25-May-2026 surfaced Dubai REST data showing two large land plots traded the same day for a combined AED 580M. The Al Mamzar plot at 82,080 sqft (~7,625 sqm) is the headline ticket — AED 300M (~AED 3,655/sqft), one of the larger single-asset coastal-area land deals printed this quarter. The Jumeirah Bay plot at ~24,000 sqft / AED 280M is the same plot footprint as the Villa Gaia mansion sale Gulf Today reported the same week, so treat that as the companion record rather than a second distinct deal.",
+        "howItWorks": "At AED 3,655/sqft, the Al Mamzar print sits roughly an order of magnitude below the Jumeirah Bay coastal-prime band but is a meaningful AED 300M consolidated land ticket — usable for hospitality, beach-club, branded-residence or master-community development. Buyers should pull the DLD title and Master Plan / Trakhees zoning before underwriting, as Al Mamzar sits inside Dubai Municipality's AED 3B Khor Al Mamzar / Al Mamzar Beach revamp corridor announced 5-May-2026 (AED 500M Phase 1 already opened). The Jumeirah Bay AED 11,667/sqft print is consistent with the AED 10K+/sqft ultra-prime band but is the same plot economics behind the AED 280M Villa Gaia resale Sotheby's announced this week — the land record and the asset record are the same transaction.",
+        "whyItMatters": "AED 1.7B in one day with two large land tickets going through on the eve of the public-sector Eid window is hard data that institutional and HNW land-buyers are still positioning, even with Iran-tensions overhead. The Al Mamzar coastal-redev story (AED 3B masterplan, Khor Al Mamzar Phase 1 already open, AED 500M contract already awarded) is now visibly translating into private land assembly — that is a 3-year leading indicator for branded-residence and hospitality launches along the Deira-side beachfront. Track who the registered buyer ends up being on DLD before pricing comps in this corridor.",
+        "forWho": "Land/plot brokers tracking large coastal tickets; developers underwriting Al Mamzar / Khor Al Mamzar corridor; HNW land-buyer reps watching Jumeirah Bay; appraisers benchmarking AED/sqft outside the established Marina/Downtown core; and analysts pricing the next wave of branded-residence supply north of the Creek.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+      },
+      "image": {
+        "url": "https://cdnx.premiumread.com/?url=https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/25/1081741.webp&w=800&q=100&f=webp&t=0.0.2",
+        "alt": "Aerial illustration of Dubai land plots near the coastal corridor accompanying Gulf Today's report on two land plots clearing AED 580M on 25 May 2026.",
+        "fit": "cover",
+        "credit": "Gulf Today / Dubai REST"
+      },
+      "publishDate": "2026-05-27T00:35:54.915Z"
+    },
+    {
+      "id": "dubai-khaleej-times-resident-investors-193k-4-8-year-renter-to-owner-may-26-2026",
+      "categories": [
+        "market",
+        "lead",
+        "visa"
+      ],
+      "title": "Khaleej Times reads Dubai's long-term-investment turn — 193K+ active investors with resident buyers >50% of value, avg renter-to-owner timeline now 4.8 years (eToro / First Time Home Buyer Programme)",
+      "org": "Khaleej Times (eToro analyst Nagham Hassan)",
+      "date": "2026-05-26",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-shifts-to-long-term-investment-destination-say-analysts",
+      "summary": "Khaleej Times on 26-May-2026 frames Dubai property as 'shifting to a long-term investment destination', citing eToro market analyst Nagham Hassan: Dubai's 2025 investor base expanded to 193,000+ active participants, resident investors now account for over 50% of investments by value, and the average UAE renter-to-homeowner timeline has dropped to 4.8 years. The piece anchors the shift to Dubai's First Time Home Buyer Programme and the Q1 2026 AED 252B / +31% YoY tape (record-breaking AED 917B in 2025).",
+      "tags": [
+        "khaleej-times",
+        "resident-investors",
+        "long-term-investment",
+        "first-time-buyer",
+        "FTHB-Programme",
+        "etoro",
+        "demographics",
+        "market-shift"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD",
+        "FTHB",
+        "MARKET"
+      ],
+      "metrics": {
+        "Active investor base (2025)": "193,000+",
+        "Resident investor share by value": ">50%",
+        "Avg renter → homeowner timeline (UAE)": "4.8 years",
+        "Q1 2026 transactions": "AED 252B (+31% YoY)",
+        "2025 total transactions": "AED 917B",
+        "REPI 2025 residential": "+9.81% YoY",
+        "Feb 2026 tape": "AED 84B",
+        "Mar 2026 tape": "AED 56B",
+        "Apr 2026 tape": "AED 69B (+23% MoM)",
+        "Analyst": "Nagham Hassan, eToro",
+        "Policy hook": "Dubai First Time Home Buyer Programme",
+        "Article date": "2026-05-26"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai property market shifts to long-term investment destination, say analysts (26-May-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-shifts-to-long-term-investment-destination-say-analysts"
+        },
+        {
+          "label": "DLD — First Time Home Buyer overview (official scheme page)",
+          "url": "https://dubailand.gov.ae/en/eservices/first-time-home-buyer-overview/"
+        },
+        {
+          "label": "Dubai Media Office — FTHB Programme helps 2,000+ residents become homeowners (Jan 2026 backgrounder)",
+          "url": "https://mediaoffice.ae/en/news/2026/january/22-01/dubai-first-time-home-buyer-program"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's 2025 investor base hit 193K+ with residents now >50% of value — Khaleej Times argues the city has structurally rotated from a flippers' market into a long-term ownership market.",
+        "whatIsIt": "Khaleej Times' 26-May-2026 explainer cites eToro market analyst Nagham Hassan to claim Dubai's investor pool has shifted in composition: 193,000+ active investors in 2025, with resident buyers now contributing over half of investment value, and the average UAE renter taking just 4.8 years to become a homeowner. The article ties the shift directly to the Dubai Land Department's First Time Home Buyer Programme — launched mid-2025 and credited with helping 2,000+ residents purchase by January 2026 — and frames Q1 2026's record AED 252B tape (+31% YoY) plus 2025's AED 917B annual print as the macro backdrop.",
+        "howItWorks": "Use this when pitching long-hold underwrites or when explaining why the secondary buyer is now the dominant price-setter rather than the off-plan flipper. The 4.8-year timeline is a behavioural-cohort statistic — useful for first-time-buyer broker pipelines, mortgage underwriting and Dubai REST tenant-credit screening (already opened to landlords via Etihad Credit Bureau in May 2026). The headline data points are analyst-attributed (eToro) rather than DLD official; the underlying 193K / >50% / 4.8-year breakdown is not yet sourced to a public DLD release, so independently verify against the FTHB Programme dashboard when underwriting institutional flows.",
+        "whyItMatters": "If Khaleej Times' read is right, the structural buyer of Dubai property has shifted from non-resident flipper to resident long-hold over the 2024-2026 window — that changes how brokers should pitch (use vs. yield), how developers should price post-handover plans, and how lenders should price LTV. It also stitches together this month's other signals (Bayut + dubizzle Day-58 recovery, Property Finder buyer-intent 68%, Whitewill AED 1-5M volume zone, Savills 45%/12-month buyer-intent survey) into a single narrative: Dubai is becoming a primary-residence market on top of its existing investor base, not instead of it.",
+        "forWho": "Brokers running first-time-buyer pipelines; developers calibrating post-handover plans to resident incomes; mortgage and FTHB-eligible product owners; underwriters pricing long-hold vs flip optionality; and analysts watching whether the resident-investor mix continues to climb past 50% of value into H2 2026.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/first-time-home-buyer-overview/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-26/1sak9uss/Dubai-property-rent.jpeg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline image accompanying Khaleej Times' 26 May 2026 read on Dubai's shift to long-term resident-investor ownership, citing 193K+ active investors and a 4.8-year renter-to-owner timeline.",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-05-27T00:35:54.915Z"
+    },
     {
       "id": "dubai-villa-gaia-jumeirah-bay-aed-280m-sothebys-may-25-2026",
       "categories": [

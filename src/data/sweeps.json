@@ -3515,6 +3515,49 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260527t003554z",
+      "timestamp": "2026-05-27T00:35:54.915Z",
+      "source": "github-actions-sweep",
+      "summary": "Eid Al Adha holiday window thins the news flow (Arafat Day 26-May, Eid 27-29 May). Two qualifying items surface: a fresh AED 300M Al Mamzar mega-plot deal (82,080 sqft @ AED 3,655/sqft) printed alongside a Jumeirah Bay 24,000 sqft plot on Monday 25-May, and Khaleej Times' 26-May read of Dubai's structural shift to long-term/resident investors (193K+ active investors, resident share >50% of value, 4.8-yr avg renter-to-owner timeline).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-al-mamzar-mega-plot-aed-300m-82k-sqft-jumeirah-bay-companion-may-25-2026",
+          "title": "AED 300M Al Mamzar mega-plot trades on 2026-05-25 — 82,080 sqft at AED 3,655/sqft, alongside a 24,000 sqft Jumeirah Bay plot at AED 11,667/sqft for a combined AED 580M land print",
+          "category": "land",
+          "note": "Added under land."
+        },
+        {
+          "id": "dubai-khaleej-times-resident-investors-193k-4-8-year-renter-to-owner-may-26-2026",
+          "title": "Khaleej Times reads Dubai's long-term-investment turn — 193K+ active investors with resident buyers >50% of value, avg renter-to-owner timeline now 4.8 years (eToro / First Time Home Buyer Programme)",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "land",
+        "luxury",
+        "market",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
