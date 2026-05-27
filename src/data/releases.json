@@ -1,8 +1,161 @@
 {
-  "generatedAt": "2026-05-27T00:35:54.915Z",
+  "generatedAt": "2026-05-27T13:07:56.348Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-valustrat-april-2026-vpi-prime-outpace-wider-market-villas-8-3-may-27",
+      "categories": [
+        "market",
+        "luxury",
+        "ready"
+      ],
+      "title": "ValuStrat April 2026 VPI — prime homes outpace wider market, villas +8.3% YoY, off-plan share climbs to 79%",
+      "org": "Khaleej Times / ValuStrat / eXp Realty Dubai",
+      "date": "2026-05-27",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-prime-homes-outpace-wider-market-as-price-growth-stays-resilient",
+      "summary": "ValuStrat VPI hits 224.9 in April with annual growth still at 5.3%; prime grew 2.7% QoQ vs 2.2% for the wider market, villas +8.3% YoY (Jumeirah Islands +24.5%), off-plan share climbs to 79% as ready sales drop 43.8% YoY.",
+      "tags": [
+        "valustrat",
+        "vpi",
+        "prime",
+        "villas",
+        "off-plan",
+        "rea-rep",
+        "buyers-market"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "JUMEIRAH-ISL",
+        "EMIRATES-HILLS",
+        "MEADOWS",
+        "DSO",
+        "DOWNTOWN"
+      ],
+      "metrics": {
+        "VPI April 2026": "224.9",
+        "Monthly change (April)": "-1.9%",
+        "Monthly change (March)": "-5.9%",
+        "Annual change": "+5.3%",
+        "Prime q/q growth": "+2.7%",
+        "Wider market q/q growth": "+2.2%",
+        "Villa annual growth": "+8.3%",
+        "Apartment annual growth": "+0.5%",
+        "Off-plan share": "79%",
+        "Off-plan transactions": "10,272 (-13.9% YoY)",
+        "Ready home sales": "2,661 (-43.8% YoY)",
+        "Jumeirah Islands villa growth": "+24.5%",
+        "The Meadows villa growth": "+14.9%",
+        "Emirates Hills villa growth": "+14.6%",
+        "Dubai Silicon Oasis apartments": "+12.4%",
+        "Burj Khalifa apartments": "-10.4%",
+        "Ultra-prime AED 30M+ deals": "16",
+        "Ultra-prime AED 50M+ deals": "4"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai prime homes outpace wider market",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-prime-homes-outpace-wider-market-as-price-growth-stays-resilient"
+        },
+        {
+          "label": "ValuStrat — VPI methodology and downloads",
+          "url": "https://www.valustrat.com/insights/valustrat-price-index-vpi/"
+        }
+      ],
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-27/3fsm1v9g/Dubai-Skyline.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline as ValuStrat publishes April 2026 Price Index showing prime homes outpacing the wider market",
+        "fit": "cover",
+        "credit": "Khaleej Times / ValuStrat"
+      },
+      "explainer": {
+        "tagline": "Prime keeps gaining while ready volume halves — the dispersion inside Dubai's REPI just widened.",
+        "whatIsIt": "ValuStrat's April 2026 Price Index reads 224.9 with annual growth still at 5.3%, but the spread under the headline is now the story: villas +8.3% YoY, apartments +0.5%, prime sub-communities running 2.7% QoQ versus 2.2% for the mainstream. The note (co-published by eXp Realty's Dounia Fadi) calls out 16 deals above AED 30M and 4 above AED 50M in the same window.",
+        "howItWorks": "The monthly print extends two trends: (1) ready resale is contracting hard — 2,661 ready sales in April, down 43.8% YoY, while off-plan share climbs to 79% on 10,272 deals; (2) location dispersion is widening. Jumeirah Islands villas +24.5% YoY, The Meadows +14.9%, Emirates Hills +14.6% lead the up-list; Burj Khalifa apartments are down 10.4% and DSO / Remraam apartments are the apartment outperformers at +12.4%. The April-on-March move is still negative at -1.9% but slower than March's -5.9% step-down.",
+        "whyItMatters": "The data confirms two operator playbooks: a villa-led prime bid that's resilient even as broader resale flow halves, and a widening gap between top sub-communities and lagging towers. Underwriting that ignores location dispersion (\"Dubai is up 5.3%\") will misprice every deal. Look for ready-villa supply tightness in Jumeirah Islands / Meadows / Emirates Hills, and apartment value plays in DSO / Remraam.",
+        "forWho": "Villa underwriters, prime brokers, ready-resale buyers comparing sub-communities, and analysts tracking the cyclical cooling.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/dubai-prime-homes-outpace-wider-market-as-price-growth-stays-resilient"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "handle": "khaleejtimes",
+        "profileUrl": "https://www.khaleejtimes.com/business/property"
+      },
+      "publishDate": "2026-05-27T13:07:56.348Z"
+    },
+    {
+      "id": "dubai-construction-pivot-infrastructure-innovo-30b-may-26-2026",
+      "categories": [
+        "market",
+        "commercial",
+        "developer"
+      ],
+      "title": "UAE construction \"pivots\" from real estate to infrastructure — Innovo books AED 30B backlog as Dubai Metro Gold Line, Tasreef, DSO and DIFC expansion fill the gap",
+      "org": "The National / Innovo Group",
+      "date": "2026-05-26",
+      "url": "https://www.thenationalnews.com/business/property/2026/05/26/uae-construction-sector-pivoting-from-real-estate-to-infrastructure-focus/",
+      "summary": "The National reports UAE construction is rotating from speculative-tower work toward government-backed infrastructure: Innovo's AED 30B backlog, Abu Dhabi's AED 55B PPP pipeline, Dubai Metro Gold Line AED 34B, Tasreef drainage AED 2.5B, DSO expansion AED 12.8B and DIFC expansion AED 100B all booked.",
+      "tags": [
+        "construction",
+        "infrastructure",
+        "innovo",
+        "metro-gold-line",
+        "tasreef",
+        "difc",
+        "dso",
+        "ppp",
+        "supply"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DIFC",
+        "DSO",
+        "DOWNTOWN"
+      ],
+      "metrics": {
+        "Innovo Group backlog": "AED 30B ($8.2B)",
+        "Abu Dhabi PPP pipeline": "AED 55B (24 projects)",
+        "Dubai Metro Gold Line": "AED 34B",
+        "Dubai Tasreef drainage": "AED 2.5B",
+        "Dubai Silicon Oasis expansion": "AED 12.8B",
+        "DIFC expansion": "AED 100B",
+        "Sharjah exhibition project": "AED 500M",
+        "Dubai Q1 transaction volume growth": "+21% YoY",
+        "March transaction volume": "-9.6% MoM"
+      },
+      "links": [
+        {
+          "label": "The National — UAE construction sector pivots to infrastructure",
+          "url": "https://www.thenationalnews.com/business/property/2026/05/26/uae-construction-sector-pivoting-from-real-estate-to-infrastructure-focus/"
+        },
+        {
+          "label": "Innovo Group — corporate site",
+          "url": "https://www.innovogroup.com/"
+        }
+      ],
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/T5UN3SHTGNC2HDHCQQ2KMZAEFU.jpg?smart=true&auth=d9d99d0c91e13f7fcd37f1361aa65525b86afa8b32a6e6d198253b1b330eadf8&width=400&height=225",
+        "alt": "UAE construction site as Innovo and other main contractors rotate backlog from speculative real estate to government infrastructure",
+        "fit": "cover",
+        "credit": "The National / Innovo Group"
+      },
+      "explainer": {
+        "tagline": "Contractors are reloading on government infrastructure as developer demand pauses — supply, costs and timing all shift.",
+        "whatIsIt": "Bishoy Azmy, CEO of Innovo Group (the second-largest UAE main contractor), tells The National that the construction sector is recalibrating from speculative real-estate towers toward government-backed infrastructure. Innovo says none of its 30+ active projects stopped during the regional conflict; its backlog now sits at AED 30B with a more diversified mix.",
+        "howItWorks": "The pipeline being absorbed: Abu Dhabi PPP rolls 24 projects worth AED 55B; Dubai's Metro Gold Line is AED 34B; Tasreef drainage upgrades AED 2.5B; the Dubai Silicon Oasis expansion AED 12.8B and DIFC expansion AED 100B. Off the developer side, Dubai Q1 transaction volume was up 21% YoY but March-only volume dipped 9.6% MoM — consistent with sponsors taking a beat before launching peripheral towers.",
+        "whyItMatters": "For Dubai property operators this is a supply-and-cost signal more than a demand one. Contractor capacity that was getting absorbed by speculative towers now bids on Metro / drainage / district expansions, which (a) keeps building-cost inflation off the boil for tier-2 developers and (b) tilts the next wave of completed product back toward established sub-markets with infrastructure already in place — exactly the locations where ValuStrat is also showing the strongest prime price growth.",
+        "forWho": "Underwriters comparing off-plan launch risk, contractors bidding for residential work, brokers explaining \"why launches paused\" to buyers.",
+        "tryIt": "https://www.thenationalnews.com/business/property/2026/05/26/uae-construction-sector-pivoting-from-real-estate-to-infrastructure-focus/"
+      },
+      "author": {
+        "name": "The National",
+        "handle": "thenationalnews",
+        "profileUrl": "https://www.thenationalnews.com/business/property/"
+      },
+      "publishDate": "2026-05-27T13:07:56.348Z"
+    },
     {
       "id": "dubai-al-mamzar-mega-plot-aed-300m-82k-sqft-jumeirah-bay-companion-may-25-2026",
       "categories": [

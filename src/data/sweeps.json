@@ -3558,6 +3558,46 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260527t130756z",
+      "timestamp": "2026-05-27T13:07:56.348Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh tier-1 reads for the 2026-05-27 sweep: ValuStrat's April 2026 VPI tilt — prime homes outpacing the wider market with villas +8.3% YoY and off-plan share climbing to 79% — and The National's flag that UAE construction is rotating from speculative real-estate towers into infrastructure backlogs (Innovo AED 30B, Abu Dhabi PPP AED 55B, Dubai Metro Gold Line AED 34B).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-valustrat-april-2026-vpi-prime-outpace-wider-market-villas-8-3-may-27",
+          "title": "ValuStrat April 2026 VPI — prime homes outpace wider market, villas +8.3% YoY, off-plan share climbs to 79%",
+          "category": "market",
+          "note": "Fresh ValuStrat April monthly print published 2026-05-27, distinct from the existing REPI 2025 annual and April-monthly VPI items already in feed. Adds prime-vs-wider segmentation that the platform doesn't currently surface."
+        },
+        {
+          "id": "dubai-construction-pivot-infrastructure-innovo-30b-may-26-2026",
+          "title": "UAE construction \"pivots\" from real estate to infrastructure — Innovo books AED 30B backlog as Dubai Metro Gold Line, Tasreef, DSO and DIFC expansion fill the gap",
+          "category": "market",
+          "note": "The National's 2026-05-26 read on construction-sector diversification — distinct from existing handover-delay items (Fitch/Anarock cost-jump) because it focuses on contractor backlog rotation toward government infrastructure rather than on supply slippage."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
