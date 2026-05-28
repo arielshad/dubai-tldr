@@ -3635,6 +3635,40 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260528t131218z",
+      "timestamp": "2026-05-28T13:12:18.761Z",
+      "source": "github-actions-sweep",
+      "summary": "Eid Al Adha holiday sweep on 2026-05-28: DLD daily prints have paused (last daily tape was 2026-05-25 at AED 405M, already in the feed) and developer/agency press flow is light. One verified new market read added — Khaleej Times' Sankey Prasad / Sterling Ark 'mature phase' framing tying Q1 DLD AED 252B, Dh173B foreign investment component, +2% QoQ apartment rents (villas flat — first nearly-unchanged QoQ since H1 2021), and continued office absorption into a single Q2-pivot narrative.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-khaleej-times-mature-phase-sterling-ark-q1-2026-rents-2-percent-flat-may-28-2026",
+          "title": "Khaleej Times reads Dubai's 'mature phase' — Sterling Ark's Sankey Prasad ties Q1 AED 252B (Dh173B foreign-investment), apartment rents +2% QoQ / villas flat (first near-flat QoQ since H1 2021) and continued office absorption into one Q2-pivot frame",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

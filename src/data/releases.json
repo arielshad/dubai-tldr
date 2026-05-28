@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-05-28T00:30:44.973Z",
+  "generatedAt": "2026-05-28T13:12:18.761Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-khaleej-times-mature-phase-sterling-ark-q1-2026-rents-2-percent-flat-may-28-2026",
+      "categories": [
+        "market",
+        "rental",
+        "commercial"
+      ],
+      "title": "Khaleej Times reads Dubai's 'mature phase' — Sterling Ark's Sankey Prasad ties Q1 AED 252B (Dh173B foreign-investment), apartment rents +2% QoQ / villas flat (first near-flat QoQ since H1 2021) and continued office absorption into one Q2-pivot frame",
+      "org": "Khaleej Times",
+      "date": "2026-05-28",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-enters-mature-phase-as-demand-stays-strong-rents-stabilise",
+      "summary": "Khaleej Times' 28-May read tags Dubai's Q1 print (AED 252B / Dh173B foreign investment) as a turn into a 'mature and selective growth phase' — apartment rents +2% QoQ, villas flat, with Colliers handover data and ongoing office absorption used to argue oversupply fears are overdrawn.",
+      "tags": [
+        "Khaleej Times",
+        "Sterling Ark",
+        "Sankey Prasad",
+        "DLD Q1 2026",
+        "Colliers Middle East",
+        "rents",
+        "office absorption",
+        "AED 252B",
+        "AED 173B foreign investment"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DXB-MARINA",
+        "DOWNTOWN",
+        "PALM"
+      ],
+      "metrics": {
+        "Q1 2026 DLD transactions": "AED 252B",
+        "Q1 2026 investment component": "AED 173B",
+        "Foreign investment YoY": "+26%",
+        "Apartment rents QoQ (Q1 2026)": "+2%",
+        "Villa rents QoQ (Q1 2026)": "0% (flat)",
+        "Apartment handovers (per month, Q1)": "10,000+",
+        "Villa handovers (Q1)": "~1,900",
+        "Apartment pipeline through end-2026": "~65,000",
+        "Villa pipeline through end-2026": "~12,500"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai property market enters mature phase",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-property-market-enters-mature-phase-as-demand-stays-strong-rents-stabilise"
+        },
+        {
+          "label": "DLD — Dubai's real estate transactions surge 31% to reach AED 252B in Q1 2026",
+          "url": "https://dubailand.gov.ae/en/news-media/dubai-s-real-estate-transactions-surge-31-to-reach-aed-252-billion-in-q1-2026/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sankey Prasad / Sterling Ark gives Dubai's Q1 print a 'mature phase' label — useful framing for any buyer trying to underwrite a 2026 entry without buying the panic narrative.",
+        "whatIsIt": "Somshankar Bandyopadhyay (Khaleej Times) bundles DLD's Q1 2026 result, Colliers' supply update and Sterling Ark founder Sankey Prasad's analyst take into a 28-May piece arguing Dubai is rotating from post-pandemic expansion into 'mature and selective growth' rather than a generalised slowdown. The newsy data points: rents nearly flat QoQ for the first time since H1 2021 and office absorption still strong even with the residential debate live.",
+        "howItWorks": "Numbers cited: Q1 2026 transactions AED 252B with a Dh173B investment component, foreign investment +26%; apartment rents +2% QoQ, villas 0% QoQ — Prasad explicitly flags this as the first near-unchanged QoQ rent print since H1 2021. Colliers' supply data is reused: 10,000+ apartment handovers per month in Q1, ~1,900 Q1 villa handovers, ~65,000 apartments and ~12,500 villas still to land by end-2026. Office absorption is described as 'continuously strong' with global firms anchoring regional HQs — Prasad's argument: don't paint the residential oversupply narrative across the whole market.",
+        "whyItMatters": "For a buyer or operator screening the May 2026 tape, this is the first credible 'rent stabilisation' read since the post-Covid run — pair it with the Bayut/dubizzle Day-58 recovery print and Property Finder's 68% buyer-intent number already on the feed, and it tightens the 'is the bottom in?' debate. Sellers can use the Sterling Ark frame to push back on cut-now demands; buyers should still triangulate against the AGBI/LuxuryPriceDrops AED 1.7B cut tape and the Sterling Capital prime stress-test before paying ask.",
+        "forWho": "Resident end users underwriting a 2026 entry, brokers negotiating rent renewals, office tenants pricing fit-out timelines, and HNW buyers stress-testing the 'mature market' frame against the live AGBI / LuxuryPriceDrops cut narrative.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/dubai-property-market-enters-mature-phase-as-demand-stays-strong-rents-stabilise"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-28/ksjn2e9y/Dubai-skyline5.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline at dusk — Khaleej Times hero image accompanying the 28-May 'mature phase' read on Q1 2026 transactions and Q1 rents.",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "handle": "Khaleej Times",
+        "profileUrl": "https://www.khaleejtimes.com/business/property/dubai-property-market-enters-mature-phase-as-demand-stays-strong-rents-stabilise"
+      },
+      "publishDate": "2026-05-28T13:12:18.761Z"
+    },
     {
       "id": "dubai-valustrat-april-2026-vpi-prime-outpace-wider-market-villas-8-3-may-27",
       "categories": [
