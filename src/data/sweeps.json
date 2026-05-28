@@ -3598,6 +3598,43 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260528t003044z",
+      "timestamp": "2026-05-28T00:30:44.973Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep on 2026-05-28T00:24Z, ~11h after the previous run (2026-05-27T13:08Z). Eid Al Adha holiday window has thinned tape (DLD 2026-05-25 print collapsed to AED 405M ex-land, already in feed) and no qualifying primary-source items in the 12h window beat the inclusion bar. The voiceofemirates.com 5-month YTD aggregate (AED 253.59B / 72,090 deals through ~25-May) is a secondary aggregation of weekly DLD prints already represented via the week 19, 20 and 21 cards in the feed — skipped as filler.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "luxury",
+        "commercial",
+        "developer",
+        "auction",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
