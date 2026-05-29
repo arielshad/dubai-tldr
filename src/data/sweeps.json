@@ -3694,6 +3694,40 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260529t131630z",
+      "timestamp": "2026-05-29T13:16:30.374Z",
+      "source": "github-actions-sweep",
+      "summary": "Eid Al Adha holiday window (Wed 27 May 2026) thinned Dubai's property news flow. Every May 27–28 piece surfaced — Khaleej Times' Sankey Prasad 'mature phase' read, the May 27 ValuStrat-April prime-segment outperform, the May 28 long-term-investment shift — was already in the feed from the previous sweep, and the freshest fully-dated data drop (Voice of Emirates' Jan–25 May YTD AED 253.59B / 72,090-deal print) is dated 26 May 2026, just outside the 72h `MAX_DATE_AGE_HOURS` cap. No qualifying new cards.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "offplan",
+        "luxury",
+        "developer",
+        "distress",
+        "rental",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
