@@ -3669,6 +3669,31 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260529t003631z",
+      "timestamp": "2026-05-29T00:36:31.436Z",
+      "source": "github-actions-sweep",
+      "summary": "Eid Al Adha sweep (May 26-29 holiday window): no qualifying new items inside the 72h date cap. DLD registry, mediaoffice.ae press desk and most major Dubai property outlets are paused for the 6-day private / 9-day public sector break; the existing feed already covers every named pre-Eid story (Khaleej Times mature-phase Q1 read, ValuStrat April VPI, KT resident-investors / 4.8-year renter-to-owner, construction-pivot-to-infrastructure, Al Mamzar mega-plot, Villa Gaia AED 280M, RDC Business Bay hotel-unit cancellation, Eid-eve AED 405M daily print).",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
