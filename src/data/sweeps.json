@@ -3728,6 +3728,30 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260530t002940z",
+      "timestamp": "2026-05-30T00:29:40.701Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty 2026-05-30 sweep. The previous run (2026-05-29T13:16Z) already captured the May 27–28 tier-1 prints (Khaleej Times mature-phase read, ValuStrat April VPI, Sterling Ark Q1 frame, construction-pivot piece, Al Mamzar mega-plot, Villa Gaia, Business Bay hotel-unit installment-default ruling, DLD daily 2026-05-25 print). Subsequent surfaces showed no qualifying new items: TRER has not posted a daily review past 26-May (Eid Al Adha window is suppressing transaction volume), mediaoffice.ae/news/2026 returns 404, Khaleej Times / Gulf News / The National / Arabian Business / Zawya / TradeArabia property sections all surface articles already in the feed or older than 72h. Inclusion bar held — no filler.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
