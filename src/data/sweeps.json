@@ -3752,6 +3752,44 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260530t122917z",
+      "timestamp": "2026-05-30T12:29:17.878Z",
+      "source": "github-actions-sweep",
+      "summary": "Eid Al Adha holiday lull (May 26-29) muted Dubai's primary property news flow; the few late-May items that surfaced (Khaleej Times mature-phase piece on May 28, ValuStrat April VPI on May 27, May 26 DLD daily print, Eid Reunion RDC initiative) are already on the feed or fall outside the 72h date cap. No qualifying new opportunity emerged this sweep.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
