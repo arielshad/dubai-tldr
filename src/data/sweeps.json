@@ -3790,6 +3790,43 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260531t003158z",
+      "timestamp": "2026-05-31T00:31:58.382Z",
+      "source": "github-actions-sweep",
+      "summary": "Eid Al Adha holiday week (UAE private sector off May 26-29) muted Dubai property news flow; one tier-1 monthly print verified — Elite Merit's April 2026 read syndicated via TradeArabia (29 May) and Bahrain GDN/BizToday (29-30 May) with AED 68.6B total transactions, AED 19.7B off-plan-apartments monthly high, 995-deal AED 10M+ luxury record, 6.62% gross yields and the first negative rental-index print (-1.26% MoM).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-elite-merit-april-2026-aed-68-6b-transactions-995-luxury-deals-may-29-2026",
+          "title": "Elite Merit April 2026 Dubai print — AED 68.6B total transactions (+20% MoM, 18,847 deals), AED 19.7B off-plan apartments (2026 monthly high), 995-deal AED 10M+ luxury record, gross yields 6.62% as rental index posts first negative tick (-1.26% MoM)",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "offplan",
+        "rental"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

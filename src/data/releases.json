@@ -1,8 +1,99 @@
 {
-  "generatedAt": "2026-05-30T12:29:17.878Z",
+  "generatedAt": "2026-05-31T00:31:58.382Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-elite-merit-april-2026-aed-68-6b-transactions-995-luxury-deals-may-29-2026",
+      "categories": [
+        "market",
+        "luxury",
+        "offplan",
+        "rental"
+      ],
+      "title": "Elite Merit April 2026 Dubai print — AED 68.6B total transactions (+20% MoM, 18,847 deals), AED 19.7B off-plan apartments (2026 monthly high), 995-deal AED 10M+ luxury record, gross yields 6.62% as rental index posts first negative tick (-1.26% MoM)",
+      "org": "Elite Merit Real Estate / TradeArabia",
+      "date": "2026-05-29",
+      "url": "https://tradearabia.com/News/463065/Dubai-real-estate-transactions-rise-20-Percent-in-April-to-$18.68bn-",
+      "summary": "Elite Merit's April 2026 Dubai market report (released via TradeArabia on 29 May 2026): AED 68.6B in 18,847 DLD-registered transactions, +20% MoM rebound after Feb-Mar geopolitical pause. Mortgage flow +33.5% MoM to AED 14.52B; cash sales +13.5% MoM to AED 48.34B. Off-plan holds 70.5% with off-plan-apartment leg at AED 19.7B (2026 monthly high). AED 10M+ luxury hits an all-time 995-deal record (5.9% of market) on Palm Jebel Ali / Aman rotation. Rental index posts first negative tick at -1.26% MoM; gross yields 6.62%. Resale volumes -43% YoY.",
+      "tags": [
+        "Elite Merit",
+        "Ilya Demidov",
+        "April 2026",
+        "DLD print",
+        "off-plan apartments",
+        "luxury 10M+",
+        "rental index",
+        "gross yields",
+        "Jumeirah Golf Estates",
+        "Dubai South",
+        "Emirates Hills",
+        "Jumeirah Bay Island"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-WIDE",
+        "JGE",
+        "DXB-SOUTH",
+        "EMIRATES-HILLS",
+        "JUMEIRAH-BAY"
+      ],
+      "metrics": {
+        "April 2026 total transactions": "AED 68.6B (USD 18.68B)",
+        "MoM transaction value change": "+20.0%",
+        "April registered transactions": "18,847",
+        "Mortgage activity": "AED 14.52B (+33.5% MoM)",
+        "Cash sales": "AED 48.34B (+13.5% MoM)",
+        "Off-plan share": "70.5% of adjusted market",
+        "Off-plan apartments": "AED 19.7B (2026 monthly high)",
+        "AED 10M+ luxury deals": "995 (5.9% of market — all-time record)",
+        "Rental index MoM": "-1.26% (first negative monthly print)",
+        "Average gross rental yields": "6.62%",
+        "Resale volumes YoY": "-43%",
+        "Jumeirah Golf Estates apts MoM": "+5.75%",
+        "Dubai South MoM": "+2.64%",
+        "Emirates Hills MoM": "-15.43%",
+        "Jumeirah Bay Island apts MoM": "-8.30%"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — 29 May 2026 syndication",
+          "url": "https://tradearabia.com/News/463065/Dubai-real-estate-transactions-rise-20-Percent-in-April-to-$18.68bn-"
+        },
+        {
+          "label": "Bahrain GDN Online mirror",
+          "url": "https://www.gdnonline.com/Details/1396119/Dubai-real-estate-transactions-rise-20-in-April-to-$1868bn-"
+        },
+        {
+          "label": "BizToday extended write-up (30 May 2026)",
+          "url": "https://www.biztoday.news/2026/05/30/dubai-real-estate-transactions-rise-20-mom-to-aed-68-6b-in-april/"
+        },
+        {
+          "label": "Elite Merit Real Estate",
+          "url": "https://www.elitemerit.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First post-Eid DLD-wide monthly read: April rebounds to AED 68.6B with a 995-deal luxury record but the rental index finally cracks.",
+        "whatIsIt": "Elite Merit Real Estate (Managing Director Ilya Demidov) put out an April 2026 Dubai market snapshot that TradeArabia syndicated on 29 May and Bahrain GDN/BizToday mirrored 29-30 May. It is the first DLD-wide April read that anchors on transaction value rather than just residential sales, and it flags both the strongest luxury month on record and the first negative rental-index print since the cycle began.",
+        "howItWorks": "AED 68.6B (USD 18.68B) across 18,847 registered transactions in April, +20% MoM. Cash flow led at AED 48.34B (+13.5% MoM) but the mortgage leg jumped 33.5% MoM to AED 14.52B as buyers re-engaged after the late-Feb Hormuz shock. Off-plan still ran 70.5% of adjusted market, with off-plan apartments posting a 2026 monthly high of AED 19.7B. AED 10M+ luxury booked 995 deals (5.9% of the month) — an all-time record — driven by capital rotation into Palm Jebel Ali and Aman Residences. Resale volumes were down 43% YoY, gross yields held at 6.62%, and the rental index ticked -1.26% MoM, its first negative print of the cycle.",
+        "whyItMatters": "The cash/mortgage split confirms re-leveraging is back: mortgage AED + 33.5% MoM is roughly twice the cash growth rate, so banks are clearing files again after the March LTV cut. The 995-deal luxury count beats the prior Q1 KT $10M-deal pace — operators chasing AED 10M+ stock should be checking inventory in Palm Jebel Ali and Aman comps now. Most importantly, a -1.26% MoM rental index is the first concrete confirmation that rents are softening at the macro level, not just in operator anecdotes — landlords with 2026 renewal cycles should pencil in flatter ask, while yield buyers underwriting at 6.6% have a fresh benchmark.",
+        "forWho": "Investors underwriting Dubai-wide April comps, AED 10M+ luxury brokers prospecting Palm Jebel Ali / Aman Residences buyers, landlords pricing 2026 renewals, and lenders sizing post-March re-leveraging.",
+        "tryIt": "https://tradearabia.com/News/463065/Dubai-real-estate-transactions-rise-20-Percent-in-April-to-$18.68bn-"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/29/TA_20260529171233.webp",
+        "alt": "Dubai skyline cityscape illustrating April 2026 real-estate transaction recovery — Elite Merit / TradeArabia report image",
+        "fit": "cover",
+        "credit": "TradeArabia"
+      },
+      "author": {
+        "name": "Ilya Demidov",
+        "handle": "Elite Merit Real Estate",
+        "profileUrl": "https://www.linkedin.com/in/ilyademidov/"
+      },
+      "publishDate": "2026-05-31T00:31:58.382Z"
+    },
     {
       "id": "dubai-khaleej-times-mature-phase-sterling-ark-q1-2026-rents-2-percent-flat-may-28-2026",
       "categories": [
