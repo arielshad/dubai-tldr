@@ -3827,6 +3827,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260531t123142z",
+      "timestamp": "2026-05-31T12:31:42.834Z",
+      "source": "github-actions-sweep",
+      "summary": "Two verified items from the last 72h: the UAE Civil Transactions Law (Federal Decree-Law 25/2025) takes effect 1 June 2026 with concrete real-estate-contract reforms (TradeArabia 31 May 2026), and Gulf Today's 29 May 2026 read of DXB Interact post-crisis buyer-nationality split (Indians 20.59%, British 13.26%, Egyptians 12.60%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-uae-federal-decree-law-25-2025-civil-transactions-june-1-2026-real-estate",
+          "title": "UAE Federal Decree-Law No. 25 of 2025 (new Civil Transactions Code) takes effect 1 June 2026 — Dubai SPAs get an extended 12-month latent-defect window, mandatory usufructuary registration, sale-by-sample protections, and a statutory pre-contract disclosure duty",
+          "category": "legal",
+          "note": "Major regulatory signal: latent-defect window doubles to 12 months, usufructuary contracts need registration, pre-contract disclosure duty — Dubai SPAs, off-plan reservation forms and free-zone leases all need review before 1 June. Verified across TradeArabia (31 May 2026), Gulf News (31 May 2026), Charles Russell Speechlys and Squire Patton Boggs."
+        },
+        {
+          "id": "dubai-dxb-interact-indian-buyers-2059-percent-post-crisis-nationality-may-29-2026",
+          "title": "DXB Interact post-crisis Dubai buyer-nationality split (end-Feb → 29 May 2026) — Indians 20.59% of purchases, British 13.26%, Egyptians 12.60%, Americans 8.99%, Pakistanis 6.94%, Saudis 5.72%, Australians 5.72%",
+          "category": "market",
+          "note": "Cleanest available post-crisis buyer-nationality scoreboard, sourced directly from DXB Interact transaction registry by Gulf Today on 29 May 2026. Includes 17 nationality shares and 5 regional bloc totals — actionable for broker lead-gen allocation."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "legal",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

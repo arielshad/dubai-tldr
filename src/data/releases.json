@@ -1,8 +1,179 @@
 {
-  "generatedAt": "2026-05-31T00:31:58.382Z",
+  "generatedAt": "2026-05-31T12:31:42.834Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-uae-federal-decree-law-25-2025-civil-transactions-june-1-2026-real-estate",
+      "categories": [
+        "legal",
+        "market"
+      ],
+      "title": "UAE Federal Decree-Law No. 25 of 2025 (new Civil Transactions Code) takes effect 1 June 2026 — Dubai SPAs get an extended 12-month latent-defect window, mandatory usufructuary registration, sale-by-sample protections, and a statutory pre-contract disclosure duty",
+      "org": "TradeArabia / Gulf News / Charles Russell Speechlys",
+      "date": "2026-05-31",
+      "url": "https://tradearabia.com/News/463126/UAE%E2%80%99s-new-civil-transactions-law-to-reshape-contracts-from-June-1",
+      "summary": "TradeArabia (31 May 2026) and Gulf News (31 May 2026) both confirm Federal Decree-Law No. 25 of 2025 — the new UAE Civil Transactions Code — kicks in on 1 June 2026, repealing the 1985 Civil Code. For Dubai real-estate practice the headline shifts are: latent-defect liability extended from 6 to 12 months (longer if warranted), mandatory registration of usufructuary-rights contracts (nullity on failure), clearer sale-by-sample/model rules, gross-undervaluation protection for parties lacking full legal capacity, and a statutory pre-contract good-faith disclosure duty. Legal age drops 21→18. Contracts silent on governing law default to the new code from 1 June.",
+      "tags": [
+        "Federal Decree-Law 25/2025",
+        "Civil Transactions Code",
+        "June 1 2026",
+        "latent defect",
+        "usufructuary registration",
+        "sale by sample",
+        "pre-contract disclosure",
+        "good faith",
+        "DIFC",
+        "ADGM",
+        "Dr Hasan Elhais",
+        "Amal Al Rashedi Lawyers",
+        "Charles Russell Speechlys"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UAE-LAW",
+        "DXB-RE",
+        "DIFC",
+        "ADGM"
+      ],
+      "metrics": {
+        "Federal law": "Federal Decree-Law No. 25 of 2025",
+        "Effective date": "2026-06-01",
+        "Latent defect liability": "Extended from 6 months → 12 months (longer if warranted)",
+        "Usufructuary contract registration": "Mandatory with competent authority — nullity if unregistered",
+        "Sale by sample/model": "Clarified statutory framework",
+        "Gross-undervaluation protection": "Stronger safeguards for parties lacking full legal capacity",
+        "Pre-contract disclosure duty": "Statutory good-faith disclosure for material facts",
+        "Legal age of majority": "21 → 18",
+        "Pre-1 June 2026 contracts": "Stay under prior 1985 Civil Code unless parties opt in",
+        "Post-1 June contracts silent on law": "Default to new Civil Transactions Code"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Civil law to reshape contracts from June 1 (31 May 2026)",
+          "url": "https://tradearabia.com/News/463126/UAE%E2%80%99s-new-civil-transactions-law-to-reshape-contracts-from-June-1"
+        },
+        {
+          "label": "Gulf News — new UAE civil law takes effect June 1 (31 May 2026)",
+          "url": "https://gulfnews.com/uae/government/uaes-biggest-civil-law-reform-in-decades-starts-june-1-1.500558123"
+        },
+        {
+          "label": "Gulf News — defect-claim window extended for buyers",
+          "url": "https://gulfnews.com/business/what-the-new-uae-laws-say-about-buyers-rights-defect-claims-extended-1.500396662"
+        },
+        {
+          "label": "Charles Russell Speechlys — UAE issues new Civil Transactions Law",
+          "url": "https://www.charlesrussellspeechlys.com/en/insights/quick-reads/102mefg-united-arab-emirates-issues-a-new-civil-transactions-law/"
+        }
+      ],
+      "explainer": {
+        "tagline": "The 1985 Civil Code retires on 1 June 2026 — Dubai SPAs, usufruct deals and broker disclosure standards all shift the day after this sweep ships.",
+        "whatIsIt": "Federal Decree-Law No. 25 of 2025 — the first full rewrite of the UAE Civil Code in 40 years — switches on at 00:00 on 1 June 2026. TradeArabia (31 May 2026) and Gulf News (31 May 2026) both flag the property-relevant changes that Dubai brokers and buyers need to price in this week. International firms Charles Russell Speechlys and Squire Patton Boggs have published practitioner notes confirming the property-specific provisions.",
+        "howItWorks": "Three concrete real-estate reforms matter most. (1) Latent-defect liability on a sale doubles from 6 months to 12 months from delivery (longer if the parties agree a warranty), meaning post-handover snag claims have a wider window. (2) Usufructuary-rights contracts (long leases, build-and-operate, certain free-zone instruments) must now be registered with the competent authority or are void. (3) A new statutory pre-contract disclosure duty makes withholding material facts — tenancy status, structural issues, encumbrances, paid/unpaid service charges — a basis for civil claims. The law also strengthens protection where a party 'lacking full legal capacity' is on the wrong side of a 'grossly undervalued' real-estate sale, and clarifies sale-by-sample/model rules useful in off-plan show-unit disputes. Legal age drops 21→18 (affects who can sign as buyer). Pre-1-June contracts stay under the old code; contracts signed after 1 June that are silent on governing law default to the new one.",
+        "whyItMatters": "Every Dubai SPA template, RERA Form A/B/F, off-plan reservation form and lease drafted post-1-June needs a fresh review — silent contracts now default to the new code rather than the 1985 framework. Buyers gain a longer latent-defect runway (useful for 2025/2026 off-plan handovers where snag lists are heavy), and brokers/agents face a documented disclosure duty that turns 'I didn't know' into a litigation risk. Operators with usufructuary positions in DIFC, ADGM or master-leased free-zone stock need to confirm registration is in place before the deadline or risk nullity. Lenders pricing post-handover risk should re-underwrite their warranty assumptions for the extended defect window.",
+        "forWho": "Dubai conveyancers and SPA drafters, broker compliance leads at agencies running RERA Form A/B/F at scale, free-zone operators on usufructuary positions (DIFC/ADGM/JAFZA), off-plan buyers receiving 2026 handovers, and lenders sizing post-handover warranty risk.",
+        "tryIt": "https://gulfnews.com/uae/government/uaes-biggest-civil-law-reform-in-decades-starts-june-1-1.500558123"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/05/31/TA_20260531111135.webp",
+        "alt": "Illustration of UAE legal contract reform — TradeArabia hero image for the 31 May 2026 piece on Federal Decree-Law 25 of 2025",
+        "fit": "cover",
+        "credit": "TradeArabia"
+      },
+      "author": {
+        "name": "Dr Hasan Elhais",
+        "handle": "Amal Al Rashedi Lawyers"
+      },
+      "publishDate": "2026-05-31T12:31:42.834Z"
+    },
+    {
+      "id": "dubai-dxb-interact-indian-buyers-2059-percent-post-crisis-nationality-may-29-2026",
+      "categories": [
+        "market",
+        "lead"
+      ],
+      "title": "DXB Interact post-crisis Dubai buyer-nationality split (end-Feb → 29 May 2026) — Indians 20.59% of purchases, British 13.26%, Egyptians 12.60%, Americans 8.99%, Pakistanis 6.94%, Saudis 5.72%, Australians 5.72%",
+      "org": "Gulf Today / DXB Interact",
+      "date": "2026-05-29",
+      "url": "https://www.gulftoday.ae/business/2026/05/29/indians-topped-investors-list-owning-property-in-dubai",
+      "summary": "Gulf Today (29 May 2026) pulls DXB Interact transaction-level data to rank buyer nationalities for the Dubai property market across the post-March geopolitical crisis window (end-Feb 2026 to 29 May 2026). Indians lead at 20.59% of purchase volume; the British (13.26%) and Egyptians (12.60%) round out the top three, with Americans (8.99%), Pakistanis (6.94%), Saudis (5.72%) and Australians (5.72%) next. Asians as a regional bloc lead at 35.36%, Europeans 30.68%, Africans 16.82%, North Americans 12.04%, Oceania 5.11%.",
+      "tags": [
+        "DXB Interact",
+        "Gulf Today",
+        "Post-crisis flow",
+        "Indian buyers",
+        "British buyers",
+        "Egyptian buyers",
+        "American buyers",
+        "Pakistani buyers",
+        "Saudi buyers",
+        "Nationality mix",
+        "Buyer-lead sourcing"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-RE",
+        "INDIA-BUYER",
+        "UK-BUYER",
+        "EG-BUYER",
+        "US-BUYER",
+        "PK-BUYER"
+      ],
+      "metrics": {
+        "Time window": "End-Feb 2026 → 29 May 2026 (post-March geopolitical crisis)",
+        "Indian share": "20.59%",
+        "British share": "13.26%",
+        "Egyptian share": "12.60%",
+        "American share": "8.99%",
+        "Pakistani share": "6.94%",
+        "Saudi share": "5.72%",
+        "Australian share": "5.72%",
+        "German share": "4.16%",
+        "French share": "3.78%",
+        "Canadian share": "3.05%",
+        "Dutch share": "2.83%",
+        "Russian share": "2.50%",
+        "Moroccan share": "2.33%",
+        "Spanish share": "2.11%",
+        "Kuwaiti share": "2.11%",
+        "Turkish share": "2.05%",
+        "Nigerian share": "1.89%",
+        "Asian regional bloc": "35.36% (4 countries)",
+        "European regional bloc": "30.68% (7 countries incl. Russia, Turkey)",
+        "African regional bloc": "16.82% (3 countries)",
+        "North American bloc": "12.04% (2 countries)",
+        "Oceania bloc": "5.11% (1 country)"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Indians topped investors' list (29 May 2026)",
+          "url": "https://www.gulftoday.ae/business/2026/05/29/indians-topped-investors-list-owning-property-in-dubai"
+        },
+        {
+          "label": "DXB Interact platform (data source)",
+          "url": "https://dxbinteract.com/"
+        },
+        {
+          "label": "DXB Interact daily property summary",
+          "url": "https://dxbinteract.com/daily-property-summary"
+        }
+      ],
+      "explainer": {
+        "tagline": "Indian buyers held 20.59% of Dubai property purchases through the March geopolitical shock — the cleanest post-crisis nationality scoreboard since the Hormuz event.",
+        "whatIsIt": "Gulf Today's 29 May 2026 piece compiles DXB Interact transaction data to score the top 17 buyer nationalities since the regional crisis began at end-Feb 2026. It is the first Dubai-wide read of who actually wrote cheques during the 90-day shock window, not just who applied for visas.",
+        "howItWorks": "Indians wrote 20.59% of all DXB Interact-tracked purchases, with the British (13.26%), Egyptians (12.60%), Americans (8.99%) and Pakistanis (6.94%) rounding out the top five — collectively 62.38% of all post-crisis flow. Saudis and Australians tie for sixth at 5.72%. Germans (4.16%), French (3.78%), Canadians (3.05%), Dutch (2.83%), Russians (2.50%), Moroccans (2.33%), Spanish (2.11%), Kuwaitis (2.11%), Turks (2.05%) and Nigerians (1.89%) make up the long tail. As a regional bloc Asians lead at 35.36%, Europeans (incl. Russia and Turkey) take 30.68%, Africans 16.82%, North Americans 12.04% and Oceania 5.11%. The article does not break out aggregate AED value or per-deal averages — it is a share-of-count read, sourced from DXB Interact's transaction registry.",
+        "whyItMatters": "Operators sizing lead-gen budgets for the next quarter now have a hard ranking. Indian and Pakistani brokers running Mumbai, Hyderabad and Karachi roadshows held the largest share through the crisis — pipelines built around English-language UK / US channels need to defend, not assume, their share. The Egyptian and Saudi blocs combine for 18.32% and are under-served by most Western-style brokerages. Africa as a bloc (16.82%) is bigger than the entire North American flow, which is the kind of allocation surprise that should reset trip calendars and content commissioning for any agency still leading with US/UK buyer creative.",
+        "forWho": "Broker marketing leads sizing lead-gen by source country, developer sales teams allocating roadshow budgets, immigration/visa consultants pitching Golden-Visa packages by nationality, and lenders pricing FX/repatriation flow by buyer origin.",
+        "tryIt": "https://dxbinteract.com/"
+      },
+      "image": {
+        "url": "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/29/1082915.webp",
+        "alt": "Atlantis Royal Residences and resort on the Palm Jumeirah waterfront — Gulf Today hero for the 29 May 2026 piece on Indian buyers leading post-crisis Dubai property flow",
+        "fit": "cover",
+        "credit": "Gulf Today"
+      },
+      "publishDate": "2026-05-31T12:31:42.834Z"
+    },
     {
       "id": "dubai-elite-merit-april-2026-aed-68-6b-transactions-995-luxury-deals-may-29-2026",
       "categories": [
