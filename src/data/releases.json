@@ -1,8 +1,182 @@
 {
-  "generatedAt": "2026-06-01T00:30:04.999Z",
+  "generatedAt": "2026-06-01T14:05:09.694Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-agbi-bubbles-neighborhood-divergence-marina-business-bay-greens-jvc-june-1-2026",
+      "categories": [
+        "market",
+        "offplan",
+        "ready"
+      ],
+      "title": "AGBI maps Dubai's June 2026 off-plan-vs-ready bubble pattern — Marina off-plan +113% / ready -46% YoY, Business Bay +80% / -6%, Dubai South ready -53%, while Greens (+18% ready), JVC (+10% ready) and Downtown (both up) read as genuine end-user demand",
+      "org": "AGBI / Josh Corder / Betterhomes",
+      "date": "2026-06-01",
+      "url": "https://www.agbi.com/analysis/real-estate/2026/06/the-bubbles-of-dubai-real-estate-and-where-they-are/",
+      "summary": "Josh Corder's AGBI analysis (1 June 2026) breaks Dubai out by sub-market: Marina and Business Bay show classic speculative bubble shape (off-plan +113% / +80% YoY, ready -46% / -6%), while Greens, JVC and Downtown read as end-user-led with ready prices outpacing off-plan. Dubai South posts the steepest ready-home decline (-53% YoY) on a +6.4% off-plan rise. Betterhomes CEO Louis Harding calls it Dubai's first true two- or three-tier marketplace.",
+      "tags": [
+        "AGBI",
+        "Josh Corder",
+        "Betterhomes",
+        "Louis Harding",
+        "off-plan",
+        "ready market",
+        "Dubai Marina",
+        "Business Bay",
+        "Jumeirah Village Circle",
+        "Greens",
+        "Downtown Dubai",
+        "Dubai South",
+        "Dubai Creek Harbour",
+        "Palm Jumeirah",
+        "price divergence"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARINA",
+        "BUSINESS-BAY",
+        "JVC",
+        "DOWNTOWN",
+        "DXB-SOUTH",
+        "PALM"
+      ],
+      "metrics": {
+        "Publication date": "2026-06-01",
+        "Dubai Marina off-plan YoY": "+113%",
+        "Dubai Marina ready YoY": "-46%",
+        "Business Bay off-plan YoY": "+80%",
+        "Business Bay ready YoY": "-6%",
+        "JVC off-plan YoY": "-1%",
+        "JVC ready YoY": "+10%",
+        "Greens off-plan YoY": "-9.7%",
+        "Greens ready YoY": "+18%",
+        "Downtown off-plan YoY": "+14%",
+        "Downtown ready YoY": "+3%",
+        "Dubai South off-plan YoY": "+6.4%",
+        "Dubai South ready YoY": "-53%",
+        "Dubai Creek Harbour off-plan YoY": "-20%",
+        "Dubai Creek Harbour ready YoY": "+5.7%",
+        "Palm Jumeirah off-plan YoY": "+12%",
+        "Palm Jumeirah ready YoY": "-2.5%"
+      },
+      "links": [
+        {
+          "label": "AGBI — The bubbles of Dubai real estate and where they are (1 June 2026)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/the-bubbles-of-dubai-real-estate-and-where-they-are/"
+        },
+        {
+          "label": "Josh Corder — AGBI author page",
+          "url": "https://www.agbi.com/author/joshcorder/"
+        },
+        {
+          "label": "Betterhomes Dubai market analysis (Louis Harding, CEO)",
+          "url": "https://www.bhomes.com/en/blog/marketreports"
+        },
+        {
+          "label": "DXB Interact — community-level price tracker (sanity check)",
+          "url": "https://dxbinteract.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai stopped trading as one market this spring — Josh Corder maps which postcodes are speculative bubble and which are end-user demand.",
+        "whatIsIt": "AGBI's 1 June 2026 analysis by Josh Corder uses community-level pricing to argue Dubai now has at least three distinct sub-markets in the same emirate. Where off-plan prices are sprinting away from ready prices, the buyer is an investor sitting on paper; where ready is outpacing off-plan, the buyer is a resident actually moving in. The piece quotes Betterhomes CEO Louis Harding calling this Dubai's first genuine two- or three-tier marketplace.",
+        "howItWorks": "Speculative-bubble shape (off-plan up, ready down YoY): Dubai Marina (+113% / -46%), Business Bay (+80% / -6%), Palm Jumeirah (+12% / -2.5%). End-user-led shape (ready up, off-plan flat or down): Greens (-9.7% / +18%), JVC (-1% / +10%), Dubai Creek Harbour (-20% / +5.7%). Balanced (both up, off-plan leading): Downtown Dubai (+14% / +3%). Outlier: Dubai South off-plan +6.4% but ready -53% — the steepest ready-home YoY drop in the breakdown, suggesting fresh handovers far above resale clearing prices. Use these as cross-checks before underwriting an off-plan reservation: a Marina or Business Bay off-plan ask materially above current ready comps in the same building is the highest-risk zone.",
+        "whyItMatters": "For Dubai operators this is the cleanest 'where to lean in vs where to be careful' map of the cycle. Off-plan buyers in Marina, Business Bay, Palm Jumeirah and Dubai South face the widest gap to today's resale value — assignment liquidity and post-handover refinance both get harder if that gap doesn't close. Resale buyers and end-users in Greens, JVC, Downtown and Creek Harbour are operating in markets where ready stock is being absorbed, supporting bid prices. Brokers selling assignments should price the spread, not the launch sheet. Lenders sizing 80% LTV on ready vs off-plan in the same tower should weight Marina/Business Bay differently from Downtown.",
+        "forWho": "Off-plan reservation buyers (especially Marina / Business Bay / Dubai South), assignment-resale brokers, mortgage lenders sizing LTV on ready vs off-plan, end-user buyers shopping Greens/JVC/Downtown/Creek Harbour, and analysts updating Dubai community-level models.",
+        "tryIt": "https://www.agbi.com/analysis/real-estate/2026/06/the-bubbles-of-dubai-real-estate-and-where-they-are/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/05/Marina-1-scaled.jpg?resize=800%2C450&crop=0px%2C119px%2C2560px%2C1440px",
+        "alt": "Dubai Marina skyline at dusk — AGBI hero image for Josh Corder's 1 June 2026 piece on off-plan vs ready price divergence across Dubai sub-markets",
+        "fit": "cover",
+        "credit": "Bakhrom Tursunov / Alamy via AGBI"
+      },
+      "author": {
+        "name": "Josh Corder",
+        "handle": "AGBI",
+        "profileUrl": "https://www.agbi.com/author/joshcorder/"
+      },
+      "publishDate": "2026-06-01T14:05:09.694Z"
+    },
+    {
+      "id": "dubai-jll-q1-2026-residential-offplan-95-secondary-82-59k-pipeline-june-1-2026",
+      "categories": [
+        "market",
+        "offplan",
+        "ready"
+      ],
+      "title": "Khaleej Times surfaces JLL's Q1 2026 UAE residential read — Dubai off-plan +9.5% YoY, secondary -8.2%, price growth moderating to 8-12% from 19% highs, 59,000-unit 2026 pipeline; Taimur Khan flags hospitality stress alongside resilient living/industrial/logistics",
+      "org": "Khaleej Times / JLL / Somshankar Bandyopadhyay",
+      "date": "2026-06-01",
+      "url": "https://www.khaleejtimes.com/business/property/uae-residential-property-market-shows-divergent-trends-in-q1",
+      "summary": "Khaleej Times (1 June 2026) publishes JLL Q1 2026 UAE residential read: Dubai off-plan transactions +9.5% YoY while secondary deals fell -8.2%; annual residential price growth moderating to 8-12% from prior 19% highs; weekly transaction values briefly dropped ~50% during regional geopolitical disruption. Pipeline is 59,000 residential units for 2026 with significantly higher volume expected in 2027. Abu Dhabi volumes more than doubled YoY on new launches; new rental contracts +13.4%.",
+      "tags": [
+        "JLL",
+        "Taimur Khan",
+        "Q1 2026",
+        "off-plan",
+        "secondary market",
+        "Khaleej Times",
+        "Somshankar Bandyopadhyay",
+        "residential pipeline",
+        "59000 units",
+        "Abu Dhabi",
+        "hospitality stress",
+        "industrial logistics resilience"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-RES",
+        "AUH-RES",
+        "OFF-PLAN",
+        "SECONDARY"
+      ],
+      "metrics": {
+        "Publication date": "2026-06-01",
+        "Dubai off-plan transactions YoY": "+9.5%",
+        "Dubai secondary transactions YoY": "-8.2%",
+        "Dubai residential annual price growth": "8-12% (moderated from 19% highs)",
+        "Weekly transaction value drop during disruption": "~50%",
+        "UAE 2026 residential pipeline": "59,000 units",
+        "Abu Dhabi YoY transaction volume": "more than doubled",
+        "Abu Dhabi new rental contracts YoY": "+13.4%",
+        "JLL sectoral read": "hospitality stressed; living, industrial & logistics resilient"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — UAE residential property market shows divergent trends in Q1 (1 June 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-residential-property-market-shows-divergent-trends-in-q1"
+        },
+        {
+          "label": "JLL Middle East research",
+          "url": "https://www.jll-mena.com/en/trends-and-insights/research"
+        },
+        {
+          "label": "Khaleej Times property section",
+          "url": "https://www.khaleejtimes.com/business/property"
+        }
+      ],
+      "explainer": {
+        "tagline": "JLL's Q1 2026 residential read — Dubai off-plan still bid (+9.5% YoY), secondary on the back foot (-8.2%), price growth halving from 19% to 8-12%.",
+        "whatIsIt": "Khaleej Times associate editor Somshankar Bandyopadhyay (1 June 2026) writes up JLL's Q1 2026 UAE residential print. Dubai off-plan transactions rose 9.5% YoY while secondary transactions fell 8.2% — a clean fork between investor flow and resale flow. Annual price growth moderated to 8-12% from the prior 19% peaks. JLL's head of research for MEA, Taimur Khan, frames Q1 as 'a clear divergence' across asset types: hospitality stressed, living/industrial/logistics resilient.",
+        "howItWorks": "Three numbers to size the second half. (1) The 9.5% / -8.2% split between off-plan and secondary means investor capital is still flowing into launches even as the resale market thins out — sellers without launch incentives or a price-cut narrative will sit. (2) Annual price growth moderating from 19% to 8-12% lines up with the underwriting case where Dubai stops being a momentum trade and becomes a yield / quality trade — JVC, Arjan, Greens-type rental yields matter more than they did 12 months ago. (3) 59,000 residential units forecast for 2026 with significantly more in 2027 is the supply leg of the supply-vs-population debate; combined with Moody's prior 150K-unit-by-2027 read and Fitch's 250K-unit-by-2027 forecast (already on this feed), the consensus pipeline now firmly tilts toward absorption pressure. Abu Dhabi posts the opposite shape — transaction volumes more than doubled YoY on new launches.",
+        "whyItMatters": "JLL is a consensus-setting voice with bank, fund and developer clients, so this print is the one that gets quoted into Q2 underwriting decks. For Dubai brokers it confirms that off-plan reservation flow is intact even after the spring geopolitical shock, but the resale book has shrunk — anyone listing ready stock at 2025-peak ask is the marginal seller. For end-users it formalises the 'buyer's-market in secondary, seller's-market in off-plan' read already showing in The National and Bayut data. For lenders pricing 2026/2027 risk, JLL's pipeline number is now part of the supply baseline alongside Moody's and Fitch.",
+        "forWho": "Dubai brokers pricing ready vs off-plan ask, end-user buyers shopping the secondary market, mortgage lenders sizing 2026/2027 supply risk, fund/family-office allocators sizing UAE residential exposure, and developers calibrating launch cadence.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/uae-residential-property-market-shows-divergent-trends-in-q1"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-01/gjue7hkb/dubai-city-skyline.jpg",
+        "alt": "Dubai city skyline — Khaleej Times hero image for the 1 June 2026 JLL Q1 2026 UAE residential divergence piece",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "handle": "Khaleej Times"
+      },
+      "publishDate": "2026-06-01T14:05:09.694Z"
+    },
     {
       "id": "dubai-uae-federal-decree-law-25-2025-civil-transactions-june-1-2026-real-estate",
       "categories": [

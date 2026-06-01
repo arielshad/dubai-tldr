@@ -3904,6 +3904,46 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260601t140509z",
+      "timestamp": "2026-06-01T14:05:09.694Z",
+      "source": "github-actions-sweep",
+      "summary": "June 1 sweep adds two June 1 2026 market reads that don't overlap existing prints: AGBI's Josh Corder maps neighbourhood-level off-plan vs ready divergence (Marina off-plan +113% / ready -46%, Dubai South ready -53% etc.), and Khaleej Times surfaces JLL's Q1 2026 UAE residential split (Dubai off-plan +9.5% / secondary -8.2%, 8-12% price growth, 59k unit pipeline).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-agbi-bubbles-neighborhood-divergence-marina-business-bay-greens-jvc-june-1-2026",
+          "title": "AGBI maps Dubai's June 2026 off-plan-vs-ready bubble pattern — Marina off-plan +113% / ready -46% YoY, Business Bay +80% / -6%, Dubai South ready -53%, while Greens (+18% ready), JVC (+10% ready) and Downtown (both up) read as genuine end-user demand",
+          "category": "market",
+          "note": "First sub-market-level breakdown of Dubai's off-plan-vs-ready divergence the feed has seen — actionable for buyers picking between Marina/Business Bay (speculative) and Greens/JVC/Creek Harbour (end-user-led)."
+        },
+        {
+          "id": "dubai-jll-q1-2026-residential-offplan-95-secondary-82-59k-pipeline-june-1-2026",
+          "title": "Khaleej Times surfaces JLL's Q1 2026 UAE residential read — Dubai off-plan +9.5% YoY, secondary -8.2%, price growth moderating to 8-12% from 19% highs, 59,000-unit 2026 pipeline; Taimur Khan flags hospitality stress alongside resilient living/industrial/logistics",
+          "category": "market",
+          "note": "JLL's Q1 2026 *residential* read — distinct from the existing JLL Q1 office card; off-plan +9.5% / secondary -8.2%, 8-12% price growth and the 59k 2026 pipeline number now feed the supply-vs-absorption debate alongside Moody's and Fitch."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
