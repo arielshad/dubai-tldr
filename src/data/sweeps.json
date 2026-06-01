@@ -3869,6 +3869,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260601t003004z",
+      "timestamp": "2026-06-01T00:30:04.999Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep: the 72h window (2026-05-29 → 2026-06-01) is already covered by recent feed items (UAE Civil Transactions Code effective today, DXB Interact buyer-nationality split, and the Elite Merit April 2026 AED 68.6B print). The biztoday.news 2026-05-30 article on April transactions is the same Elite Merit story already represented from tradearabia (existing id dubai-elite-merit-april-2026-aed-68-6b-transactions-995-luxury-deals-may-29-2026) and would breach hard rule 3 (no duplicate listings). therealestatereports.com has not published a daily review past 26-May; weekly week-22 not yet out. No new developer launches, auctions, distress notices, or DLD signals surfaced in the 72h window that aren't already in the feed.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "developer",
+        "auction",
+        "market",
+        "luxury",
+        "rental",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
