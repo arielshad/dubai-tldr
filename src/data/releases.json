@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-06-02T00:38:40.266Z",
+  "generatedAt": "2026-06-02T13:16:03.179Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-250-projects-aed-75b-5-months-59400-units-verdes-jun-1-2026",
+      "categories": [
+        "market",
+        "developer",
+        "offplan"
+      ],
+      "title": "Dubai launched 250 real estate projects worth AED 75B in first 5 months of 2026 — 179 active, 70 pending approval, 59,400 housing units + 10,800 villas + 32 plots; Verdes by Haven 2 (AED 6.5B), Interstellar Tower (AED 2.3B) and Mayfair Nexus by Seven Mayfair (AED 1.5B) top the roster",
+      "org": "Gulf Today / Dubai Land Department",
+      "date": "2026-06-01",
+      "url": "https://www.gulftoday.ae/business/2026/06/01/dubai-launched-250-real-estate-projects-worth-dhs75-billion-in-last-5-months",
+      "summary": "Gulf Today's June 1 DLD print: 250 Dubai project launches in the first five months of 2026 worth AED 75B — averaging nearly two launches a day — split into 179 active, 70 pending approval and 1 awaiting final approval. The pipeline covers 59,400 housing units, 10,800 villas and 32 new plots, with 15 mega-projects above AED 1B led by Verdes by Haven 2 (Wadi Al Safa 5, AED 6.5B), Interstellar Tower (Al Barsha South Fifth, AED 2.3B) and Mayfair Nexus by Seven Mayfair (Wadi Al Safa 7, AED 1.5B).",
+      "tags": [
+        "gulf-today",
+        "dld",
+        "project-pipeline",
+        "verdes-by-haven-2",
+        "interstellar-tower",
+        "mayfair-nexus",
+        "wadi-al-safa-5",
+        "al-barsha-south",
+        "june-1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "WADI-AL-SAFA-5",
+        "AL-BARSHA-SOUTH"
+      ],
+      "metrics": {
+        "Project launches Jan–May 2026": "250",
+        "Aggregate launch value": "AED 75B",
+        "Active projects": "179",
+        "Pending approval": "70",
+        "Awaiting final approval": "1",
+        "Housing units added": "59,400",
+        "Villas added": "10,800",
+        "New plots of land": "32",
+        "Mega-projects above AED 1B": "15",
+        "Projects AED 500–999M": "30",
+        "Projects AED 100–499M": "97",
+        "Projects below AED 100M": "108",
+        "Top project (Verdes by Haven 2, Wadi Al Safa 5)": "AED 6.5B",
+        "Second (Interstellar Tower, Al Barsha South Fifth)": "AED 2.3B",
+        "Third (Mayfair Nexus by Seven Mayfair, Wadi Al Safa 7)": "AED 1.5B",
+        "Implied monthly launch run-rate": "~50 projects",
+        "Data source": "Dubai Land Department"
+      },
+      "links": [
+        {
+          "label": "Gulf Today report",
+          "url": "https://www.gulftoday.ae/business/2026/06/01/dubai-launched-250-real-estate-projects-worth-dhs75-billion-in-last-5-months"
+        },
+        {
+          "label": "Dubai Land Department news media",
+          "url": "https://dubailand.gov.ae/en/news-media/"
+        },
+        {
+          "label": "DLD project-status enquiry",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-project-status-landing/real-estate-project-status/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD's first five-month tally for 2026: 250 launches, AED 75B, 59,400 housing units — Verdes by Haven 2 alone at AED 6.5B as Dubailand and Al Barsha South do the heavy pipeline lifting.",
+        "whatIsIt": "Dubai Land Department's project-status data, surfaced in Gulf Today's June 1 piece, fixes the size of the 2026 launch curve five months in: 250 projects worth AED 75B, 179 already active and clearing approvals, 70 pending and 1 awaiting final sign-off. The headcount breaks down into 59,400 housing units, 10,800 villas and 32 land plots, with 15 projects above AED 1B each and the long tail of 108 sub-AED 100M projects keeping the launch-per-day cadence near two.",
+        "howItWorks": "Treat this as the supply-side counterweight to the distress and Fortune-tracker chatter. Verdes by Haven 2 in Wadi Al Safa 5 (AED 6.5B) and Mayfair Nexus by Seven Mayfair (Wadi Al Safa 7, AED 1.5B) reinforce Dubailand/Wadi Al Safa as the 2026 launch corridor, while Interstellar Tower (Al Barsha South Fifth, AED 2.3B) does the same for the Al Barsha South ring. For buyer-side diligence the 179-active vs 70-pending split is the lever — pending-approval projects move slower to escrow / Oqood, so payment-plan terms and developer track record need closer scrutiny on that 28% slice.",
+        "whyItMatters": "It sets the supply baseline behind every 'is Dubai cooling?' debate. With 59,400 net new housing units added in just five months and a 2026 handover pipeline already in the 65,000-apartment / 12,500-villa range, any sustained ask-side pressure has to absorb this. Conversely, the fact that DLD is still approving ~50 projects a month through a regional-conflict quarter signals developers and the regulator are pricing through, not pausing — and that the rebalancing thesis (Moody's, Fitch) plays out as moderation, not freeze.",
+        "forWho": "Buyers underwriting off-plan in Dubailand / Wadi Al Safa / Al Barsha South, developers benchmarking launch cadence, brokers explaining the supply curve to overseas clients, and analysts modelling 2026–2028 handover absorption.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-project-status-landing/real-estate-project-status/"
+      },
+      "image": {
+        "url": "https://cdnx.premiumread.com/?url=https://www.gulftoday.ae/gulftoday/uploads/images/2026/06/01/1083731.webp&w=800&q=100&f=webp&t=0.0.2",
+        "alt": "Dubai skyline — Gulf Today's June 1 framing of the DLD 5-month launch pipeline",
+        "fit": "cover",
+        "credit": "Gulf Today"
+      },
+      "publishDate": "2026-06-02T13:16:03.179Z"
+    },
+    {
+      "id": "dubai-dld-jun-1-2026-daily-print-aed-1-08b-offplan-51-9-percent-ready-rebounds",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-06-01: AED 1.08B with off-plan easing to 51.9% — ready share rebuilds to 48.1% as ready-flat flow hits AED 396.5M post-Eid",
+      "org": "The Real Estate Report / Dubai Land Department",
+      "date": "2026-06-01",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-02-jun-2026",
+      "summary": "First post-Eid Al Adha DLD daily tape: AED 1.08B total transacted value with off-plan slipping to 51.9% (AED 560.7M) and the ready share rebuilding to 48.1% (AED 519.6M). Flats dominate both engines — off-plan flats AED 433M, ready flats AED 396.5M — the narrowest off-plan / ready spread since the early-May Lumena spike normalised.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "post-eid",
+        "off-plan",
+        "ready",
+        "flats",
+        "june-1-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Total transacted value (2026-06-01)": "AED 1.08B",
+        "Off-plan share": "51.9% (AED 560.7M)",
+        "Ready share": "48.1% (AED 519.6M)",
+        "Off-plan flats": "AED 433M",
+        "Ready flats": "AED 396.5M",
+        "Prior daily comparison (2026-05-25, Eid eve)": "AED 405.06M ex-land",
+        "Recent week-21 off-plan share": "62%",
+        "Recent week-20 off-plan share": "68.1%"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 2 Jun 2026 review",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-02-jun-2026"
+        },
+        {
+          "label": "Dubai Land Department transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai REST eservice",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First post-Eid Al Adha DLD daily print: AED 1.08B with ready stock clawing back to 48.1% as off-plan eases under the recent 60s+ run.",
+        "whatIsIt": "Dubai Land Department's June 1 daily tape, summarised in The Real Estate Report's June 2 review, lands at AED 1.08B total transacted value. Off-plan contributes AED 560.7M (51.9%) and ready AED 519.6M (48.1%) — flats dominate both engines (off-plan flats AED 433M, ready flats AED 396.5M). It's the first working day after the Eid Al Adha holiday window that opened with the AED 405.06M ex-land mini-print on May 25.",
+        "howItWorks": "Two read-throughs. (1) Off-plan share dropping back from the 62–68% range seen across May weeks 20 and 21 to 51.9% on a single day suggests ready stock is reabsorbing some of the off-plan-heavy momentum once the holiday queue clears. (2) The ready-flat AED 396.5M figure is the cleanest single-day read on secondary apartment liquidity since the May 8 print (AED 47.3% ready share) and undercuts the louder 'ready market is frozen' framing — secondary flat flow is still north of AED 350M when the holiday backlog clears.",
+        "whyItMatters": "Off-plan share is the most-watched diagnostic in Dubai's 2026 cooling debate. A single 51.9% print doesn't reverse the trend, but it does say the May Eid-window distortion was just that — a distortion — and that ready apartments still have a 48% claim on daily liquidity when both queues are open. Anyone underwriting a JVC / Marina / Business Bay ready flat right now can use 396.5M as the bid-side benchmark for clear-through volume.",
+        "forWho": "Ready-flat buyers and sellers in DXB-MARINA / JVC / DOWNTOWN / BUSINESS-BAY, off-plan buyers timing payment-plan installments around DLD tape, brokers calibrating ask vs ready/off-plan rotation, and analysts watching the weekly DLD print for the post-Eid recovery slope.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0bcec445-9c78-4de2-9982-598f56ebac59/pexels-paolo-de-guzman-88107639-9016590.jpg",
+        "alt": "Dubai skyline used as hero for The Real Estate Report's 2-Jun-2026 daily DLD review",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-06-02T13:16:03.179Z"
+    },
     {
       "id": "dubai-fortune-war-blip-damac-lagoons-61-percent-2-36b-cuts-jun-1-2026",
       "categories": [

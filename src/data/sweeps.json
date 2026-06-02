@@ -3986,6 +3986,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260602t131603z",
+      "timestamp": "2026-06-02T13:16:03.179Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh items: (1) DLD-sourced 5-month read on Dubai's 2026 project pipeline — 250 launches worth AED 75B / 59,400 housing units, 179 already active, with Verdes by Haven 2 (AED 6.5B), Interstellar Tower (AED 2.3B) and Mayfair Nexus by Seven Mayfair (AED 1.5B) topping the roster (Gulf Today, 2026-06-01). (2) Dubai DLD daily print 2026-06-01 — AED 1.08B with the ready share climbing back to 48.1% as off-plan eases to 51.9% post-Eid. Sweep also crosswalked Sobha's June-1 $24B Sanctuary+City framing and the latest LuxuryPriceDrops/PanicSelling tape, but both were already covered by the Fortune AED 2.36B / Damac Lagoons -61.2% card and the existing Sobha Sanctuary January-launch coverage.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-250-projects-aed-75b-5-months-59400-units-verdes-jun-1-2026",
+          "title": "Dubai launched 250 real estate projects worth AED 75B in first 5 months of 2026 — 179 active, 70 pending approval, 59,400 housing units + 10,800 villas + 32 plots; Verdes by Haven 2 (AED 6.5B), Interstellar Tower (AED 2.3B) and Mayfair Nexus by Seven Mayfair (AED 1.5B) top the roster",
+          "category": "market",
+          "note": "Gulf Today's June 1 DLD piece is the first 5-month aggregated 2026 project tally — gives clean supply baseline behind the cooling debate."
+        },
+        {
+          "id": "dubai-dld-jun-1-2026-daily-print-aed-1-08b-offplan-51-9-percent-ready-rebounds",
+          "title": "Dubai DLD daily print 2026-06-01: AED 1.08B with off-plan easing to 51.9% — ready share rebuilds to 48.1% as ready-flat flow hits AED 396.5M post-Eid",
+          "category": "market",
+          "note": "First post-Eid Al Adha daily print; off-plan eases below recent 62–68% band, ready flats rebuild to AED 396.5M."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "developer"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "dubizzle-houza-crosscheck",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
