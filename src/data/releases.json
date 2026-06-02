@@ -1,8 +1,148 @@
 {
-  "generatedAt": "2026-06-01T14:05:09.694Z",
+  "generatedAt": "2026-06-02T00:38:40.266Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-fortune-war-blip-damac-lagoons-61-percent-2-36b-cuts-jun-1-2026",
+      "categories": [
+        "distress",
+        "market",
+        "offplan"
+      ],
+      "title": "Fortune frames the Dubai cooling: AED 2.36B sliced off 3,292 listings by end-May, single Damac Lagoons villa cut 61.2% (-AED 300M), 13% of UAE bank loans sit in corporate real estate",
+      "org": "Fortune",
+      "date": "2026-06-01",
+      "url": "https://fortune.com/2026/06/01/property-prices-down-dubai/",
+      "summary": "Melissa Hancock's June 1 Fortune piece pulls together the cleanest cross-section of Dubai's distress trajectory: a Damac Lagoons villa marked down 61.2% (-AED 300M), AED 2.36B chopped across 3,292 listings by end-May, off-plan deals -21% MoM in March, plus Fitch's Lopatin on the corporate-RE 13% bank-loan share.",
+      "tags": [
+        "fortune",
+        "damac-lagoons",
+        "fitch",
+        "anton-lopatin",
+        "mario-volpi",
+        "eva-real-estate",
+        "price-cuts",
+        "distress",
+        "war-cooling",
+        "june-1-2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DAMAC-LAGOONS"
+      ],
+      "metrics": {
+        "Seller cuts by end-May": "AED 2.36B across 3,292 listings",
+        "Deepest cut (Damac Lagoons villa)": "-61.2% / -AED 300M (~USD 82M)",
+        "Off-plan secondary trading": "10–15% below original values",
+        "Off-plan deals March MoM": "-21% to 9,368",
+        "UAE residential price surge 2022→early 2025": "+60%",
+        "UAE corporate RE share of bank loans (YE 2025)": "13%",
+        "Retail mortgage share of bank loans": "~10%",
+        "Tourism/hospitality/aviation share of bank loans": "<5%",
+        "2026 delivery pipeline (apartments)": "65,000 (some slipping to 2027)",
+        "2026 delivery pipeline (villas)": "12,500"
+      },
+      "links": [
+        {
+          "label": "Fortune article",
+          "url": "https://fortune.com/2026/06/01/property-prices-down-dubai/"
+        },
+        {
+          "label": "Dubai DLD daily transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "LuxuryPriceDrops Dubai tracker",
+          "url": "https://www.luxurypricedrops.com/dubai/"
+        },
+        {
+          "label": "Damac Lagoons price-drop board",
+          "url": "https://www.luxurypricedrops.com/dubai/damac-lagoons/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Fortune drops the cleanest single read on Dubai's distress trajectory — AED 2.36B in seller cuts, a Damac Lagoons villa down 61.2%, and Fitch flagging the 13% corporate-RE loan share.",
+        "whatIsIt": "Melissa Hancock's June 1 Fortune column threads four distinct distress signals into one story: aggregate seller-side mark-downs (AED 2.36B across 3,292 properties by end-May), a single Damac Lagoons villa cut 61.2% / AED 300M, the off-plan secondary trading 10–15% below original values, and Fitch's Anton Lopatin warning that corporate real estate is 13% of UAE banks' loan book and likely to be the dominant new Stage 3 source if the regional conflict drags. Mario Volpi (Eva Real Estate) provides the ground-truth quote: 'Many opportunistic investors are now super exposed and lack inclination, money, or stomach to pay next instalments.'",
+        "howItWorks": "Use this as a one-look distress dashboard. The AED 2.36B / 3,292-listing aggregate fixes the breadth of seller-side capitulation by end-May. The 10–15% off-plan secondary discount fixes the haircut a holder typically faces to clear. The Damac Lagoons -61.2% / -AED 300M data point fixes the tail of mid-market villa distress. Fortune also reminds readers the supply backdrop is still 65,000 apartments + 12,500 villas through year-end (with delays into 2027), so any 'recovery' read has to clear that pipeline first.",
+        "whyItMatters": "Until now the distress conversation has been brokered through local titles (KT, The National, AGBI, Sterling Capital stress tests) — Fortune's June 1 piece is the first time a global business outlet aggregates Dubai cooling into one narrative, which matters for overseas buyer sentiment, the AED 148.35B Q1 foreign-investment base, and credit underwriters. The 13% corporate-RE share is the bank-credit angle nobody else has framed this cleanly.",
+        "forWho": "Buyers underwriting distressed mid-market villas (DAMAC Lagoons-tier), sellers benchmarking how much they actually need to cut to clear, brokers fielding overseas-buyer pushback, credit analysts watching UAE bank Stage 3 migration, and operators sizing the next 6–9 month re-pricing.",
+        "tryIt": "https://www.luxurypricedrops.com/dubai/damac-lagoons/"
+      },
+      "image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2173705829-e1780329752335.jpg?format=webp&w=1440&q=100",
+        "alt": "Dubai skyline at dusk — Fortune's June 1 framing of the cooling debate",
+        "fit": "cover",
+        "credit": "Getty Images via Fortune"
+      },
+      "publishDate": "2026-06-02T00:38:40.266Z"
+    },
+    {
+      "id": "dubai-the-national-volpi-travel-disruption-overseas-buyers-may-31-2026",
+      "categories": [
+        "market",
+        "lead",
+        "distress"
+      ],
+      "title": "The National × Mario Volpi: travel disruption is the under-priced tax on Dubai's overseas-buyer flow — 21,000+ cancellations, Emirates ~65% capacity, British Airways out till July",
+      "org": "The National",
+      "date": "2026-05-31",
+      "url": "https://www.thenationalnews.com/business/money/2026/05/31/uae-property-could-travel-disruptions-derail-dubais-overseas-buyer-boom/",
+      "summary": "May 31 Mario Volpi Q&A puts hard numbers on the airlift hit overseas-buyer Dubai is taking — 21,000+ flights cancelled at regional hubs, Emirates restored to ~65% of capacity, British Airways suspended to Dubai through at least July, against a Q1 AED 148.35B foreign-investment base.",
+      "tags": [
+        "the-national",
+        "mario-volpi",
+        "eva-real-estate",
+        "travel-disruption",
+        "british-airways",
+        "emirates",
+        "overseas-buyers",
+        "may-31-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Flights cancelled at major regional airports": "21,000+",
+        "Emirates capacity restored by article date": "~65%",
+        "British Airways Dubai service": "Suspended until at least July 2026",
+        "UAE foreign-airline cap (still in force at publication)": "1 daily round trip",
+        "Dubai Q1 2026 transaction value": "AED 252B (+31% YoY)",
+        "Dubai Q1 2026 foreign investment": "AED 148.35B",
+        "Dubai Q1 2026 new foreign investors": "29,312"
+      },
+      "links": [
+        {
+          "label": "The National Q&A",
+          "url": "https://www.thenationalnews.com/business/money/2026/05/31/uae-property-could-travel-disruptions-derail-dubais-overseas-buyer-boom/"
+        },
+        {
+          "label": "Emirates flight status",
+          "url": "https://www.emirates.com/"
+        },
+        {
+          "label": "Dubai DLD transaction data",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Volpi's May 31 Q&A puts hard numbers on the airlift tax on Dubai property — overseas buyers can't view, sign, or attend handovers when British Airways is out to July and Emirates is at ~65%.",
+        "whatIsIt": "Mario Volpi (Eva Real Estate), via a May 31 Q&A in The National, argues the under-priced risk to Dubai's property market isn't price — it's access. The piece logs 21,000+ flight cancellations at major regional airports since the conflict broke, Emirates back to about 65% of full capacity, British Airways suspended to Dubai through at least July, and the UAE still capping foreign airlines at one daily round trip at the publication date. Volpi's framing: 'A buyer in London, Mumbai or Singapore does not need to experience disruption first-hand to become hesitant.'",
+        "howItWorks": "Match the airlift gap to the foreign-buyer dependency. Q1 booked AED 252B in transactions and AED 148.35B of foreign investment with 29,312 new foreign investors — the marginal buyer is overseas. Restricted flights kill the chain of physical presence the market actually runs on: site viewings, second viewings, lawyer/notary appointments, Emirates ID handover queues, bank meetings for finance, and key handovers. Brokers reading this should plan for thinner overseas-tour pipelines through July at minimum, lean harder on remote-conveyancing rails (Metropolitan booked AED 4B+ this way), and surface tenant-credit & escrow checks earlier in the funnel.",
+        "whyItMatters": "It re-prices the recovery thesis. Buyer-intent surveys (PF: 68%, Savills: 45%) and the Bayut/dubizzle Day-58 recovery print all assume buyers can show up. If the airlift stays disrupted into Q3, secondary clearance slows independent of price, which is the mechanism behind the 5–15% off-peak discount the resale market is already running. Volpi's closing line — Dubai 'has lost the luxury of being seen as immune to regional events' — is the bear case framed politely.",
+        "forWho": "Listing agents underwriting realistic overseas-buyer pipelines, developers timing launch parties / sales-gallery openings, end-users planning handover travel, and operators considering whether to push remote-conveyancing or in-person flows.",
+        "tryIt": "https://www.thenationalnews.com/business/money/2026/05/31/uae-property-could-travel-disruptions-derail-dubais-overseas-buyer-boom/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/64MTNWT4GJFBTBDZWHWQESEZUA.jpg?smart=true&auth=e2ccee245d7c25083bdaf827e57b73840fbb89c5e5331d04d662d9a3b491885a&width=1200&height=675",
+        "alt": "Overseas buyer pondering Dubai property amid travel disruption — The National illustration",
+        "fit": "cover",
+        "credit": "The National"
+      },
+      "publishDate": "2026-06-02T00:38:40.266Z"
+    },
     {
       "id": "dubai-agbi-bubbles-neighborhood-divergence-marina-business-bay-greens-jvc-june-1-2026",
       "categories": [
