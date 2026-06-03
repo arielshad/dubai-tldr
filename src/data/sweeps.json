@@ -4068,6 +4068,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260603t133614z",
+      "timestamp": "2026-06-03T13:36:14.796Z",
+      "source": "github-actions-sweep",
+      "summary": "Post-Eid sweep on 2026-06-03 (UAE National Day window) found two materially fresh items in the last 72 hours: the DLD daily tape for 2026-06-02 (AED 1.21B with off-plan rebuilding to 68.5%) and AIQYA's May 2026 apartment snapshot (7,859 freehold deals, AED 13.42B, 80.2% off-plan). All other June 2–3 angles already in the feed (ADREC freeze, DLD 5-month launch print, Fortune cooling, AGBI bubble map, JLL Q1 divergence, civil-transactions Law 25/2025).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-2-2026-daily-print-aed-1-21b-offplan-68-5-percent",
+          "title": "Dubai DLD daily print 2026-06-02: AED 1.21B with off-plan rebuilding to 68.5% — flats book AED 1.02B of the day as commercial off-plan books AED 90.4M and ready villas hold AED 52.5M",
+          "category": "market",
+          "note": "Second post-Eid DLD daily print — off-plan rebuilds to 68.5% in two days, materially different read from the prior 51.9% tape."
+        },
+        {
+          "id": "dubai-aiqya-may-2026-apartments-7859-deals-aed-13-42b-offplan-80-2-june-1",
+          "title": "AIQYA May 2026 Dubai apartments snapshot — 7,859 freehold deals worth AED 13.42B, 80.2% off-plan, studios + 1BR drive 76% of volume as Madinat Al Mataar / Majan / DLRC lead area share and Azizi Venice 14 / Binghatti Skyflame anchor project flow",
+          "category": "market",
+          "note": "First full-month May 2026 DLD apartment snapshot with project + area + developer breakdowns; underwrites every 2026 buyer/seller pitch on concrete psf bands."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

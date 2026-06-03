@@ -1,8 +1,169 @@
 {
-  "generatedAt": "2026-06-03T00:42:28.336Z",
+  "generatedAt": "2026-06-03T13:36:14.796Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-2-2026-daily-print-aed-1-21b-offplan-68-5-percent",
+      "categories": [
+        "market",
+        "offplan",
+        "ready"
+      ],
+      "title": "Dubai DLD daily print 2026-06-02: AED 1.21B with off-plan rebuilding to 68.5% — flats book AED 1.02B of the day as commercial off-plan books AED 90.4M and ready villas hold AED 52.5M",
+      "org": "The Real Estate Report / Dubai Land Department",
+      "date": "2026-06-02",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-03-jun-2026",
+      "summary": "Second post-Eid working-day DLD tape: AED 1.21B total transacted value with off-plan rebuilding to 68.5% (AED 831.1M) and ready stock easing to 31.5% (AED 381.7M). Flats account for AED 1.024B across both engines (off-plan flats AED 704.9M, ready flats AED 319.8M); commercial off-plan books AED 90.4M and ready villas AED 52.5M, the strongest single-day ready-villa flow this month.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "post-eid",
+        "off-plan",
+        "ready",
+        "flats",
+        "commercial",
+        "june-2-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Total transacted value (2026-06-02)": "AED 1.21B",
+        "Off-plan share": "68.5% (AED 831.1M)",
+        "Ready share": "31.5% (AED 381.7M)",
+        "Off-plan flats": "AED 704.9M",
+        "Ready flats": "AED 319.8M",
+        "Off-plan commercial": "AED 90.4M",
+        "Ready villas": "AED 52.5M",
+        "Off-plan hotel apt & rooms": "AED 8.9M",
+        "Prior-day comparison (2026-06-01)": "AED 1.08B, off-plan 51.9%",
+        "Pre-Eid comparison (2026-05-25)": "AED 405.06M ex-land"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 3 Jun 2026 review",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-03-jun-2026"
+        },
+        {
+          "label": "Prior daily — 2 Jun 2026 review (2026-06-01 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-02-jun-2026"
+        },
+        {
+          "label": "Dubai Land Department transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai REST eservice",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Second post-Eid DLD daily print snaps back to AED 1.21B and 68.5% off-plan — flats put up AED 1.02B and ready-villa flow prints AED 52.5M in a single tape.",
+        "whatIsIt": "Dubai Land Department's June 2 freehold tape, summarised in The Real Estate Report's June 3 review, lands at AED 1.21B (+12% day-on-day from the AED 1.08B Eid-recovery print). Off-plan rebuilds to 68.5% (AED 831.1M) — closer to the Week-20 / Week-21 average than the 51.9% ready-heavy split on June 1. Flats put up AED 1.024B of the day (AED 704.9M off-plan + AED 319.8M ready), commercial off-plan books AED 90.4M and ready villas AED 52.5M.",
+        "howItWorks": "Two operator reads. (1) Off-plan share rebuilding from 51.9% to 68.5% inside two working days suggests the Eid window simply paused developer-side queue clearance rather than triggering a structural rotation toward ready stock. (2) Ready villas at AED 52.5M is the strongest single-day villa flow on the month — underwriting for a Dubai Hills / Tilal Al Ghaf / Arabian Ranches villa right now should weight this as a clean post-holiday liquidity read, not a one-off. Commercial off-plan AED 90.4M continues the elevated commercial flow signal from Lumena and the Business Bay AED 646M tape (May 6).",
+        "whyItMatters": "The post-Eid two-day average (AED 1.145B/day, off-plan ~60%) tracks the May weekly run despite the holiday distortion — i.e. the cooling narrative coming out of Fortune, AGBI and BlackBrick this week needs to contend with daily volume still printing AED 1B+ per business day. For anyone modelling Dubai's June DLD tape against the Fitch -15% prediction or the JLL Q1 +9.5% off-plan / -8.2% secondary divergence, the 06-02 print is on the resilient side of both reads.",
+        "forWho": "Off-plan buyers tracking developer-stock absorption, ready-villa buyers and sellers in DXB-HILLS / TILAL / ARABIAN-RANCHES, commercial brokers underwriting Business Bay flow, analysts triangulating daily DLD tape vs JLL / ValuStrat / Bayut weekly reads.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/831a760c-bf06-43ca-946b-6e4ec4b87c9e/pexels-timo-volz-3769312.jpg",
+        "alt": "Dubai skyline used as hero for The Real Estate Report's 3-Jun-2026 daily DLD review",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-06-03T13:36:14.796Z"
+    },
+    {
+      "id": "dubai-aiqya-may-2026-apartments-7859-deals-aed-13-42b-offplan-80-2-june-1",
+      "categories": [
+        "market",
+        "offplan",
+        "ready"
+      ],
+      "title": "AIQYA May 2026 Dubai apartments snapshot — 7,859 freehold deals worth AED 13.42B, 80.2% off-plan, studios + 1BR drive 76% of volume as Madinat Al Mataar / Majan / DLRC lead area share and Azizi Venice 14 / Binghatti Skyflame anchor project flow",
+      "org": "AIQYA Research",
+      "date": "2026-06-01",
+      "url": "https://www.aiqya.com/dubai/dubai-residential-market-may-2026-data-snapshot/",
+      "summary": "AIQYA's full-month May 2026 cut of DLD freehold apartment data: 7,859 transactions, AED 13.42B value, AED 1,824/sqft average (median AED 1,665), 80.2% off-plan share. Studios + 1BR generate 76% of volume; Madinat Al Mataar (14.8%), Majan (10.0%) and Dubai Land Residence Complex (7.1%) lead area share; Azizi Venice 14 (504 deals) and Binghatti Skyflame 1 (442) anchor project flow with median AED 1,706/psf off-plan vs AED 1,317/psf ready.",
+      "tags": [
+        "aiqya",
+        "may-2026",
+        "monthly-snapshot",
+        "apartments",
+        "off-plan",
+        "ready",
+        "azizi",
+        "binghatti",
+        "madinat-al-mataar",
+        "majan",
+        "jvc",
+        "studios"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "MADINAT-AL-MATAAR",
+        "MAJAN",
+        "DLRC",
+        "JVC",
+        "BUSINESS-BAY"
+      ],
+      "metrics": {
+        "Apartments transacted (May 2026)": "7,859",
+        "Total value": "AED 13.42B",
+        "Average ticket": "AED 1.71M",
+        "Median ticket": "AED 1.10M",
+        "Average price psf": "AED 1,824",
+        "Median price psf": "AED 1,665",
+        "Median unit size": "731 sqft",
+        "Off-plan share": "80.2% (6,303 deals; median AED 1,706/psf)",
+        "Ready share": "19.8% (1,556 deals; median AED 1,317/psf)",
+        "Studios share": "36.2% (median AED 630K)",
+        "1BR share": "39.8% (median AED 1.22M)",
+        "Madinat Al Mataar deals": "1,160 (14.8%; AED 1,703/psf)",
+        "Majan deals": "784 (10.0%; AED 1,384/psf)",
+        "Dubai Land Residence Complex deals": "555 (7.1%; AED 1,480/psf)",
+        "JVC deals": "468 (6.0%; AED 1,455/psf)",
+        "Palm Deira deals": "319 (4.1%; AED 3,062/psf)",
+        "Business Bay deals": "203 (2.6%; AED 2,229/psf)",
+        "Azizi Venice 14 deals": "504 (median AED 655K; AED 1,716/psf)",
+        "Binghatti Skyflame 1 deals": "442 (median AED 550K; AED 1,350/psf)",
+        "Azizi total share": "1,534 (19.5%)",
+        "Binghatti total share": "786 (10.0%)",
+        "Highest single sale": "AED 112.6M (Solaya 5/7, Jumeirah First, 5BR)"
+      },
+      "links": [
+        {
+          "label": "AIQYA — Dubai Residential Market May 2026 Data Snapshot",
+          "url": "https://www.aiqya.com/dubai/dubai-residential-market-may-2026-data-snapshot/"
+        },
+        {
+          "label": "DLD open-data portal (source)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "AIQYA — April–mid-May trends (companion read)",
+          "url": "https://www.aiqya.com/dubai/dubai-residential-market-trends-april-mid-may-2026/"
+        }
+      ],
+      "explainer": {
+        "tagline": "May 2026 Dubai apartment market: 7,859 freehold deals worth AED 13.42B, 80.2% off-plan, studios + 1BR drive three-quarters of volume — a clean read on the volume-vs-prime bifurcation thesis.",
+        "whatIsIt": "AIQYA Research's full-month DLD-sourced snapshot of Dubai's May 2026 freehold apartment market. 7,859 transactions cleared at AED 13.42B (average AED 1.71M / median AED 1.10M). Average price reads AED 1,824/sqft (median AED 1,665), median unit 731 sqft. Off-plan dominates 80.2% (6,303 deals at median AED 1,706/psf) with ready at 19.8% (1,556 deals at AED 1,317/psf).",
+        "howItWorks": "Three concrete operator reads. (1) Volume engine sits in the AED 1M–2M and sub-AED 750K bands (collectively 65% of deals) — anyone underwriting a JVC studio or 1BR can lean on the AED 1,455/psf JVC median and AED 1,022/psf at IC Phase 2/3 as bid-side benchmarks. (2) Project concentration: Azizi Venice 14 (504 deals, AED 1,716/psf) + Binghatti Skyflame 1/2 (635 combined, ~AED 1,370/psf) cleared >1,100 units in one month — the developer-stock absorption rate that frames any private-resale exit. (3) The ultra-prime tape (Solaya 5/7 AED 112.6M, Solaya 4/6 AED 106M, CASA AHS AED 101.2M) confirms the AGBI / Fortune / Arabian Business 'two-speed' narrative — the same DLD month delivered AED 630K studio volume and AED 112.6M waterfront tickets.",
+        "whyItMatters": "This is the first full-month May DLD apartment cut with project-level resolution. It validates the off-plan / ready divergence in JLL's Q1 +9.5% / -8.2% read and gives concrete area-level psf benchmarks that don't rely on portal asks. The 31.6% share clearing under AED 750K is the operating evidence that the post-visa-floor-removal stock (sub-AED 750K visa-eligible units) is the volume engine of the 2026 market — supporting the Newbury Chapter / Dugasta Al Haseen 6 / Symbolic Zen positioning across the feed.",
+        "forWho": "Buyer agents underwriting JVC / Majan / IC Phase 2/3 / Madinat Al Mataar entry tickets, off-plan investors triangulating Azizi vs Binghatti vs DAMAC absorption, yield-driven landlords pricing studio + 1BR rentals against May psf bands, brokers building post-Eid pitch decks with verified DLD-sourced area medians.",
+        "tryIt": "https://www.aiqya.com/dubai/dubai-residential-market-may-2026-data-snapshot/"
+      },
+      "image": {
+        "url": "https://www.aiqya.com/wp-content/uploads/2026/06/dubai-residential-market-may-2026-860x573.jpg",
+        "alt": "AIQYA Research — Dubai Residential Market May 2026 Data Snapshot hero image",
+        "fit": "cover",
+        "credit": "AIQYA Research"
+      },
+      "publishDate": "2026-06-03T13:36:14.796Z"
+    },
     {
       "id": "dubai-adrec-abu-dhabi-rent-freeze-june-2-2026-zero-percent-uae-wide",
       "categories": [
