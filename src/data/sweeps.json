@@ -4028,6 +4028,46 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260603t004228z",
+      "timestamp": "2026-06-03T00:42:28.336Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new tier-1 signals from the 2026-06-02 window: ADREC's emirate-wide rent freeze (Abu Dhabi, but a UAE-regulatory shock that reframes Dubai's 5% RERA-cap competitive position), and Century Financial's June 2 'capital paused, not left' bottoming thesis with hard April rebound metrics (198% w/w viewings, 147% enquiries, 98% transactions) and Blackstone's USD 250M UAE proof point.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-adrec-abu-dhabi-rent-freeze-june-2-2026-zero-percent-uae-wide",
+          "title": "ADREC freezes Abu Dhabi rent increases to 0% across residential, commercial and industrial leases — UAE-wide signal that reshapes Dubai's 5% RERA-cap competitive positioning",
+          "category": "legal",
+          "note": "UAE-wide regulatory shock — although AD-specific, the freeze materially changes Dubai's competitive rental-yield positioning. Categorised legal/rental/market because no equivalent Dubai action is in train (RERA calculator remains live)."
+        },
+        {
+          "id": "dubai-century-financial-valecha-capital-paused-not-left-april-rebound-june-2-2026",
+          "title": "Century Financial / Vijay Valecha: 'Capital paused, not left' — April rebound prints (viewings +198% w/w, enquiries +147%, transactions +98%) and Blackstone's USD 250M UAE bet frame March as the bottom",
+          "category": "market",
+          "note": "Counter-narrative to existing Fortune cooling piece — adds fresh April rebound prints (viewings/enquiries/transactions w/w) and the Blackstone USD 250M institutional-conviction proof point that no existing card covers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "legal",
+        "rental",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

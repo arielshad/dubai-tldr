@@ -1,8 +1,150 @@
 {
-  "generatedAt": "2026-06-02T13:16:03.179Z",
+  "generatedAt": "2026-06-03T00:42:28.336Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-adrec-abu-dhabi-rent-freeze-june-2-2026-zero-percent-uae-wide",
+      "categories": [
+        "legal",
+        "rental",
+        "market"
+      ],
+      "title": "ADREC freezes Abu Dhabi rent increases to 0% across residential, commercial and industrial leases — UAE-wide signal that reshapes Dubai's 5% RERA-cap competitive positioning",
+      "org": "Abu Dhabi Real Estate Centre (ADREC)",
+      "date": "2026-06-02",
+      "publishDate": "2026-06-03T00:42:28.336Z",
+      "url": "https://www.thenationalnews.com/news/uae/2026/06/02/abu-dhabi-freezes-rents-for-residential-commercial-and-industrial-properties/",
+      "summary": "ADREC halted all Abu Dhabi rent increases on 2026-06-02 — 0% on every residential/commercial/industrial renewal AND new lease at the previously-rented unit's rate, until further notice. Replaces the 5% annual cap in place since 2016. Dubai's 5% RERA increase calculator remains intact — a competitive advantage for Dubai landlords and an arbitrage opportunity for AD capital looking for yield.",
+      "tags": [
+        "abu-dhabi",
+        "rent-freeze",
+        "adrec",
+        "uae-regulation",
+        "rental-yield",
+        "tenant-protection",
+        "rera-comparison"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UAE",
+        "ABU-DHABI",
+        "DXB"
+      ],
+      "metrics": {
+        "Effective": "Immediate, until further notice",
+        "Renewal cap": "0% (was up to 5%)",
+        "New-lease cap on rented units": "Previous contract rate",
+        "Scope": "Residential + commercial + industrial",
+        "Dubai RERA cap": "Up to 20% per RERA calculator (unchanged)",
+        "Prior AD cap since": "2016"
+      },
+      "links": [
+        {
+          "label": "Gulf News tenant-impact explainer",
+          "url": "https://gulfnews.com/business/property/abu-dhabi-freezes-rent-increases-does-this-affect-existing-or-new-uae-tenants-1.500560502"
+        },
+        {
+          "label": "Arabian Business rent-freeze coverage",
+          "url": "https://www.arabianbusiness.com/real-estate/abu-dhabi-rent-freeze"
+        },
+        {
+          "label": "TradeArabia industrial scope",
+          "url": "https://www.tradearabia.com/news/463232/Abu-Dhabi-freezes-rents-for-residential%2c-commercial-properties"
+        },
+        {
+          "label": "Dubai RERA rental increase calculator",
+          "url": "https://dubailand.gov.ae/en/eservices/rental-increase-calculator/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Abu Dhabi caps every rent at 0% — Dubai's 5% RERA cap is suddenly the UAE's most landlord-friendly rental regime.",
+        "whatIsIt": "On 2026-06-02 the Abu Dhabi Real Estate Centre (ADREC) suspended all rent increases across residential, commercial and industrial leases — both renewals and new contracts on previously-rented units must match the prior contract's rate. The 5% annual cap that has applied since 2016 is overridden until further notice. Ben Crompton, Mario Volpi and Andry Grouta all called the move tenant-protective and 'one-sided' against landlords.",
+        "howItWorks": "The freeze applies emirate-wide and is effective immediately. Landlord notices already served become unenforceable for any increase; renewals are processed at the existing rate. Dubai's regime is untouched — the RERA Rental Increase Calculator still permits stepped increases up to 20% when the existing rent is materially below the index. That widens the cross-emirate spread on what a landlord can underwrite per AED of capital deployed.",
+        "whyItMatters": "Two operator moves to watch. (1) Capital arbitrage: AD landlords facing margin compression have an incentive to redeploy proceeds into Dubai rental stock where the 5% cap (or stepped RERA-calculator increases) still allows rent-roll growth. (2) Tenant flow: rent-sensitive AD tenants have fresh reason to stay; rent-sensitive Dubai tenants conversely lose any 'AD will follow' protection. The longer the freeze holds without Dubai matching, the wider Dubai's effective yield premium becomes.",
+        "forWho": "Dubai landlords reunderwriting yield, AD-to-Dubai capital rotators, leasing brokers building tenant pitches, Dubai tenants assessing relocation risk, REIT analysts pricing UAE rental regimes.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/rental-increase-calculator/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/SDGWRUJ2CNCHVPHF7FGMJ53J4U.jpg?smart=true&auth=4ecc1c800e5b6436b503b18f988ce06dcb5a12f6aeb76268491b2d4741d8db18&width=400&height=225",
+        "alt": "Abu Dhabi skyline at dusk — ADREC suspended all rent increases across the emirate on 2026-06-02.",
+        "fit": "cover",
+        "credit": "The National"
+      }
+    },
+    {
+      "id": "dubai-century-financial-valecha-capital-paused-not-left-april-rebound-june-2-2026",
+      "categories": [
+        "market",
+        "media"
+      ],
+      "title": "Century Financial / Vijay Valecha: 'Capital paused, not left' — April rebound prints (viewings +198% w/w, enquiries +147%, transactions +98%) and Blackstone's USD 250M UAE bet frame March as the bottom",
+      "org": "Century Financial (via TradeArabia)",
+      "date": "2026-06-02",
+      "publishDate": "2026-06-03T00:42:28.336Z",
+      "url": "https://www.tradearabia.com/news/463238/Dubai-property-market-bottomed-in-March-as-demand-rebounds-strongly-",
+      "summary": "Century Financial CIO Vijay Valecha's 2026-06-02 read: ValuStrat -5.9% in March was the cycle low, foreign Q1 transaction value still up ~26% YoY, and April rebuilt fast — viewing activity +198% w/w, buyer enquiries +147%, completed transactions +98%, with mortgage submissions in the first 8 days of April exceeding the entire month of March. REIDIN/DLD April average held AED 1,973/sqft (+3% MoM, +8% YoY). Blackstone's USD 250M UAE payments-platform commitment is cited as the institutional-conviction proof.",
+      "tags": [
+        "century-financial",
+        "vijay-valecha",
+        "market-bottom",
+        "april-rebound",
+        "valustrat",
+        "blackstone",
+        "mortgage-finder",
+        "reidin"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD",
+        "REIDIN"
+      ],
+      "metrics": {
+        "ValuStrat March MoM": "-5.9% (229.2 pts)",
+        "Q1 foreign value YoY": "+26%",
+        "Foreign deals Q1": "48,445 (+11%)",
+        "April viewings w/w": "+198%",
+        "April enquiries": "+147%",
+        "April completed transactions": "+98%",
+        "April REIDIN/DLD price": "AED 1,973/sqft (+3% MoM, +8% YoY)",
+        "Blackstone UAE commitment": "USD 250M (Mar 2026)",
+        "Annual ValuStrat growth": "+8.9%"
+      },
+      "links": [
+        {
+          "label": "TradeArabia / Century Financial original",
+          "url": "https://www.tradearabia.com/news/463238/Dubai-property-market-bottomed-in-March-as-demand-rebounds-strongly-"
+        },
+        {
+          "label": "Mortgage Finder by Property Finder",
+          "url": "https://www.mortgagefinder.ae/"
+        },
+        {
+          "label": "REIDIN UAE residential index",
+          "url": "https://www.reidin.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bull-side read on 2026-06-02: ValuStrat -5.9% in March was the bottom, April rebuilt at +198% w/w viewings, and Blackstone's USD 250M says capital paused, didn't leave.",
+        "whatIsIt": "Vijay Valecha, CIO of Century Financial, published a 2026-06-02 counter-narrative to the Fortune cooling story: Q1 foreign transaction value was still up ~26% YoY despite the regional conflict, the March drawdown (ValuStrat -5.9% MoM, first monthly drop since 2020) was the cycle low, and April's recovery prints — viewings +198% w/w, enquiries +147%, completed transactions +98%, mortgage submissions in the first 8 days exceeding all of March — point to a fast-rebuilt buy-side. Blackstone's USD 250M commitment to a UAE payments platform in March 2026 is presented as institutional-conviction evidence.",
+        "howItWorks": "REIDIN/DLD's April citywide average held at AED 1,973/sqft (+3% MoM, +8% YoY) even as ValuStrat's index fell — Valecha argues the divergence is the index lag, not a second leg down. Mortgage Finder's intent jump and Property Finder's April AED 9.02B DLD-registered mortgage flow (already a 2026 yearly peak) support the rebound thesis. Selective discounts persist in ultra-prime resales, but the buy-side has been replenishing since week 1 of April.",
+        "whyItMatters": "Frames the timing question for buyers sitting on the sidelines. If March was the bottom and April is the rebuild, end-Q2 is the window before re-pricing closes. If it's a dead-cat bounce, the Fortune cooling/Damac Lagoons -61.2% framing wins. Either way it gives an operator a single data set to argue the call. The Blackstone print is a useful proof point when pitching foreign capital that has paused decisions.",
+        "forWho": "End-buyers timing entry, off-plan operators repositioning Q3 launches, mortgage brokers building April-recovery pitches, foreign-capital allocators using the Blackstone signal, market commentators triangulating the cooling-vs-rebound debate.",
+        "tryIt": "https://www.mortgagefinder.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/02/TA_20260602194022.webp",
+        "alt": "Century Financial market read banner — June 2, 2026 article framing March as the Dubai property bottom.",
+        "fit": "cover",
+        "credit": "TradeArabia"
+      },
+      "author": {
+        "name": "Vijay Valecha",
+        "handle": "Century Financial",
+        "profileUrl": "https://www.century.ae/about-us/board-of-directors/vijay-valecha/"
+      }
+    },
     {
       "id": "dubai-dld-250-projects-aed-75b-5-months-59400-units-verdes-jun-1-2026",
       "categories": [
