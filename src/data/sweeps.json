@@ -4168,6 +4168,53 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260604t130325z",
+      "timestamp": "2026-06-04T13:03:25.308Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-04 sweep adds three fresh, verified items: the DLD 2026-06-03 daily print (AED 1.73B with ready share rebuilding to 44.8%), Dubai Holding Community Management's 16–20-month Remraam remediation programme that displaces residents from July 1 with RERA-index rent compensation, and the Arada/Penta Group UAE Property Investment Index that puts the UAE ahead of the US (54%) and UK (41%) on global investor interest.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-3-2026-daily-print-aed-1-73b-ready-share-44-8-percent",
+          "title": "Dubai DLD daily print 2026-06-03: AED 1.73B with ready share rebuilding to 44.8% — off-plan flats AED 839.9M lead the off-plan side while ready flats clear AED 520.8M and ready villas hold AED 142M",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-remraam-dhcm-remediation-16-20-months-relocation-allowance-rera-rent-jul-1-2026",
+          "title": "Dubai Holding Community Management to phase-vacate parts of Remraam from 1 July 2026 for a 16–20-month remediation — rent compensation tied to RERA index + AED 7K–16K relocation allowance",
+          "category": "lead",
+          "note": "Added under lead."
+        },
+        {
+          "id": "dubai-arada-penta-group-uae-property-investment-index-56-percent-global-jun-4-2026",
+          "title": "Arada × Penta Group UAE Property Investment Index — 56% of global investors flag serious UAE property interest, ahead of US (54%) and UK (41%)",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "lead",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

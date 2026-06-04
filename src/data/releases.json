@@ -1,8 +1,201 @@
 {
-  "generatedAt": "2026-06-04T00:51:45.615Z",
+  "generatedAt": "2026-06-04T13:03:25.308Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-3-2026-daily-print-aed-1-73b-ready-share-44-8-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-03: AED 1.73B with ready share rebuilding to 44.8% — off-plan flats AED 839.9M lead the off-plan side while ready flats clear AED 520.8M and ready villas hold AED 142M",
+      "org": "The Real Estate Report",
+      "date": "2026-06-03",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-04-jun-2026",
+      "summary": "DLD-reported transactions on 2026-06-03 totalled AED 1.73B across 10,218 deals: AED 957.2M off-plan (55.2%) vs AED 776.5M ready (44.8%). Off-plan flats AED 839.9M (87.8% of segment); ready flats AED 520.8M and ready villas AED 142M (18.3% of segment) anchor the ready side.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "transactions",
+        "apartments",
+        "villas"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Total transacted value": "AED 1.73B",
+        "Deals": "10,218",
+        "Off-plan share": "55.2% (AED 957.2M)",
+        "Ready share": "44.8% (AED 776.5M)",
+        "Off-plan flats": "AED 839.9M (87.8% of off-plan)",
+        "Ready flats": "AED 520.8M",
+        "Ready villas": "AED 142M (18.3% of ready)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 04-Jun-2026 daily review",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-04-jun-2026"
+        },
+        {
+          "label": "DLD Dubai Pulse open transaction dataset",
+          "url": "https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open"
+        }
+      ],
+      "explainer": {
+        "tagline": "Ready stock continues to rebuild share — 44.8% of yesterday's AED 1.73B DLD tape, the firmest ready print since the May Eid lull.",
+        "whatIsIt": "The Real Estate Report's 4-Jun-2026 review of DLD-registered Dubai transactions for trading day 3 June 2026. Off-plan still leads at 55.2% / AED 957.2M but ready clears AED 776.5M as villas hold 18.3% of the ready side.",
+        "howItWorks": "Off-plan flats book AED 839.9M (87.8% of off-plan) and ready flats clear AED 520.8M, so apartments drive both engines. Ready villas at AED 142M is the cleanest read on family-home liquidity post-Eid. Sample size is 10,218 deals — comparable to early-May daily runs before the regional shock.",
+        "whyItMatters": "Ready share has now rebuilt three sessions in a row (51.9% → 31.5% → 44.8%), which is the signal end-user buyers are actually closing rather than waiting. Off-plan flat dominance also confirms the pipeline is still being pre-sold despite the cooling headlines from Fortune, AGBI and ValuStrat.",
+        "forWho": "Investors timing entries on ready stock; brokers underwriting Q3 listings; developers reading the post-Eid demand floor; analysts modelling the off-plan/ready rotation.",
+        "tryIt": "https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/431eebe2-d0a8-4d9f-abd4-33e4d79d834c/pexels-ayrat-244411276-19136351.jpg",
+        "alt": "Dubai skyline hero used by The Real Estate Report's 4-Jun-2026 daily DLD review.",
+        "fit": "cover"
+      },
+      "publishDate": "2026-06-04T13:03:25.308Z"
+    },
+    {
+      "id": "dubai-remraam-dhcm-remediation-16-20-months-relocation-allowance-rera-rent-jul-1-2026",
+      "categories": [
+        "lead",
+        "legal",
+        "rental"
+      ],
+      "title": "Dubai Holding Community Management to phase-vacate parts of Remraam from 1 July 2026 for a 16–20-month remediation — rent compensation tied to RERA index + AED 7K–16K relocation allowance",
+      "org": "Khaleej Times",
+      "date": "2026-06-04",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-remraam-residents-offered-rent-compensation-temporary-eviction-notices",
+      "summary": "DHCM has notified Remraam tenants that parts of the community will undergo a 'preventative, long-term' remediation lasting 16–20 months. Phased vacate begins 1 July 2026. Rent compensation = months out × average RERA index for the unit type, plus a one-off AED 7K (studio) – AED 16K (3BR) relocation allowance. Service charges continue during works.",
+      "tags": [
+        "remraam",
+        "dhcm",
+        "dubai-holding",
+        "remediation",
+        "tenant-relocation",
+        "rera-index",
+        "service-charges"
+      ],
+      "importance": "major",
+      "tickers": [
+        "REMRAAM",
+        "DUBAILAND"
+      ],
+      "metrics": {
+        "Vacate start": "2026-07-01 (phased)",
+        "Vacate duration": "16–20 months",
+        "Rent compensation formula": "months × average RERA index per unit type",
+        "Relocation allowance (studio)": "AED 7,000",
+        "Relocation allowance (3BR)": "AED 16,000",
+        "Service charges during works": "Continue (≈AED 1,200/mo for 1BR)",
+        "Operator": "Dubai Holding Community Management (DHCM)"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Remraam rent-compensation announcement",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-remraam-residents-offered-rent-compensation-temporary-eviction-notices"
+        },
+        {
+          "label": "Dubai Standard — companion coverage",
+          "url": "https://www.dubaistandard.com/rent-compensation-announced-for-remraam-residents-affected-by-temporary-evictions/"
+        },
+        {
+          "label": "DHCM — Remraam community page",
+          "url": "https://www.dubaiholdingcommunities.ae/communities/remraam"
+        },
+        {
+          "label": "RERA rent index (Dubai REST)",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DHCM is about to take a sizeable Dubailand low-rise rental cluster offline for ~18 months — the rent comp formula is generous on paper but service charges keep ticking.",
+        "whatIsIt": "Dubai Holding Community Management has told tenants across parts of Remraam (Dubailand, Studio City corridor) that buildings will be evacuated in phases starting 1 July 2026 for a preventative remediation programme. Residents return after 16–20 months; the operator pays rent compensation plus a relocation lump sum.",
+        "howItWorks": "Rent compensation is mechanical: months out × the average RERA Rental Index value for that unit type. Relocation allowance scales by layout — AED 7K studio, AED 16K 3-BR. Service charges still run during works (≈AED 1,200/month for a 1-BR, on top of any mortgage), so landlords need to model the net hit even if displaced tenants are made whole on rent.",
+        "whyItMatters": "This is the first formalised landlord-paid relocation programme of its size in a Dubai master community, and it removes 16–20 months of supply from a Dubailand catchment already tight on family rentals. Brokers can match displaced families into Mudon / Town Square / Dubailand Residence Complex; landlords need to file the comp claim before signing a vacate; buyers may see DHCM-sourced stock come to market at the post-works re-launch.",
+        "forWho": "Remraam owners weighing comp-vs-service-charge math; Dubailand brokers building displaced-tenant lists; investors scanning for post-remediation re-launch entries; legal advisors reading the RERA-index comp precedent.",
+        "tryIt": "https://www.dubaiholdingcommunities.ae/communities/remraam"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2025-01-02/epihdwg0/a1152803_0d24_4db5_a72b_dd7e95a6416f_org.jpg",
+        "alt": "Aerial of Remraam low-rise apartment cluster used in Khaleej Times' 4-Jun-2026 remediation report.",
+        "fit": "cover"
+      },
+      "publishDate": "2026-06-04T13:03:25.308Z"
+    },
+    {
+      "id": "dubai-arada-penta-group-uae-property-investment-index-56-percent-global-jun-4-2026",
+      "categories": [
+        "market",
+        "media"
+      ],
+      "title": "Arada × Penta Group UAE Property Investment Index — 56% of global investors flag serious UAE property interest, ahead of US (54%) and UK (41%)",
+      "org": "Gulf Today",
+      "date": "2026-06-04",
+      "url": "https://www.gulftoday.ae/business/2026/06/04/uae-ranks-among-worlds-most-sought-after-real-estate-investment-destinations-research-reveals",
+      "summary": "First Arada UAE Property Investment Index (Penta Group, US): UAE leads global investor demand at 56% serious interest vs US 54% / UK 41%. Indian (91%) and Egyptian (92%) buyers strongest in MENA; French (63%), German (60%), Swiss (57%) lead Europe. Key drivers: returns (38%), stability (65% Chinese, 58% German), ownership ease (57% Saudi).",
+      "tags": [
+        "arada",
+        "penta-group",
+        "investment-index",
+        "uae-property",
+        "international-buyers",
+        "branded-residences",
+        "gold-line"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "UAE",
+        "DXB"
+      ],
+      "metrics": {
+        "Global serious-interest in UAE": "56%",
+        "US benchmark": "54%",
+        "UK benchmark": "41%",
+        "Familiarity with UAE opportunities": "51%",
+        "Indian investor interest": "91%",
+        "Egyptian investor interest": "92%",
+        "Saudi investor interest": "85%",
+        "French/German/Swiss": "63% / 60% / 57%",
+        "Returns as top driver": "38% (57% Australian, 56% Spanish)",
+        "Stability as top driver": "65% Chinese, 58% German",
+        "Ownership ease": "57% Saudi, 41% Egyptian"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Arada / Penta Group index report",
+          "url": "https://www.gulftoday.ae/business/2026/06/04/uae-ranks-among-worlds-most-sought-after-real-estate-investment-destinations-research-reveals"
+        },
+        {
+          "label": "Arada Developments",
+          "url": "https://www.arada.com/"
+        },
+        {
+          "label": "Penta Group — global research",
+          "url": "https://pentagroup.co/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Arada's first global investor survey puts UAE property ahead of the US and UK on serious interest — confirms India + Egypt + Saudi as the volume engines DXB Interact's nationality split has been flagging.",
+        "whatIsIt": "Arada commissioned US firm Penta Group to survey global investors on cross-border property interest. The headline: 56% express serious interest in UAE property, beating the US (54%) and UK (41%). Familiarity sits at 51%, leaving a ~5pt headroom between awareness and action.",
+        "howItWorks": "Drivers split by geography. Returns lead globally (38%) and dominate Australian (57%) and Spanish (56%) cohorts. Safety/stability drives Chinese (65%) and German (58%) buyers — the 'sanctuary' segment BlackBrick has been tracking. Ownership ease — clean transfer, freehold, no inheritance tax — flips Saudi (57%) and Egyptian (41%) intent into closes. Arada is anchoring its messaging on AED 34B Metro Gold Line + air-taxi build-out and AA sovereign rating.",
+        "whyItMatters": "Lines up cleanly with DXB Interact's nationality split (Indians 20.59%, Egyptians 12.60%, Saudis 5.72% of post-crisis Dubai purchases) and Whitewill's Q1 AED 139.2B print. The 5-point gap between familiarity (51%) and interest (56%) tells brokers and developers their marketing problem is conversion / education, not demand. Sanctuary-stability framing also calibrates the BlackBrick / Sotheby's pitch for HNW buyers from Asia and Europe.",
+        "forWho": "Developers refining international marketing; brokerages tuning country-desk staffing (India, Egypt, Saudi, France, Germany); luxury agencies pitching sanctuary stock; PR teams sourcing global-rank citations.",
+        "tryIt": "https://www.gulftoday.ae/business/2026/06/04/uae-ranks-among-worlds-most-sought-after-real-estate-investment-destinations-research-reveals"
+      },
+      "image": {
+        "url": "https://www.gulftoday.ae/gulftoday/uploads/images/2026/06/04/1084522.webp",
+        "alt": "Gulf Today hero for Arada × Penta Group UAE Property Investment Index — Dubai skyline frame.",
+        "fit": "cover"
+      },
+      "publishDate": "2026-06-04T13:03:25.308Z"
+    },
     {
       "id": "dubai-marea-residences-sharafi-dubai-islands-aed-274m-dre-x-relaunch-june-2-2026",
       "categories": [
