@@ -1,8 +1,332 @@
 {
-  "generatedAt": "2026-06-03T13:36:14.796Z",
+  "generatedAt": "2026-06-04T00:51:45.615Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-marea-residences-sharafi-dubai-islands-aed-274m-dre-x-relaunch-june-2-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "luxury"
+      ],
+      "title": "Sharafi Group re-prices Marea Residences on Dubai Islands — 68-unit G+2+12 boutique block re-launches at AED 2.74M with DRE-X exclusivity, 30/70 and two-year 50/50 post-handover plans, Q4 2027 handover",
+      "org": "Sharafi Group Investments × Sharafi Development × DRE Homes / DRE-X",
+      "date": "2026-06-02",
+      "url": "https://www.zawya.com/en/press-release/companies-news/sharafi-group-investments-debuts-marea-residences-on-dubai-islands-b99vhipy",
+      "summary": "Sharafi Group used a 02-Jun-2026 press push to re-launch Marea Residences on Dubai Islands at a fresh AED 2.74M (semi-furnished 1-BR with private jacuzzi) start, +5% over the original AED 2.6M Nov 2025 launch with Metropolitan Premium Properties. The 68-residence G+2+12 boutique waterfront tower (1-BR, 2-BR, two- and three-bedroom duplexes with maid's rooms and plunge pools) is now offered on a 30/70 plan or a 50/50 plan that extends two years past Q4 2027 handover, with DRE Homes' master agency DRE-X taking exclusive sales — replacing Metropolitan from the original launch. Residents access hospitality packages at Sharafi's four-star Allure Hotel opening on Dubai Islands later in 2026.",
+      "tags": [
+        "Sharafi",
+        "Marea Residences",
+        "Dubai Islands",
+        "DRE Homes",
+        "DRE-X",
+        "boutique",
+        "waterfront",
+        "Q4-2027",
+        "post-handover-50-50",
+        "branded-hospitality"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-ISLANDS",
+        "DXB"
+      ],
+      "metrics": {
+        "Developer": "Sharafi Group Investments / Sharafi Development (est. 1924)",
+        "Project": "Marea Residences",
+        "Location": "Dubai Islands (Deira-side beachfront cluster)",
+        "Structure": "G+2+12 boutique waterfront block",
+        "Unit count": "68 residences",
+        "Layout mix": "1-BR + 2-BR semi-furnished (private jacuzzi) + 2-BR / 3-BR duplexes (maid's rooms + plunge pools) + penthouses",
+        "Starting price": "AED 2.74M (1-BR, semi-furnished with jacuzzi)",
+        "Prior start (Nov 2025)": "AED 2.6M (40/30/30 plan, Metropolitan as exclusive)",
+        "Payment plans (Jun 2026 relaunch)": "30/70 OR 50/50 post-handover extending two years past completion",
+        "Exclusive sales": "DRE Homes / DRE-X (master agency division)",
+        "Handover": "Q4 2027",
+        "Hospitality bundle": "Access to Sharafi's four-star Allure Hotel (opens on Dubai Islands 2026)",
+        "Amenities": "Infinity pool, spa, sauna, sensory showers, private gardens, sea-view gym"
+      },
+      "links": [
+        {
+          "label": "Zawya — Sharafi Group Investments debuts MAREA Residences on Dubai Islands (Jun 2026 re-launch)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/sharafi-group-investments-debuts-marea-residences-on-dubai-islands-b99vhipy"
+        },
+        {
+          "label": "Khaleej Times — Sharafi Development relaunches Marea Residences on Dubai Islands",
+          "url": "https://www.khaleejtimes.com/business/property/sharafi-development-introduces-a-new-benchmark-for-waterfront-living-with-the-launch-of-marea-residences-on-dubai-islands"
+        },
+        {
+          "label": "INTLBM — Sharafi Group's Marea Residences elevates private island living (02-Jun-2026)",
+          "url": "https://intlbm.com/2026/06/02/sharafi-groups-marea-residences-elevates-private-island-living/"
+        },
+        {
+          "label": "Marea Residences project site",
+          "url": "https://marea.ae/"
+        },
+        {
+          "label": "Property Finder — Marea Residence at Dubai Islands by Sharafi Real Estate",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sharafi-real-estate/marea-residenc"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sharafi quietly resets Marea — same 68-unit Dubai Islands block, fresh AED 2.74M start, DRE-X takes sales from Metropolitan, and a two-year post-handover 50/50 plan dares the cooling secondary to compete.",
+        "whatIsIt": "Marea Residences is Sharafi Development's 68-key G+2+12 boutique waterfront tower on the Deira-side cluster of Dubai Islands. It was originally launched in November 2025 from AED 2.6M with a 40/30/30 payment plan and Metropolitan Premium Properties as exclusive broker. On 02-Jun-2026 Sharafi Group Investments re-pushed Marea via Zawya, INTLBM and Khaleej Times — this time as a 'debut' with DRE Homes' master agency DRE-X taking exclusive sales, a +5% starting price reset to AED 2.74M for a semi-furnished 1-BR with private jacuzzi, and two new payment-plan options: a 30/70 plan or a 50/50 plan that extends two years past the Q4 2027 handover. Residents and tenants get bundled hospitality at Sharafi's four-star Allure Hotel opening on Dubai Islands later in 2026.",
+        "howItWorks": "Operator angles: (1) For a price-sensitive 1-BR buyer — DRE-X's 50/50 post-handover plan effectively pushes half the ticket out to Q4 2029 at no developer-stated interest. Compare against Cheval Residences and Grovy × Wyndham Ramada on Dubai Islands for true cost-of-capital before signing. (2) For comp watchers — Marea's price reset to AED 2.74M is a +5% nudge on AED 2.6M in seven months, while AGBI / dxbinteract have Dubai Islands ready prices and luxury secondary softening. Verify against the Bayut + dubizzle Day-58 recovery data already in feed before reading this as a market-wide price firm-up. (3) For mid-sized brokerages — the Metropolitan-to-DRE Homes swap is a signal in itself; ask DRE-X for the leftover unsold-unit count from the Nov 2025 sales run before pitching clients. (4) For end-users — the Allure Hotel hospitality bundle is the most tangible differentiator vs neighbouring branded launches; ask for a contractual guarantee of access tiers and any service charges that flow through SC.",
+        "whyItMatters": "Dubai Islands has absorbed multiple branded-residence launches in the last 12 months (Cheval, Grovy × Wyndham Ramada Residences, Innovate Living's Omoria, DHG's Helvetia Marine). Marea is the only one of those publicly recapping its launch with a new exclusive agent inside seven months — a meaningful tell that mid-tier waterfront 1-BR/2-BR product is repricing and re-marketing to clear, not just selling out from launch. Combined with the Khaleej Times May-momentum read on April rebound, the Marea reset is a useful proxy for how boutique developers are tuning ticket size + payment-plan length in a buyer's-leaning market.",
+        "forWho": "Dubai Islands cluster buyers comparing branded boutique blocks; brokerages tracking exclusivity flips; underwriters modelling post-handover plans against current bank LTV cuts; analysts mapping branded-residence pricing resets in cooling segments; family offices benchmarking maid's-room + plunge-pool duplexes.",
+        "tryIt": "https://marea.ae/"
+      },
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/cf666b4d-cf32-471a-a4b5-df9bf96aac8a/0/coverimage-jpg.webp",
+        "alt": "Render of Marea Residences — Sharafi Development's G+2+12 boutique waterfront tower on Dubai Islands",
+        "fit": "cover",
+        "credit": "Sharafi Development / Zawya"
+      },
+      "publishDate": "2026-06-04T00:51:45.615Z"
+    },
+    {
+      "id": "dubai-dhg-helvetia-marine-groundbreaking-soldout-dubai-islands-june-2-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "DHG Properties breaks ground on sold-out Helvetia Marine on Dubai Islands — 63-unit low-rise tops out a AED 1.3B (~$350M) Swiss UAE pipeline with Q1 2028 handover",
+      "org": "DHG Properties",
+      "date": "2026-06-02",
+      "url": "https://tradearabia.com/News/463222/DHG-starts-work-on-premium-Dubai-Islands-waterfront-residential-project",
+      "summary": "Swiss developer DHG Properties confirmed on 02-Jun-2026 that construction had begun at the end of May on Helvetia Marine, its third Dubai project. The 63-unit, 12,938 sqm BUA low-rise on Dubai Islands is fully sold out from launch, featuring 1/2/3-BR apartments alongside duplex and garden residences with five-metre ceilings, and is targeting Q1 2028 handover. The Dubai Islands ground-break brings DHG's three active UAE projects to a combined AED 1.3B ($350M) gross development value alongside Helvetia Residences in JVC (handover July 2026) and a Meydan project sitting at 60% sold.",
+      "tags": [
+        "DHG Properties",
+        "Helvetia Marine",
+        "Dubai Islands",
+        "Swiss",
+        "groundbreaking",
+        "sold-out",
+        "Q1-2028",
+        "low-rise",
+        "boutique"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-ISLANDS",
+        "DXB"
+      ],
+      "metrics": {
+        "Developer": "DHG Properties (Swiss real-estate developer)",
+        "Project": "Helvetia Marine",
+        "Location": "Dubai Islands (low-rise waterfront)",
+        "Total units": "63 residences",
+        "Total BUA": "12,938 sqm",
+        "Layout mix": "1/2/3-BR apartments + duplex residences (5-metre ceilings) + garden residences",
+        "Sales status": "Fully sold out at launch",
+        "Construction start": "End of May 2026 (confirmed 02-Jun-2026)",
+        "Handover target": "Q1 2028",
+        "UAE pipeline value": "AED 1.3B (~$350M) across 3 active projects",
+        "DHG sister projects": "Helvetia Residences (JVC, handover July 2026); Meydan project at 60% sold",
+        "Architectural cue": "Coral-inspired low-rise façade",
+        "Executive": "Blagoje Antic, DHG Chairman & CEO; Milos Antic, Executive Vice Chairman"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — DHG starts work on premium Dubai Islands waterfront residential project (02-Jun-2026)",
+          "url": "https://tradearabia.com/News/463222/DHG-starts-work-on-premium-Dubai-Islands-waterfront-residential-project"
+        },
+        {
+          "label": "Arabian Business — Dubai Islands records $953M sales as DHG launches new Helvetia Marine residences",
+          "url": "https://www.arabianbusiness.com/industries/real-estate/dubai-islands-records-953m-sales-as-dhg-launches-new-helvetia-marine-residences"
+        },
+        {
+          "label": "Arabian Business — DHG breaks ground on $354M UAE expansion as Meydan project hits 60% sales",
+          "url": "https://www.arabianbusiness.com/real-estate/dubai-developer-dhg-breaks-ground-on-354m-uae-expansion-as-meydan-project-hits-60-sales"
+        },
+        {
+          "label": "GDN Online — DHG starts work on premium Dubai Islands waterfront residential project",
+          "url": "https://www.gdnonline.com/Details/1396451/DHG-starts-work-on-premium-Dubai-Islands-waterfront-residential-project"
+        },
+        {
+          "label": "Property Finder — Helvetia Marine in Dubai Islands by DHG Properties",
+          "url": "https://www.propertyfinder.ae/en/new-projects/dhg-properties/helvetia-marine"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sold out at launch, ground broken end of May, Q1 2028 handover — DHG's third Helvetia plants its $350M Swiss flag on Dubai Islands.",
+        "whatIsIt": "Helvetia Marine is DHG Properties' third Dubai project under its Helvetia brand and the developer's first on Dubai Islands. The 63-residence low-rise sits on a 12,938 sqm BUA, with 1/2/3-BR apartments, duplexes featuring five-metre ceilings, and garden residences with private landscaped gardens. The 02-Jun-2026 update confirms construction started at the end of May and that the project is fully sold out from its initial launch run. Together with Helvetia Residences in JVC (completing July 2026) and a 60%-sold Meydan project, Helvetia Marine takes DHG's active UAE GDV to AED 1.3B ($350M). Handover is targeted Q1 2028.",
+        "howItWorks": "Operator angles: (1) For ready-market resellers — DHG's sold-out / Q1 2028 timeline means assignment-resale supply is the only obvious access route once construction begins; watch DRE-X (next door at Marea) and the major Dubai Islands brokerages for the first secondary tickets. (2) For Dubai Islands sub-market underwriters — DHG's Helvetia Marine alongside Sharafi Marea, Cheval Residences, Grovy Ramada Residences, ANAX Elle and Innovate Living's Omoria forms a clean 2027-2028 handover cluster; rental absorption will hinge on Dubai Islands Mall, the upcoming metro link and the Dubai Harbour bridge already in feed at 85% complete with an August 2026 opening. (3) For yield comps — Helvetia Residences in JVC hands over in July 2026, putting a real DHG rental-yield benchmark on the table within 6 weeks; that print should be the leading indicator for Helvetia Marine's resale floor. (4) For Swiss-origin / European-buyer sourcing — DHG's three-project AED 1.3B Dubai stack is the strongest Swiss-developer push in the emirate to date; brokers servicing CH/AT/DE clients should treat it as a flagship.",
+        "whyItMatters": "Dubai Islands recorded ~AED 3.5B ($953M) of sales already this year, and DHG's sold-out Helvetia Marine launch confirms boutique waterfront product on the islands is clearing in days. Combined with Marea's fresh re-launch above and the Nakheel Podium Villas, Omoria, Cheval and Grovy launches already in feed, Helvetia Marine cements Dubai Islands as the 2027-2028 handover frontier for branded mid-luxury — meaningful for anyone modelling rental supply, exit timing, or off-plan assignment opportunity in the cluster.",
+        "forWho": "Dubai Islands assignment-resale hunters; brokerages prospecting CH/AT/DE buyers; rental underwriters modelling 2028 absorption against the bridge + mall + metro timeline; analysts tracking sold-out launch rates as cooling-market indicators.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/dhg-properties/helvetia-marine"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/02/TA_20260602121005.webp",
+        "alt": "Render of DHG Properties' Helvetia Marine low-rise on Dubai Islands",
+        "fit": "cover",
+        "credit": "DHG Properties / TradeArabia"
+      },
+      "publishDate": "2026-06-04T00:51:45.615Z"
+    },
+    {
+      "id": "dubai-shamal-holding-al-sufouh-39-villas-dubai-harbour-845-stalls-completion-june-2-2026",
+      "categories": [
+        "ready",
+        "rental",
+        "developer"
+      ],
+      "title": "Shamal Holding secures Building Completion Certificates for 39 Al Sufouh contemporary villas (private pools, leasing June 2026) and a 9-storey, 845-space Dubai Harbour multi-storey car park",
+      "org": "Shamal Holding",
+      "date": "2026-06-02",
+      "url": "https://tradearabia.com/News/463226/Shamal-Holding-delivers-new-completions-at-Dubai-Harbour,-Al-Sufouh-",
+      "summary": "Shamal Holding announced on 02-Jun-2026 that it had received Building Completion Certificates for two Dubai assets — 39 contemporary, private-pool villas with a clubhouse in Al Sufouh (leasing from June 2026, the first new branded villa rental stock in Al Sufouh in years) and a 9-storey, 845-stall, 31,487 sqm multi-storey car park at Dubai Harbour (live, supporting the destination's marina, retail and events stack). Chief Development Officer Richard Taylor framed the deliveries as 'distinctive assets that create long-term cultural, commercial and experiential value' — i.e. ground-up rental product on the prime SZR-fringe corridor plus the parking capacity that the Dubai Harbour Bridge (85% complete, opening August 2026 — already in feed) will demand.",
+      "tags": [
+        "Shamal Holding",
+        "Al Sufouh",
+        "Dubai Harbour",
+        "BCC",
+        "Building Completion Certificate",
+        "villas",
+        "rental",
+        "leasing",
+        "multi-storey-car-park",
+        "private-pool"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AL-SUFOUH",
+        "DUBAI-HARBOUR",
+        "DXB"
+      ],
+      "metrics": {
+        "Developer / owner": "Shamal Holding",
+        "Asset 1": "Al Sufouh villa cluster",
+        "Al Sufouh count": "39 contemporary villas + clubhouse",
+        "Al Sufouh features": "Modern architecture, each villa with private pool",
+        "Al Sufouh leasing start": "June 2026 (live)",
+        "Asset 2": "Dubai Harbour Multi-Storey Car Park",
+        "Dubai Harbour MSCP size": "31,487 sqm across 9 storeys",
+        "Dubai Harbour parking capacity": "845 stalls",
+        "Dubai Harbour MSCP status": "Operational",
+        "BCC issued": "02-Jun-2026",
+        "Executive": "Richard Taylor, Chief Development Officer, Shamal Holding"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Shamal Holding delivers new completions at Dubai Harbour, Al Sufouh (02-Jun-2026)",
+          "url": "https://tradearabia.com/News/463226/Shamal-Holding-delivers-new-completions-at-Dubai-Harbour,-Al-Sufouh-"
+        },
+        {
+          "label": "GDN Online — Shamal Holding delivers new completions at Dubai Harbour, Al Sufouh",
+          "url": "https://www.gdnonline.com/Details/1396454"
+        },
+        {
+          "label": "Construction Business News ME — Shamal Holding adds to growing portfolio with latest Dubai completions",
+          "url": "https://www.cbnme.com/news/shamal-holding-adds-to-growing-portfolio-with-latest-dubai-completions/"
+        },
+        {
+          "label": "Shamal Holding — corporate site",
+          "url": "https://www.shamal.com/"
+        },
+        {
+          "label": "H&H Property Management — Sufouh Villas leasing page",
+          "url": "https://www.h-hpm.ae/developments/sufouh-villas/"
+        }
+      ],
+      "explainer": {
+        "tagline": "39 private-pool villas in Al Sufouh come to market this June and an 845-space Dubai Harbour car park goes live — Shamal moves two ready assets onto the operational books in one day.",
+        "whatIsIt": "Shamal Holding — the Dubai-based holding company behind Madinat Jumeirah Living, Five Palm and several luxury hotel assets — announced on 02-Jun-2026 that two of its newest developments had been issued Building Completion Certificates. The first is a 39-villa contemporary residential cluster in Al Sufouh with a shared clubhouse and a private pool per villa; leasing begins this June 2026. The second is a 9-storey, 845-space, 31,487 sqm multi-storey car park at Dubai Harbour, now fully operational. The deliveries come as Dubai Harbour positions for the August 2026 opening of its 1.5 km bridge to Sheikh Zayed Road (already in feed at 85% complete), which is expected to materially raise transient and event-driven demand at the destination.",
+        "howItWorks": "Operator angles: (1) For HNW renters on the SZR-fringe — 39 contemporary private-pool villas in Al Sufouh is a rare new-build cluster in a built-out neighbourhood where most stock is older. Compare against Madinat Jumeirah villa rentals (Shamal's own neighbour) and Palm-front rental product before signing, and ask Shamal whether H&H Property Management's Sufouh Villas leasing page reflects the same units. (2) For event/yacht/marina operators at Dubai Harbour — an 845-stall MSCP changes the demand profile for ground-floor F&B, the Skydive Dubai cluster and Dubai Harbour Mall ahead of the August bridge opening; revisit underwriting assumptions on transient retail and event parking revenue. (3) For Dubai Harbour residents — confirm whether resident parking rights move into the new MSCP and whether any current allocations get re-assigned. (4) For luxury rental yields — Shamal's Al Sufouh villas will set a fresh data point for branded contemporary villa rents in Q3 2026; the first signed lease should be the marker brokers use to anchor JBR / SZR-fringe villa valuations.",
+        "whyItMatters": "Al Sufouh has been quietly outperforming on plot trades but had almost no fresh branded villa product hitting the rental market. Shamal's 39-villa cluster solves both — it gives high-end tenants who want a JBR/SZR proximity but reject high-rise living an actual product, and it gives brokers a comparable comp set for any future Al Sufouh / Umm Suqeim / Al Wasl listing. The Dubai Harbour MSCP is a quieter signal but a critical one — operational parking capacity is what de-risks the post-bridge event-economy thesis that Dubai Harbour has been pitching since the 2024 Harbour Bridge announcement.",
+        "forWho": "Family-villa renters on SZR-fringe; brokerages building Al Sufouh / Umm Suqeim / Wasl comps; Dubai Harbour event and marina operators; Dubai Harbour resident-parking allocations; yield-focused investors comparing Shamal-managed assets to Madinat Jumeirah Living rentals.",
+        "tryIt": "https://www.h-hpm.ae/developments/sufouh-villas/"
+      },
+      "image": {
+        "url": "https://www.gdnonline.com/gdnimages/20260602/ta_20260602130027.webp",
+        "alt": "Render of Shamal Holding's Al Sufouh villa cluster and Dubai Harbour multi-storey car park",
+        "fit": "cover",
+        "credit": "Shamal Holding / GDN Online"
+      },
+      "publishDate": "2026-06-04T00:51:45.615Z"
+    },
+    {
+      "id": "dubai-agbi-abu-dhabi-rent-freeze-housing-pressure-savills-aldar-june-3-2026",
+      "categories": [
+        "market",
+        "rental",
+        "legal"
+      ],
+      "title": "AGBI × Savills × Aldar read Abu Dhabi's rent freeze as a population-vs-supply stress signal — Dubai's JVC/JVT relief valves and pipeline elasticity argued as the reason it stays out of the freeze net",
+      "org": "AGBI × Savills × Aldar",
+      "date": "2026-06-03",
+      "url": "https://www.agbi.com/analysis/real-estate/2026/06/abu-dhabi-rent-freeze-signals-a-city-under-housing-pressure/",
+      "summary": "AGBI's 03-Jun-2026 analysis re-frames the ADREC freeze (already in feed as the policy event) as a population-vs-supply stress signal — Abu Dhabi pop +50% over a decade to 4.3M, +8% in 2024 alone vs only 2.4% housing-stock growth, with only 13% of the 2026 supply pipeline materialising in Q1. Savills' Ali Ishaq and Aldar CFO Faisal Falaknaz argue Dubai is comparatively insulated thanks to its layered suburban relief valves (JVC, JVT) and a more elastic 2026-2027 handover pipeline already past 10K-units-per-month on apartments, so a Dubai mirror policy is unlikely near-term. Aldar's separate 9,000-unit, AED 2.8B affordable-housing commitment is offered as the developer-side response.",
+      "tags": [
+        "AGBI",
+        "Savills",
+        "Aldar",
+        "ADREC",
+        "rent-freeze",
+        "Abu-Dhabi",
+        "population",
+        "supply",
+        "JVC",
+        "JVT",
+        "affordable-housing",
+        "Yas-Island"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "AUH",
+        "JVC",
+        "JVT"
+      ],
+      "metrics": {
+        "Story angle": "Why Abu Dhabi froze rents — and what it tells Dubai operators",
+        "Abu Dhabi pop 2025": "4.3M (+50% over a decade)",
+        "Abu Dhabi 2024 pop growth": "+8%",
+        "Abu Dhabi 2024 housing-stock growth": "+2.4%",
+        "Abu Dhabi 2026 supply materialised in Q1": "Only 13% of pipeline",
+        "Rental share of occupied stock": "~71%",
+        "Yas Island case study": "Renewals up AED 55K (2023) → AED 92K (2026), +67%",
+        "Aldar affordable-housing commitment": "9,000 units / AED 2.8B",
+        "Dubai relief-valve argument": "JVC + JVT + suburban handover elasticity insulates Dubai from a similar freeze",
+        "Named experts": "Ali Ishaq, Head of Abu Dhabi Residential, Savills; Faisal Falaknaz, CFO, Aldar",
+        "Linked policy event": "ADREC 0% renewal mandate (in feed, 2026-06-02)"
+      },
+      "links": [
+        {
+          "label": "AGBI — Abu Dhabi rent freeze signals a city under housing pressure (03-Jun-2026)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/abu-dhabi-rent-freeze-signals-a-city-under-housing-pressure/"
+        },
+        {
+          "label": "Khaleej Times — Abu Dhabi rent freeze: what the 'extremely rare' rule means for you (Crompton / Springfield commentary, 03-Jun-2026)",
+          "url": "https://www.khaleejtimes.com/business/property/real-estate-experts-welcome-abu-dhabi-rent-freeze"
+        },
+        {
+          "label": "The National — Abu Dhabi rent freeze provides 'huge relief' for tenants (02-Jun-2026, in feed as ADREC policy event)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/06/02/abu-dhabi-freezes-rents-for-residential-commercial-and-industrial-properties/"
+        },
+        {
+          "label": "Gulf News — Abu Dhabi suspends rental increases until further notice",
+          "url": "https://gulfnews.com/uae/abu-dhabi-suspends-rental-increases-until-further-notice-what-tenants-need-to-know-1.500560424"
+        }
+      ],
+      "explainer": {
+        "tagline": "Savills + Aldar frame ADREC's freeze as population-vs-supply stress (8% pop growth, 2.4% stock growth) — and argue Dubai's JVC/JVT relief valves are the reason it stays off the freeze list.",
+        "whatIsIt": "AGBI's 03-Jun-2026 piece is the analytical follow-up to the 02-Jun-2026 ADREC rent-freeze announcement (already in feed). It re-frames the freeze as a structural-supply tell, not a one-off policy gesture. The numbers it leans on: Abu Dhabi's population is up >50% over a decade to 4.3M, with 2024 alone delivering +8% population growth against only +2.4% housing-stock growth; ~71% of occupied stock is rental; only 13% of the 2026 supply pipeline materialised in Q1, with the Yas Island archetype showing renewals jumping from AED 55K in 2023 to AED 92K in 2026 (a 67% climb). Savills' Ali Ishaq and Aldar CFO Faisal Falaknaz are quoted; Aldar's separately announced 9,000-unit AED 2.8B affordable-housing commitment is offered as the developer-side relief. Ishaq specifically argues Dubai is materially better insulated because of its layered JVC / JVT suburban relief valves and a faster-moving 2026-2027 handover pipeline (10K+ apartment handovers per month already — see the Colliers Q1 2026 read already in feed).",
+        "howItWorks": "Operator angles: (1) For Dubai landlords pricing 2026-2027 renewals — AGBI's argument is that a Dubai mirror freeze is unlikely near-term, so the 5% RERA cap remains the operating constraint. But this is also the second tier-1 analyst this week to flag JVC/JVT and Dubai South as the elasticity safety valves — if rents surge again, the cap could tighten. (2) For Dubai brokers re-positioning Abu Dhabi clients — the AGBI piece is the cleanest single-source case for routing AUH-sceptical tenants/landlords to Dubai inventory; the Yas Island AED 55K→92K case study lands hard. (3) For Dubai supply-pipeline watchers — Ishaq's framing implicitly raises the bar on 'how much Dubai supply is enough' to avoid the same policy outcome; the 10K-units-per-month apartment handover figure (Colliers, in feed) is the current cushion. (4) For affordable-housing analysts and developers — Aldar's 9,000-unit AED 2.8B commitment is the largest public affordable commitment of 2026 to date; benchmark Dubai counterparts (Emaar, Nakheel, Dubai Holding Real Estate) against that ratio.",
+        "whyItMatters": "The ADREC freeze itself is a headline event (in feed). What AGBI adds is the structural reading — and the explicit thesis that Dubai's JVC/JVT/Dubai South elasticity is what keeps it off the freeze list. That's a load-bearing assumption every Dubai 2026-2027 yield model now has to either accept or refute. The piece also surfaces the first hard numbers on Aldar's affordable-housing commitment (9,000 units / AED 2.8B), which is the developer-side response operators should benchmark against Dubai peers.",
+        "forWho": "Dubai landlords pricing 2026-2027 renewals; brokers re-routing Abu Dhabi tenants and landlords to Dubai; supply-pipeline analysts; affordable-housing teams at Dubai Holding / Emaar / Nakheel benchmarking against Aldar; policy analysts modelling whether Dubai's 5% RERA cap holds.",
+        "tryIt": "https://www.agbi.com/analysis/real-estate/2026/06/abu-dhabi-rent-freeze-signals-a-city-under-housing-pressure/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/06/elena-saharova-27iifL1Oypc-unsplash-scaled.jpg",
+        "alt": "Aerial view referenced by AGBI's Abu Dhabi rent freeze housing-pressure analysis",
+        "fit": "cover",
+        "credit": "Elena Saharova via Unsplash / AGBI"
+      },
+      "publishDate": "2026-06-04T00:51:45.615Z"
+    },
     {
       "id": "dubai-dld-jun-2-2026-daily-print-aed-1-21b-offplan-68-5-percent",
       "categories": [

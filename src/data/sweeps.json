@@ -4110,6 +4110,64 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260604t005145z",
+      "timestamp": "2026-06-04T00:51:45.615Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-06-04T00:36Z surfaced three Dubai Islands / Al Sufouh project events from 02-Jun-2026 (Marea Residences price-revised launch with DRE-X, DHG Helvetia Marine ground-break sold out, Shamal Holding Al Sufouh + Dubai Harbour completion certificates) plus a Savills/Aldar-anchored AGBI June 3 read on what the Abu Dhabi rent freeze tells Dubai operators about supply-vs-population stress.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-marea-residences-sharafi-dubai-islands-aed-274m-dre-x-relaunch-june-2-2026",
+          "title": "Sharafi Group re-prices Marea Residences on Dubai Islands — 68-unit G+2+12 boutique block re-launches at AED 2.74M with DRE-X exclusivity, 30/70 and two-year 50/50 post-handover plans, Q4 2027 handover",
+          "category": "offplan",
+          "note": "Sharafi's 68-unit boutique waterfront block re-priced to AED 2.74M starts with 30/70 + two-year post-handover 50/50 plans and DRE-X exclusivity on 02-Jun-2026; Q4 2027 handover. First fresh published price/payment-plan reset since the original Nov 2025 launch at AED 2.6M with Metropolitan."
+        },
+        {
+          "id": "dubai-dhg-helvetia-marine-groundbreaking-soldout-dubai-islands-june-2-2026",
+          "title": "DHG Properties breaks ground on sold-out Helvetia Marine on Dubai Islands — 63-unit low-rise tops out a AED 1.3B (~$350M) Swiss UAE pipeline with Q1 2028 handover",
+          "category": "developer",
+          "note": "DHG Properties broke ground at end of May, confirmed on 02-Jun-2026, with the 63-unit Dubai Islands tower fully sold out at launch; Q1 2028 handover anchors a AED 1.3B (~$350M) DHG UAE pipeline alongside Helvetia Residences (JVC, Jul 2026) and the Meydan project at 60% sold."
+        },
+        {
+          "id": "dubai-shamal-holding-al-sufouh-39-villas-dubai-harbour-845-stalls-completion-june-2-2026",
+          "title": "Shamal Holding secures Building Completion Certificates for 39 Al Sufouh contemporary villas (private pools, leasing June 2026) and a 9-storey, 845-space Dubai Harbour multi-storey car park",
+          "category": "ready",
+          "note": "Shamal Holding secured Building Completion Certificates on 02-Jun-2026 for 39 Al Sufouh villas (private-pool clubhouse, leasing live this June) and a 845-space, 9-storey Dubai Harbour multi-storey car park (31,487 sqm) — first contemporary villa rental stock in Al Sufouh and material parking capacity to support Dubai Harbour event/retail/marina demand."
+        },
+        {
+          "id": "dubai-agbi-abu-dhabi-rent-freeze-housing-pressure-savills-aldar-june-3-2026",
+          "title": "AGBI × Savills × Aldar read Abu Dhabi's rent freeze as a population-vs-supply stress signal — Dubai's JVC/JVT relief valves and pipeline elasticity argued as the reason it stays out of the freeze net",
+          "category": "market",
+          "note": "Savills' Ali Ishaq and Aldar CFO Faisal Falaknaz frame the ADREC freeze as a population-vs-supply stress signal — 8% Abu Dhabi pop growth vs 2.4% housing stock growth in 2024, only 13% of 2026 pipeline materialised in Q1 — and explicitly argue Dubai's JVC/JVT suburban relief valves leave it better-insulated from a similar mandate; Aldar's 9,000-unit AED 2.8B affordable-housing commitment quantifies the policy response."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "developer",
+        "ready",
+        "rental",
+        "market",
+        "luxury",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
