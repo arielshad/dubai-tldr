@@ -1,8 +1,207 @@
 {
-  "generatedAt": "2026-06-05T00:39:24.972Z",
+  "generatedAt": "2026-06-05T13:02:49.894Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-cavendish-maxwell-jan-may-2026-66900-sales-aed-196-2b-may-soft-jun-5",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Cavendish Maxwell Jan-May 2026 Dubai residential print — 66,900 sales worth AED 196.2B (off-plan 74%) as May softens to ~9,500 deals / AED 22B (-27% MoM, -46% YoY) with Eid Al Adha clipping ~3,000 sales",
+      "org": "Cavendish Maxwell",
+      "date": "2026-06-05",
+      "url": "https://tradearabia.com/News/463347/Dubai%E2%80%99s-residential-property-sector-softens-in-May-says-report/CONS",
+      "summary": "Cavendish Maxwell's Jan-May 2026 cut: 66,900 Dubai residential deals worth AED 196.2B (off-plan ~74%), down from AED 217.8B in the year-ago window, with May volumes collapsing -27% MoM and -46% YoY as Eid Al Adha shaves ~3,000 sales.",
+      "tags": [
+        "market",
+        "cavendish-maxwell",
+        "ronan-arthur",
+        "may-2026",
+        "off-plan",
+        "ready",
+        "eid-al-adha",
+        "residential"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Jan-May 2026 sales": "66,900",
+        "Jan-May 2026 value": "AED 196.2B",
+        "YoY value vs Jan-May 2025": "AED 217.8B (-9.9%)",
+        "Off-plan share Jan-May": "~74%",
+        "May 2026 transactions": "~9,500",
+        "May 2026 value": "AED 22B",
+        "MoM transaction change": "-27%",
+        "YoY May 2025 transactions": "17,600 (-46%)",
+        "YoY May 2025 value": "AED 54.8B (-60%)",
+        "Eid Al Adha drag": "~3,000 fewer sales"
+      },
+      "links": [
+        {
+          "label": "TradeArabia coverage (June 5 2026)",
+          "url": "https://tradearabia.com/News/463347/Dubai%E2%80%99s-residential-property-sector-softens-in-May-says-report/CONS"
+        },
+        {
+          "label": "Zawya press release",
+          "url": "https://www.zawya.com/en/press-release/research-and-studies/dubai-residential-property-sector-secures-almost-67-000-sales-from-january-to-may-2026-cavendish-maxwell-tuxrvby4"
+        },
+        {
+          "label": "Cavendish Maxwell research portal",
+          "url": "https://cavendishmaxwell.com/insights"
+        }
+      ],
+      "explainer": {
+        "tagline": "Cavendish Maxwell's Jan-May cut shows Dubai residential still big (66,900 sales / AED 196.2B) but May rolled over hard — Eid plus selectivity drives -27% MoM, -46% YoY.",
+        "whatIsIt": "Cavendish Maxwell's Director and Head of Residential Valuation, Ronan Arthur, has published the Jan-May 2026 Dubai residential print: 66,900 sales worth AED 196.2B, with off-plan still ~74% of activity. Year-on-year the value is down from AED 217.8B in Jan-May 2025 and May alone collapses to ~9,500 sales worth AED 22B (vs 17,600 deals and AED 54.8B in May 2025), with the week-long Eid Al Adha break taking an estimated 3,000 sales off the tape.",
+        "howItWorks": "Off-plan was the resilient segment through the first four months of the year but in May both segments cooled in tandem. Arthur described the slowdown in the ready market as 'even more pronounced' since March (i.e. compounding through the regional-conflict window). The Jan-May value gap (AED 196.2B vs AED 217.8B) is roughly -10%, but May alone is -46% YoY by volume and -60% by value — Eid alone explains ~30% of the volume gap, leaving the remainder for buyer selectivity, the March-onward geopolitical pause, and the 2026-06-02 Abu Dhabi rent freeze recalibration.",
+        "whyItMatters": "This is the cleanest authoritative read on the May 2026 slowdown — it confirms Fortune / AGBI / Property Finder narratives with a single Cavendish Maxwell-verified dataset. For sellers, the 'measured buyer' framing means listings will sit longer at peak ask; for buyers, the -27% MoM / -46% YoY skid is a negotiating wedge. Operators underwriting H2 2026 should pencil June recovery against an Eid-normalised baseline (~12,500 deals) and watch July prints for whether the slowdown is structural or holiday-distorted. The 9.9% Jan-May value gap, combined with Moody's, ValuStrat and Fortune flags, makes the 2026 'mature phase' read look closer to a mild correction than a soft landing.",
+        "forWho": "Sellers timing list-vs-hold decisions; brokers triaging stale inventory; underwriters stress-testing H2 demand; developers calibrating launch cadence; investors comparing Dubai's -46% YoY May to Abu Dhabi's frozen rents.",
+        "tryIt": "https://tradearabia.com/News/463347/Dubai%E2%80%99s-residential-property-sector-softens-in-May-says-report/CONS"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/05/TA_20260605130101.webp",
+        "alt": "Dubai skyline backdrop accompanying Cavendish Maxwell's Jan-May 2026 residential print showing May softening",
+        "fit": "cover",
+        "credit": "TradeArabia / Cavendish Maxwell"
+      },
+      "publishDate": "2026-06-05T13:02:49.894Z"
+    },
+    {
+      "id": "dubai-mag-group-mag-square-aed-2b-dubai-launch-six-handovers-jun-4-2026",
+      "categories": [
+        "developer",
+        "offplan"
+      ],
+      "title": "MAG Group queues an AED 2B 'MAG Square' Dubai launch within two weeks while teeing up six 2026 handovers — Moafaq Al Gaddah signals continued primary-side push despite May 2026 softening",
+      "org": "MAG Group Holding",
+      "date": "2026-06-04",
+      "url": "https://tradearabia.com/News/463312/MAG-Group-plans-$544m-new-real-estate-project-in-Dubai",
+      "summary": "MAG Group's founder Moafaq Al Gaddah confirms an imminent AED 2B (USD 544M) 'MAG Square' Dubai launch and six 2026 handovers — a primary-side push that lands days after Cavendish Maxwell flags Dubai residential softening into May.",
+      "tags": [
+        "developer",
+        "mag-group",
+        "mag-square",
+        "moafaq-al-gaddah",
+        "off-plan",
+        "launch",
+        "handover"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "MAG"
+      ],
+      "metrics": {
+        "Project name": "MAG Square",
+        "Project value": "AED 2B (USD 544.59M)",
+        "Launch window": "Within ~2 weeks of 2026-06-04",
+        "2026 handovers planned": "6 projects",
+        "Founder/Chairman": "Moafaq Ahmad Al Gaddah",
+        "MAG in Dubai since": "1980s"
+      },
+      "links": [
+        {
+          "label": "TradeArabia coverage (June 4 2026)",
+          "url": "https://tradearabia.com/News/463312/MAG-Group-plans-$544m-new-real-estate-project-in-Dubai"
+        },
+        {
+          "label": "GDN Online write-up",
+          "url": "https://www.gdnonline.com/Details/1396661/MAG-Group-plans-$544m-new-real-estate-project-in-Dubai"
+        },
+        {
+          "label": "MAG Group Holding corporate site",
+          "url": "https://www.mag.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "MAG Group queues AED 2B 'MAG Square' for a launch inside 2 weeks while shipping 6 Dubai handovers in 2026 — primary-side push against a softening May tape.",
+        "whatIsIt": "Moafaq Ahmad Al Gaddah, founder and chairman of Dubai-based MAG Group Holding, confirmed in a 2026-06-04 interview that the developer will launch a new AED 2 billion (USD 544.59M) Dubai project named 'MAG Square' within the next two weeks. Alongside the new launch, MAG plans to complete and hand over six existing projects in 2026 'in line with approved timelines.' MAG has been a Dubai market participant since the 1980s.",
+        "howItWorks": "Project name, value (AED 2B / USD 544M) and a ~2-week launch window are confirmed by Al Gaddah; location, layout count, payment plan and handover date are not yet public — to be released at the formal launch event. The six 2026 handovers are similarly identified at the group level but not itemised in the announcement. Coverage published by TradeArabia and GDN Online (both 2026-06-04) is the primary public source; the formal press release / MAG.ae landing page is expected within the launch window.",
+        "whyItMatters": "MAG's announcement lands the same week as Cavendish Maxwell flagged a -46% YoY May residential print and Fortune flagged AED 2.36B in price cuts across 3,292 listings — so a AED 2B launch into a softening primary tape is itself the signal. Developer behaviour ('keep launching') tells you Dubai's primary market still has end-user and investor depth; if MAG defers the launch, that's the more important tell. For brokers, the launch will refresh broker-incentive structures (cf. Danube's 5-7% commissions on Greenz); for buyers, MAG's track record of six concurrent handovers in 2026 is a credibility data point worth verifying via DLD project-status enquiry before signing.",
+        "forWho": "Off-plan investors tracking new-launch supply into a buyer's market; brokers prospecting for launch-window mandates; analysts triangulating developer launch cadence vs Cavendish Maxwell / Fortune softening data; competitors (Binghatti, Damac, Emaar, Sobha) tracking primary-side pipeline.",
+        "tryIt": "https://www.mag.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/04/TA_20260604100752.webp",
+        "alt": "MAG Group Holding founder Moafaq Ahmad Al Gaddah backdrop accompanying the AED 2B MAG Square Dubai launch announcement",
+        "fit": "cover",
+        "credit": "TradeArabia / MAG Group Holding"
+      },
+      "publishDate": "2026-06-05T13:02:49.894Z"
+    },
+    {
+      "id": "dubai-dld-jun-4-2026-daily-print-aed-1-43b-offplan-69-8-percent",
+      "categories": [
+        "market",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-06-04: AED 1.43B with off-plan rebuilding to 69.8% — flats alone book AED 849M of off-plan flow while ready flats clear AED 299.8M and ready villas hold AED 82.3M",
+      "org": "Dubai Land Department / The Real Estate Report",
+      "date": "2026-06-04",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-05-jun-2026",
+      "summary": "Dubai DLD 2026-06-04 daily print: AED 1.43B with off-plan back to 69.8% (AED 997.2M) led by off-plan flats AED 849.2M; ready holds 30.2% (AED 431.2M) split AED 299.8M flats, AED 82.3M villas and AED 38.7M commercial.",
+      "tags": [
+        "market",
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "flats",
+        "villas",
+        "commercial"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Total (ex-land)": "AED 1.43B",
+        "Off-plan share": "69.8%",
+        "Off-plan value": "AED 997.2M",
+        "Off-plan flats": "AED 849.2M (85.2% of off-plan)",
+        "Off-plan commercial": "AED 92.2M",
+        "Off-plan villas": "AED 33.0M",
+        "Off-plan hotel apt/rooms": "AED 22.8M",
+        "Ready share": "30.2%",
+        "Ready value": "AED 431.2M",
+        "Ready flats": "AED 299.8M (69.5% of ready)",
+        "Ready villas": "AED 82.3M",
+        "Ready commercial": "AED 38.7M",
+        "Ready hotel apt/rooms": "AED 10.4M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report daily (June 5 2026)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-05-jun-2026"
+        },
+        {
+          "label": "DLD eServices — real-estate data",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Day 4 of June 2026: AED 1.43B with off-plan back to 69.8% — apartments do 85% of off-plan flow while ready villas finally rebuild past AED 80M.",
+        "whatIsIt": "Dubai's 2026-06-04 DLD daily print (ex-land) clears AED 1.43B with off-plan reasserting at 69.8% (AED 997.2M) after the 2026-06-03 ready rebound (44.8% share). Off-plan flats book AED 849.2M (85.2% of off-plan flow), with off-plan commercial AED 92.2M, off-plan villas AED 33.0M and off-plan hotel apts/rooms AED 22.8M. Ready prints AED 431.2M (30.2% share) split AED 299.8M flats, AED 82.3M villas, AED 38.7M commercial and AED 10.4M hotel apts/rooms.",
+        "howItWorks": "Day-on-day this is a snapback to the off-plan-dominant pattern that held mid-May (week 20 was 68.1%, week 21 ~62%) after Tuesday 2026-06-03 over-indexed ready (44.8% — the rebuild tracked the post-Eid ready-flat re-engagement). Apartments continue to absorb the bulk of off-plan capital (85.2% of segment vs ~83% mid-May), commercial off-plan flow normalises after the May 5 / May 6 / May 11 Lumena institutional clusters (AED 1.02B / AED 646M / AED 1.17B respectively), and ready villas finally clear past AED 80M after several days under AED 60M.",
+        "whyItMatters": "The print lands the same day Cavendish Maxwell published its Jan-May softening report (~9,500 deals in May vs 17,600 in May 2025) — and immediately tests the 'June recovery' read. AED 1.43B is broadly in line with the May-end daily run-rate but below the AED 1.7-1.75B prints that bracketed May 19-20, suggesting the market hasn't yet shaken off the Eid drag. For underwriters, the 85% off-plan-flat concentration matters: if June continues the pattern, secondary brokers should keep flagging price-discovery softness in ready flats (Cavendish Maxwell: 'more pronounced slowdown in ready since March').",
+        "forWho": "Brokers reading the post-Eid tape; underwriters benchmarking June 2026 vs the Cavendish Maxwell baseline; ready-flat sellers timing list/relist decisions; institutional capital reading off-plan vs ready rotation; data shops calibrating June price index inputs.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-05-jun-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9067170b-37a8-4582-ab34-afea51b4efa2/u-a-e-5475244_1280.jpg",
+        "alt": "Dubai cityscape backdrop for the 2026-06-04 DLD daily print at AED 1.43B with off-plan at 69.8%",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-06-05T13:02:49.894Z"
+    },
     {
       "id": "dubai-sweid-one-tec-jlt-dmcc-53k-sqft-serviced-office-june-4-2026",
       "categories": [

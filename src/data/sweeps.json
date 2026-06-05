@@ -4250,6 +4250,55 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260605t130249z",
+      "timestamp": "2026-06-05T13:02:49.894Z",
+      "source": "github-actions-sweep",
+      "summary": "Three fresh items: Cavendish Maxwell's Jan-May 2026 print (66,900 sales, AED 196.2B value, May softening -27% MoM / -46% YoY with Eid drag), MAG Group's imminent AED 2B 'MAG Square' Dubai project announcement, and the 2026-06-04 DLD daily print at AED 1.43B with off-plan rebuilding to 69.8%.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-cavendish-maxwell-jan-may-2026-66900-sales-aed-196-2b-may-soft-jun-5",
+          "title": "Cavendish Maxwell Jan-May 2026 Dubai residential print — 66,900 sales worth AED 196.2B (off-plan 74%) as May softens to ~9,500 deals / AED 22B (-27% MoM, -46% YoY) with Eid Al Adha clipping ~3,000 sales",
+          "category": "market",
+          "note": "Major: first authoritative Jan-May 2026 cut from Cavendish Maxwell confirms the May 2026 softening across both segments — clean dataset for underwriters and sellers."
+        },
+        {
+          "id": "dubai-mag-group-mag-square-aed-2b-dubai-launch-six-handovers-jun-4-2026",
+          "title": "MAG Group queues an AED 2B 'MAG Square' Dubai launch within two weeks while teeing up six 2026 handovers — Moafaq Al Gaddah signals continued primary-side push despite May 2026 softening",
+          "category": "developer",
+          "note": "Notable: AED 2B MAG Square launch confirmed for a two-week window plus six 2026 handovers — primary-side commitment despite May slowdown."
+        },
+        {
+          "id": "dubai-dld-jun-4-2026-daily-print-aed-1-43b-offplan-69-8-percent",
+          "title": "Dubai DLD daily print 2026-06-04: AED 1.43B with off-plan rebuilding to 69.8% — flats alone book AED 849M of off-plan flow while ready flats clear AED 299.8M and ready villas hold AED 82.3M",
+          "category": "market",
+          "note": "Notable: post-Eid daily DLD print, off-plan rebuilds to 69.8% after Tuesday's ready rebound."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "offplan",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
