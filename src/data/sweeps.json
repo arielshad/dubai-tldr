@@ -4215,6 +4215,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260605t003924z",
+      "timestamp": "2026-06-05T00:39:24.972Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled 12-hour sweep on 2026-06-05 surfaces one verified fresh Dubai-property signal published within the last 24 hours: Sweid & Sweid signing The Executive Centre to a 53,000 sqft, two-floor serviced-office takeup at Sweid One in JLT/DMCC — TEC's first DMCC location. Today's existing-feed dailies (June 1–3 DLD prints, Marea, DHG Helvetia, Shamal Al Sufouh, ADREC freeze, Arada/Penta index, Remraam remediation) already cover the post-Eid market reset; no new daily/weekly print to layer this run.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-sweid-one-tec-jlt-dmcc-53k-sqft-serviced-office-june-4-2026",
+          "title": "Sweid & Sweid signs The Executive Centre to a 53,000 sqft, two-floor serviced-office takeup at Sweid One in JLT — TEC's first DMCC location alongside its DWTC, One Za'abeel and ADGM footprints",
+          "category": "commercial",
+          "note": "Added under commercial."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

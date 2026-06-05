@@ -1,8 +1,75 @@
 {
-  "generatedAt": "2026-06-04T13:03:25.308Z",
+  "generatedAt": "2026-06-05T00:39:24.972Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-sweid-one-tec-jlt-dmcc-53k-sqft-serviced-office-june-4-2026",
+      "categories": [
+        "commercial",
+        "lead"
+      ],
+      "title": "Sweid & Sweid signs The Executive Centre to a 53,000 sqft, two-floor serviced-office takeup at Sweid One in JLT — TEC's first DMCC location alongside its DWTC, One Za'abeel and ADGM footprints",
+      "org": "Sweid & Sweid / The Executive Centre",
+      "date": "2026-06-04",
+      "url": "https://www.gdnonline.com/Details/1396671",
+      "summary": "Sweid One — a 1M sqft Grade-A JLT/DMCC tower with ~500K sqft of office — locks in TEC across two full floors (53,000 sqft) for premium flexible workspace as the DMCC office vacancy story tightens further.",
+      "tags": [
+        "commercial",
+        "office",
+        "jlt",
+        "dmcc",
+        "serviced-office",
+        "grade-a",
+        "flex"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "JLT",
+        "DMCC",
+        "DXB-BUSINESSBAY"
+      ],
+      "metrics": {
+        "TEC takeup": "53,000 sqft",
+        "Floors": "Levels 2 & 3",
+        "Sweid One BUA": "~1,000,000 sqft",
+        "Grade A office in tower": "~500,000 sqft",
+        "Floor-to-floor": "4 metres",
+        "TEC DWTC footprint": "96,875 sqft",
+        "TEC One Za'abeel footprint": "32,292 sqft",
+        "TEC ADGM footprint": "53,820 sqft",
+        "DMCC companies": "25,000+"
+      },
+      "links": [
+        {
+          "label": "GDN Online write-up (June 4 2026)",
+          "url": "https://www.gdnonline.com/Details/1396671"
+        },
+        {
+          "label": "Sweid & Sweid + TEC at DMCC (HiDubai Focus)",
+          "url": "https://focus.hidubai.com/sweid-sweid-executive-centre-launch-premium-workspace-at-dmcc/"
+        },
+        {
+          "label": "INTLBM coverage",
+          "url": "https://intlbm.com/2026/06/03/sweid-sweid-signs-tec-to-introduce-high-quality-serviced-office/"
+        }
+      ],
+      "explainer": {
+        "tagline": "TEC's first DMCC location plants 53,000 sqft of serviced offices into a Grade-A JLT tower as flex demand follows the Lumena / Business Bay office cycle north-west.",
+        "whatIsIt": "Sweid & Sweid has signed The Executive Centre (TEC) to operate over 53,000 sqft of premium flexible workspace across two full floors at Sweid One — the firm's ~1M sqft Grade-A development inside Jumeirah Lakes Towers and the DMCC free zone. The deal marks TEC's first entry into DMCC and complements its existing UAE footprints at Dubai World Trade Centre (96,875 sqft), One Za'abeel (32,292 sqft) and Abu Dhabi Global Market (53,820 sqft).",
+        "howItWorks": "Sweid One offers ~500,000 sqft of Grade-A office space across large efficient floor plates with 4-metre floor-to-floor heights, energy-efficient HVAC, premium solar-efficient glazing and LEED-aligned spec. TEC's two-floor flex layout will include private offices, collaborative areas, executive meeting suites, boardrooms and event facilities — supported by dedicated on-site teams and TEC's enterprise infrastructure. The tower sits in JLT with direct access to 600+ cafés / restaurants and 300+ retail units, with proximity to two metro stations, Sheikh Zayed Road and Sheikh Mohammed Bin Zayed Road. Maher Sweid (Managing Partner): 'Businesses today want high-quality assets that can support different stages of growth, with flexibility to expand.' Ketan Trehan (TEC Middle East Regional Director): 'Our expansion into Sweid One is one of our most significant commitments to the UAE market to date.'",
+        "whyItMatters": "DMCC office vacancy is the tightest in Dubai's commercial stack (JLL Q1 2026 prime office vacancy already at 0.7%, Grade-B rents +23.4% YoY), and Business Bay just printed a record AED 3B off-plan office month in April. A serviced-office operator of TEC's scale taking two whole floors signals JLT is now drawing flex demand from corporates who would historically have anchored DIFC or DWTC. For landlords with multi-tenant towers in DMCC, JLT and the SZR/DIFC fringe corridor, this is a comp to price renewals and a structural tailwind for Grade-A vacancy compression. For corporates, it widens the flexible-workspace optionality outside the One Za'abeel / DWTC core.",
+        "forWho": "Commercial landlords pricing renewals in JLT/DMCC; tenant-rep brokers placing >5,000 sqft requirements; serviced-office competitors (Regus, Compass, WeWork, Servcorp) tracking flex absorption; institutional investors underwriting Grade-A office in the DMCC submarket.",
+        "tryIt": "https://www.gdnonline.com/Details/1396671"
+      },
+      "image": {
+        "url": "https://www.gdnonline.com/gdnimages/20260604/ta_20260604110621.jpg",
+        "alt": "Sweid & Sweid and The Executive Centre representatives mark the lease signing at Sweid One in Jumeirah Lakes Towers / DMCC",
+        "fit": "cover",
+        "credit": "GDN Online / Sweid & Sweid"
+      },
+      "publishDate": "2026-06-05T00:39:24.972Z"
+    },
     {
       "id": "dubai-dld-jun-3-2026-daily-print-aed-1-73b-ready-share-44-8-percent",
       "categories": [
