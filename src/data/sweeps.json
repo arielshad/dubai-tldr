@@ -4340,6 +4340,46 @@
         "market-data-comps",
         "brokerage-luxury-leads"
       ]
+    },
+    {
+      "id": "sweep-20260606t123350z",
+      "timestamp": "2026-06-06T12:33:50.871Z",
+      "source": "github-actions-sweep",
+      "summary": "Two new opportunities this run: fäm Properties' Dubai South May leadership read (1,357 sales / AED 1.6B / 90.9% off-plan, Binghatti Skyflame top apartment project) and the 2026-06-05 DLD Friday tape that holds at AED 1.38B with off-plan rebuilding to 65.5%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-fam-properties-dubai-south-1357-sales-aed-1-6b-90-9-percent-offplan-may-2026",
+          "title": "fäm Properties × DXBinteract: Dubai South tops the Dubai areas table for a 3rd straight month — 1,357 May 2026 sales worth AED 1.6B, off-plan 90.9% with Binghatti Skyflame at 144 units / AED 550K median",
+          "category": "offplan",
+          "note": "Added under offplan."
+        },
+        {
+          "id": "dubai-dld-jun-5-2026-daily-print-aed-1-38b-offplan-65-5-percent-friday-tape",
+          "title": "Dubai DLD daily print 2026-06-05: AED 1.38B holds through Friday — off-plan rebuilds to 65.5% with off-plan flats AED 594.9M and commercial AED 183.6M anchoring the day",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "market",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "market-data-comps",
+        "brokerage-luxury-leads",
+        "property-finder-sale-rent",
+        "bayut-sale-rent"
+      ]
     }
   ]
 }

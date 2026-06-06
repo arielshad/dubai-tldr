@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-06-06T00:35:15.950Z",
+  "generatedAt": "2026-06-06T12:33:50.871Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-fam-properties-dubai-south-1357-sales-aed-1-6b-90-9-percent-offplan-may-2026",
+      "categories": [
+        "offplan",
+        "market",
+        "lead"
+      ],
+      "title": "fäm Properties × DXBinteract: Dubai South tops the Dubai areas table for a 3rd straight month — 1,357 May 2026 sales worth AED 1.6B, off-plan 90.9% with Binghatti Skyflame at 144 units / AED 550K median",
+      "org": "Dubai Week / fäm Properties / DXBinteract",
+      "date": "2026-06-04",
+      "url": "https://www.dubaiweek.ae/dubai-south-logs-1357-property-sales-in-may-as-off-plan-transactions-surge-58-since-february/",
+      "summary": "Dubai South booked 1,357 May 2026 sales / AED 1.6B — off-plan 1,233 deals (90.9%), +15.9% MoM, +57.87% off-plan since the late-Feb regional shock. Citywide tape AED 28.9B / 10,281 deals.",
+      "tags": [
+        "dubai-south",
+        "off-plan",
+        "fam-properties",
+        "dxbinteract",
+        "binghatti-skyflame",
+        "azizi-venice",
+        "lunaya",
+        "reportage-hills",
+        "palm-jebel-ali"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-SOUTH",
+        "EMAAR-SOUTH",
+        "JEBEL-ALI-1",
+        "WADI-AL-SAFA-3",
+        "PALM-JEBEL-ALI"
+      ],
+      "metrics": {
+        "Dubai South May 2026 sales": "1,357",
+        "Dubai South May 2026 value": "AED 1.6B",
+        "Off-plan share": "90.9% (1,233 deals)",
+        "MoM volume growth": "+15.9%",
+        "Off-plan growth since late-Feb": "+57.87%",
+        "Streak in Dubai top-5": "7 consecutive months",
+        "Citywide May 2026 deals": "10,281",
+        "Citywide May 2026 value": "AED 28.9B",
+        "Top apartment project": "Binghatti Skyflame — 144 units, AED 550K median (AED 311.1M)",
+        "Top villa project": "Lunaya — 62 sales, AED 524.6M (AED 6.9M median)",
+        "Reportage Hills villas": "47 sales, AED 95.1M (AED 1.8M median)",
+        "Palm Jebel Ali luxury": "22 sales, AED 815.7M (AED 31.3M median)",
+        "Sub-AED 1M share of citywide": "40% of transactions",
+        "Citywide avg AED/sqft (May)": "AED 1,650 (+3% YoY)"
+      },
+      "links": [
+        {
+          "label": "Dubai Week — fäm-sourced market analysis",
+          "url": "https://www.dubaiweek.ae/dubai-south-logs-1357-property-sales-in-may-as-off-plan-transactions-surge-58-since-february/"
+        },
+        {
+          "label": "DXBinteract — Dubai transaction explorer",
+          "url": "https://dxbinteract.com/"
+        },
+        {
+          "label": "DLD eServices — real-estate data",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai South leads Dubai areas a third month running — 1,357 May sales at AED 1.6B with 90.9% off-plan, anchored by Binghatti Skyflame at AED 550K median.",
+        "whatIsIt": "fäm Properties' May 2026 read (DXBinteract data) puts Dubai South #1 in the Dubai areas table for a third straight month. 1,357 sales worth AED 1.6B, up 15.9% MoM, with off-plan deals up 57.87% since the late-February regional conflict — driven by Al Maktoum airport tailwinds and developer launches.",
+        "howItWorks": "1,233 of the 1,357 deals (90.9%) were off-plan — 24.8% MoM growth in the off-plan count alone. Binghatti Skyflame leads the citywide apartment table with 144 sold at AED 550K median (AED 311.1M total). Skyflame 2 adds 193 units at AED 565K. Villas concentrate in Lunaya (62 sales / AED 6.9M median) and Reportage Hills (47 / AED 1.8M). Citywide May tape: AED 28.9B / 10,281 deals, primary outpacing resale ~3:1.",
+        "whyItMatters": "Operators sourcing volume off-plan stock should treat Dubai South as the standing flow zone — 7 months in the top-5 with concentrated, price-disciplined inventory (40% of citywide sales sub-AED 1M). Buyers chasing yield or visa-floor stock should compare Binghatti Skyflame and Azizi Venice resale comps against developer ask before committing. Verify unit-level DLD prints and service-charge schedules at dxbinteract before underwriting.",
+        "forWho": "Off-plan buyers comparing Dubai South vs. JVC / Majan, brokers sourcing volume inventory, and investors underwriting sub-AED 1M visa-eligible stock.",
+        "tryIt": "https://dxbinteract.com/"
+      },
+      "image": {
+        "url": "https://www.dubaiweek.ae/wp-content/uploads/2026/06/Dubai-real-estate-market-recorded-10281-sales-transactions-worth-2b5285dd224e5281c6681730a0abc61.jpg.jpg",
+        "alt": "Dubai South skyline backdrop — fäm Properties / DXBinteract report on 1,357 May 2026 sales / AED 1.6B / 90.9% off-plan",
+        "fit": "cover",
+        "credit": "Dubai Week"
+      },
+      "publishDate": "2026-06-06T12:33:50.871Z"
+    },
+    {
+      "id": "dubai-dld-jun-5-2026-daily-print-aed-1-38b-offplan-65-5-percent-friday-tape",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-05: AED 1.38B holds through Friday — off-plan rebuilds to 65.5% with off-plan flats AED 594.9M and commercial AED 183.6M anchoring the day",
+      "org": "Dubai Land Department / The Real Estate Report",
+      "date": "2026-06-05",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-06-jun-2026",
+      "summary": "Friday tape stays strong: AED 1.38B / off-plan AED 905.8M (65.5%) / ready AED 476.8M (34.5%). Off-plan flats AED 594.9M lead; commercial books AED 183.6M; ready flats AED 321.3M hold the ready side.",
+      "tags": [
+        "market",
+        "dld",
+        "daily-print",
+        "friday-tape",
+        "off-plan",
+        "flats",
+        "commercial-property",
+        "june-2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Day total": "AED 1.38B",
+        "Off-plan": "AED 905.8M (65.5%)",
+        "Ready": "AED 476.8M (34.5%)",
+        "Off-plan flats": "AED 594.9M (65.7% of off-plan)",
+        "Off-plan commercial": "AED 183.6M (20.3% of off-plan)",
+        "Off-plan villas": "AED 100.5M (11.1% of off-plan)",
+        "Ready flats": "AED 321.3M (67.4% of ready)",
+        "Ready villas": "AED 100.2M (21.0% of ready)",
+        "Ready commercial": "AED 50.8M (10.6% of ready)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — 06-Jun-2026 review",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-06-jun-2026"
+        },
+        {
+          "label": "Gulf Today — half-day land cluster (companion item)",
+          "url": "https://gulftoday.ae/news/2026/06/05/dubai-property-market-sees-dhs104-billion-in-sales-in-half-a-day"
+        },
+        {
+          "label": "DLD eServices — real-estate data",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Friday DLD tape stays alive at AED 1.38B with off-plan back to 65.5% — flats AED 594.9M and commercial AED 183.6M power the off-plan side.",
+        "whatIsIt": "The Real Estate Reports' 2026-06-06 review prints the full-day DLD figure for 2026-06-05: AED 1.38B against a normal Friday slowdown, with off-plan rebuilding to 65.5% after two days of ready-side rebuild. Companion to the Gulf Today half-day land-cluster card already in feed (Umm Suqeim 1 / Saih Shuaib 3 / Dubai Maritime City).",
+        "howItWorks": "Off-plan AED 905.8M dominates: flats AED 594.9M (65.7% of off-plan), commercial AED 183.6M (20.3%), villas AED 100.5M (11.1%). Ready side AED 476.8M splits flats AED 321.3M / villas AED 100.2M / commercial AED 50.8M. Off-plan share at 65.5% sits between the 2026-06-03 print (55.2%) and 2026-06-04 print (69.8%) — off-plan rebuild continuing as ready demand normalizes.",
+        "whyItMatters": "Friday tapes typically collapse to AED 400–600M; AED 1.38B at end-of-week confirms the post-Eid-Al-Adha rebuild momentum is durable, not a single-day spike. Off-plan commercial at AED 183.6M is the standout — read against the Sweid One / Samana Business Hub / Lumena clusters for office sourcing. Verify per-day flow at dxbinteract before mid-month strategy calls.",
+        "forWho": "Brokers tracking daily cadence, REIT analysts, off-plan commercial buyers.",
+        "tryIt": "https://dxbinteract.com/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2e6f15cd-dff7-416f-ad9d-3c92e7cf4e47/pexels-apasaric-1437493.jpg",
+        "alt": "Dubai cityscape backdrop for the 2026-06-05 DLD daily print at AED 1.38B with off-plan at 65.5%",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-06-06T12:33:50.871Z"
+    },
     {
       "id": "dubai-rest-jun-5-2026-half-day-aed-1-04b-umm-suqeim-1-land-cluster-406-5m",
       "categories": [
