@@ -4299,6 +4299,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260606t003515z",
+      "timestamp": "2026-06-06T00:35:15.950Z",
+      "source": "github-actions-sweep",
+      "summary": "Single June 5 2026 candidate added: a Friday mid-day Dubai REST half-day flow story (AED 1.04B across 468 deals) led by a AED 406.5M three-plot Umm Suqeim 1 residential land cluster, a 370K-sqft AED 110.4M Saih Shuaib 3 plot, an AED 150M Dubai Maritime City land mortgage and an AED 61.5M Enara by Omniyat office sale. Earlier June 1-4 daily prints, the Cavendish Maxwell Jan-May print, MAG Square plan and Arada/Penta UAE Property Investment Index are already in the feed; no further new items qualify against the 72h cap.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-rest-jun-5-2026-half-day-aed-1-04b-umm-suqeim-1-land-cluster-406-5m",
+          "title": "Dubai REST mid-day print 2026-06-05: AED 1.04B across 468 deals — Umm Suqeim 1 three-plot residential land cluster books AED 406.5M, 370K-sqft Saih Shuaib 3 plot clears AED 110.4M",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "land",
+        "commercial",
+        "luxury",
+        "developer",
+        "offplan",
+        "ready",
+        "rental",
+        "distress",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "market-data-comps",
+        "brokerage-luxury-leads"
+      ]
     }
   ]
 }

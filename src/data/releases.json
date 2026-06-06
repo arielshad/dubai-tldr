@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-06-05T13:02:49.894Z",
+  "generatedAt": "2026-06-06T00:35:15.950Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-rest-jun-5-2026-half-day-aed-1-04b-umm-suqeim-1-land-cluster-406-5m",
+      "categories": [
+        "market",
+        "land",
+        "commercial",
+        "luxury"
+      ],
+      "title": "Dubai REST mid-day print 2026-06-05: AED 1.04B across 468 deals — Umm Suqeim 1 three-plot residential land cluster books AED 406.5M, 370K-sqft Saih Shuaib 3 plot clears AED 110.4M",
+      "org": "Gulf Today (Dubai REST app)",
+      "date": "2026-06-05",
+      "url": "https://www.gulftoday.ae/news/2026/06/05/dubai-property-market-sees-dhs104-billion-in-sales-in-half-a-day",
+      "summary": "By mid-Friday 5 June, Dubai REST data shows AED 1.04B cleared across 468 deals — five land plots in Umm Suqeim 1, Saih Shuaib 3 and Dubai Maritime City alone hold AED 517M, with an AED 61.5M Enara by Omniyat office sale anchoring commercial.",
+      "tags": [
+        "dubai",
+        "umm-suqeim",
+        "saih-shuaib",
+        "dubai-maritime-city",
+        "business-bay",
+        "land",
+        "commercial",
+        "dld",
+        "dubai-rest"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-UMM-SUQEIM",
+        "DXB-SAIH-SHUAIB",
+        "DXB-MARITIME-CITY",
+        "DXB-BUSINESS-BAY",
+        "DLD"
+      ],
+      "metrics": {
+        "Half-day flow (mid-Friday)": "AED 1.04B",
+        "Transactions": "468",
+        "Umm Suqeim 1 land cluster": "AED 406.5M / ~70K sqft / 3 residential plots",
+        "Saih Shuaib 3 plot": "AED 110.4M / ~370K sqft",
+        "Dubai Maritime City land mortgage": "AED 150M",
+        "Enara by Omniyat office sale (Business Bay)": "AED 61.5M / 8,886 sqft",
+        "Mortgages": "AED 285M / 61 deals",
+        "Gifts": "AED 26M / 14 deals",
+        "Data source": "Dubai REST app"
+      },
+      "links": [
+        {
+          "label": "Gulf Today report (5 Jun 2026)",
+          "url": "https://www.gulftoday.ae/news/2026/06/05/dubai-property-market-sees-dhs104-billion-in-sales-in-half-a-day"
+        },
+        {
+          "label": "Dubai REST eService",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        },
+        {
+          "label": "DLD daily transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Even on a quiet post-Eid Friday morning, prime Umm Suqeim 1 land carries the tape: AED 406.5M for three plots, AED 110.4M for one Saih Shuaib 3 plot, AED 1.04B by lunchtime.",
+        "whatIsIt": "Gulf Today, citing data published via the Dubai REST app, prints a Friday mid-day snapshot of the Dubai property tape for 5 June 2026: AED 1.04B across 468 transactions, with land alone contributing roughly AED 517M of that flow. The five named land deals span beachfront-adjacent Umm Suqeim 1, industrial-zone Saih Shuaib 3, and waterfront-commercial Dubai Maritime City, alongside a notable AED 61.5M office sale in Business Bay's Enara by Omniyat.",
+        "howItWorks": "Three residential plots in Umm Suqeim 1 covering ~70,000 sqft combined trade for AED 406.5M (~AED 5,800/sqft) — a tight, sub-Jumeirah-Bay-but-well-above-secondary-villa-land print for the corridor just inland of Jumeirah Beach. A single ~370,000 sqft plot in Saih Shuaib 3 (Jebel Ali industrial belt) books AED 110.4M (~AED 298/sqft), and a ~41,600 sqft Dubai Maritime City plot is mortgaged for AED 150M. Business Bay's Enara by Omniyat (Omniyat's customisable office tower, handover Q4 2027) clears one 8,886 sqft unit for AED 61.5M (~AED 6,920/sqft). Mortgages add AED 285M across 61 deals; gifts add AED 26M across 14.",
+        "whyItMatters": "Friday half-days in early June (post-Eid Al Adha, ahead of summer) usually run sub-AED 500M ex-land — a AED 1.04B mid-day tape, driven by institutional-scale land assembly in Umm Suqeim 1 and one ~AED 5,800/sqft residential land print, signals that the pipeline-side of Dubai's premium beachfront corridor is still being scooped at full prints even as ready-resale ask prices soften. The Enara office ticket also extends the run of Business Bay grade-A commercial trading at ~AED 7,000/sqft, supporting JLL's Q1 prime-office-vacancy-0.7% read.",
+        "forWho": "Beachfront land assemblers, Umm Suqeim 1 villa-redevelopment operators, Business Bay grade-A office buyers, Saih Shuaib 3 industrial/logistics plot underwriters, and brokers calibrating land vs. ready-resale negotiation room.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://www.gulftoday.ae/gulftoday/uploads/images/2026/06/05/1084748.webp",
+        "alt": "Aerial view of Jumeirah Beach in Dubai near the Umm Suqeim 1 corridor.",
+        "fit": "cover",
+        "credit": "Gulf Today / WAM"
+      },
+      "publishDate": "2026-06-06T00:35:15.950Z"
+    },
     {
       "id": "dubai-cavendish-maxwell-jan-may-2026-66900-sales-aed-196-2b-may-soft-jun-5",
       "categories": [
