@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-06-07T00:37:33.631Z",
+  "generatedAt": "2026-06-07T12:39:03.902Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-fam-dxbinteract-may-2026-citywide-10281-deals-aed-289b-price-distribution-jun-7",
+      "categories": [
+        "market",
+        "ready",
+        "luxury"
+      ],
+      "title": "Khaleej Times × fäm Properties × DXBinteract Dubai citywide May 2026 print — 10,281 deals worth AED 28.9B, sub-AED 1M lots take 39.8% of volume as REIDIN-aligned ASP holds AED 1,650/sqft (+3% YoY)",
+      "org": "Khaleej Times / fäm Properties / DXBinteract",
+      "date": "2026-06-07",
+      "publishDate": "2026-06-07T12:39:03.902Z",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-south-emerges-as-emirates-real-estate-powerhouse",
+      "summary": "Somshankar Bandyopadhyay at Khaleej Times publishes the fäm Properties × DXBinteract Dubai citywide May 2026 print: 10,281 sales worth AED 28.9B with apartments AED 14.6B / villas AED 7.2B / plots AED 4.2B / commercial AED 2.9B, sub-AED 1M lots driving 39.8% of volume, AED 1,650/sqft ASP (+3% YoY) and a Palm Jumeirah Signature Villa AED 145M sale anchoring luxury.",
+      "tags": [
+        "fam-properties",
+        "dxbinteract",
+        "khaleej-times",
+        "may-2026-print",
+        "price-distribution",
+        "asp-per-sqft",
+        "citywide",
+        "dubai-south",
+        "wadi-al-safa",
+        "palm-jumeirah",
+        "Firas-Al-Msaddi"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-WIDE",
+        "DXB-SOUTH",
+        "WADI-AL-SAFA",
+        "PALM"
+      ],
+      "metrics": {
+        "Citywide deals (May 2026)": "10,281",
+        "Citywide value": "AED 28.9B",
+        "Apartments": "8,772 sales / AED 14.6B",
+        "Villas": "1,037 sales / AED 7.2B",
+        "Plots": "133 sales / AED 4.2B",
+        "Commercial": "335 sales / AED 2.9B",
+        "Average price per sqft": "AED 1,650 (+3% YoY)",
+        "Price band <AED 1M": "39.82% of volume",
+        "Price band AED 1–2M": "31.02%",
+        "Price band AED 2–3M": "12.41%",
+        "Price band AED 3–5M": "8.19%",
+        "Price band >AED 5M": "8.56%",
+        "Top area #1 (Dubai South)": "1,357 deals / AED 1.6B (+15.9% MoM, +36.4% since Feb)",
+        "Top area #2 (Wadi Al Safa 3)": "983 deals / AED 1.7B",
+        "Top area #3 (Wadi Al Safa 5)": "631 deals / AED 839M",
+        "Top villa print": "AED 145M Signature Villas, Palm Jumeirah",
+        "Top apt prints": "AED 113M / AED 106M / AED 101M (Solaya / Aman / Como tier)",
+        "Source": "Khaleej Times 2026-06-07, Somshankar Bandyopadhyay, citing fäm Properties × DXBinteract"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: Dubai South emerges as emirate's real-estate powerhouse (2026-06-07)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-south-emerges-as-emirates-real-estate-powerhouse"
+        },
+        {
+          "label": "World Economic Magazine syndication of the same fäm/DXBinteract May print",
+          "url": "https://worldecomag.com/dubai-south-emerges-as-emirates-real-estate-powerhouse/"
+        },
+        {
+          "label": "DXBinteract daily property summary (data source)",
+          "url": "https://dxbinteract.com/daily-property-summary"
+        }
+      ],
+      "explainer": {
+        "tagline": "fäm + DXBinteract's full May 2026 Dubai map — 10,281 deals AED 28.9B, 40% of volume sub-AED 1M and ASP holding +3% YoY — gives buyers a concrete bracket to position their search.",
+        "whatIsIt": "Khaleej Times publishes the fäm Properties × DXBinteract Dubai-wide May 2026 transaction print on 2026-06-07. Versus the existing Dubai South-only card on the same source (1,357 deals / AED 1.6B), this read fans out into the rest of the city: 10,281 total sales worth AED 28.9B, broken into apartments AED 14.6B, villas AED 7.2B, plots AED 4.2B and commercial AED 2.9B. The unique payload is the price-distribution table (<AED 1M = 39.82%, 1–2M = 31.02%, 2–3M = 12.41%, 3–5M = 8.19%, >5M = 8.56%) plus the area podium beyond Dubai South — Wadi Al Safa 3 at 983 deals / AED 1.7B and Wadi Al Safa 5 at 631 deals / AED 839M.",
+        "howItWorks": "Mechanically the citywide ASP holds at AED 1,650/sqft (+3% YoY) even as the volume mix skews sub-AED 1M (40% of deals), which is consistent with the off-plan-led recovery flagged in the existing Cavendish Maxwell and AGBI bubble cards. A practical use: an end-user or yield buyer can read the price-band split as a cohort sizer — if your target is AED 1–2M, you're competing inside 31% of monthly volume (~3,190 deals in May), so your offers and timing need to clear that depth. A villa buyer at >AED 5M is inside the top 8.56% (~880 deals) and should benchmark against the named luxury prints: a 2026-05 AED 145M Signature Villas Palm Jumeirah sale and three AED 100M+ apartment trades (Solaya 5 / Aman Residences / Como Residences tier per the related KT Jun-3 piece). Dubai South leads the area table for the third straight month, with off-plan velocity (1,233 of 1,357 May deals, +57.87% since Feb) reflecting the Al Maktoum / Majid Al Futtaim corridor that is separately tracked in the existing AED 62B / 22m-sqft Dubai South × MAF master-community card.",
+        "whyItMatters": "Two operator uses. (1) Pricing — listing-side, the AED 1,650/sqft citywide ASP and the 40% sub-AED 1M concentration set the moving market for ready stock; brokers writing CMAs on JVC, Arjan, Business Bay studios and 1-BRs should validate against the band the unit actually sits in rather than the citywide average. (2) Search positioning — buy-side, the price-distribution lets you compute the realistic competing demand on your target band before viewing. Risks: source methodology — fäm/DXBinteract's 10,281-deal count diverges from Cavendish Maxwell's ~9,500 May estimate (already in the feed) and Construction Week's 10,218; the divergence is from the residential vs all-asset cut, so cross-source before quoting in client decks. The article is data-only (no developer ask), so this is a market-tape card, not a buy/sell trigger by itself.",
+        "forWho": "Listing-side brokers writing May-2026 CMAs, buy-side underwriters sizing competing demand on a target band, end-users in the AED 1–2M cohort calibrating offer urgency, villa and ultra-prime advisors benchmarking against the AED 145M Palm Jumeirah print, and DXB-WIDE market analysts reconciling fäm/DXBinteract vs Cavendish Maxwell methodologies.",
+        "tryIt": "https://dxbinteract.com/daily-property-summary"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/sUUA3IaZn6RFp1BrNZO1ExrIVfk.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Khaleej Times hero image for the fäm Properties × DXBinteract May 2026 Dubai citywide print led by Dubai South, published 2026-06-07",
+        "fit": "cover",
+        "credit": "Khaleej Times / fäm Properties"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "handle": "khaleejtimes",
+        "profileUrl": "https://www.khaleejtimes.com/business/property/dubai-south-emerges-as-emirates-real-estate-powerhouse"
+      }
+    },
     {
       "id": "dubai-fam-properties-dubai-south-1357-sales-aed-1-6b-90-9-percent-offplan-may-2026",
       "categories": [
@@ -8235,11 +8322,11 @@
         "ready",
         "rental"
       ],
-      "title": "Dubai Harbour Bridge hits 85% completion: 1.5 km link to Sheikh Zayed Road opens August 2026, cuts 24-tower commute from 20 min to 3 min",
+      "title": "Dubai Harbour Bridge hits 90% — RTA × Shamal Holding pull SZR connector forward to a phased June 2026 (initial) / July 2026 (final) opening, with 12→3 min commute confirmed across 24 towers",
       "org": "Roads and Transport Authority (RTA) / Shamal Holding",
-      "date": "2026-05-07",
-      "url": "https://propertynews.ae/uae/dubai/direct-access-dubai-harbour-bridge-hits-85-completion-milestone/",
-      "summary": "RTA's AED 431M Dubai Harbour bridge — built in PPP with Shamal Holding — is 85% complete with August 2026 opening confirmed. The 1.5 km, two-lanes-each-way deck links Dubai Harbour direct to Sheikh Zayed Road at 6,000 vehicles/hour, cutting the trip from ~20 minutes to ~3 minutes and de-loading Dubai Marina + Media City traffic for 24 residential towers in the cluster.",
+      "date": "2026-06-07",
+      "url": "https://www.tradearabia.com/news/463388/RTA-completes-90-Percent-work-on-Dubai-Harbour-bridge-project-",
+      "summary": "RTA × Shamal Holding bring the Sheikh Zayed Road–Dubai Harbour bridge to 90% completion (TradeArabia 2026-06-07) and confirm a phased opening: initial phase in June 2026, final phase in July 2026 — one to two months earlier than the May 2026 'August' signal. RTA also restates the commute saving as 12→3 minutes between SZR and Dubai Harbour at the bridge's 6,000-vehicle/hour, 2-lanes-each-way capacity.",
       "tags": [
         "infrastructure",
         "rta",
@@ -8261,16 +8348,22 @@
         "Length": "1,500 m (1.5 km)",
         "Lanes": "2 lanes each direction (4 total)",
         "Capacity": "6,000 vehicles per hour",
-        "Project cost": "AED 431M (per The National, Jan 2026)",
-        "Completion": "85% as of May 2026 (utility works 90%)",
-        "Opening date": "August 2026",
-        "Commute saving": "~20 minutes → ~3 minutes to Sheikh Zayed Road",
+        "Completion": "90% as of 2026-06-07 (up from 85% on 2026-05-07)",
+        "Opening date": "Phased — June 2026 (initial) / July 2026 (final), per TradeArabia 2026-06-07; pulled forward from August 2026",
+        "Commute saving (RTA Jun-7 framing)": "12 minutes → 3 minutes between Sheikh Zayed Road and Dubai Harbour",
+        "Concrete used": "45,000+ cubic metres",
+        "Steel used": "8,273 tonnes",
+        "Manpower": "1,400 engineers and workers across 12 teams; 4.2M+ work hours logged",
+        "Counterparties": "RTA + Shamal Holding (Dubai Holding investment arm) — Shamal CEO Abdulla Binhabtoor on record framing it as PPP",
+        "Project cost (per Jan 2026 reporting)": "AED 431M",
         "Towers benefiting": "24 residential towers in Dubai Harbour",
-        "Counterparties": "RTA + Shamal Holding (Dubai Holding investment arm)",
-        "Traffic relief target": "Dubai Marina + Media City junction load",
-        "Source": "PropertyNews.ae 2026-05-07 / RTA Media Office / The National"
+        "Source": "TradeArabia 2026-06-07 / RTA Media Office / Shamal Holding"
       },
       "links": [
+        {
+          "label": "TradeArabia: RTA completes 90% work on Dubai Harbour bridge project (2026-06-07)",
+          "url": "https://www.tradearabia.com/news/463388/RTA-completes-90-Percent-work-on-Dubai-Harbour-bridge-project-"
+        },
         {
           "label": "PropertyNews.ae: Dubai Harbour Bridge hits 85% completion (May 7 2026)",
           "url": "https://propertynews.ae/uae/dubai/direct-access-dubai-harbour-bridge-hits-85-completion-milestone/"
@@ -8289,18 +8382,18 @@
         }
       ],
       "explainer": {
-        "tagline": "Dubai Harbour's August-2026 SZR connector is now 85% built — a 17-minute commute saving that should reset rents and resale comps for 24 towers in the cluster.",
-        "whatIsIt": "RTA, in a public-private partnership with Shamal Holding (Dubai Holding's investment arm), is finishing a 1.5 km, four-lane bridge that lands Dubai Harbour traffic directly onto Sheikh Zayed Road. As of early May 2026 the deck is 85% complete, intersecting-utility relocation is 90% done, and the August 2026 opening date is confirmed in the RTA-issued site signage. At opening, the link will move 6,000 vehicles per hour and is targeted at relieving pressure on the Marina–Media City corridor.",
-        "howItWorks": "Operationally the bridge collapses the SZR-to-Dubai-Harbour drive from ~20 minutes via Marina and Media City to ~3 minutes — a quantified value lever you can plug into ready-tower comps. Twenty-four residential towers in Dubai Harbour (Sunrise Bay, Beach Isle, Marina Vista, Grand Bleu Tower 1 & 2, etc.) sit on the receiving end of the bridge, plus the cluster's hospitality, retail and yacht-club inventory. Rental and resale underwriting that previously discounted Dubai Harbour for SZR access friction can be re-rated; analogous post-bridge re-rates in Dubai (e.g. Al Khail Road extensions, Infinity Bridge to Bluewaters) typically delivered 3–7% cap-rate compression in the 6–12 months after opening. Diligence checks: confirm the tower-by-tower walking distance to the bridge ramp, confirm school-bus and EMS access changes, watch for any toll structure (none currently disclosed; PPP usually free-flow on RTA assets) and pull the latest DLD comps for the cluster as the August 2026 opening approaches.",
-        "whyItMatters": "Dubai Harbour was originally a Marina-spillover cluster whose biggest weakness was access — every leasing or resale broker has lost units to the 'too far from SZR' objection. With direct access landing in August 2026, the cluster pivots from peripheral to prime-adjacent, and Emaar Beachfront, Sunrise Bay/Beach Isle, the cruise terminal precinct and Skydive Dubai all sit on the upside of that shift. For sellers in Dubai Harbour ready stock this is a window to reposition pricing 8–12 weeks pre-open; for landlords it's an argument for indexed rent reviews on tenancy renewals; for buyers the time to move is before the opening prints into the comp record. Risk: the AED 431M PPP cost and traffic-load assumptions are RTA-side, and any opening slippage past August would defer the comp re-rate.",
-        "forWho": "Dubai Harbour landlords pricing 2026/27 renewals, brokers prepping listings in Sunrise Bay / Beach Isle / Marina Vista / Grand Bleu, holiday-let operators in Emaar Beachfront, ready-market buyers underwriting cluster cap-rate compression, and Marina+Media City landlords watching for traffic-relief side effects.",
-        "tryIt": "https://propertynews.ae/uae/dubai/direct-access-dubai-harbour-bridge-hits-85-completion-milestone/"
+        "tagline": "RTA × Shamal Holding pull Dubai Harbour's SZR connector forward to June/July 2026 at 90% complete — repricing window for 24 towers in the cluster is now weeks, not months.",
+        "whatIsIt": "RTA, in PPP with Shamal Holding (Dubai Holding's investment arm), has taken the 1.5 km, four-lane Sheikh Zayed Road–Dubai Harbour bridge to 90% complete and locked a phased opening (June 2026 initial phase, July 2026 final phase) per TradeArabia 2026-06-07 — one to two months earlier than the May 2026 August signal. At opening the deck moves 6,000 vehicles per hour and lands Dubai Harbour traffic directly onto Sheikh Zayed Road via Al Naseem Street and King Salman bin Abdulaziz Al Saud Street intersections, instead of routing through Marina and Media City.",
+        "howItWorks": "RTA's own 2026-06-07 framing puts the commute saving at 12 minutes → 3 minutes between SZR and Dubai Harbour (slightly tighter than the older 20→3 framing). Twenty-four residential towers in Dubai Harbour (Sunrise Bay, Beach Isle, Marina Vista, Grand Bleu Tower 1 & 2, etc.) sit on the receiving end, plus the cluster's hospitality, retail and yacht-club inventory. Rental and resale underwriting that previously discounted Dubai Harbour for SZR access friction can be re-rated; analogous post-bridge re-rates in Dubai (Al Khail extensions, Infinity Bridge to Bluewaters) typically delivered 3–7% cap-rate compression in the 6–12 months after opening. Diligence checks: confirm the tower-by-tower walking distance to the bridge ramp, confirm school-bus and EMS access changes, watch for any toll structure (none disclosed in the Jun-7 update — PPP usually free-flow on RTA assets), pull the latest DLD comps for the cluster, and revisit project-cost (AED 431M per Jan 2026 reporting) before signing any infrastructure-thesis underwrite.",
+        "whyItMatters": "Dubai Harbour was originally a Marina-spillover cluster whose biggest weakness was access — every leasing or resale broker has lost units to the 'too far from SZR' objection. With the opening now pulled forward into June/July 2026, the repricing window collapses from a 'plan-ahead' story to a 'this-renewal-cycle' story for landlords and 'this-listing-cycle' story for sellers. Emaar Beachfront, Sunrise Bay/Beach Isle, the cruise terminal precinct and Skydive Dubai all sit on the upside; Marina + Media City landlords should also watch for traffic-relief side effects. Risk: 'phased' opening leaves the final-phase July date as the binding constraint — confirm with RTA which connections are live on the initial-phase date before promising buyer/tenant a single-step commute.",
+        "forWho": "Dubai Harbour landlords pricing 2026/27 renewals on a 6-week (not 12-week) horizon, brokers prepping listings in Sunrise Bay / Beach Isle / Marina Vista / Grand Bleu, holiday-let operators in Emaar Beachfront, ready-market buyers underwriting cluster cap-rate compression, and Marina + Media City landlords watching for traffic-relief side effects.",
+        "tryIt": "https://www.tradearabia.com/news/463388/RTA-completes-90-Percent-work-on-Dubai-Harbour-bridge-project-"
       },
       "image": {
-        "url": "https://propertynews.ae/wp-content/uploads/2026/05/output1-208.png",
-        "alt": "Dubai Harbour bridge construction progress at 85% completion, with Sheikh Zayed Road connector deck visible — May 2026 RTA / Shamal Holding milestone",
+        "url": "https://img.tradearabia.com/source/TA/2026/06/07/TA_20260607121314.webp",
+        "alt": "Sheikh Zayed Road–Dubai Harbour bridge at 90% completion as RTA × Shamal Holding confirm a phased June/July 2026 opening — TradeArabia 2026-06-07",
         "fit": "cover",
-        "credit": "PropertyNews.ae"
+        "credit": "TradeArabia / RTA / Shamal Holding"
       },
       "publishDate": "2026-05-07T15:06:08.320Z"
     },

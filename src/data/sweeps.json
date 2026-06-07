@@ -4415,6 +4415,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260607t123903z",
+      "timestamp": "2026-06-07T12:39:03.902Z",
+      "source": "github-actions-sweep",
+      "summary": "06h cron 2026-06-07: one new market-print card (Khaleej Times Jun-7 fäm/DXBinteract citywide May 2026 read — 10,281 deals AED 28.9B with full price-distribution and area-table reproduction) and one update to the Dubai Harbour SZR-bridge card (90% complete with June/July 2026 phased opening per RTA × Shamal Holding, replacing the prior 85%/August-only signal).",
+      "counts": {
+        "added": 1,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-fam-dxbinteract-may-2026-citywide-10281-deals-aed-289b-price-distribution-jun-7",
+          "title": "Khaleej Times × fäm Properties × DXBinteract Dubai citywide May 2026 print — 10,281 deals worth AED 28.9B, sub-AED 1M lots take 39.8% of volume as REIDIN-aligned ASP holds AED 1,650/sqft (+3% YoY)",
+          "category": "market",
+          "note": "Adds the citywide May 2026 fäm/DXBinteract print (10,281 deals AED 28.9B with price-distribution table). Existing fäm Dubai South card is area-specific; this card is the citywide market signal that Cavendish Maxwell, ValuStrat and AGBI cards do not fully reproduce. Inclusion bar #4 (official market signal that changes pricing). Source verified via WebFetch on khaleejtimes.com 2026-06-07; numbers triangulated against existing Dubai South card and Construction Week May print."
+        }
+      ],
+      "updated": [
+        {
+          "id": "dubai-harbour-bridge-85-percent-complete-aug-2026-opening",
+          "title": "Dubai Harbour Bridge hits 90% — RTA × Shamal Holding pull SZR connector forward to a phased June 2026 (initial) / July 2026 (final) opening, with 12→3 min commute confirmed across 24 towers",
+          "note": "TradeArabia 2026-06-07 RTA × Shamal Holding update: Sheikh Zayed Road–Dubai Harbour bridge now 90% complete, opening pulled forward to a phased June 2026 (initial) / July 2026 (final) — replacing the earlier August-only date and bumping the commute-saving baseline (12→3 min per RTA, vs the older 20→3 min framing). Updating title, date, summary, metrics, explainer and link block."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "market",
+        "ready",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "dubizzle-houza-crosscheck",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
