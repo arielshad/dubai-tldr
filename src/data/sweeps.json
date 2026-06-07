@@ -4380,6 +4380,41 @@
         "property-finder-sale-rent",
         "bayut-sale-rent"
       ]
+    },
+    {
+      "id": "sweep-20260607t003733z",
+      "timestamp": "2026-06-07T00:37:33.631Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep. The strongest fresh candidate — ORA Developers awarding Dubai-based UNEC an AED 1.9B BAYN Phase 1 contract in Ghantoot (614 units, 31-month build, Dec 2028 first handover) — landed via AGBI on 2026-06-04, ~36 minutes outside the 72h date cap at sweep time (2026-06-07T00:36Z). Per the prompt and SWEEP_MEMORY 2026-05-06-B, the cron must not pass --max-age-hours, so the BAYN print is held out of the feed; the next sweep window will close on it before it ages out further if AGBI re-stamps. Every other 5–7 June print I verified (Cavendish Maxwell May print, AGBI rent-freeze analysis, June 5 AED 1.04B half-day land cluster, June 4-5 daily DLD tapes, Sobha Sanctuary / Sobha City AD launches, Emaar finance-leadership reshuffle, K4 fit-out growth, BAYN itself in earlier outlets) is either already in the feed or older than 72h. Today (Saturday in the Eid Al Adha extended window) is also a thin news day — limited new launches, no fresh court / RERA / decree action surfaced.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "land",
+        "rental",
+        "market",
+        "ready",
+        "luxury",
+        "commercial",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
