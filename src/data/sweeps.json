@@ -4457,6 +4457,40 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260608t004007z",
+      "timestamp": "2026-06-08T00:40:07.719Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep — every fresh Dubai property story dated 5-7 June 2026 surfaced this run was already represented in the feed or failed the inclusion bar. The June 7 RTA Dubai Harbour Bridge 90% milestone is already covered by the existing harbour-bridge card (12→3 min, 24 towers). The June 7 fäm/DXBinteract Dubai South May 2026 monthly print is already covered, and the Springfield Properties / Construction Week / Gulf Today commentary on the same May 2026 DLD tally would only have duplicated it. The June 7 Penta/Arada UAE Property Investment Index (56% global) is already in the feed. Lighter June 5-7 items — gulfnews's CBA Real Estate brokerage-advisory commentary, the DIEZ AED 491B non-oil trade record, the RAK Miraggio broker-rewards story, the KHDA private-schools inspection resume, and the intlbm Provident Estate AED 100M deal with no specifics — did not meet the bar. No therealestatereports daily review for 06-Jun or 07-Jun has been published yet, so no fresh DLD daily-print card is possible this run.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "commercial",
+        "ready",
+        "offplan",
+        "luxury",
+        "rental",
+        "distress"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
