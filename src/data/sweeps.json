@@ -4491,6 +4491,67 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260608t133050z",
+      "timestamp": "2026-06-08T13:30:50.332Z",
+      "source": "github-actions-sweep",
+      "summary": "Fresh 2026-06-08 sweep — DLD week-23 print (Jun 1-7) hands the post-Eid recovery a AED 11.0B / AED 7.1B-ex-land tape; BEYOND × OMNIYAT launches AED 4B The Yards × Arancia in City of Arabia; Majid Al Futtaim books an AED 2B Ghaf Woods main-contractor deal; DLD First-Time Home Buyer Programme scales to AED 5B+ / 3,200+ owners with 9 new developers (22 total) and ~45K registrations.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-week-23-2026-weekly-aed-11b-7-1b-ex-land-offplan-62-7-jun-8",
+          "title": "DLD week 23 (Jun 1-7, 2026): AED 11.0B total (AED 7.1B ex-land) across 4,086 transactions — off-plan rebuilds to 62.7% as flats book AED 5.5B and AED 3.9B of land clears the residual",
+          "category": "market",
+          "note": "Recurring DLD weekly print — first post-Eid full week, confirms off-plan tilt holds at 62.7% with AED 7.1B ex-land."
+        },
+        {
+          "id": "dubai-beyond-omniyat-the-yards-arancia-city-of-arabia-aed-4b-jun-8-2026",
+          "title": "BEYOND × OMNIYAT launches The Yards in City of Arabia — AED 4B (USD 1.09B), 1,560 units across 2.3M sqft, first inland masterplan kicked off with the 272-unit Arancia Yards cluster from AED 1M",
+          "category": "offplan",
+          "note": "Fresh AED 4B masterplan launch from BEYOND (OMNIYAT) — first inland Dubai play, Arancia at City of Arabia from AED 1M / 40-60 plan."
+        },
+        {
+          "id": "dubai-majid-al-futtaim-ghaf-woods-ecc-aed-2b-capria-maravelle-jun-8-2026",
+          "title": "Majid Al Futtaim awards AED 2B (USD 544M) main-contractor deal to ECC for Ghaf Woods' Capria East, Capria West and Maravelle Residences — Dubai's first forest-living community advances delivery",
+          "category": "developer",
+          "note": "Second main-contractor mandate at Ghaf Woods (AED 2B to ECC for Capria + Maravelle) on top of the existing AED 1.7B Innovo Build deal — material delivery signal in the Dubailand corridor."
+        },
+        {
+          "id": "dubai-dld-first-time-home-buyer-programme-aed-5b-3200-owners-9-new-developers-jun-8-2026",
+          "title": "Dubai's First-Time Home Buyer Programme scales to AED 5B+ across 3,200+ buyers — 9 new developers (4Direction, Arada, DWTC, IRTH, Manam, Qube, Reportage, SAMANA, Sky View) join, taking the total to 22 partners and ~45K registrations",
+          "category": "lead",
+          "note": "DLD + DET phase-two update for the First-Time Home Buyer Programme — 9 new developers joining alongside the AED 5B / 3,200-owner / 45K-registration print."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "developer",
+        "lead",
+        "visa",
+        "ready",
+        "rental",
+        "luxury",
+        "commercial",
+        "land"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
