@@ -1,8 +1,81 @@
 {
-  "generatedAt": "2026-06-08T13:30:50.332Z",
+  "generatedAt": "2026-06-09T00:31:29.403Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-naia-island-aed-560m-80k-sqft-beachfront-sothebys-jun-8-2026",
+      "categories": [
+        "luxury",
+        "land"
+      ],
+      "title": "Naia Island sets new UAE land benchmark — 80,000+ sqft beachfront plot trades for AED 560M (USD 152.5M) via Dubai Sotheby's, nearly doubling the May 2026 53,000 sqft / AED 377M record",
+      "org": "Dubai Sotheby's International Realty / Shamal Holding (Naia Island master developer)",
+      "date": "2026-06-08",
+      "url": "https://www.gulftoday.ae/business/2026/06/08/beachfront-plot-of-land-in-dubai-sold-for-dhs560-million",
+      "summary": "Off-market AED 560M (USD 152.5M) beachfront land deal on Naia Island — 80,000+ sqft sold to an unidentified European buyer via Dubai Sotheby's, ranking among the largest single-plot UAE land trades on record and nearly doubling the prior May 2026 Naia Island record.",
+      "tags": [
+        "Naia Island",
+        "Shamal Holding",
+        "Dubai Sotheby's",
+        "beachfront land",
+        "ultra-prime",
+        "off-market",
+        "European buyer",
+        "HNW"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB-JUMEIRAH",
+        "NAIA"
+      ],
+      "metrics": {
+        "Plot size": "80,000+ sqft",
+        "Sale price (AED)": "AED 560M",
+        "Sale price (USD)": "~USD 152.5M",
+        "Implied AED/sqft": "~AED 7,000/sqft (per Gulf Today's 'approximately Dhs7,000 per sqft' read)",
+        "Previous Naia record (May 2026)": "53,000 sqft / AED 377M",
+        "Sale mechanism": "Off-market, no public marketing",
+        "Broker": "Dubai Sotheby's International Realty",
+        "Buyer nationality": "European (unnamed)",
+        "Naia buyer-pool composition": "Europe/UK 45%, Asia 20%, Middle East 18%, North America 10%, Oceania 2%",
+        "Location": "Naia Island, off the Jumeirah coast (between Umm Suqeim and Jumeirah 3)",
+        "Master developer": "Shamal Holding",
+        "Naia Island launched": "August 2025"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Beachfront plot of land in Dubai sold for Dhs560 million (08-Jun-2026)",
+          "url": "https://www.gulftoday.ae/business/2026/06/08/beachfront-plot-of-land-in-dubai-sold-for-dhs560-million"
+        },
+        {
+          "label": "Emirates 24|7 — Dubai records AED 560 million landmark beachfront land deal on Naia Island",
+          "url": "https://www.emirates247.com/business/dubai-records-aed-560-million-landmark-beachfront-land-deal-on-naya-island/2355"
+        },
+        {
+          "label": "Arabian Business — Dubai's most expensive beachfront plot sells for more than $150m (EXCLUSIVE)",
+          "url": "https://www.arabianbusiness.com/real-estate/dubai-beach-naia-island"
+        },
+        {
+          "label": "Gulf News — May 2026 prior record: 53,000 sqft / AED 377M Naia Island plot context",
+          "url": "https://gulfnews.com/business/property/dubai-records-dh377-million-sale-for-single-na%C3%AFa-island-beachfront-plot-1.500520727"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 560M / 80,000+ sqft Naia Island plot is now the largest single-plot UAE coastal land trade on record — and it cleared off-market.",
+        "whatIsIt": "Dubai Sotheby's International Realty has closed the sale of an 80,000+ sqft beachfront parcel on Shamal Holding's Naia Island (off the Jumeirah coast, between Umm Suqeim and Jumeirah 3) at AED 560M (~USD 152.5M) to an unidentified European buyer. Naia Island was launched in August 2025 as a curated, off-market-only ultra-prime enclave, so the trade was completed without public marketing.",
+        "howItWorks": "Plot size is nearly double the prior Naia Island record (53,000 sqft / AED 377M in May 2026), and the implied AED/sqft (~AED 7,000/sqft per Gulf Today's read) is consistent with the May Naia comp. Typical Jumeirah Bay Island plots range 14,000–25,000 sqft, so this single trade is multiples of the comparable next-best inventory. Sotheby's cites a Naia buyer-pool that is 45% Europe/UK, 20% Asia, 18% Middle East and 10% North America — the European buyer fits the dominant pool. No financing or payment-plan disclosure: assume cash-equivalent given the off-market mechanism.",
+        "whyItMatters": "This print resets the UAE single-plot land benchmark and confirms that Naia Island has become Dubai's reference ultra-prime land asset, alongside Jumeirah Bay Island and the Jumeirah Coastline plot cluster (AED 400M / 113K sqft, May 2026). For super-prime brokerages, it validates the off-market discretion model over portal-driven listing. For owners of comparable coastal plots (Palm Jumeirah residential plots, Jumeirah Bay, Pearl Jumeirah), the AED 7,000/sqft Naia print is a fresh upper-bound reference comp; Dubai land at this calibre is still trading at materially below Monaco/Côte d'Azur waterfront on a per-sqft basis, which the European buyer pool is arbitraging.",
+        "forWho": "Ultra-prime brokers underwriting Naia/Jumeirah Bay/Palm plot listings, family-office land allocators benchmarking Dubai coastal AED/sqft against Riviera/Aspen comps, developers exploring boutique branded-residence plays on adjacent coastal land, journalists tracking the resurgence of off-market trophy-land trades.",
+        "tryIt": "https://www.gulftoday.ae/business/2026/06/08/beachfront-plot-of-land-in-dubai-sold-for-dhs560-million"
+      },
+      "image": {
+        "url": "https://api.emirates247.com/emirates247/uploads/images/2026/06/08/3529.webp",
+        "alt": "Aerial render of Naia Island beachfront plots off the Jumeirah coast",
+        "credit": "Emirates 24|7 / Shamal Holding"
+      },
+      "publishDate": "2026-06-09T00:31:29.403Z"
+    },
     {
       "id": "dubai-dld-week-23-2026-weekly-aed-11b-7-1b-ex-land-offplan-62-7-jun-8",
       "categories": [

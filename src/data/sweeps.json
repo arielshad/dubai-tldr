@@ -4552,6 +4552,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260609t003129z",
+      "timestamp": "2026-06-09T00:31:29.403Z",
+      "source": "github-actions-sweep",
+      "summary": "One verified ultra-prime land transaction: Naia Island AED 560M (USD 152.5M) beachfront plot — 80,000+ sqft, brokered by Dubai Sotheby's, nearly doubling the prior May 2026 Naia Island record (53,000 sqft / AED 377M). Most other June 7-8 surfaces (DLD May monthly print, Dubai South area lead, fäm citywide May, First-Time Home Buyer Programme update, BEYOND × OMNIYAT The Yards launch, brokerage 'quality advice' read) are already covered in the existing feed; daily DLD prints for Jun 6-7 were not published (post-Eid weekly was issued instead).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-naia-island-aed-560m-80k-sqft-beachfront-sothebys-jun-8-2026",
+          "title": "Naia Island sets new UAE land benchmark — 80,000+ sqft beachfront plot trades for AED 560M (USD 152.5M) via Dubai Sotheby's, nearly doubling the May 2026 53,000 sqft / AED 377M record",
+          "category": "luxury",
+          "note": "New UAE single-plot land benchmark — 80,000+ sqft for AED 560M is nearly double the prior Naia record (May 2026, 53K sqft / AED 377M) and outsizes the largest known Jumeirah Bay plots. Verified across Gulf Today, Emirates 24|7 and Arabian Business with consistent numbers and broker attribution."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "land"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "dubizzle-houza-crosscheck",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "auction-distress"
+      ]
     }
   ]
 }
