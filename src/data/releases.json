@@ -1,8 +1,232 @@
 {
-  "generatedAt": "2026-06-09T00:31:29.403Z",
+  "generatedAt": "2026-06-09T13:05:31.815Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-uae-fta-vat-refund-expansion-emirati-homebuilders-aed-200m-jun-9-2026",
+      "categories": [
+        "legal",
+        "market"
+      ],
+      "title": "UAE Federal Tax Authority expands VAT-refund scope for Emirati homebuilders — AED 200M of fresh annual savings, ~AED 25K average per claim, total 2026 refund book projected over AED 1B (vs AED 754M in 2025)",
+      "org": "Federal Tax Authority (FTA) / HE Abdulaziz Al Mulla",
+      "date": "2026-06-09",
+      "url": "https://gulfnews.com/business/property/uae-expands-vat-refunds-for-citizens-building-new-homes-in-2026-1.500568203",
+      "summary": "On 2026-06-09 the Federal Tax Authority broadened the list of build-cost categories eligible for the UAE-nationals new-home VAT refund — adding staff quarters, home gyms, smart-home/security systems, smart doors, swimming pools and fountains, landscaping, and full demolition-and-rebuild. AED 200M of additional annual savings, ~AED 25K average per claim, with total 2026 approved refunds projected above AED 1B vs AED 754M in 2025. Applies to claims filed on or after 1 January 2026; FTA awareness sessions roll out via district councils.",
+      "tags": [
+        "FTA",
+        "VAT",
+        "VAT refund",
+        "Emirati homebuilders",
+        "Year of Family",
+        "Abdulaziz Al Mulla",
+        "smart home",
+        "swimming pool",
+        "landscaping",
+        "demolish-and-rebuild",
+        "tax policy",
+        "UAE nationals"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UAE",
+        "DXB",
+        "TAX"
+      ],
+      "metrics": {
+        "Announcement date": "2026-06-09",
+        "Announcer": "Federal Tax Authority (FTA), Director-General HE Abdulaziz Al Mulla",
+        "Average savings per claim": "~AED 25,000",
+        "Estimated annual savings from expansion": "AED 200 million",
+        "2026 projected approved refund volume": "Above AED 1 billion",
+        "2025 approved refund volume (baseline)": "~AED 754 million",
+        "Effective on": "All VAT-refund applications submitted on or after 1 January 2026",
+        "Newly eligible categories": "Staff quarters (watchmen / drivers / domestic workers), home gyms, game rooms, integrated smart-home and security systems, smart and electronic doors (home + garage), swimming pools, fountains, decorative indoor water features, landscaping, complete home reconstruction (demolish + rebuild), fixtures and fittings",
+        "Eligibility": "UAE nationals constructing a new residence; features must be part of the same plot and connected to the main residence; for primary family use only",
+        "Implementation": "FTA digital VAT-refund platform updated; awareness sessions at district councils across the UAE"
+      },
+      "links": [
+        {
+          "label": "Gulf News — UAE expands VAT refunds for citizens building new homes in 2026 (09-Jun-2026)",
+          "url": "https://gulfnews.com/business/property/uae-expands-vat-refunds-for-citizens-building-new-homes-in-2026-1.500568203"
+        },
+        {
+          "label": "Khaleej Times — Dh25,000 savings per claim: FTA expands scope for VAT refund for UAE citizens",
+          "url": "https://www.khaleejtimes.com/business/dh25000-savings-per-claim-fta-expands-scope-for-vat-refund-for-uae-citizens"
+        },
+        {
+          "label": "Zawya — FTA to expand scope of expenses eligible for VAT refunds for UAE nationals constructing new residences",
+          "url": "https://www.zawya.com/en/press-release/companies-news/fta-to-expand-scope-of-expenses-eligible-for-vat-refunds-for-uae-nationals-constructing-new-residences-wzj1ac5d"
+        },
+        {
+          "label": "FTA — VAT refund for UAE nationals building new residences (service page)",
+          "url": "https://tax.gov.ae/en/services/vat.refund.for.uae.nationals.homebuilders.aspx"
+        }
+      ],
+      "explainer": {
+        "tagline": "FTA blesses pools, landscaping, smart-home gear and full demolish-and-rebuild as VAT-refundable for Emirati homebuilders — ~AED 25K per claim, AED 1B+ refund book this year.",
+        "whatIsIt": "The Federal Tax Authority announced on 2026-06-09 that it has expanded the eligible-expense scope of the UAE-nationals new-home VAT refund. Previously the refund was limited to the core 'shell' of construction; the updated list now covers staff quarters for watchmen/drivers/domestic workers, home gyms and game rooms, integrated smart-home and security systems, electronic and smart doors (home and garage), swimming pools and fountains, decorative indoor water features, landscaping, and complete demolition-and-rebuild. The change reaches back to all claims filed on or after 1 January 2026.",
+        "howItWorks": "FTA quantifies the additional annual savings at AED 200 million (~AED 25,000 average per claim) and now projects total 2026 approved refund volume above AED 1 billion, versus ~AED 754 million in 2025 — i.e. the expansion materially upshifts the refund book in the same year it's announced. To claim, the works must serve the primary residence on the same plot and be for family use, with documentation routed through the updated FTA digital VAT-refund platform; awareness sessions are being rolled out at district councils across the UAE. Director-General HE Abdulaziz Al Mulla anchored the move to the 'Year of Family' frame, positioning it as both stimulus to the residential-construction sector and direct fiscal support for citizens.",
+        "whyItMatters": "Dubai is where most high-end Emirati self-build activity actually happens (Al Barsha South, Nad Al Sheba, Al Khawaneej, Mirdif, Nadd Al Hamar plot clusters), so the bulk of the AED 1B refund book and the AED 200M of new savings will flow through Dubai contractors, landscapers, pool/smart-home installers and architects. For owners already partway through a self-build, the smart-home, pool, and landscape categories were the largest 'unrecovered VAT' line items — that's now closed. For developers selling shell-and-core villa plots, this is a downstream demand tailwind. For comp-trackers, the refund expansion partially offsets the post-March 2026 cooling narrative for the villa segment.",
+        "forWho": "Emirati self-builders and their family architects, Dubai villa-plot developers, landscape and pool contractors, smart-home and security integrators, tax advisers servicing UAE-national clients, brokers selling Al Barsha South / Nad Al Sheba / Mirdif / Al Khawaneej plot inventory.",
+        "tryIt": "https://tax.gov.ae/en/services/vat.refund.for.uae.nationals.homebuilders.aspx"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-06-09%2Fz1y2r8un%2FImage-2.jpeg?w=480&auto=format%2Ccompress&fit=max",
+        "alt": "Gulf News hero — UAE families to save an average of Dh25,000 per VAT-refund claim as FTA expands eligible categories for Emirati homebuilders (09-Jun-2026)",
+        "fit": "cover",
+        "credit": "Gulf News"
+      },
+      "publishDate": "2026-06-09T13:05:31.815Z"
+    },
+    {
+      "id": "dubai-gfh-octo-uae-ksa-logistics-industrial-platform-usd-300m-jun-9-2026",
+      "categories": [
+        "commercial",
+        "market"
+      ],
+      "title": "GFH × Octo sign USD 300M UAE + Saudi Arabia logistics-and-industrial real-estate platform — GFH (~USD 24B AUM) acts as investment manager and development partner, target stack covers large-format warehousing, multi-let industrial, cold storage and distribution centres",
+      "org": "GFH Bank / Octo Management Consultancies (Jekaterina Cernova, founder) / GFH Managing Director Luay Ahmadi",
+      "date": "2026-06-09",
+      "url": "https://tradearabia.com/news/463479/GFH%2c-Octo-in-deal-to-develop-%24300m-logistics-and-industrial-platform",
+      "summary": "GFH Bank and Octo Management Consultancies signed an MoU on 2026-06-09 (at the St Petersburg International Economic Forum) to co-develop a USD 300M logistics-and-industrial real-estate platform across the UAE and Saudi Arabia. GFH will act as investment manager and development partner; the platform targets large-format warehousing, multi-let industrial assets, cold storage and distribution centres, on both build-to-suit and speculative basis. GFH currently manages ~USD 24B in assets and funds across GCC, US and Europe.",
+      "tags": [
+        "GFH",
+        "GFH Bank",
+        "GFH Partners",
+        "Octo Management",
+        "logistics",
+        "industrial",
+        "warehousing",
+        "cold storage",
+        "distribution centres",
+        "SPIEF",
+        "Saint Petersburg",
+        "UAE",
+        "KSA",
+        "MoU",
+        "build-to-suit"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "UAE",
+        "KSA",
+        "INDUSTRIAL"
+      ],
+      "metrics": {
+        "Announcement date": "2026-06-09",
+        "Announcement venue": "2026 Saint Petersburg International Economic Forum",
+        "Counterparties": "GFH Bank (Bahrain-listed; Dubai-based GFH Partners as real-estate arm) and Octo Management Consultancies (founded by Jekaterina Cernova)",
+        "Platform headline size": "USD 300 million",
+        "Geography": "UAE and Kingdom of Saudi Arabia",
+        "GFH role": "Investment manager and development partner",
+        "Asset stack": "Large-format warehousing, multi-let industrial assets, cold-storage facilities, distribution centres",
+        "Build mode": "Build-to-suit and speculative developments",
+        "Demand drivers cited": "e-commerce expansion, supply-chain localisation, manufacturing growth, GCC infrastructure investment",
+        "GFH AUM (group-level)": "~USD 24 billion across GCC, US and Europe",
+        "GFH key quote": "Luay Ahmadi, Managing Director — 'strengthens GFH's position as a leading regional developer'",
+        "Octo key quote": "Jekaterina Cernova, founder — platform offers 'access to high-quality logistics and industrial opportunities in the UAE and Saudi Arabia'"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — GFH, Octo in deal to develop $300m logistics and industrial platform (09-Jun-2026)",
+          "url": "https://tradearabia.com/news/463479/GFH%2c-Octo-in-deal-to-develop-%24300m-logistics-and-industrial-platform"
+        },
+        {
+          "label": "GDN Online — UAE Business: GFH, Octo in deal to develop $300m logistics and industrial platform",
+          "url": "https://www.gdnonline.com/Details/1397136/GFH%2c-Octo-in-deal-to-develop-%24300m-logistics-and-industrial-platform"
+        },
+        {
+          "label": "GFH Partners — corporate site",
+          "url": "https://gfhpartners.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "GFH × Octo plant a USD 300M UAE+KSA flag on the industrial-and-logistics-real-estate trade — build-to-suit and speculative, with Dubai's warehousing/cold-storage stack squarely on the target list.",
+        "whatIsIt": "GFH Bank — the Bahrain-listed group whose Dubai-based GFH Partners arm has been one of the more active GCC industrial/logistics allocators of the last 24 months — signed a strategic MoU on 2026-06-09 with Octo Management Consultancies (founded by Jekaterina Cernova) to develop a USD 300M logistics-and-industrial real-estate platform across the UAE and Saudi Arabia. GFH will act as investment manager and development partner. The asset target stack is large-format warehousing, multi-let industrial, cold-storage facilities and distribution centres, executed via both build-to-suit and speculative-development structures. The MoU was signed on the sidelines of the 2026 Saint Petersburg International Economic Forum.",
+        "howItWorks": "USD 300M as a platform-level commitment is meaningful but not enormous on its own; the read is more about positioning than scale. GFH frames its group AUM at ~USD 24B across GCC, US and Europe, so the platform plugs into a wider real-estate book that already includes the GFH Partners' USD 300M US industrial-and-logistics fund and prior GCC industrial deployments. For Dubai specifically, the obvious target sub-markets are DIP, Jebel Ali Free Zone, Dubai South / EZDubai, National Industries Park and Al Quoz light-industrial — the same corridors where Aldar Logistics and Cushman & Wakefield reports flag the tightest vacancy and the strongest rent traction. Build-to-suit is the lower-risk leg; the speculative leg is the call on the e-commerce-plus-localisation thesis Octo flagged. Diligence checks for any operator looking to participate: confirm the deployment cadence, the LP profile, the fund structure (sukuk-friendly?), the speculative-vs-BTS split, and how Saudi assets will be domiciled vis-à-vis UAE assets.",
+        "whyItMatters": "Industrial-and-logistics real estate has been the consensus 'next-leg' Dubai trade as the residential side cools — vacancy in DIP / JAFZA / Dubai South is single-digit, rents have re-rated double-digits over the last 18 months, and JLL Q1 2026 explicitly called industrial/logistics 'resilient' alongside Dubai's softening hospitality print. A fresh USD 300M institutional platform sized to UAE+KSA adds another well-funded competitor to that bid, which both validates the trade for existing owners and tightens the asset-supply pipeline for would-be new entrants. The cross-border UAE+KSA framing also signals that institutional capital is increasingly underwriting the Gulf as one industrial real-estate market, not two — relevant for any Dubai owner with KSA expansion optionality.",
+        "forWho": "Dubai industrial-and-logistics landlords sizing 2026 cap-rate compression, institutional LPs looking for Gulf industrial exposure, brokers active in DIP / JAFZA / Dubai South / National Industries Park, build-to-suit tenant reps, cold-chain operators benchmarking pipeline, and analysts tracking the GFH Partners platform book.",
+        "tryIt": "https://gfhpartners.com/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/09/TA_20260609134215.webp",
+        "alt": "GFH Bank and Octo Management Consultancies sign USD 300M UAE+KSA logistics-and-industrial platform MoU at the 2026 St Petersburg International Economic Forum",
+        "fit": "cover",
+        "credit": "TradeArabia / GFH"
+      },
+      "publishDate": "2026-06-09T13:05:31.815Z"
+    },
+    {
+      "id": "dubai-dld-jun-8-2026-daily-print-aed-1-33b-offplan-73-2-percent",
+      "categories": [
+        "market",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-06-08: AED 1.33B with off-plan back to 73.2% — off-plan flats AED 716.4M lead, off-plan commercial AED 141.2M anchors the day, ready flats AED 248.4M holds",
+      "org": "The Real Estate Reports",
+      "date": "2026-06-08",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jun-2026",
+      "summary": "Dubai's first Monday of week 24 (2026-06-08) closes at AED 1.33B in DLD freehold transactions. Off-plan rebounds to 73.2% (AED 972.4M) versus ready at 26.8% (AED 356.2M). Off-plan flats book AED 716.4M (73.7% of off-plan), off-plan commercial AED 141.2M and off-plan villas AED 75.5M complete the off-plan side. Ready flats hold AED 248.4M (69.7% of ready), ready villas AED 91.2M, ready commercial AED 12.8M.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan",
+        "ready",
+        "flats",
+        "villas",
+        "commercial",
+        "hotel apartments",
+        "week 24"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Print date": "2026-06-08 (Monday, week 24)",
+        "Total": "AED 1.33B",
+        "Off-plan share": "73.2% (AED 972.4M)",
+        "Ready share": "26.8% (AED 356.2M)",
+        "Off-plan flats": "AED 716.4M (73.7% of off-plan)",
+        "Off-plan commercial": "AED 141.2M (14.5% of off-plan)",
+        "Off-plan villas": "AED 75.5M (7.8% of off-plan)",
+        "Off-plan hotel apartments + rooms": "AED 39.3M (4.0% of off-plan)",
+        "Ready flats": "AED 248.4M (69.7% of ready)",
+        "Ready villas": "AED 91.2M (25.6% of ready)",
+        "Ready commercial": "AED 12.8M (3.6% of ready)",
+        "Ready hotel apartments + rooms": "AED 3.8M (1.1% of ready)",
+        "Scope": "DLD freehold transactions only",
+        "Prior trading day (2026-06-05, Friday)": "AED 1.38B"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai market review 09-Jun-2026 (covers 2026-06-08 tape)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jun-2026"
+        },
+        {
+          "label": "DLD week 23 (Jun 1-7) weekly recap",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-weekly-market-analysis-08-jun-2026-bed4"
+        }
+      ],
+      "explainer": {
+        "tagline": "Week 24 opens at AED 1.33B with off-plan back at 73.2% — flats keep doing the work, off-plan commercial AED 141M holds the office-rotation thread that has run through every recent tape.",
+        "whatIsIt": "The Real Estate Reports' read of the Monday 2026-06-08 DLD freehold tape (the first trading day of week 24, immediately after the week-23 weekly recap also published the same day). Total clears at AED 1.33B with off-plan at 73.2% (AED 972.4M) and ready at 26.8% (AED 356.2M). Off-plan flats dominate inside off-plan at AED 716.4M (73.7%), with off-plan commercial at AED 141.2M (14.5%), off-plan villas at AED 75.5M (7.8%) and off-plan hotel apartments + rooms at AED 39.3M (4.0%) rounding out the off-plan side. Ready flats lead the ready side at AED 248.4M (69.7%) with ready villas AED 91.2M (25.6%), ready commercial AED 12.8M (3.6%) and ready hotel apartments + rooms AED 3.8M (1.1%).",
+        "howItWorks": "Two read-throughs from the breakdown. (1) Off-plan share rebuilding to 73.2% is the highest off-plan-share daily print since the AED 1.43B / 69.8% 2026-06-04 tape — the post-Eid recovery is now visibly off-plan-led, and inside off-plan the flats-vs-villas spread (10:1) is widening. (2) Off-plan commercial at AED 141.2M is the rotation thread investors should keep tracking — every recent daily print has carried a AED 90M-200M off-plan commercial line, which underwrites the Samana Business Hub / 1970 Office Tower / Sweid One JLT theses already on this feed. Ready flats at AED 248.4M is a comparatively soft post-Eid number; ready villas AED 91M continues to outpace off-plan villas, in line with week 23's weekly composition.",
+        "whyItMatters": "Daily DLD prints are how brokers and lenders track whether each post-event recovery is structural or noise. AED 1.33B with off-plan above 70% on the first Monday after Eid Al Adha tells you the off-plan rotation has held its post-event share and that ready-flat liquidity hasn't snapped back to pre-Eid pace — exactly the asymmetry sellers of ready apartments should be planning around. For the operator: off-plan launches still clear, ready-apartment listings still need a sharper price/narrative than they did in March/April.",
+        "forWho": "Dubai brokers calibrating off-plan vs ready listing mix on a per-day cadence, lenders tracking weekly LTV-book exposure, off-plan developers timing fresh launches into a recovering tape, ready-apartment owners deciding when to cut, commercial-asset investors watching the off-plan office rotation.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jun-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/06ac6299-4338-4677-bf02-8d03a22e06f2/pexels-rasul70-36201622.jpg",
+        "alt": "Dubai DLD daily print 2026-06-08 — AED 1.33B with off-plan back at 73.2% led by off-plan flats AED 716M",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-06-09T13:05:31.815Z"
+    },
     {
       "id": "dubai-naia-island-aed-560m-80k-sqft-beachfront-sothebys-jun-8-2026",
       "categories": [

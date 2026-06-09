@@ -4587,6 +4587,61 @@
         "market-data-comps",
         "auction-distress"
       ]
+    },
+    {
+      "id": "sweep-20260609t130531z",
+      "timestamp": "2026-06-09T13:05:31.815Z",
+      "source": "github-actions-sweep",
+      "summary": "Three verified additions for 2026-06-09: the FTA's VAT-refund expansion for Emirati homebuilders (AED 200M annual savings, AED 25K/claim, AED 1B 2026 refund book), GFH × Octo's USD 300M UAE+KSA logistics/industrial platform announced at SPIEF, and the post-Eid Monday DLD daily print at AED 1.33B with off-plan back to 73.2%.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-uae-fta-vat-refund-expansion-emirati-homebuilders-aed-200m-jun-9-2026",
+          "title": "UAE Federal Tax Authority expands VAT-refund scope for Emirati homebuilders — AED 200M of fresh annual savings, ~AED 25K average per claim, total 2026 refund book projected over AED 1B (vs AED 754M in 2025)",
+          "category": "legal",
+          "note": "Added under legal."
+        },
+        {
+          "id": "dubai-gfh-octo-uae-ksa-logistics-industrial-platform-usd-300m-jun-9-2026",
+          "title": "GFH × Octo sign USD 300M UAE + Saudi Arabia logistics-and-industrial real-estate platform — GFH (~USD 24B AUM) acts as investment manager and development partner, target stack covers large-format warehousing, multi-let industrial, cold storage and distribution centres",
+          "category": "commercial",
+          "note": "Added under commercial."
+        },
+        {
+          "id": "dubai-dld-jun-8-2026-daily-print-aed-1-33b-offplan-73-2-percent",
+          "title": "Dubai DLD daily print 2026-06-08: AED 1.33B with off-plan back to 73.2% — off-plan flats AED 716.4M lead, off-plan commercial AED 141.2M anchors the day, ready flats AED 248.4M holds",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "legal",
+        "commercial",
+        "developer",
+        "luxury",
+        "ready",
+        "offplan",
+        "rental",
+        "distress",
+        "auction"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
