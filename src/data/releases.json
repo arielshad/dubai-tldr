@@ -1,8 +1,164 @@
 {
-  "generatedAt": "2026-06-10T00:38:08.537Z",
+  "generatedAt": "2026-06-10T13:10:48.273Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-9-2026-daily-print-aed-1-10b-offplan-66-2-percent",
+      "categories": [
+        "market",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-06-09: AED 1.10B with off-plan at 66.2% — off-plan flats AED 605.4M lead, ready flats AED 239.4M holds the secondary engine",
+      "org": "The Real Estate Reports",
+      "date": "2026-06-09",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-10-jun-2026",
+      "summary": "Dubai's Tuesday 2026-06-09 freehold tape clears at AED 1.10B. Off-plan at 66.2% (AED 725.1M) versus ready at 33.8% (AED 370.4M). Off-plan flats book AED 605.4M (83.5% of off-plan), off-plan commercial AED 47.0M, off-plan villas AED 42.5M, off-plan hotel apartments + rooms AED 29.8M. Ready flats hold AED 239.4M (64.6% of ready), ready villas AED 75.6M, ready hotel apartments + rooms AED 33.2M, ready commercial AED 22.2M.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan",
+        "ready",
+        "flats",
+        "villas",
+        "commercial",
+        "hotel apartments",
+        "week 24"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Print date": "2026-06-09 (Tuesday, week 24)",
+        "Total": "AED 1.10B",
+        "Off-plan share": "66.2% (AED 725.1M)",
+        "Ready share": "33.8% (AED 370.4M)",
+        "Off-plan flats": "AED 605.4M (83.5% of off-plan)",
+        "Off-plan commercial": "AED 47.0M (6.5% of off-plan)",
+        "Off-plan villas": "AED 42.5M (5.9% of off-plan)",
+        "Off-plan hotel apartments + rooms": "AED 29.8M (4.1% of off-plan)",
+        "Ready flats": "AED 239.4M (64.6% of ready)",
+        "Ready villas": "AED 75.6M (20.4% of ready)",
+        "Ready hotel apartments + rooms": "AED 33.2M (9.0% of ready)",
+        "Ready commercial": "AED 22.2M (6.0% of ready)",
+        "Scope": "DLD freehold transactions only",
+        "Prior trading day (2026-06-08, Monday)": "AED 1.33B"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai market review 10-Jun-2026 (covers 2026-06-09 tape)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-10-jun-2026"
+        },
+        {
+          "label": "Prior daily print — 2026-06-08 (AED 1.33B, off-plan 73.2%)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jun-2026"
+        }
+      ],
+      "explainer": {
+        "tagline": "Week 24's Tuesday tape steps down to AED 1.10B as off-plan share fades to 66.2% — off-plan flats still doing the work but the commercial rotation thread thins versus Monday's AED 141M print.",
+        "whatIsIt": "The Real Estate Reports' read of the Tuesday 2026-06-09 DLD freehold tape, published 10-Jun-2026. Total prints at AED 1.10B versus Monday's AED 1.33B, with off-plan share easing 7 points from 73.2% to 66.2% (AED 725.1M) and ready rebuilding to 33.8% (AED 370.4M). Inside off-plan, flats own 83.5% of the day at AED 605.4M; off-plan commercial cools sharply to AED 47.0M (vs Monday's AED 141.2M), off-plan villas hold at AED 42.5M and off-plan hotel apartments + rooms book AED 29.8M. Ready flats lead the ready side at AED 239.4M (64.6%), ready villas at AED 75.6M, ready hotel apartments + rooms AED 33.2M, ready commercial AED 22.2M.",
+        "howItWorks": "Two operator reads. (1) The Mon→Tue step-down (AED 1.33B → AED 1.10B, -17%) is in line with the typical week-24 pattern from prior 2026 prints — Monday usually anchors the tape, Tuesday lightens. The drop is concentrated in off-plan commercial (-AED 94M) which had been the rotation thread propping recent days; without a fresh tower-cluster booking, that line normalises into the AED 40-50M range. (2) Ready-side composition matters: ready flats at AED 239.4M is the softest ready-flat print of the week-24 sequence so far, while ready villas at AED 75.6M outpaces off-plan villas (AED 42.5M) — the villa demand picture is still ready-biased and that's the asymmetry sellers of off-plan villa stock need to underwrite. Cross-check daily breakdowns at the DLD eservices portal and the DXBinteract dashboard before sizing any specific area or building.",
+        "whyItMatters": "Daily DLD prints are how brokers and lenders track whether the post-Eid recovery is structural or noise. AED 1.10B with off-plan above 66% on Tuesday tells you the off-plan rotation is still holding above a 60% floor (the threshold below which broker chatter starts switching to 'rotation breaking'), but commercial off-plan can't carry the tape on its own — flats are doing 83% of the off-plan work this day. For owners of ready apartments, the ready-flat softening into AED 239M is worth a re-mark conversation; for off-plan villa marketers, the persistent ready-villa premium says don't price into the AED 1M+ end without a real handover-date edge.",
+        "forWho": "Dubai brokers calibrating per-day off-plan vs ready listing mix, lenders tracking weekly LTV-book exposure, off-plan developers timing fresh launches, ready-apartment owners deciding when to cut, commercial-asset investors watching the off-plan office rotation thread.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-10-jun-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/116cfac7-559d-457a-88aa-962d7b138c7b/pexels-katetrysh-27206539__4_.jpg",
+        "alt": "Dubai DLD daily print 2026-06-09 — AED 1.10B with off-plan at 66.2% led by off-plan flats AED 605M",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-06-10T13:10:48.273Z"
+    },
+    {
+      "id": "dubai-holding-cbd-home-finance-nakheel-meraas-dubai-properties-jun-10-2026",
+      "categories": [
+        "developer",
+        "ready",
+        "offplan",
+        "market"
+      ],
+      "title": "Dubai Holding Real Estate × Commercial Bank of Dubai launch home-financing programme — third bank-partnership channel for Nakheel, Meraas and Dubai Properties; financing unlocks from 30% construction once buyer hits 50% payment",
+      "org": "Dubai Holding Real Estate / Commercial Bank of Dubai (CBD)",
+      "date": "2026-06-10",
+      "url": "https://tradearabia.com/News/463514/Dubai-Holding-Real-Estate%2c-CBD-launch-home-financing-programme",
+      "summary": "Dubai Holding Real Estate and Commercial Bank of Dubai sign a home-financing partnership covering off-plan and completed villas and apartments across Nakheel, Meraas and Dubai Properties. Eligible buyers can access financing from the 30% construction stage once they have reached the 50% payment threshold. Programme offers both fixed and variable rates, conventional and Islamic options, digital pre-approval for salaried buyers and simplified documentation for self-employed / SME applicants — extending the bank-partnership channel already opened with Emirates NBD (off-plan mortgage rail, Apr 2026) and ADIB (Sharia dual-track, May 2026).",
+      "tags": [
+        "Dubai Holding Real Estate",
+        "Commercial Bank of Dubai",
+        "CBD",
+        "Nakheel",
+        "Meraas",
+        "Dubai Properties",
+        "home finance",
+        "mortgage",
+        "off-plan",
+        "completed",
+        "30% construction",
+        "50% payment threshold",
+        "Khalid Al Malik",
+        "Bernd van Linder",
+        "digital pre-approval",
+        "Islamic finance"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DH",
+        "CBD"
+      ],
+      "metrics": {
+        "Announcement date": "2026-06-10",
+        "Lender": "Commercial Bank of Dubai (CBD)",
+        "Developer counterparty": "Dubai Holding Real Estate (DHRE)",
+        "Eligible developer brands": "Nakheel, Meraas, Dubai Properties",
+        "Eligible property types": "Off-plan and completed villas and apartments",
+        "Eligible buyers": "UAE Nationals and residents — salaried and self-employed (incl. SME / entrepreneur)",
+        "Early-financing trigger": "From 30% construction stage once buyer has met 50% payment threshold",
+        "Rate options": "Fixed and variable",
+        "Product tracks": "Conventional and Shari'ah-compliant Islamic finance",
+        "Salaried-buyer onboarding": "Digital pre-approval, faster turnaround",
+        "Self-employed onboarding": "Simplified documentation, flexible eligibility framework",
+        "Banking benefit overlay": "CBD Elite banking privileges for qualifying customers",
+        "DHRE CEO quote (Khalid Al Malik)": "Enabling access to home ownership at the right point in the purchase journey is a priority for Dubai Holding Real Estate.",
+        "CBD CEO quote (Dr Bernd van Linder)": "Customers today want more than financing. They want clarity, efficiency and trusted guidance.",
+        "Prior DHRE bank partnerships": "Emirates NBD (off-plan mortgage rail, Apr 2026); ADIB (Sharia dual-track, 25-yr terms, May 2026); CBD is the third counterparty"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai Holding Real Estate, CBD launch home financing programme (10-Jun-2026)",
+          "url": "https://tradearabia.com/News/463514/Dubai-Holding-Real-Estate%2c-CBD-launch-home-financing-programme"
+        },
+        {
+          "label": "Gulf News — Dubai Holding Real Estate and CBD launch new home financing programme (10-Jun-2026)",
+          "url": "https://gulfnews.com/business/property/dubai-homebuyers-get-new-mortgage-option-for-nakheel-and-meraas-homes-1.500569512"
+        },
+        {
+          "label": "Zawya — DHRE × CBD home financing programme press release (10-Jun-2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/dubai-holding-real-estate-and-commercial-bank-of-dubai-launch-home-financing-programme-agphvsjy"
+        },
+        {
+          "label": "Prior DHRE × ADIB Sharia dual-track partnership (18-May-2026)",
+          "url": "https://gdnonline.com/details/1395084"
+        }
+      ],
+      "explainer": {
+        "tagline": "Third bank joins Dubai Holding's home-finance rail — CBD adds conventional + Islamic conventional/variable tracks across Nakheel, Meraas, Dubai Properties, with early-access from 30% construction once buyer hits 50% paid.",
+        "whatIsIt": "Dubai Holding Real Estate (the residential arm covering Nakheel, Meraas and Dubai Properties masterplans) signs Commercial Bank of Dubai as its third named bank counterparty in two months. The programme covers off-plan and completed villas and apartments across all three developer brands, with both UAE Nationals and residents eligible — salaried and self-employed, including SME owners and entrepreneurs. Conventional and Shari'ah-compliant tracks are both available, with fixed and variable rate options. The signature feature: eligible buyers can access mortgage financing from the 30% construction stage once they have reached the 50% payment threshold, materially earlier than the typical handover-only financing window. Salaried customers get digital pre-approval; self-employed customers get simplified documentation and a flexible eligibility framework. CBD Elite banking privileges overlay for qualifying customers.",
+        "howItWorks": "Three pieces matter operationally. (1) The 30%-construction / 50%-payment early-financing trigger is the same mechanism Emirates NBD's April 2026 off-plan mortgage rail introduced — mortgage capacity unlocked mid-construction rather than at handover. CBD now offers the same lever on the conventional side, with an Islamic option. (2) The conventional + Islamic dual track in a single bank partnership is more flexible than the ADIB tie-up (which is Sharia-only with up to 25-year terms); CBD competes directly on rate (preferential fixed/variable) and documentation friction (digital pre-approval). (3) The self-employed / SME framework is the genuinely differentiated piece — most Dubai mortgage rails are still salary-anchored; CBD widening the eligibility envelope here addresses a real gap for entrepreneur buyers in the Nakheel/Meraas/Dubai Properties payment-plan stock. Action steps: prospective buyers should compare CBD's preferential rate quote against Emirates NBD and ADIB on like-for-like terms before committing; brokers selling DHRE inventory should now have three lender quotes ready by default rather than one.",
+        "whyItMatters": "Each additional bank partnership on Dubai Holding's developer-credit channel reduces the 'financing depends on which bank you bank with' friction that has historically slowed mid-construction conversions in Nakheel/Meraas/Dubai Properties projects. With CBD added to Emirates NBD (off-plan rail) and ADIB (Sharia dual-track), DHRE buyers now have three named counterparties on the credit side — a meaningful competitive set that previously didn't exist on this side of the developer market. For end-users, it means earlier rate certainty; for self-employed buyers, it means real eligibility instead of marketing copy; for the secondary market, it means liquidity into completed-handover stock improves as banks underwrite earlier in the construction cycle.",
+        "forWho": "Buyers under offer on Nakheel / Meraas / Dubai Properties stock comparing financing options, self-employed entrepreneurs who have been declined elsewhere, brokers building three-lender quote packs for DHRE inventory, secondary sellers benchmarking liquidity for ready Nakheel/Meraas units, mortgage advisers running rate comp tables.",
+        "tryIt": "https://tradearabia.com/News/463514/Dubai-Holding-Real-Estate%2c-CBD-launch-home-financing-programme"
+      },
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/2604115f-8a62-4a4d-b0d5-14bf3b2ccc5c/0/dhreandcbdsigningceremony-jpg.webp",
+        "alt": "Dubai Holding Real Estate and Commercial Bank of Dubai executives at the home-financing partnership signing ceremony (10-Jun-2026)",
+        "fit": "cover",
+        "credit": "Dubai Holding Real Estate / CBD"
+      },
+      "publishDate": "2026-06-10T13:10:48.273Z"
+    },
     {
       "id": "dubai-agbi-rally-fades-buyers-discounts-bayut-jll-jun-9-2026",
       "categories": [

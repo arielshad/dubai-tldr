@@ -4685,6 +4685,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260610t131048z",
+      "timestamp": "2026-06-10T13:10:48.273Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-10 sweep adds two cards inside the 72h window: the 2026-06-09 DLD freehold daily print (AED 1.10B, off-plan 66.2%) and the 2026-06-10 Dubai Holding Real Estate × Commercial Bank of Dubai home-financing partnership for Nakheel, Meraas and Dubai Properties — extending the bank-partnership channel already opened with Emirates NBD and ADIB.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-9-2026-daily-print-aed-1-10b-offplan-66-2-percent",
+          "title": "Dubai DLD daily print 2026-06-09: AED 1.10B with off-plan at 66.2% — off-plan flats AED 605.4M lead, ready flats AED 239.4M holds the secondary engine",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-holding-cbd-home-finance-nakheel-meraas-dubai-properties-jun-10-2026",
+          "title": "Dubai Holding Real Estate × Commercial Bank of Dubai launch home-financing programme — third bank-partnership channel for Nakheel, Meraas and Dubai Properties; financing unlocks from 30% construction once buyer hits 50% payment",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "developer",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
