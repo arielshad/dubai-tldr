@@ -4642,6 +4642,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260610t003808z",
+      "timestamp": "2026-06-10T00:38:08.537Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh 2026-06-09 Dubai-property reads emerge as the dominant net-new signal in the 72h window: AGBI's Shruthi Nair surfaces the first hard 'buyer's-edge' read of the cooling — up to 20% off ask in some pockets, 5% Bayut+dubizzle listing-price decline, 35% secondary-market deal drop, JLL-cited 11% YoY March transaction fall, 80K+ 2026 handovers, LTV revised 70:30→80:20 — quoted across Bayut/Dubizzle, Pride and Property, Palladium, Merlin and Aarna brokers; The National's Mario Volpi anchors the macro frame with S&P UAE PMI prints (52.9 Mar / 52.6 May / 55.0 Feb) and argues slower launch cadence is responsible developer behavior, not danger. Empty-sweep guard held — Villa Gaia / Dh280M follow-up (Gulf News 08-Jun) confirmed as a re-report of the existing May-25 entry; DWTC AED 25B 2025 economic-output release (June 9) skipped as MICE-retrospective rather than a current property opportunity.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-agbi-rally-fades-buyers-discounts-bayut-jll-jun-9-2026",
+          "title": "AGBI / Bayut+Dubizzle / JLL Jun-9 read: Dubai property rally fades as buyers secure up-to-20% discounts — 5% listing-price softness, 35% secondary-deal drop, 11% YoY March transaction fall, 80K+ 2026 handovers, LTV bumped back to 80:20",
+          "category": "distress",
+          "note": "First AGBI cross-source confirmation of a buyer-side negotiation edge with five brokerages + JLL + Bayut/Dubizzle data — actionable for active buyers, sellers and brokers right now; complements the existing AGBI 01-Jun bubbles piece and the 09-Jun Volpi macro frame."
+        },
+        {
+          "id": "dubai-the-national-volpi-pmi-launches-iran-war-jun-9-2026",
+          "title": "The National × Mario Volpi (Eva Real Estate) Jun-9 read: UAE launch cadence slowdown is responsible-developer behavior, not danger — anchors PMI 52.9 Mar (4-year low) → 52.6 May vs 55.0 Feb, calls fundamentals intact",
+          "category": "market",
+          "note": "Cleanest macro frame published in the 72h window for the post-March launch-cadence slowdown — anchored in the S&P UAE PMI series rather than broker sentiment; pairs with the AGBI buyer-discount piece as the demand-side / supply-side read."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "distress",
+        "lead",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

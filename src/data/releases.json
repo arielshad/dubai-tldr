@@ -1,8 +1,178 @@
 {
-  "generatedAt": "2026-06-09T13:05:31.815Z",
+  "generatedAt": "2026-06-10T00:38:08.537Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-agbi-rally-fades-buyers-discounts-bayut-jll-jun-9-2026",
+      "categories": [
+        "distress",
+        "market",
+        "lead"
+      ],
+      "title": "AGBI / Bayut+Dubizzle / JLL Jun-9 read: Dubai property rally fades as buyers secure up-to-20% discounts — 5% listing-price softness, 35% secondary-deal drop, 11% YoY March transaction fall, 80K+ 2026 handovers, LTV bumped back to 80:20",
+      "org": "AGBI (Shruthi Nair) / Bayut + Dubizzle (Matt Gregory) / Pride and Property (Nitin Chauhan) / Palladium Group (Ahmad Al Shammari) / Merlin Real Estate (Rohit Bachani) / Aarna Real Estate (Harneet Singh) / JLL",
+      "date": "2026-06-09",
+      "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-property-rally-fades-as-buyers-secure-discounts/",
+      "summary": "AGBI publishes the first hard 'buyer's-edge' read of the Dubai cooling on 2026-06-09: up-to-20% off-ask in select pockets, ~5% Bayut+dubizzle listing-price softening, 35% drop in secondary-market deals, 11% YoY March transaction fall (JLL), 15–20% corrections in select tourist-heavy districts (Downtown, Marina), 80,000+ 2026 handovers still ahead, mortgage LTV revised back from 70:30 to 80:20. JVC and Arabian Ranches flagged as comparatively resilient.",
+      "tags": [
+        "AGBI",
+        "Shruthi Nair",
+        "Bayut",
+        "Dubizzle",
+        "Matt Gregory",
+        "Pride and Property",
+        "Nitin Chauhan",
+        "Palladium Group",
+        "Ahmad Al Shammari",
+        "Merlin Real Estate",
+        "Rohit Bachani",
+        "Aarna Real Estate",
+        "Harneet Singh",
+        "JLL",
+        "buyer's market",
+        "discount",
+        "listing price",
+        "secondary market",
+        "LTV",
+        "handover pipeline",
+        "Downtown",
+        "Marina",
+        "JVC",
+        "Arabian Ranches"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DOWNTOWN",
+        "MARINA",
+        "JVC",
+        "RANCHES"
+      ],
+      "metrics": {
+        "Publication date": "2026-06-09 07:35",
+        "Publisher": "AGBI (Arabian Gulf Business Insight)",
+        "Byline": "Shruthi Nair",
+        "Top-line off-ask discount": "Up to 20% in some Dubai areas",
+        "Bayut + Dubizzle listing-price softening": "~5% average",
+        "Secondary-market deal drop": "35%",
+        "March 2026 transaction decline (YoY, JLL)": "-11%",
+        "Select-pocket correction": "15–20%",
+        "Historical context (2022-2025)": "Properties rose ~60% cumulatively",
+        "2026 handover pipeline": "80,000+ units",
+        "Mortgage LTV recalibration": "Bumped back to 80:20 from 70:30",
+        "Tourist-heavy weakness": "Downtown Dubai and Dubai Marina",
+        "Resilient communities cited": "JVC, Arabian Ranches",
+        "Brokers quoted": "Matt Gregory (Bayut/Dubizzle), Nitin Chauhan (Pride and Property), Ahmad Al Shammari (Palladium), Rohit Bachani (Merlin), Harneet Singh (Aarna)",
+        "Data partners cited": "Bayut + Dubizzle listing analytics, JLL transaction data"
+      },
+      "links": [
+        {
+          "label": "AGBI — Dubai property rally fades as buyers secure discounts (09-Jun-2026)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-property-rally-fades-as-buyers-secure-discounts/"
+        },
+        {
+          "label": "AGBI — The bubbles of Dubai real estate and where they are (companion, 01-Jun-2026)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/the-bubbles-of-dubai-real-estate-and-where-they-are/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First hard 'buyer's-edge' print of the Dubai cooling — up-to-20% off-ask, ~5% listing softness, 35% secondary-deal drop, JLL-cited 11% YoY March fall, with JVC and Ranches the resilient corners.",
+        "whatIsIt": "AGBI's 2026-06-09 read by Shruthi Nair stitches Bayut+Dubizzle listing analytics, JLL transaction data and quotes from five separate Dubai brokerages (Bayut/Dubizzle, Pride and Property, Palladium, Merlin, Aarna) into the first cross-source confirmation that buyers — not sellers — now hold negotiating leverage in pockets of the market. The piece names the corrections (up-to-20% off ask in select areas, ~5% softening on portal listings, 35% drop in secondary-market deals, an 11% YoY decline in March transactions per JLL, 15–20% pocket corrections in tourist-heavy districts), the resilience (JVC, Arabian Ranches), and a key financing tailwind (mortgage LTV recalibrated back to 80:20 from a tightened 70:30 during the spring stress phase).",
+        "howItWorks": "Mechanically: the up-to-20% off-ask number is a negotiation ceiling, not an average — most Bayut+Dubizzle data suggests ~5% on listing prices is the typical re-mark. The 35% secondary-deal collapse is the magnitude that matters for sellers facing forced exits, because it implies depth at the bid side is materially thinner than in 2024-25 — auction-style execution becomes more likely. The 80,000+ 2026 handover pipeline frames the supply-side overhang: with completed inventory still landing through year-end, ready-segment ask has the most cushion to give. The 80:20 LTV restoration partly counterbalances the demand-side weakness — buyers with ≤20% equity who paused in March can re-enter, especially in JVC, Damac Hills 2, Town Square and other ≤AED 2M end-user corridors. Action: verify exact listing-vs-comp spread on DLD daily-print + DXB Interact before opening a negotiation; benchmark each tower's 2024-vs-2026 ask trajectory before assuming 'cooling' applies; confirm lender's actual LTV ceiling vs the headline cap.",
+        "whyItMatters": "This is the first AGBI piece that names the cooling in operational terms — discount-from-ask, not just index-level price softness — and gets corroboration from five competing brokerages plus two independent data partners. For active buyers, that means asking 10–15% off well-positioned ready stock in tourist-heavy areas (Downtown, Marina) is now defensible negotiation, not a low-ball. For sellers, it formalises the choice: re-price to clear or hold through the 80K-handover wave. For brokers, it validates negotiation-led pitching over scarcity-led pitching. The 'resilient' communities flag (JVC, Arabian Ranches) is also actionable — those are the ≤AED 2M end-user pockets to lean into for buyers who don't want a falling-knife risk profile.",
+        "forWho": "Dubai cash buyers timing entry into ready stock, mortgage buyers re-running LTV math after the 80:20 restoration, sellers deciding whether to re-price or hold, brokers building negotiation comps for Downtown/Marina vs JVC/Ranches pitches, fund managers benchmarking the off-plan vs ready cooling divergence, and journalists tracking the 2026 'first hard buyer's-edge' narrative.",
+        "tryIt": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-property-rally-fades-as-buyers-secure-discounts/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/06/dubai-property.jpg?resize=800%2C450&crop_strategy=smart",
+        "alt": "AGBI hero — established residential communities such as Jumeirah Village Circle have proven comparatively resilient as Dubai's property market fluctuates (09-Jun-2026)",
+        "fit": "cover",
+        "credit": "AGBI"
+      },
+      "author": {
+        "name": "Shruthi Nair",
+        "handle": "AGBI"
+      },
+      "publishDate": "2026-06-10T00:38:08.537Z"
+    },
+    {
+      "id": "dubai-the-national-volpi-pmi-launches-iran-war-jun-9-2026",
+      "categories": [
+        "market",
+        "media"
+      ],
+      "title": "The National × Mario Volpi (Eva Real Estate) Jun-9 read: UAE launch cadence slowdown is responsible-developer behavior, not danger — anchors PMI 52.9 Mar (4-year low) → 52.6 May vs 55.0 Feb, calls fundamentals intact",
+      "org": "The National / Mario Volpi (Senior Investment Manager, Eva Real Estate)",
+      "date": "2026-06-09",
+      "url": "https://www.thenationalnews.com/business/money/2026/06/09/uae-property-have-launches-slowed-down-because-of-the-iran-war/",
+      "summary": "On 2026-06-09 The National runs Mario Volpi's market column anchoring the post-March launch slowdown narrative to concrete S&P UAE PMI prints (52.9 Mar — weakest in nearly four years, 52.6 May, vs 55.0 Feb). Argues developer caution is responsible behavior during the Iran-war disruption window, not a structural weakness — fundamentals on most developers still intact, solid developers 'still in the driving seat' regardless of launch timing.",
+      "tags": [
+        "The National",
+        "Mario Volpi",
+        "Eva Real Estate",
+        "PMI",
+        "S&P Global",
+        "UAE PMI",
+        "Iran war",
+        "launch cadence",
+        "developer behavior",
+        "tourism",
+        "retail",
+        "logistics",
+        "construction",
+        "responsible-developer",
+        "market commentary"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "UAE",
+        "PMI"
+      ],
+      "metrics": {
+        "Publication date": "2026-06-09 05:28 (Gulf time)",
+        "Publisher": "The National (UAE)",
+        "Byline": "Mario Volpi, Senior Investment Manager, Eva Real Estate",
+        "S&P UAE PMI Feb 2026": "55.0",
+        "S&P UAE PMI Mar 2026": "52.9 (weakest pace in ~4 years)",
+        "S&P UAE PMI Apr 2026": "52.1",
+        "S&P UAE PMI May 2026": "52.6 (recovery in train)",
+        "Most-affected sectors in March": "Tourism, retail, logistics",
+        "Construction sector descriptor": "Softer but still feeling a notable impact",
+        "Volpi key claim": "Slower launches reflect responsible developer behavior, not danger",
+        "Volpi developer view": "Fundamentals on most developers still there; solid developers 'still in the driving seat'"
+      },
+      "links": [
+        {
+          "label": "The National — Have launches slowed down because of the Iran war? (09-Jun-2026)",
+          "url": "https://www.thenationalnews.com/business/money/2026/06/09/uae-property-have-launches-slowed-down-because-of-the-iran-war/"
+        },
+        {
+          "label": "S&P Global — UAE PMI series",
+          "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease"
+        }
+      ],
+      "explainer": {
+        "tagline": "Volpi anchors the launch slowdown to PMI not panic — UAE PMI 52.9 Mar (4-year low) → 52.6 May, fundamentals intact, calls developer caution responsible behavior.",
+        "whatIsIt": "Mario Volpi (Senior Investment Manager at Eva Real Estate) writes The National's 2026-06-09 column to answer the question buyers and brokers keep asking out loud: have UAE property launches actually slowed because of the Iran war? He says yes — and that's the right behavior, not a danger signal. The piece anchors the macro frame in the S&P Global UAE PMI series: 55.0 in February, dropped to 52.9 in March (weakest pace in nearly four years), 52.1 in April, recovered to 52.6 in May. Tourism, retail and logistics took the biggest March hit; construction is described as softer but still feeling 'a notable impact'.",
+        "howItWorks": "PMI 52.x is still in expansion (50 is the inflection), so the read is 'growth slowed, not stopped' — consistent with what Property Finder April and Bayut Day-58 prints have shown on the demand side. Volpi's argument: earlier in the year developers were 'launching something every other week' and absorption was 'astonishingly fast'; once March shocked the macro tape, the right response is to pause new product, let the existing books clear, and not flood a paused buyer with launch saturation. The recovery in May PMI (and the well-documented Property Finder/Bayut April rebounds) lines up with his view that the pause is window-shaped, not structural. Action: treat the launch-quiet stretch as a buying-window indicator for tier-1 developer inventory still on the market rather than a 'developer in trouble' tell; cross-check any specific developer's pipeline against their Q1 2026 backlog disclosure (Emaar AED 134.6B, Binghatti AED 52B, Damac AED 50B+) before assuming weakness.",
+        "whyItMatters": "Most of the May-June 2026 cooling narrative is operational (Bayut/AGBI/Khaleej Times broker quotes about negotiation room); this Volpi piece is the cleanest macro frame published in the 72h window, tying the launch-cadence slowdown to a measurable PMI series rather than a vibe. For buyers, it reinforces the AGBI buyer's-edge read — the pause is real, and the negotiation window is open. For developers, it documents the responsible-pause narrative in print, useful for investor calls and lender conversations. For analysts, it gives a citable macro anchor that doesn't depend on broker sentiment.",
+        "forWho": "Buyers timing entry into existing tier-1 inventory, brokers framing the 'responsible pause' narrative to clients, developers writing investor updates, analysts looking for a non-sentiment macro anchor, and journalists rolling forward the cooling-without-collapse story.",
+        "tryIt": "https://www.thenationalnews.com/business/money/2026/06/09/uae-property-have-launches-slowed-down-because-of-the-iran-war/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/6CZX4ZXVO5GHVKBP7LAAHLPG5U.jpg?smart=true&auth=e7b93e509261e279635d02c8decffa600ca27e6a4664651407c10e8143fe3046&width=400&height=225",
+        "alt": "The National hero — Downtown Dubai skyline as the emirate sees a slowdown in new property launches (09-Jun-2026)",
+        "fit": "cover",
+        "credit": "Chris Whiteoak / The National"
+      },
+      "author": {
+        "name": "Mario Volpi",
+        "handle": "The National"
+      },
+      "publishDate": "2026-06-10T00:38:08.537Z"
+    },
     {
       "id": "dubai-uae-fta-vat-refund-expansion-emirati-homebuilders-aed-200m-jun-9-2026",
       "categories": [
