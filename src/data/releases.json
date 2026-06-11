@@ -1,8 +1,148 @@
 {
-  "generatedAt": "2026-06-11T00:39:27.295Z",
+  "generatedAt": "2026-06-11T13:16:35.278Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-emaar-aed-200b-megaproject-150k-residents-4-5m-sqm-jun-11-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Emaar teases AED 200B Dubai mega-masterplan — 4.5M sqm GFA, ~150K residents, 5 character zones, 20-minute city with Burj Khalifa, Burj Al Arab and Palm Jumeirah views",
+      "org": "Emaar Properties / The National",
+      "date": "2026-06-11",
+      "url": "https://www.thenationalnews.com/business/property/2026/06/11/emaar-to-launch-dh200bn-megaproject-in-dubai-set-to-house-150000-people/",
+      "summary": "Emaar Properties signalled an imminent unveiling of an AED 200B (USD 54.4B) urban masterplan spanning >4.5M sqm of built-up area for ~150,000 residents across five character zones — a business hub, urban district, young-families cluster, family-living zone and an exclusive villa enclave — built around the 20-minute city principle with metro connectivity, swimmable lagoons and a central district park. Founder Mohamed Alabbar called it 'our most extraordinary dream yet'; the project's name and precise Dubai location remain undisclosed.",
+      "tags": [
+        "Emaar",
+        "Mohamed Alabbar",
+        "mega-masterplan",
+        "AED 200B",
+        "150K residents",
+        "20-minute city",
+        "five zones",
+        "ultra-luxury villas",
+        "Grade-A offices",
+        "metro connectivity"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "EMAAR",
+        "DXB"
+      ],
+      "metrics": {
+        "Headline value": "AED 200B (~USD 54.4B)",
+        "Built-up area": "> 4.5M sqm GFA",
+        "Target residents": "~150,000",
+        "Zones": "5 (business hub, urban, young families, family living, exclusive villas)",
+        "Design principle": "20-minute city",
+        "Villas": "5–6 BR villas + mansions",
+        "Views": "Burj Khalifa, Burj Al Arab, Palm Jumeirah",
+        "Status": "Teaser; unveiling 'imminent', name + location undisclosed",
+        "Emaar Q1 2026 backlog": "AED 163.4B revenue backlog",
+        "Dubai Holding ownership": "29.73% post May 2026 transfer"
+      },
+      "links": [
+        {
+          "label": "The National — Emaar Dh200bn megaproject",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/11/emaar-to-launch-dh200bn-megaproject-in-dubai-set-to-house-150000-people/"
+        },
+        {
+          "label": "Khaleej Times — Dh200 billion project, 150K residents",
+          "url": "https://www.khaleejtimes.com/uae/emaar-to-launch-dh200-billion-project-in-dubai-housing-150000-residents"
+        },
+        {
+          "label": "Gulf News — Dh200B masterplan teaser",
+          "url": "https://gulfnews.com/business/property/emaar-to-unveil-dh200-billion-dubai-masterplan-for-150000-residents-1.500570733"
+        },
+        {
+          "label": "TradeArabia — AED200bn destination",
+          "url": "https://tradearabia.com/News/463561/Emaar-to-unveil-masterplan-for-AED200bn-destination/LIFE"
+        }
+      ],
+      "explainer": {
+        "tagline": "Emaar's biggest-ever Dubai land bet — AED 200B, 150K residents, 4.5M sqm across five zones — teased ahead of an imminent full unveil.",
+        "whatIsIt": "Emaar's founder Mohamed Alabbar pre-announced what the developer says is its 'most extraordinary' masterplan yet — an integrated AED 200B (~USD 54.4B) urban district built around the 20-minute city principle with five zones, swimmable lagoons, a grand boulevard, retail high street, schools, healthcare, mosques and cultural spaces. Project name and location are still under wraps, but the masterplan promises views of Burj Khalifa, Burj Al Arab and Palm Jumeirah from selected residences.",
+        "howItWorks": "The development spans >4.5M sqm of GFA and is sized for ~150,000 residents across a business hub, urban district, young-families cluster, family-living zone and an exclusive villa enclave featuring 5- and 6-BR villas and mansions. Emaar is leaning on its own delivery record — Q1 2026 already posted AED 20.1B in sales and AED 163.4B of revenue backlog — and on Dubai Holding's 29.73% strategic ownership to underwrite the size and timeline. Operators should expect a phased rollout with launch pricing, payment plans and an EOI window once the full unveil drops.",
+        "whyItMatters": "A single AED 200B masterplan is a bigger commitment than the 250 projects (AED 75B total) Dubai has greenlit across all developers in the first five months of 2026, so it materially resets the city's 2027–2030 supply curve and re-anchors prime/branded benchmarks. For buyers, this becomes the comp set for new ultra-luxury villa enclaves and Grade-A office towers, and for sellers in adjacent masterplans (Downtown, Dubai Hills, Creek Harbour) it puts pricing tension on resale stock once launch prices are public.",
+        "forWho": "Off-plan buyers tracking flagship developer launches; brokers running ultra-luxury villa mandates; commercial occupiers eyeing fresh Grade-A inventory; resale owners in adjacent Emaar/Meraas master communities reading exit-path pressure.",
+        "tryIt": "https://properties.emaar.com/en/latest-launches/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/OAAR5MLGLZ4RL7YQRRSW57WV3M.jpg?smart=true&auth=3406445fd84c9b83a43c6126f9ba997204548bcec6d9a210836f53ecd6703bdd&width=400&height=225",
+        "alt": "Emaar's AED 200B Dubai mega-masterplan teaser — mixed-use district with high-end residential, commercial and waterfront amenities",
+        "fit": "cover",
+        "credit": "Jeffrey E Biteng / The National"
+      },
+      "publishDate": "2026-06-11T13:16:35.278Z"
+    },
+    {
+      "id": "dubai-dld-jun-10-2026-daily-print-aed-1-49b-offplan-56-6-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-10: AED 1.49B with off-plan easing to 56.6% — off-plan flats AED 605.2M lead, ready flats AED 426.7M anchors as ready share rebuilds to 43.4%",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-06-10",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-11-jun-2026",
+      "summary": "Dubai's 2026-06-10 DLD tape printed AED 1.49B total transacted value — AED 846.0M off-plan (56.6%) and AED 648.3M ready (43.4%). Off-plan flats led at AED 605.2M (71.5% of off-plan) with commercial AED 156.4M, villas AED 58.3M and hotel apt/rooms AED 25.7M; ready flats anchored at AED 426.7M (65.8%) plus ready commercial AED 116.9M, villas AED 74.3M and hotel rooms AED 30.4M. The day softens after the AED 1.10B Jun-9 print and reads as continued post-Eid normalisation with apartments doing the heavy lifting on both sides.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan 56.6%",
+        "AED 1.49B",
+        "apartments lead",
+        "ready rebuilds",
+        "commercial 18%",
+        "Jun 10 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-06-10",
+        "Total transacted value": "AED 1.49B",
+        "Off-plan share": "56.6% (AED 846.0M)",
+        "Ready share": "43.4% (AED 648.3M)",
+        "Off-plan flats": "AED 605.2M (71.5% of off-plan)",
+        "Off-plan commercial": "AED 156.4M (18.5%)",
+        "Off-plan villas": "AED 58.3M (6.9%)",
+        "Off-plan hotel apt/rooms": "AED 25.7M (3.0%)",
+        "Ready flats": "AED 426.7M (65.8% of ready)",
+        "Ready commercial": "AED 116.9M (18.0%)",
+        "Ready villas": "AED 74.3M (11.5%)",
+        "Ready hotel apt/rooms": "AED 30.4M (4.7%)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Jun 11 review (Jun 10 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-11-jun-2026"
+        },
+        {
+          "label": "DLD official transactions page",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD tape steps up to AED 1.49B on 2026-06-10 even as off-plan share softens to 56.6% — apartments lead both books, ready share rebuilds to 43.4%.",
+        "whatIsIt": "The Real Estate Reports' Jun-11 daily review summarises Dubai's 2026-06-10 DLD print: AED 1.49B of total transacted value with off-plan at AED 846.0M (56.6%) and ready at AED 648.3M (43.4%). Apartments dominate both segments — off-plan flats at AED 605.2M and ready flats at AED 426.7M — while commercial holds a steady ~18% share on both sides.",
+        "howItWorks": "Off-plan stack: flats AED 605.2M (71.5%), commercial AED 156.4M (18.5%), villas AED 58.3M (6.9%), hotel apt/rooms AED 25.7M (3.0%). Ready stack: flats AED 426.7M (65.8%), commercial AED 116.9M (18.0%), villas AED 74.3M (11.5%), hotel apt/rooms AED 30.4M (4.7%). The Jun-10 day prints higher than Jun-9's AED 1.10B but with off-plan share down ~9.6 ppt, signalling buyers leaning back into ready-flat product as Eid-window distortions fade.",
+        "whyItMatters": "Tape continues to clear well above AED 1B/day even on a softer off-plan share, which keeps the 'rally fades but volume holds' narrative alive after the AGBI/Bayut Jun-9 read. For operators, the AED 426.7M ready-flat day is the largest single-segment readout of the week so far and points to where end-user activity is concentrating; for off-plan sellers, the AED 605.2M flats print confirms primary apartments are still the cleanest exit. Commercial holding ~18% share on both sides matches the broader Q1 2026 office-pricing pulse.",
+        "forWho": "Brokers calibrating ready-flat ask prices, off-plan resale operators reading primary-vs-secondary spread, market analysts tracking post-Eid normalisation.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e0dc03a2-bb09-4d20-b72e-46b1534101c4/pexels-aj-ahamad-767001191-30554306.jpg",
+        "alt": "Dubai DLD daily print 2026-06-10 — AED 1.49B with off-plan easing to 56.6% as apartments lead both off-plan and ready books",
+        "fit": "cover",
+        "credit": "AJ Ahamad / The Real Estate Reports"
+      },
+      "publishDate": "2026-06-11T13:16:35.278Z"
+    },
     {
       "id": "dubai-ahs-properties-shangri-la-aed-1-1b-mismak-szr-ahs-city-aed-25b-jun-10-2026",
       "categories": [

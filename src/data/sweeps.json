@@ -4771,6 +4771,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260611t131635z",
+      "timestamp": "2026-06-11T13:16:35.278Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-11 sweep adds two verified items: Emaar's teaser of an AED 200B / 4.5M sqm 'most ambitious' Dubai mega-masterplan for ~150K residents (5 zones, 20-minute city, Burj Khalifa/Burj Al Arab/Palm views), and the DLD daily print for 2026-06-10 (AED 1.49B with off-plan easing to 56.6% as ready rebuilds to 43.4%). Portal and luxury surfaces scanned cleanly with no incremental signal beyond what's already in the feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-emaar-aed-200b-megaproject-150k-residents-4-5m-sqm-jun-11-2026",
+          "title": "Emaar teases AED 200B Dubai mega-masterplan — 4.5M sqm GFA, ~150K residents, 5 character zones, 20-minute city with Burj Khalifa, Burj Al Arab and Palm Jumeirah views",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-dld-jun-10-2026-daily-print-aed-1-49b-offplan-56-6-percent",
+          "title": "Dubai DLD daily print 2026-06-10: AED 1.49B with off-plan easing to 56.6% — off-plan flats AED 605.2M lead, ready flats AED 426.7M anchors as ready share rebuilds to 43.4%",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
