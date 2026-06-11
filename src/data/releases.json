@@ -1,8 +1,189 @@
 {
-  "generatedAt": "2026-06-10T13:10:48.273Z",
+  "generatedAt": "2026-06-11T00:39:27.295Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-ahs-properties-shangri-la-aed-1-1b-mismak-szr-ahs-city-aed-25b-jun-10-2026",
+      "categories": [
+        "luxury",
+        "commercial",
+        "developer",
+        "lead"
+      ],
+      "title": "AHS Properties × Mismak: AED 1.1B Shangri-La Hotel takeover on Sheikh Zayed Road — biggest SZR hospitality trade of 2026, +57% over 2020, AED 25B 'AHS City' Dubai Water Canal launch teed up for Q3",
+      "org": "AHS Properties / Mismak Asset Management",
+      "date": "2026-06-10",
+      "url": "https://www.thenationalnews.com/business/property/2026/06/10/developer-ahs-buys-shangri-la-hotel-in-dubai-and-plans-to-launch-new-dh25bn-project-this-year/",
+      "summary": "AHS Properties (Abbas Sajwani) buys the Shangri-La Hotel on Sheikh Zayed Road from Abu Dhabi-based Mismak Asset Management for AED 1.1B (USD 272M / USD 300M cited by CoStar) — 42-43 floors, 200m tall, ~1M sqft of hotel + serviced apartments + offices + F&B, completed 2003. Trade prints +57% above the 2020 Dh700.2M online-auction sale (Al Jaber Group debt recovery), the first prime SZR hospitality trade since the US-Iran regional flare-up. AHS confirms a Q3 2026 launch of 'AHS City' — an AED 25B (USD 6.81B) mixed-use plot on the Dubai Water Canal with offices, residential and a hotel — pushing portfolio toward AED 50B by year-end.",
+      "tags": [
+        "AHS Properties",
+        "Abbas Sajwani",
+        "Shangri-La",
+        "Mismak",
+        "Sheikh Zayed Road",
+        "Dubai Water Canal",
+        "AHS City",
+        "AHS Tower",
+        "hospitality",
+        "trophy asset",
+        "branded residence",
+        "Mr C Residences",
+        "AED 1.1B",
+        "AED 25B"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB",
+        "SZR",
+        "DOWNTOWN"
+      ],
+      "metrics": {
+        "Announcement date": "2026-06-10",
+        "Buyer": "AHS Properties (Abbas Sajwani, 26)",
+        "Seller": "Mismak Asset Management (Abu Dhabi-based, FAB-linked)",
+        "Sale price": "AED 1.1B (~USD 272M; CoStar cites ~USD 300M)",
+        "Asset": "Shangri-La Hotel Dubai — mixed-use tower",
+        "Height": "200 m / 42-43 floors",
+        "GBA": "~1,000,000 sqft (~93,000 sqm)",
+        "Components": "Hotel + serviced/residential apartments + offices + F&B",
+        "Year completed": "2003",
+        "Prior trade (2020)": "AED 700.2M (online auction, Al Jaber Group debt recovery)",
+        "Implied 6yr appreciation": "+57% vs 2020 sale",
+        "AHS prior SZR deal": "Big Ben tower → AHS Tower, USD 120M, opening Q1 2027",
+        "AHS Tower sales booked to date": "USD 700M+",
+        "Upcoming launch": "AHS City — AED 25B (USD 6.81B), Q3 2026, Dubai Water Canal / SZR",
+        "AHS City scope": "Offices + residential + hotel on 'one of the biggest plots on SZR'",
+        "Portfolio target end-2026": "AED 50B GDV",
+        "Operator continuity": "Shangri-La Group hotel management retained — no guest disruption",
+        "Context — Dubai Q1 2026 transactions": "AED 252B (+31% YoY); foreign investment AED 148.35B"
+      },
+      "links": [
+        {
+          "label": "The National — Developer AHS buys Shangri-La hotel and plans Dh25bn project (Jun 10, 2026)",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/10/developer-ahs-buys-shangri-la-hotel-in-dubai-and-plans-to-launch-new-dh25bn-project-this-year/"
+        },
+        {
+          "label": "Gulf News — Shangri-La sold for Dh1.1B as Sheikh Zayed Road values surge",
+          "url": "https://gulfnews.com/business/property/dubais-shangri-la-sold-for-dh11b-as-sheikh-zayed-road-property-values-soar-1.500569191"
+        },
+        {
+          "label": "Khaleej Times — AHS Properties buys Dubai's Shangri-La Hotel for Dh1.1 billion",
+          "url": "https://www.khaleejtimes.com/business/ahs-properties-buys-dubais-shangri-la-hotel-for-dh11-billion"
+        },
+        {
+          "label": "Zawya — AHS Properties to announce $7bn mega project on SZR",
+          "url": "https://www.zawya.com/en/projects/construction/dubais-ahs-properties-to-announce-7bn-mega-project-on-sheikh-zayed-road-report-j7ihqv22"
+        },
+        {
+          "label": "CBNME — AHS Properties plants its flag on SZR with AED 1.1B Shangri-La takeover",
+          "url": "https://www.cbnme.com/news/ahs-properties-plants-its-flag-on-sheikh-zayed-road-with-dhs1-1bn-shangri-la-takeover/"
+        },
+        {
+          "label": "CoStar — Shangri-La Hotel Dubai sells for ~$300M",
+          "url": "https://www.costar.com/article/1541565646/shangri-la-hotel-dubai-sells-for-300-million"
+        }
+      ],
+      "explainer": {
+        "tagline": "AHS Properties drops AED 1.1B on the 42-floor Shangri-La SZR tower and teases an AED 25B Water Canal mega-launch — Dubai's first prime hospitality trade of 2026 prints +57% over the 2020 auction.",
+        "whatIsIt": "On Jun-10-2026 AHS Properties confirmed it has acquired the Shangri-La Hotel on Sheikh Zayed Road from Abu Dhabi-based Mismak Asset Management (a First Abu Dhabi Bank-linked vehicle) for AED 1.1B (~USD 272M; CoStar reports ~USD 300M). The asset is a 42-43-floor, ~200m-tall mixed-use tower completed in 2003 spanning ~1M sqft GBA — hotel, serviced/residential apartments, offices and F&B. Shangri-La Group retains the hotel management contract, so guest operations continue uninterrupted. AHS Properties — led by 26-year-old founder Abbas Sajwani, recently named Forbes' youngest billionaire in global real estate — also disclosed that 'AHS City', a new AED 25B (USD 6.81B) mixed-use plot on the Dubai Water Canal / SZR, will be launched in Q3 2026, taking its portfolio GDV toward AED 50B by year-end.",
+        "howItWorks": "Three lines for operators. (1) Price-track: the AED 1.1B clip prints +57% above the 2020 Dh700.2M online-auction sale (Al Jaber Group debt-recovery process) — call that a 7.8% CAGR through a Covid trough plus a 2024-25 boom plus the 2026 cooling, useful as a Sheikh Zayed Road 'trophy-corridor' anchor when underwriting other prime SZR mixed-use towers. (2) Scarcity thesis: Sajwani's quoted position is that 'there are no more lands on Sheikh Zayed Road' and the Shangri-La 'sits on land that will not be released again' — that's the rationale for paying ~AED 1,100/sqft on a hotel-led mixed asset versus today's ~AED 3,200K median ticket for commercial real estate (Cavendish Maxwell, Apr-May print). (3) Pipeline read: the teased AED 25B AHS City Q3 2026 launch is the largest single-developer commercial-led SZR drop of the year and a direct test of the AGBI / Cavendish Maxwell Q1 office print (AED 8.2B, +203% YoY) — if that absorption holds, AHS City pre-sales will set a fresh ceiling for SZR off-plan office and branded-residence pricing. Verify the transfer trail via the DLD eservices portal and Mismak's filings before sizing any comp.",
+        "whyItMatters": "This is the first prime Sheikh Zayed Road hospitality trade of 2026 and the largest hotel-anchored mixed-use trade in Dubai since the US-Iran flare-up. For prime owners, it's a fresh datapoint that institutional capital is still clearing trophy assets even at peak-corridor pricing, useful when re-marking your own SZR or Downtown holdings. For brokers, the AED 25B AHS City teaser opens a fresh primary-side mandate window on SZR/Water Canal — Q3 launch dates typically mean EOI and broker briefings within 6–8 weeks. For institutional buyers, it stands up the 'no new land on SZR' scarcity narrative with a concrete 1M-sqft trade, while also flagging seller-side execution risk: Mismak / FAB just monetised a prime asset into a cooling cycle, suggesting Abu Dhabi capital is rotating out of standalone Dubai hospitality. Diligence steps: verify Mismak transfer in DLD records, check hotel management contract length, confirm AHS City plot DLD registration before sizing pre-launch interest.",
+        "forWho": "SZR / Downtown / Water Canal trophy-asset owners re-marking, institutional capital underwriting prime Dubai hospitality and mixed-use, brokers chasing AHS City primary mandates, branded-residence operators benchmarking SZR pricing, hotel sponsors comparing Mismak-style exits, journalists tracking the post-Iran trophy-trade thaw.",
+        "tryIt": "https://www.thenationalnews.com/business/property/2026/06/10/developer-ahs-buys-shangri-la-hotel-in-dubai-and-plans-to-launch-new-dh25bn-project-this-year/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/JNPR3JZGMRBK3KTXGP2T4IFE4A.png?focal=1057%2C347&auth=d3cb4e0871ee29738993bcfee8fff2db212f721d5f5181e8d50c82b98bbd99ab&width=400&height=225",
+        "alt": "Shangri-La Hotel on Sheikh Zayed Road — Dubai's 42-floor mixed-use tower acquired by AHS Properties for AED 1.1B",
+        "fit": "cover",
+        "credit": "The National"
+      },
+      "publishDate": "2026-06-11T00:39:27.295Z"
+    },
+    {
+      "id": "dubai-agbi-cavendish-maxwell-q1-2026-office-aed-8-2b-3x-1600-deals-jun-10-2026",
+      "categories": [
+        "commercial",
+        "market",
+        "developer"
+      ],
+      "title": "AGBI × Cavendish Maxwell Q1 2026 Dubai office tape — 1,600 deals worth AED 8.2B (USD 2.2B), 3x YoY, sale prices +25% / rents +20%, top-5 locations >70% of volume",
+      "org": "AGBI / Cavendish Maxwell (Vidhi Shah)",
+      "date": "2026-06-10",
+      "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-office-transactions-triple-in-value/",
+      "summary": "AGBI's 10-Jun read of Cavendish Maxwell's Q1 2026 Dubai office tape: ~1,600 transactions worth AED 8.2B (USD 2.2B) — three times Q1 2025 — with sale prices +25% YoY, rents +20% YoY and the median commercial ticket at AED 3.2M (Apr-May). Top-5 locations (Al Sufouh 1, Business Bay, JLT, Barsha Heights, Deira) absorb >70% of Q1 transactions, while Jan-Feb did >80% of the deal volume before March slowed 10%+ YoY as the regional flare-up hit. Supply taps remain wide: 73,300 sqm delivered Q1, 240,000 sqm expected by year-end, total stock projected at 10.8M sqm by 2028; 775 new DIFC company registrations + the fully pre-leased DIFC Square keep occupancy demand grounded.",
+      "tags": [
+        "Cavendish Maxwell",
+        "AGBI",
+        "Q1 2026 office",
+        "Dubai commercial",
+        "DIFC",
+        "Business Bay",
+        "JLT",
+        "Al Sufouh 1",
+        "DIFC Square",
+        "Vidhi Shah",
+        "AED 8.2B",
+        "+25% prices",
+        "+20% rents"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DIFC",
+        "DXB-BB",
+        "JLT"
+      ],
+      "metrics": {
+        "Print date": "2026-06-10",
+        "Coverage period": "Q1 2026 (Jan-Mar)",
+        "Office transactions Q1 2026": "~1,600 deals",
+        "Total Q1 2026 office sales value": "AED 8.2B (USD 2.2B)",
+        "YoY growth": "+203% vs Q1 2025 (~3x)",
+        "Office sale prices YoY": "+25%",
+        "Office rents YoY": "+20%",
+        "Median commercial ticket (Apr-May 2026)": "AED 3.2M",
+        "Top-5 locations": "Al Sufouh 1, Business Bay, JLT, Barsha Heights, Deira",
+        "Top-5 share of Q1 transactions": ">70%",
+        "Jan-Feb 2026 share of Q1 volume": ">80%",
+        "March 2026 volume YoY": "-10%+",
+        "DIFC Q1 new-company registrations": "775",
+        "DIFC Square": "Fully pre-leased",
+        "DIFC rental growth": ">25% annually",
+        "Q1 2026 office supply delivered": "73,300 sqm",
+        "Expected delivery by year-end 2026": "240,000 sqm",
+        "Total stock 2028 (forecast)": "10.8M sqm"
+      },
+      "links": [
+        {
+          "label": "AGBI — Dubai office transactions triple in value (Jun 10, 2026)",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-office-transactions-triple-in-value/"
+        },
+        {
+          "label": "Prior 2026 office context — JLL Q1 office rent + vacancy print (May 25, 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-office-rents-surge-as-prime-space-shortage-tightens-market"
+        },
+        {
+          "label": "Prior 2026 office context — Dubai off-plan office April record AED 3B (May 8, 2026)",
+          "url": "https://economymiddleeast.com/news/dubai-records-highest-ever-monthly-off-plan-office-sales-at-817-million-in-april"
+        }
+      ],
+      "explainer": {
+        "tagline": "Cavendish Maxwell's Q1 office tape clears AED 8.2B across ~1,600 deals — three times last year — with Al Sufouh 1, Business Bay and JLT taking >70% of the volume.",
+        "whatIsIt": "AGBI's 10-Jun-2026 analysis of Cavendish Maxwell's Q1 2026 Dubai office market data, with commentary from Vidhi Shah. Q1 office transactions hit ~1,600 deals worth AED 8.2B (USD 2.2B) — a 3x YoY jump versus the ~AED 2.7B Q1 2025 base. Sale prices climbed +25% YoY and rents +20% YoY, with the median commercial real estate ticket landing at AED 3.2M across April-May. The top-5 locations — Al Sufouh 1, Business Bay, Jumeirah Lakes Towers, Barsha Heights and Deira — soaked up more than 70% of Q1 transactions, while January-February alone delivered >80% of Q1 deal volume before March cooled 10%+ YoY as the regional flare-up hit. Occupancy demand stays grounded by 775 new DIFC company registrations in the quarter and the fully pre-leased DIFC Square handover; supply taps remain wide with 73,300 sqm Q1 deliveries, 240,000 sqm expected by year-end and total stock forecast at 10.8M sqm by 2028.",
+        "howItWorks": "Three operator reads. (1) The +203% YoY value jump and +25% YoY sale-price tick is the cleanest validation yet that Dubai's commercial market priced through the March/April rate-tightening shock — institutions kept clearing tickets in DIFC, Business Bay and JLT even when the listings tape cooled. The AED 5.13M average per deal (AED 8.2B / 1,600) is a useful new comp anchor for marketing freshly fitted floors. (2) Concentration risk is real: with top-5 areas at >70% of Q1 deals, a single absorption stutter in Al Sufouh 1 / Business Bay / JLT could swing the whole tape — and the 10%+ March YoY drop in volume tells you the post-shock recovery has not fully spread to secondary submarkets like Bur Dubai, Deira and Barsha Heights. (3) Supply asymmetry: 240,000 sqm coming online by year-end against 73,300 sqm Q1 delivery means H2 2026 deliveries triple Q1 — fitted-out office sellers should lock in pricing now before the new stock prints, and tenants chasing fresh space should treat Q3-Q4 as the negotiation window. Cross-check unit pricing on Property Finder commercial-buy listings and DLD office-transaction filings before sizing any one comp.",
+        "whyItMatters": "Office is the cleanest Dubai cycle indicator right now: with residential rotating in narrative each week, commercial demand still tripling on the year tells you HQ-relocation flow into DIFC and Business Bay is structural — not a 2024 boom hangover. For corporate occupiers, it argues for getting heads-of-terms signed before H2 supply lands. For commercial owners in Al Sufouh 1, BB or JLT, the +25% price tick is the clearest re-mark signal of the quarter and supports refinancing requests above the prior loan-to-value envelope. For investors who missed the residential ride, the AED 3.2M median ticket and Cavendish Maxwell's 'demand fundamentals remain in place' line frame Q3 office launches (incl. AHS City on SZR) as the cleanest entry into Dubai prime in 2026. Verification: cross-check Cavendish Maxwell's underlying dataset, DLD office transactions, DIFC tenant registrations and Property Finder live commercial inventory before sizing exposure.",
+        "forWho": "Dubai commercial brokers re-marking listings, corporate occupiers locking H2 leases, institutional buyers underwriting Business Bay / DIFC / JLT towers, off-plan office sponsors timing fresh drops, commercial-asset lenders sizing LTV, journalists tracking the Dubai commercial cycle, REITs tracking absorption versus 2028 supply target.",
+        "tryIt": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-office-transactions-triple-in-value/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/06/Dubai-offices.jpg?resize=800%2C450&crop=0px%2C267px%2C2560px%2C1440px",
+        "alt": "Dubai office skyline with Burj Khalifa — Q1 2026 office transactions triple YoY to AED 8.2B per Cavendish Maxwell",
+        "fit": "cover",
+        "credit": "AGBI"
+      },
+      "publishDate": "2026-06-11T00:39:27.295Z"
+    },
     {
       "id": "dubai-dld-jun-9-2026-daily-print-aed-1-10b-offplan-66-2-percent",
       "categories": [

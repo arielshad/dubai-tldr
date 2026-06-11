@@ -4728,6 +4728,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260611t003927z",
+      "timestamp": "2026-06-11T00:39:27.295Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-11 sweep adds two fresh Dubai property prints from the past 24h: AHS Properties' AED 1.1B Shangri-La SZR takeover with a teased AED 25B AHS City launch (Sajwani signals AED 50B portfolio by year-end), and AGBI / Cavendish Maxwell's Q1 2026 Dubai office tape — 1,600 deals worth AED 8.2B, a 3x YoY jump.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-ahs-properties-shangri-la-aed-1-1b-mismak-szr-ahs-city-aed-25b-jun-10-2026",
+          "title": "AHS Properties × Mismak: AED 1.1B Shangri-La Hotel takeover on Sheikh Zayed Road — biggest SZR hospitality trade of 2026, +57% over 2020, AED 25B 'AHS City' Dubai Water Canal launch teed up for Q3",
+          "category": "luxury",
+          "note": "Seismic: first prime SZR hospitality trade of 2026 (AED 1.1B), +57% above 2020 auction, plus AED 25B AHS City teaser. Verified by The National, Gulf News, Khaleej Times, Zawya, CBNME, CoStar."
+        },
+        {
+          "id": "dubai-agbi-cavendish-maxwell-q1-2026-office-aed-8-2b-3x-1600-deals-jun-10-2026",
+          "title": "AGBI × Cavendish Maxwell Q1 2026 Dubai office tape — 1,600 deals worth AED 8.2B (USD 2.2B), 3x YoY, sale prices +25% / rents +20%, top-5 locations >70% of volume",
+          "category": "commercial",
+          "note": "Major fresh Q1 2026 Dubai office tape from Cavendish Maxwell — 1,600 deals worth AED 8.2B (3x YoY), +25% prices, +20% rents. Complements (does not duplicate) existing JLL Q1 rent print and April off-plan record."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "commercial",
+        "developer",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
