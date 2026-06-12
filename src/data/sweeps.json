@@ -4814,6 +4814,52 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260612t003945z",
+      "timestamp": "2026-06-12T00:39:45.477Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep adds two verified 2026-06-11 signals: Majid Al Futtaim's force-majeure invocation on parts of Tilal Al Ghaf (legal/distress signal for the wider Dubai off-plan book) and BlackBrick's AED 24.12M Hattan villa print, the first six-BR Meadows record above AED 24M and a read on established-community resilience.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-maf-tilal-al-ghaf-force-majeure-spa-iran-war-jun-11-2026",
+          "title": "Majid Al Futtaim notifies Tilal Al Ghaf buyers it is invoking force-majeure clauses on parts of the masterplan — Stonehaven flags ~25% input-cost jump since September, MAF says construction stays on schedule",
+          "category": "developer",
+          "note": "Verified Semafor exclusive 2026-06-11 with Yahoo Finance mirror; MAF rebuttal quoted. Sits at the intersection of Hard Rule 1 (no invented buyer-protection facts) and the buyer-action requirement: every off-plan buyer needs to know whether their developer has invoked force majeure. Materially changes timeline risk on a flagship Dubai masterplan."
+        },
+        {
+          "id": "dubai-blackbrick-hattan-meadows-aed-24-12m-six-br-villa-record-jun-11-2026",
+          "title": "BlackBrick books AED 24.12M six-BR Hattan villa sale in The Meadows — community record at a moment Matthew Bate calls 'quality, credibility and scarcity' over urgency",
+          "category": "luxury",
+          "note": "Single-transaction record framed by named brokers and CEO commentary, cross-checked via Zawya wire (TradingView mirror). Counter-signal to AGBI 'rally fades' read and to The Springs inventory build — useful pricing anchor for AED 20M+ Emirates Living mandates."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "legal",
+        "distress",
+        "offplan",
+        "luxury",
+        "ready",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

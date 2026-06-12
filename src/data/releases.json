@@ -1,8 +1,155 @@
 {
-  "generatedAt": "2026-06-11T13:16:35.278Z",
+  "generatedAt": "2026-06-12T00:39:45.477Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-maf-tilal-al-ghaf-force-majeure-spa-iran-war-jun-11-2026",
+      "categories": [
+        "developer",
+        "legal",
+        "distress",
+        "offplan"
+      ],
+      "title": "Majid Al Futtaim notifies Tilal Al Ghaf buyers it is invoking force-majeure clauses on parts of the masterplan — Stonehaven flags ~25% input-cost jump since September, MAF says construction stays on schedule",
+      "org": "Semafor / Majid Al Futtaim / Stonehaven",
+      "date": "2026-06-11",
+      "publishDate": "2026-06-12T00:39:45.477Z",
+      "url": "https://www.semafor.com/article/06/11/2026/dubai-developer-invokes-force-majeure-on-home-sales",
+      "summary": "Semafor reports MAF has begun notifying Tilal Al Ghaf buyers it is invoking SPA force-majeure clauses tied to the post-2026-02-28 Iran war — a move that, if upheld, suspends the 6–12 month delay-compensation rails Dubai off-plan buyers rely on. MAF disputes the characterisation, says construction continues 'in line with the established project schedule'.",
+      "tags": [
+        "force-majeure",
+        "tilal-al-ghaf",
+        "majid-al-futtaim",
+        "spa",
+        "off-plan",
+        "handover-risk",
+        "iran-war",
+        "stonehaven",
+        "supply-chain"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TILAL-AL-GHAF",
+        "DXB-OFFPLAN",
+        "DUBAILAND"
+      ],
+      "metrics": {
+        "Project": "Tilal Al Ghaf (Dubai)",
+        "Top ticket": "Mansions >USD 15M alongside investor units",
+        "Trigger": "Post-2026-02-28 Iran war supply-chain reroute",
+        "Material cost jump": "~25% since Sep 2025 (Stonehaven; aluminium, bitumen, copper, nickel)",
+        "Buyer protection at risk": "Standard 6–12 month delay-compensation in Dubai off-plan SPAs",
+        "MAF position": "'Construction continues in line with established project schedule and SPA terms'",
+        "Wider precedent": "Kuwait National Petroleum + QatarEnergy declared force majeure in Mar 2026",
+        "Date": "2026-06-11"
+      },
+      "links": [
+        {
+          "label": "Semafor — Dubai developer invokes force majeure on home sales",
+          "url": "https://www.semafor.com/article/06/11/2026/dubai-developer-invokes-force-majeure-on-home-sales"
+        },
+        {
+          "label": "Yahoo Finance mirror",
+          "url": "https://finance.yahoo.com/economy/policy/articles/dubai-developer-invokes-force-majeure-114313775.html"
+        },
+        {
+          "label": "Majid Al Futtaim — Tilal Al Ghaf",
+          "url": "https://www.majidalfuttaim.com/en/what-we-do/our-industries/brand/tilal-al-ghaf"
+        },
+        {
+          "label": "RERA Oqood + DLD escrow",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "image": {
+        "url": "https://img.semafor.com/c4ebe6fc37eecb3caa7e0b23cadd51882e5839a2-1920x1080.jpg?w=740&q=75&auto=format&h=416",
+        "alt": "Semafor hero — Majid Al Futtaim project rendering, illustrating the developer's Dubai pipeline as it invokes force-majeure clauses on parts of Tilal Al Ghaf (11-Jun-2026)",
+        "fit": "cover",
+        "credit": "Majid Al Futtaim / Semafor"
+      },
+      "explainer": {
+        "tagline": "Tilal Al Ghaf force-majeure notice flips the off-plan buyer-protection switch — and re-prices delay risk across every comparable Dubai SPA.",
+        "whatIsIt": "Semafor (with a Yahoo Finance mirror) reports that Majid Al Futtaim has begun sending 'some customers' at Tilal Al Ghaf force-majeure notifications under their Sale & Purchase Agreements, citing post-2026-02-28 Iran-war supply-chain disruption. MAF has publicly disputed the framing and says construction is still tracking the schedule and SPA terms. Tilal Al Ghaf is one of the largest active Dubai masterplans, mixing >USD 15M mansions with investor-grade units.",
+        "howItWorks": "Standard Dubai off-plan SPAs give the buyer compensation if handover slips 6–12 months past the registered date — invoking force majeure can pause that clock. Stonehaven estimates Gulf building-material costs are up ~25% since Sep 2025 (aluminium, bitumen, copper, nickel), Jebel-Ali-routed fit-out cargo is delayed, and subcontractors are withdrawing from new work. State energy companies (KNPC, QatarEnergy) set the macro precedent by declaring force majeure in Mar 2026.",
+        "whyItMatters": "If MAF's notice holds, every Dubai off-plan buyer underwriting a 2026–27 handover needs to re-read the force-majeure clause in their SPA and ask the developer for a written status on whether they have invoked or plan to invoke it. For investors leaning on rental income from the handover date, the timeline risk is now explicit, not theoretical. Sellers of partially-paid contracts should expect harder questions from secondary buyers about Oqood status and remaining payment exposure.",
+        "forWho": "Tilal Al Ghaf off-plan buyers, secondary-market investors holding any Dubai 2026–27 off-plan SPA, brokers handling assignments, lawyers structuring delay-compensation claims.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+      }
+    },
+    {
+      "id": "dubai-blackbrick-hattan-meadows-aed-24-12m-six-br-villa-record-jun-11-2026",
+      "categories": [
+        "luxury",
+        "ready",
+        "lead"
+      ],
+      "title": "BlackBrick books AED 24.12M six-BR Hattan villa sale in The Meadows — community record at a moment Matthew Bate calls 'quality, credibility and scarcity' over urgency",
+      "org": "BlackBrick Property / Zawya wire",
+      "date": "2026-06-11",
+      "publishDate": "2026-06-12T00:39:45.477Z",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-06-11:newsml_Zaw2ynDZ1:0-zawya-blackbrick-property-achieves-record-breaking-villa-sale-in-the-meadows-at-aed-24mln/",
+      "summary": "BlackBrick brokers Larissa Bradley and Franciska Balc closed a six-bedroom Hattan villa in The Meadows for AED 24.12M — a community record. CEO Matthew Bate frames the print as proof that mature Emirates Living sub-communities are pricing on 'mature landscaping, established amenities, strong connectivity and years of transaction history' while newer corridors soften.",
+      "tags": [
+        "meadows",
+        "hattan",
+        "emirates-living",
+        "luxury-villa",
+        "blackbrick",
+        "matthew-bate",
+        "ready",
+        "community-record"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MEADOWS",
+        "HATTAN",
+        "EMIRATES-LIVING",
+        "DXB-VILLAS"
+      ],
+      "metrics": {
+        "Sale price": "AED 24.12M (~USD 6.57M)",
+        "Property": "Six-bedroom Hattan villa, The Meadows",
+        "Sub-community": "Hattan (Lakes/Meadows villa cluster)",
+        "Brokers": "Larissa Bradley + Franciska Balc (BlackBrick Property)",
+        "Significance": "BlackBrick-recorded community high for The Meadows",
+        "BlackBrick read": "'Demand continues with greater buyer selectivity rather than urgency' — Matthew Bate, CEO",
+        "Soft pocket flagged": "The Springs — inventory has increased",
+        "Date": "2026-06-11"
+      },
+      "links": [
+        {
+          "label": "Zawya / Reuters wire — record Meadows villa sale at AED 24.12M",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-06-11:newsml_Zaw2ynDZ1:0-zawya-blackbrick-property-achieves-record-breaking-villa-sale-in-the-meadows-at-aed-24mln/"
+        },
+        {
+          "label": "BlackBrick Property",
+          "url": "https://www.blackbrickproperty.com/"
+        },
+        {
+          "label": "Bayut — Hattan villas for sale",
+          "url": "https://www.bayut.com/for-sale/villas/dubai/the-lakes/hattan/"
+        },
+        {
+          "label": "Property Finder — Meadows villas for sale",
+          "url": "https://www.propertyfinder.ae/en/buy/dubai/villas-for-sale-meadows.html"
+        }
+      ],
+      "image": {
+        "url": "https://images.bayut.com/thumbnails/840339207-400x300.jpeg",
+        "alt": "Hattan 3 villa exterior in The Meadows / Lakes — illustrative of the six-bedroom Hattan stock that hit a BlackBrick-recorded AED 24.12M community record on 11-Jun-2026",
+        "fit": "cover",
+        "credit": "Bayut listing image (illustrative — not the sold unit)"
+      },
+      "explainer": {
+        "tagline": "AED 24.12M Hattan villa: established-community premium pulling away from JVC/JVT softness as buyers price scarcity, not momentum.",
+        "whatIsIt": "BlackBrick Property booked an AED 24.12M sale on a six-bedroom Hattan villa in The Meadows, reported via a Zawya wire republished by Reuters/TradingView. It's a BlackBrick-recorded community high, brokered by Larissa Bradley and Franciska Balc. The transaction reads as a counterpoint to broader May/June softening in newer launch corridors and re-affirms Emirates Living as a relatively defensive sub-market.",
+        "howItWorks": "Hattan sits inside The Meadows / Lakes cluster — mature landscaping, walk-to-school catchments, and Emirates Hills adjacency. CEO Matthew Bate's commentary leans on 'qualities that cannot easily be replicated' — mature landscaping, established amenities, strong connectivity, and years of transaction history — to explain why he is seeing 'greater buyer selectivity rather than urgency'. He explicitly flags The Springs as softer because inventory there has grown.",
+        "whyItMatters": "For sellers in established Emirates Living sub-communities, this print supports holding firm on ask if the unit is fully renovated and in a tight pocket. For buyers, it argues against chasing trophies in newer launch corridors right now — capital is concentrating in proven catchments. Brokers should treat the AED 24M+ Hattan band as a viable mandate-pitch ceiling and stress-test pricing in The Springs and surrounding communities against rising inventory.",
+        "forWho": "Emirates Living sellers, ultra-prime villa brokers, family-end-user buyers, valuation/comp desks pricing mature villa stock.",
+        "tryIt": "https://www.bayut.com/for-sale/villas/dubai/the-lakes/hattan/"
+      }
+    },
     {
       "id": "dubai-emaar-aed-200b-megaproject-150k-residents-4-5m-sqm-jun-11-2026",
       "categories": [
