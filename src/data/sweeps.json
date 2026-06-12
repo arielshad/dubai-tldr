@@ -4860,6 +4860,76 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260612t131051z",
+      "timestamp": "2026-06-12T13:10:51.470Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-06-12: 5 fresh Dubai property opportunities — Jun-11 DLD daily print (AED 1.03B, off-plan 60.7%), Innovo's sold-out Six Senses Residences Palm Jumeirah handover, Naia Island's third beachfront-plot deal (AED 167M) pushing the two-month tally to AED 1B, The One Atelier's tokenised branded-residence platform launch, and Bayut's 5-year price-doubling read across six Dubai communities. One update on the MAF Tilal Al Ghaf force-majeure story (MAF formally denies delivery-delay reporting).",
+      "counts": {
+        "added": 5,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-11-2026-daily-print-aed-1-03b-offplan-60-7-percent",
+          "title": "Dubai DLD daily print 2026-06-11: AED 1.03B with off-plan at 60.7% — off-plan flats AED 480.8M lead, ready flats AED 265.4M anchors as both books stay apartment-led",
+          "category": "market",
+          "note": "Latest DLD daily tape with off-plan at 60.7% and apartments leading both books — keeps the daily macro spine continuous."
+        },
+        {
+          "id": "dubai-innovo-select-group-six-senses-residences-palm-jumeirah-completion-jun-11-2026",
+          "title": "Innovo Build hands over Select Group's sold-out Six Senses Residences Palm Jumeirah — 32 Sky Villa keys, 9 beachfront Signature villas, 131 penthouse-block apartments and 66-key hotel",
+          "category": "developer",
+          "note": "Sold-out branded ultra-luxury Palm Jumeirah complex hands over — concrete handover signal for branded-residence pipeline."
+        },
+        {
+          "id": "dubai-naia-island-aed-167m-coastal-plot-aed-1b-two-month-tally-jun-12-2026",
+          "title": "Naia Island books AED 1B across three beachfront plots in two months — AED 167M Middle Eastern end-user buy follows AED 560M and AED 377M, all via Dubai Sotheby's",
+          "category": "luxury",
+          "note": "Third Naia Island plot in two months pushes the tally to AED 1B; Sotheby's confirms all three buyers are end-users, not investors."
+        },
+        {
+          "id": "dubai-the-one-atelier-the-one-capital-blockchain-branded-residence-tokenisation-jun-11-2026",
+          "title": "The One Atelier launches The One Capital — blockchain RWA platform channels pre-launch capital into branded residential (Karl Lagerfeld, Fendi Casa, ETRO, Armani Casa, ELLE, Dolce & Gabbana track record)",
+          "category": "media",
+          "note": "Live RWA-tokenisation platform aimed at pre-launch branded-residence capital; sits inside DLD's broader tokenisation roadmap."
+        },
+        {
+          "id": "dubai-bayut-six-communities-doubled-5-years-jumeirah-islands-153-percent-jun-11-2026",
+          "title": "Bayut 5-year price scan: six Dubai communities have at-least doubled since 2021 — Jumeirah Islands +153% leads, JGE +119%, JLT +115%, Meadows +110%, Springs +109%, Jumeirah Park +106%",
+          "category": "market",
+          "note": "Five-year Bayut price-growth read names Jumeirah Islands +153% leader plus five other established Emirates Living / JLT communities."
+        }
+      ],
+      "updated": [
+        {
+          "id": "dubai-maf-tilal-al-ghaf-force-majeure-spa-iran-war-jun-11-2026",
+          "title": "Majid Al Futtaim notifies Tilal Al Ghaf buyers it is invoking force-majeure clauses on parts of the masterplan — Stonehaven flags ~25% input-cost jump since September, MAF says construction stays on schedule",
+          "note": "MAF formally denies delivery-delay characterisation on 2026-06-12 — Khaleej Times update: 'Construction across Tilal Al Ghaf continues to progress in line with the established project schedule', SPA notice 'standard procedural' and not a timeline change."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "offplan",
+        "developer",
+        "land",
+        "ready",
+        "media",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

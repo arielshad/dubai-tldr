@@ -1,8 +1,331 @@
 {
-  "generatedAt": "2026-06-12T00:39:45.477Z",
+  "generatedAt": "2026-06-12T13:10:51.470Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-11-2026-daily-print-aed-1-03b-offplan-60-7-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-11: AED 1.03B with off-plan at 60.7% — off-plan flats AED 480.8M lead, ready flats AED 265.4M anchors as both books stay apartment-led",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-06-11",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-12-jun-2026",
+      "summary": "Dubai's 2026-06-11 DLD tape printed AED 1.03B total transacted value — AED 627.1M off-plan (60.7%) and AED 406.4M ready (39.3%). Off-plan flats AED 480.8M led the day with off-plan villas AED 113.7M behind; ready flats AED 265.4M and ready villas AED 106.3M held the secondary engine. Day softens vs the AED 1.49B Jun-10 print but off-plan share rebuilds ~4ppt as apartment buyers stay engaged across both segments.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan 60.7%",
+        "AED 1.03B",
+        "apartments lead",
+        "off-plan flats AED 480.8M",
+        "ready flats AED 265.4M",
+        "Jun 11 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-06-11",
+        "Total transacted value": "AED 1.03B",
+        "Off-plan share": "60.7% (AED 627.1M)",
+        "Ready share": "39.3% (AED 406.4M)",
+        "Off-plan flats": "AED 480.8M",
+        "Off-plan villas": "AED 113.7M",
+        "Ready flats": "AED 265.4M",
+        "Ready villas": "AED 106.3M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Jun 12 review (Jun 11 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-12-jun-2026"
+        },
+        {
+          "label": "DLD official transactions page",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD tape softens to AED 1.03B on 2026-06-11 but off-plan share rebuilds to 60.7% — apartments still doing the heavy lifting on both books.",
+        "whatIsIt": "The Real Estate Reports' Jun-12 daily review summarises Dubai's 2026-06-11 DLD print: AED 1.03B of total transacted value with off-plan at AED 627.1M (60.7%) and ready at AED 406.4M (39.3%). Off-plan flats at AED 480.8M and ready flats at AED 265.4M dominate the day's flow.",
+        "howItWorks": "Off-plan stack: flats AED 480.8M (76.7% of off-plan), villas AED 113.7M (18.1%). Ready stack: flats AED 265.4M (65.3% of ready), villas AED 106.3M (26.2%). The Jun-11 day prints below Jun-10's AED 1.49B but with off-plan share recovering ~4 ppt from 56.6% — primary apartments stay the cleanest single-segment exit while ready villas keep a meaningful share of end-user flow.",
+        "whyItMatters": "Tape continues to clear above AED 1B/day even as the headline total cools, which keeps the post-Eid 'volume holds while rally fades' framing intact. For brokers, the AED 480.8M off-plan flats print confirms primary apartments still absorb new inventory; for owners, the AED 265.4M ready flats vs AED 106.3M ready villas split is a useful tightness read on apartment liquidity heading into a heavier H2 handover window.",
+        "forWho": "Brokers calibrating off-plan and ready-flat ask prices, primary developers benchmarking inventory absorption, market analysts tracking daily DLD cadence.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6471716c-96ee-4962-b35e-82950b5a21a5/pexels-stephane-hurbe-1267753-4083973.jpg",
+        "alt": "Dubai DLD daily print 2026-06-11 — AED 1.03B with off-plan share rebuilding to 60.7% as apartments lead both books",
+        "fit": "cover",
+        "credit": "Stephane Hurbe / The Real Estate Reports"
+      },
+      "publishDate": "2026-06-12T13:10:51.470Z"
+    },
+    {
+      "id": "dubai-innovo-select-group-six-senses-residences-palm-jumeirah-completion-jun-11-2026",
+      "categories": [
+        "developer",
+        "luxury",
+        "offplan"
+      ],
+      "title": "Innovo Build hands over Select Group's sold-out Six Senses Residences Palm Jumeirah — 32 Sky Villa keys, 9 beachfront Signature villas, 131 penthouse-block apartments and 66-key hotel",
+      "org": "Innovo Build / Select Group",
+      "date": "2026-06-11",
+      "url": "https://www.tradearabia.com/News/463578/Innovo-completes-work-on-Six-Senses-Residences-Palm-Jumeirah",
+      "summary": "Innovo Build confirms completion and final handover of Select Group's Six Senses Residences Palm Jumeirah — 32 Sky Villa keys across two towers, 9 beachfront Signature villas, 131 apartments across two penthouse buildings and a 66-key Six Senses hotel. The entire project sold out before completion and was delivered atop a single large basement spanning the multi-structure footprint — a logistical signal that Palm Jumeirah's branded-residence pipeline is still clearing handover even as wider 2026 deliveries face Iran-war supply pressure.",
+      "tags": [
+        "Six Senses Residences",
+        "Palm Jumeirah",
+        "Select Group",
+        "Innovo Build",
+        "branded residences",
+        "handover",
+        "sold out",
+        "ultra-luxury"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PALM",
+        "BRANDED"
+      ],
+      "metrics": {
+        "Sky Villa keys": "32 (2 buildings)",
+        "Signature villas": "9 (beachfront)",
+        "Apartments": "131 (2 penthouse buildings)",
+        "Hotel keys": "66",
+        "Sellout": "Pre-completion",
+        "Developer": "Select Group",
+        "Contractor": "Innovo Build"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Innovo completes work on Six Senses Residences Palm Jumeirah",
+          "url": "https://www.tradearabia.com/News/463578/Innovo-completes-work-on-Six-Senses-Residences-Palm-Jumeirah"
+        },
+        {
+          "label": "Select Group — Six Senses Residences The Palm",
+          "url": "https://www.select-group.ae/developments/six-senses-residences-the-palm-dubai"
+        },
+        {
+          "label": "Innovo Group — Six Senses The Palm",
+          "url": "https://www.innovogroup.com/project/six-senses-the-palm"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sold-out Six Senses Residences Palm Jumeirah hands over — Select Group's branded-ultra-luxury complex clears the final-completion bar even as wider 2026 supply faces delays.",
+        "whatIsIt": "Innovo Build, the contractor arm of Innovo Group, has signed off final completion and handover of Six Senses Residences Palm Jumeirah for developer Select Group. The asset stack covers 32 Sky Villa keys across two towers, 9 beachfront Signature villas, 131 apartments across two penthouse buildings and a 66-key Six Senses hotel.",
+        "howItWorks": "The complex sold out before completion, and Innovo connected the multi-structure footprint with a single large basement — a major logistical anchor for an architecturally heterogeneous Palm Jumeirah plot. Sameh Fam, CEO of Innovo Build, framed the handover as a 'engineering expertise, innovation, and disciplined execution' execution case study. Cross-reference Bayut and Property Finder for the resale curve of these branded units once owners take possession.",
+        "whyItMatters": "Concrete handover signals matter right now — Fitch / Anarock are flagging 6–9 month delays for ~45K Dubai units in the 2026 pipeline, so a sold-out branded Palm asset delivering on schedule is a real comp for branded-residence pricing power and Palm Jumeirah absorption. Watch for resale flow from the 131 apartments and 9 Signature villas; the 66-key Six Senses hotel also seeds an operating-comp set for branded-hospitality residential plays.",
+        "forWho": "Palm Jumeirah resale brokers, branded-residence buyers underwriting pricing premiums, holiday-let operators benchmarking Six Senses hotel performance, market analysts tracking handover cadence vs the delayed-supply narrative.",
+        "tryIt": "https://www.select-group.ae/developments/six-senses-residences-the-palm-dubai"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/11/TA_20260611170641.webp",
+        "alt": "Six Senses Residences Palm Jumeirah — sold-out branded-luxury complex handed over by Innovo Build for Select Group",
+        "fit": "cover",
+        "credit": "Innovo Build / Select Group / TradeArabia"
+      },
+      "publishDate": "2026-06-12T13:10:51.470Z"
+    },
+    {
+      "id": "dubai-naia-island-aed-167m-coastal-plot-aed-1b-two-month-tally-jun-12-2026",
+      "categories": [
+        "luxury",
+        "land"
+      ],
+      "title": "Naia Island books AED 1B across three beachfront plots in two months — AED 167M Middle Eastern end-user buy follows AED 560M and AED 377M, all via Dubai Sotheby's",
+      "org": "Shamal Holding / Dubai Sotheby's International Realty",
+      "date": "2026-06-12",
+      "url": "https://www.thenationalnews.com/business/property/2026/06/12/exclusive-dubai-island-records-dh1bn-in-three-beachfront-plot-sales-in-two-months/",
+      "summary": "Shamal Holding's Naia Island has cleared AED 1B (USD 272M) across three beachfront-plot deals in two months. This week's AED 167M plot to a Middle Eastern buyer lands behind the AED 560M (May, 80K+ sqft, European buyer) and AED 377M (April) prints — all transacted via Dubai Sotheby's International Realty and all booked by end-users rather than investors per chairman George Azar. The cluster runs alongside the Cheval Blanc Maison Hotel master, and frames the Jumeirah-coast super-prime band as Dubai's clearest war-resistant trophy bid.",
+      "tags": [
+        "Naia Island",
+        "Shamal Holding",
+        "Dubai Sotheby's",
+        "Cheval Blanc Maison",
+        "beachfront plot",
+        "AED 1B tally",
+        "end-user",
+        "super-prime"
+      ],
+      "importance": "major",
+      "tickers": [
+        "NAIA",
+        "JUMEIRAH-COAST"
+      ],
+      "metrics": {
+        "Two-month tally": "AED 1B (USD 272M)",
+        "Latest plot (this week)": "AED 167M",
+        "Late May plot": "AED 560M (80K+ sqft, European buyer)",
+        "Late April plot": "AED 377M",
+        "Broker": "Dubai Sotheby's International Realty",
+        "Developer": "Shamal Holding",
+        "Buyer profile": "All end-users",
+        "Anchor": "Cheval Blanc Maison Hotel"
+      },
+      "links": [
+        {
+          "label": "The National — Naia Island AED 1B three-plot tally (Jun 12 2026)",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/12/exclusive-dubai-island-records-dh1bn-in-three-beachfront-plot-sales-in-two-months/"
+        },
+        {
+          "label": "Dubai Sotheby's International Realty",
+          "url": "https://www.sothebysrealty.ae/"
+        },
+        {
+          "label": "Gulf Today — Naia Island AED 560M plot deal (Jun 8 2026)",
+          "url": "https://www.gulftoday.ae/business/2026/06/08/beachfront-plot-of-land-in-dubai-sold-for-dhs560-million"
+        }
+      ],
+      "explainer": {
+        "tagline": "Naia Island's third beachfront plot of 2026 — AED 167M Middle Eastern end-user — completes a AED 1B two-month tally via Dubai Sotheby's.",
+        "whatIsIt": "The National reports Shamal Holding's Naia Island has booked AED 1B across three beachfront-plot trades in two months. This week's AED 167M sale to a Middle Eastern buyer joins the AED 560M (May) and AED 377M (April) plots; all three closed through Dubai Sotheby's International Realty and all three buyers are end-users, not investors, per Sotheby's MEA chairman George Azar.",
+        "howItWorks": "The cluster sits along the Jumeirah-coast Naia Island master, anchored by a Cheval Blanc Maison Hotel and private-villa programme. Plot sizes vary — the May lot ran 80,000+ sqft (~7,400 sqm); the April and June lot sizes aren't disclosed in the article. UAE attracted ~9,800 relocating millionaires in 2025 and Dubai books ~500 $10M+ home sales per year — the Naia bid is concentrated, end-user and held outside the trade-flow.",
+        "whyItMatters": "AED 1B in two months on one master is a clean read on Dubai super-prime land scarcity during a regional-war window. The all-end-user buyer profile is the differentiator vs investor-driven beachfront cycles — it removes the assignment-resale ceiling and supports trophy-asset thesis underwrites for adjacent Jumeirah-coast and Palm-Jebel-Ali plays. Sotheby's exclusivity also keeps comparable-plot comps tight, which matters for any private buyer trying to underwrite a fourth Naia deal.",
+        "forWho": "UHNW buyers underwriting Dubai trophy land, super-prime brokers, family-office advisors picking between Naia, Palm Jumeirah and Jumeirah Bay, and developers planning competing Jumeirah-coast plot sales.",
+        "tryIt": "https://www.sothebysrealty.ae/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/G6OPROGDRZG5TMWSNPQML5N7SA.jpg?smart=true&auth=004bd0ae711815e0cb68e281e84caf6af3bca7ecb6ad06b19ba9df75683f7720&width=400&height=225",
+        "alt": "Naia Island beachfront plot cluster — AED 1B sold across three deals in two months via Dubai Sotheby's",
+        "fit": "cover",
+        "credit": "The National / Shamal Holding"
+      },
+      "publishDate": "2026-06-12T13:10:51.470Z"
+    },
+    {
+      "id": "dubai-the-one-atelier-the-one-capital-blockchain-branded-residence-tokenisation-jun-11-2026",
+      "categories": [
+        "media",
+        "offplan",
+        "luxury"
+      ],
+      "title": "The One Atelier launches The One Capital — blockchain RWA platform channels pre-launch capital into branded residential (Karl Lagerfeld, Fendi Casa, ETRO, Armani Casa, ELLE, Dolce & Gabbana track record)",
+      "org": "The One Atelier",
+      "date": "2026-06-11",
+      "url": "https://www.gdnonline.com/Details/1397373/The-One-Atelier-launches-blockchain-platform-for-branded-real-estate-",
+      "summary": "The One Atelier rolls out The One Capital — a blockchain real-world-asset (RWA) tokenisation platform aimed at early-stage branded residential development. CEO Michele Galli pitches it as a 'more structured and transparent' way to fund pre-launch and early-phase branded projects, building on a track record across Karl Lagerfeld, Fendi Casa, ETRO, Armani Casa, ELLE and Dolce & Gabbana residences. The launch lands inside DLD's wider tokenisation roadmap (target ~7%, ~USD 16B, of Dubai real estate tokenised by 2033) and against branded-residence price premiums reported up to 33%.",
+      "tags": [
+        "The One Atelier",
+        "The One Capital",
+        "tokenisation",
+        "RWA",
+        "branded residences",
+        "blockchain",
+        "Karl Lagerfeld",
+        "Fendi Casa"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "BRANDED",
+        "RWA"
+      ],
+      "metrics": {
+        "Platform": "The One Capital",
+        "Sponsor": "The One Atelier",
+        "Brand track record": "Karl Lagerfeld, Fendi Casa, ETRO, Armani Casa, ELLE, Dolce & Gabbana",
+        "Branded-residence price premium": "up to 33% vs comparable non-branded",
+        "Global branded-residence pipeline": "1,000+ schemes by end-2026",
+        "DLD tokenisation target": "~7% / USD 16B of Dubai real estate by 2033"
+      },
+      "links": [
+        {
+          "label": "GDN Online — The One Atelier launches blockchain platform for branded real estate (Jun 11 2026)",
+          "url": "https://www.gdnonline.com/Details/1397373/The-One-Atelier-launches-blockchain-platform-for-branded-real-estate-"
+        },
+        {
+          "label": "TradeArabia — The One Atelier launches blockchain platform for branded real estate",
+          "url": "https://www.tradearabia.com/News/463582/The-One-Atelier-launches-blockchain-platform-for-branded-real-estate-"
+        },
+        {
+          "label": "Dubai Land Department — Real Estate Tokenization",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-tokenization/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A branded-residence specialist with a Karl Lagerfeld / Fendi Casa / Armani Casa track record stands up a blockchain RWA platform aimed at pre-launch capital for the next generation of branded Dubai stock.",
+        "whatIsIt": "The One Atelier — a turnkey consultancy, design and build firm focused on branded residential — has launched The One Capital, a blockchain RWA platform aimed at structured early-stage capital for branded residential development. The pitch is to apply tokenisation 'at the earliest stages of the development lifecycle' before retail sales open.",
+        "howItWorks": "The One Atelier's project track record sits across Karl Lagerfeld, Fendi Casa, ETRO, Armani Casa, ELLE and Dolce & Gabbana residences — the same brand language being used to underwrite the Capital pipeline. The article doesn't disclose minimum ticket sizes, regulator licensing, fee structure or specific projects, so any buyer-side use needs direct due diligence with the platform team. Branded residences typically carry up to 33% price premiums over comparable non-branded stock per the article, with 1,000+ schemes globally expected by end-2026.",
+        "whyItMatters": "Dubai's DLD has already laid out a 7% (~USD 16B) tokenised real-estate target by 2033 and Ripple/XRP-supported secondary trading went live earlier in 2026 — The One Capital plugs into that infrastructure on the branded-residence vertical specifically. For pre-launch buyers it potentially unlocks fractional access to projects priced out of normal end-user budgets; for developers it widens the funding stack before retail sales open. Inclusion bar: verify regulator (VARA / DLD) status, governance and exit-liquidity rails before underwriting.",
+        "forWho": "Branded-residence underwriting analysts, tokenisation-curious investors comparing Dubai RWA platforms, developer CFOs evaluating pre-launch capital partners.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-tokenization/"
+      },
+      "image": {
+        "url": "https://www.gdnonline.com/gdnimages/20260611/ta_20260611175608.jpg",
+        "alt": "The One Atelier launches The One Capital — blockchain RWA tokenisation platform for branded residential developments",
+        "fit": "cover",
+        "credit": "The One Atelier / GDN Online"
+      },
+      "publishDate": "2026-06-12T13:10:51.470Z"
+    },
+    {
+      "id": "dubai-bayut-six-communities-doubled-5-years-jumeirah-islands-153-percent-jun-11-2026",
+      "categories": [
+        "market",
+        "ready"
+      ],
+      "title": "Bayut 5-year price scan: six Dubai communities have at-least doubled since 2021 — Jumeirah Islands +153% leads, JGE +119%, JLT +115%, Meadows +110%, Springs +109%, Jumeirah Park +106%",
+      "org": "Khaleej Times × Bayut",
+      "date": "2026-06-11",
+      "url": "https://www.khaleejtimes.com/business/property/property-prices-in-dubais-six-communities-have-doubled-in-5-years",
+      "summary": "Bayut's five-year Dubai price-growth scan, surfaced via Khaleej Times on Jun 11 2026, pins Jumeirah Islands at +153% since 2021 with Jumeirah Golf Estates (+119%), JLT (+115%), The Meadows (+110%), The Springs (+109%) and Jumeirah Park (+106%) all clearing the 100% mark. VP of Sales Fibha Ahmed flags continued resilience of mature Emirates Living communities; ~180,000 units in the 2026–28 pipeline frame the next leg of price-growth moderation.",
+      "tags": [
+        "Bayut",
+        "5-year price growth",
+        "Jumeirah Islands",
+        "Jumeirah Golf Estates",
+        "JLT",
+        "The Meadows",
+        "The Springs",
+        "Jumeirah Park"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "JI",
+        "JGE",
+        "JLT",
+        "MEADOWS",
+        "SPRINGS"
+      ],
+      "metrics": {
+        "Jumeirah Islands": "+153% since 2021",
+        "Jumeirah Golf Estates": "+119%",
+        "JLT": "+115%",
+        "The Meadows": "+110%",
+        "The Springs": "+109%",
+        "Jumeirah Park": "+106%",
+        "Window": "2021 → 2026",
+        "Pipeline through 2028": "~180,000 units"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times × Bayut — Six Dubai communities doubled in 5 years (Jun 11 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/property-prices-in-dubais-six-communities-have-doubled-in-5-years"
+        },
+        {
+          "label": "Bayut — Dubai sale market trends",
+          "url": "https://www.bayut.com/mybayut/category/dubai-property-trends-research/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Five-year Bayut scan: Jumeirah Islands +153% leads six Dubai communities that have at-least doubled since 2021 — a clean resale-comp pulse for established lifestyle stock.",
+        "whatIsIt": "Khaleej Times surfaces Bayut's five-year price-growth read across Dubai. Six communities have at-least doubled since 2021: Jumeirah Islands +153%, Jumeirah Golf Estates +119%, JLT +115%, The Meadows +110%, The Springs +109% and Jumeirah Park +106%. Premium markets — Palm Jumeirah, Business Bay, Dubai Marina — also delivered meaningful, if smaller, gains over the same window.",
+        "howItWorks": "Bayut's methodology aggregates listing and sale prices; the print is YoY-stacked from 2021 (post-Covid recovery uncertainty trough) to 2026. Fibha Ahmed (VP of Sales, Bayut) flags 'mature landscaping, established amenities, strong connectivity and years of transaction history' as the resilience drivers. The accompanying ~180K-unit 2026–28 handover pipeline is the headwind to extrapolate this rate of return forward.",
+        "whyItMatters": "Sellers in these six communities can anchor ask prices against an explicit 100%+ growth print; buyers can use the same numbers to argue that mature Emirates Living and JLT stock are now further along the maturity curve than the citywide average. Watch for Jumeirah Islands trade-up flow (147% premium over Jumeirah Park) and Meadows/Springs spread (+1ppt) as the cleanest village-by-village comp pair. Cross-check at the building level against DLD transaction comps before underwriting.",
+        "forWho": "Sellers benchmarking ask in established Emirates Living / JLT communities, buyers debating mature vs emerging-village entry points, brokers calibrating client price expectations.",
+        "tryIt": "https://www.bayut.com/mybayut/category/dubai-property-trends-research/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-11/tysz8nld/Dubai-property-photo-by-bayut.jpg",
+        "alt": "Six Dubai communities have doubled in value over the past five years — Jumeirah Islands +153% leads (Bayut, Jun 2026)",
+        "fit": "cover",
+        "credit": "Bayut / Khaleej Times"
+      },
+      "publishDate": "2026-06-12T13:10:51.470Z"
+    },
     {
       "id": "dubai-maf-tilal-al-ghaf-force-majeure-spa-iran-war-jun-11-2026",
       "categories": [
@@ -46,20 +369,12 @@
       },
       "links": [
         {
-          "label": "Semafor — Dubai developer invokes force majeure on home sales",
-          "url": "https://www.semafor.com/article/06/11/2026/dubai-developer-invokes-force-majeure-on-home-sales"
+          "label": "Semafor — MAF invokes Tilal Al Ghaf force-majeure (Jun 11 2026)",
+          "url": "https://semafor.com/article/06/11/2026/dubai-developer-invokes-force-majeure-on-home-sales"
         },
         {
-          "label": "Yahoo Finance mirror",
-          "url": "https://finance.yahoo.com/economy/policy/articles/dubai-developer-invokes-force-majeure-114313775.html"
-        },
-        {
-          "label": "Majid Al Futtaim — Tilal Al Ghaf",
-          "url": "https://www.majidalfuttaim.com/en/what-we-do/our-industries/brand/tilal-al-ghaf"
-        },
-        {
-          "label": "RERA Oqood + DLD escrow",
-          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+          "label": "Khaleej Times — MAF denies Tilal Al Ghaf delivery delays (Jun 12 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-majid-al-futtaim-denies-reports-delay-tilal-al-ghaf-regional-war"
         }
       ],
       "image": {
