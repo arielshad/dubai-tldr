@@ -4930,6 +4930,36 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260613t003843z",
+      "timestamp": "2026-06-13T00:38:43.364Z",
+      "source": "github-actions-sweep",
+      "summary": "Cron sweep at 2026-06-13T13:11Z found no qualifying fresh signal. The Jun 12 Majid Al Futtaim public denial of force-majeure delivery delays at Tilal Al Ghaf is already captured in the existing dubai-maf-tilal-al-ghaf-force-majeure-spa-iran-war-jun-11-2026 card (which describes the MAF dispute and links the Khaleej Times piece). The Jun 12 Emirates 24|7 weekly DLD print covers the same Jun 1-7 week already in dubai-dld-week-23-2026-weekly-aed-11b-7-1b-ex-land-offplan-62-7-jun-8. Other candidates (Sharjah Dh65.6B, Jun 8 first-time home-buyer expansion at 120h) fell outside Dubai scope or the 72h date cap.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "legal",
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
