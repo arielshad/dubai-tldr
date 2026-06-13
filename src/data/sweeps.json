@@ -4960,6 +4960,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260613t123921z",
+      "timestamp": "2026-06-13T12:39:21.397Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh signals in the 72h window: Keturah / DXBinteract pin May 2026 Dubai luxury off-plan (AED 5M+) at AED 4.96B across 391 deals — villas AED 2.51B / apartments AED 2.45B — and the World Bank's June 2026 update slashes UAE 2026 GDP to 2.4% (from 5%) on the Hormuz closure, with 4.1% / 4.2% rebounds queued for 2027–28. Portal, DLD/RERA, developer, auction and brokerage scans surfaced no other qualifying signal not already in the feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-keturah-dxbinteract-may-2026-luxury-offplan-aed-4-96b-391-deals-jun-12-2026",
+          "title": "Keturah × DXBinteract May 2026 Dubai luxury off-plan tape — AED 4.96B (USD 1.36B) across 391 AED 5M+ deals, villas AED 2.51B / 184 lots lead apartments AED 2.45B / 207 lots at AED 12.7M avg ticket",
+          "category": "luxury",
+          "note": "Fresh May 2026 luxury off-plan tape (Jun 12 publication) — closes the gap between the existing April 2026 luxury card and the broader May Cavendish Maxwell soft print. AED 4.96B with average ticket up while the wider market softened is the operator signal worth surfacing."
+        },
+        {
+          "id": "dubai-world-bank-june-2026-uae-gdp-cut-2-4-percent-hormuz-jun-11-2026",
+          "title": "World Bank June 2026 Global Economic Prospects: UAE 2026 GDP cut to 2.4% (from 5%), 2027 to 4.1%, 2028 to 4.2% as Hormuz closure forces GCC 2026 down to 1.3% before a 5.2% / 4.0% rebound",
+          "category": "market",
+          "note": "First explicit downgrade to UAE 2026 GDP from a tier-1 multilateral since the Iran war. Material for any operator running underwriting that assumed the prior 5% Jan 2026 forecast. Existing Volpi/PMI piece focuses on PMI and developer behavior, not the World Bank forecast itself."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "offplan",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
