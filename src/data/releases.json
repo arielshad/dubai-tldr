@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-06-14T00:40:55.736Z",
+  "generatedAt": "2026-06-14T12:41:11.607Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-maf-tilal-al-ghaf-denies-force-majeure-construction-on-schedule-jun-12-2026",
+      "categories": [
+        "developer",
+        "legal",
+        "market"
+      ],
+      "title": "Majid Al Futtaim publicly denies Tilal Al Ghaf delivery delays and force-majeure invocation — says construction 'continues to progress in line with the established project schedule and the terms of the SPAs', reframes prior buyer notices as standard procedural disclosures",
+      "org": "Khaleej Times / Zawya / Gulf News",
+      "date": "2026-06-12",
+      "publishDate": "2026-06-14T12:41:11.607Z",
+      "url": "https://www.khaleejtimes.com/business/property/uae-majid-al-futtaim-denies-reports-delay-tilal-al-ghaf-regional-war",
+      "summary": "MAF rebuts the Semafor force-majeure story published 24h earlier — confirms it issued customer notices about regional logistics and supply-chain pressures, but says they are standard SPA-framework disclosures and not a change to delivery timelines. Statement reiterates the developer remains 'fully committed to delivering Tilal Al Ghaf to the highest standards'.",
+      "tags": [
+        "majid-al-futtaim",
+        "tilal-al-ghaf",
+        "force-majeure",
+        "spa-disclosure",
+        "developer-execution",
+        "supply-chain",
+        "iran-war-impact"
+      ],
+      "importance": "major",
+      "tickers": [
+        "TILAL-AL-GHAF",
+        "DUBAILAND",
+        "MAF"
+      ],
+      "metrics": {
+        "Master-plan GFA": "1,000,000 sqm",
+        "Master-plan units": "3,500 homes (15,000 residents)",
+        "Live phases referenced": "Alaya (130 villas), Elysian Mansions (94 units), Stonehaven",
+        "Stonehaven input-cost claim (Semafor)": "~+25% since Sep 2025",
+        "Conflict start date (per Semafor)": "2026-02-28",
+        "MAF position": "Construction on schedule per SPAs",
+        "Notice classification": "Standard SPA procedural disclosure",
+        "Original Semafor publish date": "2026-06-11",
+        "MAF denial publish date": "2026-06-12"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — MAF denies delay reports (12 Jun 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/uae-majid-al-futtaim-denies-reports-delay-tilal-al-ghaf-regional-war"
+        },
+        {
+          "label": "Zawya / Construction beat — MAF says Tilal Al Ghaf on schedule",
+          "url": "https://www.zawya.com/en/projects/construction/majid-al-futtaim-says-tilal-al-ghaf-construction-progressing-as-scheduled-t2geswi9"
+        },
+        {
+          "label": "Gulf News — MAF denies war-related delays at Tilal Al Ghaf",
+          "url": "https://gulfnews.com/business/property/uaes-majid-al-futtaim-denies-war-related-delays-at-tilal-al-ghaf-homes-1.500572160"
+        },
+        {
+          "label": "Semafor (11 Jun) — the original force-majeure claim MAF is rebutting",
+          "url": "https://www.semafor.com/article/06/11/2026/dubai-developer-invokes-force-majeure-on-home-sales"
+        },
+        {
+          "label": "Existing DxbEstate card — Semafor force-majeure story (11 Jun 2026)",
+          "url": "https://dxb-estate-intel.xyz/opportunities/dubai-maf-tilal-al-ghaf-force-majeure-spa-iran-war-jun-11-2026"
+        }
+      ],
+      "explainer": {
+        "tagline": "MAF publicly rejects the Semafor force-majeure story 24 hours after publication — buyer notices reframed as standard SPA disclosures, not a delivery-timeline change.",
+        "whatIsIt": "On 12 June 2026 Majid Al Futtaim issued a public statement denying that it had invoked force-majeure or delayed homes at the 1-million-sqm Tilal Al Ghaf masterplan (3,500 homes, including the 130-villa Alaya phase and 94-unit Elysian Mansions). The denial directly contradicts the 11 June Semafor scoop, which said MAF had notified buyers it could not meet handover dates due to Iran-war supply-chain disruption and that contractor Stonehaven flagged ~25% input-cost growth since September.",
+        "howItWorks": "MAF says construction 'continues to progress in line with the established project schedule and the terms of the Sale and Purchase Agreements'. The buyer notices Semafor surfaced are recharacterised as 'standard procedural notifications issued under the SPA framework' covering 'broader regional conditions affecting the construction industry', not a delay declaration. No specific handover dates were re-confirmed and the company avoided commenting on input-cost claims directly. Khaleej Times, Zawya and Gulf News all carried the statement on 12 June.",
+        "whyItMatters": "For buyers holding Tilal Al Ghaf SPAs, this is the first official line of defence against the force-majeure narrative — useful for resale negotiations because the developer is publicly affirming schedule. For brokers it sets the playbook for any other Dubai masterplan that issues SPA disclosures over the next quarter: a procedural disclosure is not, by itself, a timeline event. The risk is that MAF declined to publish updated milestone dates, so the actual cost-absorption question (who eats the ~25% input jump if it sticks) remains open. Operators repricing villas at Tilal Al Ghaf, or pitching mansion buyers, should attach both the Semafor original and the 12 Jun denial.",
+        "forWho": "Tilal Al Ghaf SPA-holders considering assignment exits, buyer-side brokers running force-majeure clauses against developer reps, villa investors tracking masterplan execution risk, and analysts modelling Dubai 2026/2027 handover slippage.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/uae-majid-al-futtaim-denies-reports-delay-tilal-al-ghaf-regional-war"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-12/jx28up3y/Screenshot-2026-06-12-at-2.40.21-pm.png?width=800&height=600&q=60&format=auto",
+        "alt": "Aerial render of Majid Al Futtaim's Tilal Al Ghaf masterplan in Dubailand, the development at the centre of the 12 June 2026 force-majeure denial statement.",
+        "fit": "cover",
+        "credit": "Khaleej Times / Majid Al Futtaim"
+      }
+    },
     {
       "id": "dubai-azizi-may-2026-offplan-leader-aed-146b-1601-units-jun-12-2026",
       "categories": [

@@ -5045,6 +5045,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260614t124111z",
+      "timestamp": "2026-06-14T12:41:11.607Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-06-14: ingested Khaleej Times/Zawya/Gulf News coverage of Majid Al Futtaim's June 12 public denial of Tilal Al Ghaf delivery delays, which directly contradicts yesterday's Semafor force-majeure story. No other 2026-06-12+ items cleared the inclusion bar without padding existing coverage.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-maf-tilal-al-ghaf-denies-force-majeure-construction-on-schedule-jun-12-2026",
+          "title": "Majid Al Futtaim publicly denies Tilal Al Ghaf delivery delays and force-majeure invocation — says construction 'continues to progress in line with the established project schedule and the terms of the SPAs', reframes prior buyer notices as standard procedural disclosures",
+          "category": "developer",
+          "note": "MAF's first public response to the 11 Jun Semafor force-majeure report. Three independent UAE outlets carried the denial on 12 Jun with identical core quote, confirming sourcing. Pairs as a direct rebuttal card alongside the existing Semafor force-majeure card from 11 Jun."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "legal",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
