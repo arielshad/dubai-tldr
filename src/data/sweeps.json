@@ -5002,6 +5002,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260614t004055z",
+      "timestamp": "2026-06-14T00:40:55.736Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep 2026-06-14T00:39Z covered every-sweep portal/DLD/developer/auction/brokerage sources plus market-data comps. One qualifying new item: Azizi's May 2026 #1-by-units off-plan result (AED 1.46B / 1,601 deals) from a dated Trade Arabia release on 12-Jun. The Khaleej Times MAF Tilal Al Ghaf denial (12-Jun) had already been folded into the existing force-majeure card as a supporting link, so no separate card was needed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-azizi-may-2026-offplan-leader-aed-146b-1601-units-jun-12-2026",
+          "title": "Azizi Developments tops Dubai's May 2026 off-plan unit league — AED 1.46B (USD 400M) across 1,601 transactions, #1 by units and #2 by value as Farhad Azizi flags 'more than 2x' the next developer's volume",
+          "category": "developer",
+          "note": "Developer-level share grab against a softening city-wide May tape — distinct from the existing AIQYA / Cavendish Maxwell citywide prints because it isolates one developer's primary-side concentration."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "developer",
+        "market",
+        "distress",
+        "ready",
+        "rental",
+        "luxury",
+        "commercial",
+        "auction",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
