@@ -5081,6 +5081,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260615t004232z",
+      "timestamp": "2026-06-15T00:42:32.871Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet 72h window (2026-06-12 → 2026-06-15) for Dubai property: every Khaleej Times / Gulf News / The National Sunday surface I checked was a republish of items already in the feed (BEYOND The Yards, AHS × Shangri-La, Bayut six-communities-doubled, MAF denies force-majeure, Naia Island AED 167M, First-Time Home Buyer 3,200 owners, Emaar AED 200B megaproject). The only genuinely new substantive items I found — Mario Volpi's 2026-06-12 Strait-of-Hormuz/property-price column at The National, and the 2026-06-12 Reuters/Business-Recorder UAE stocks rally on the US–Iran ceasefire-memorandum hopes (DFM +3.8%, Emaar +8.3%, Emirates NBD +8%) — both have a public `date` of 2026-06-12, which clears the 72h cap by only ~0.7 hours from 'now' (2026-06-15T00:41Z). Per Hard Rule 2 of SWEEP_MEMORY (no cron-side cap waivers) and the prompt's 'Empty sweep is success — never add filler' line, no items are added this run. Documented in sourcesChecked so the breadth is visible.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
