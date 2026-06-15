@@ -5122,6 +5122,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260615t140903z",
+      "timestamp": "2026-06-15T14:09:03.195Z",
+      "source": "github-actions-sweep",
+      "summary": "Macro-pivot sweep: US-Iran framework deal reopens the Strait of Hormuz (Brent -4.5% sub-$83.40) and Moody's reaffirms UAE Aa2 even after pencilling in a 7% GDP contraction — together they reset every Dubai property risk premium baked in since the war began.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-trump-iran-peace-deal-hormuz-reopening-brent-83-jun-14-2026",
+          "title": "Trump-Iran framework deal reopens the Strait of Hormuz — Brent slides 4.5% sub-$83.40, Asia rips 5%+ as Dubai's war-discount unwinds ahead of Friday Switzerland signing",
+          "category": "market",
+          "note": "Seismic macro pivot: Trump declares US-Iran deal complete, Hormuz reopening authorised, Brent -4.5% sub-$83.40, Nikkei +5.5%. Reverses every Dubai-property war drag tracked through May-June (World Bank GDP cut, MAF force majeure, Volpi travel/material costs)."
+        },
+        {
+          "id": "dubai-moodys-uae-aa2-affirmed-7-percent-contraction-2026-rebound-13-percent-2027-jun-14",
+          "title": "Moody's reaffirms UAE Aa2 with stable outlook even as it pencils a 7% 2026 GDP contraction — flags real estate, tourism, logistics as the confidence-pressured sectors, sees 13% rebound in 2027",
+          "category": "market",
+          "note": "Moody's holds the UAE at Aa2 stable even pricing a 7% 2026 GDP contraction — names real estate, tourism, logistics among pressured sectors, sees 13% rebound in 2027. The credit-market floor under Dubai property funding through the contraction scenario."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

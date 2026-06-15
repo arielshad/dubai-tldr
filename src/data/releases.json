@@ -1,8 +1,147 @@
 {
-  "generatedAt": "2026-06-15T00:42:32.871Z",
+  "generatedAt": "2026-06-15T14:09:03.195Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-trump-iran-peace-deal-hormuz-reopening-brent-83-jun-14-2026",
+      "categories": [
+        "market",
+        "legal"
+      ],
+      "title": "Trump-Iran framework deal reopens the Strait of Hormuz — Brent slides 4.5% sub-$83.40, Asia rips 5%+ as Dubai's war-discount unwinds ahead of Friday Switzerland signing",
+      "org": "Fox News / Al Jazeera",
+      "date": "2026-06-14",
+      "url": "https://www.foxnews.com/politics/trump-announces-peace-deal-iran-declares-strait-hormuz-reopen-let-oil-flow",
+      "summary": "Trump declares the US-Iran 'Deal' complete via Truth Social at 9:13 PM EDT June 14, fully authorising toll-free Hormuz reopening and lifting the US naval blockade; Iran's Supreme National Security Council confirms the MoU, signing scheduled Friday in Switzerland.",
+      "tags": [
+        "hormuz",
+        "iran-deal",
+        "geopolitics",
+        "oil-83",
+        "macro-pivot",
+        "dubai-confidence"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "UAE",
+        "HORMUZ",
+        "OIL",
+        "DXB"
+      ],
+      "metrics": {
+        "Brent crude": "~ -4.5% to sub-$83.40/bbl",
+        "Nikkei 225": "+5.5%",
+        "Kospi": "+5.7%",
+        "Hang Seng": "~+1%",
+        "S&P 500 futures": "~+1%",
+        "Nasdaq futures": "~+1.8%",
+        "Frozen Iranian assets released": "USD 24B",
+        "Ceasefire window": "60 days for nuclear talks",
+        "Signing venue": "Switzerland, Friday Jun 19, 2026",
+        "Mine clearing caveat": "experts flag 'many months' to full Hormuz throughput"
+      },
+      "links": [
+        {
+          "label": "Fox News — 'Let the oil flow' announcement",
+          "url": "https://www.foxnews.com/politics/trump-announces-peace-deal-iran-declares-strait-hormuz-reopen-let-oil-flow"
+        },
+        {
+          "label": "Al Jazeera — Stock markets soar, oil falls on framework deal",
+          "url": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war"
+        },
+        {
+          "label": "Bloomberg — US-Iran agreement to reopen Hormuz this week",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-15/us-and-iran-say-they-ve-agreed-deal-to-reopen-hormuz-this-week"
+        },
+        {
+          "label": "RFE/RL — Hormuz blockade to end",
+          "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+        }
+      ],
+      "explainer": {
+        "tagline": "The single biggest unwind catalyst for Dubai property since the conflict began — risk premiums baked in for 100+ days reset overnight.",
+        "whatIsIt": "On 14 June 2026 (9:13 PM EDT) President Trump posted that 'The Deal with the Islamic Republic of Iran is now complete', authorising the toll-free reopening of the Strait of Hormuz and the immediate removal of the US naval blockade. Iran's Supreme National Security Council confirms the memorandum of understanding; Pakistan's PM Shehbaz Sharif says the signing ceremony is in Switzerland on Friday (Jun 19, 2026).",
+        "howItWorks": "Markets priced the unwind aggressively: Brent crude fell ~4.5% to below USD 83.40/bbl, the Nikkei +5.5%, Kospi +5.7%, Hang Seng ~+1%, S&P 500 futures ~+1% and Nasdaq futures ~+1.8%. Terms include immediate hostility cessation on all fronts (Lebanon included), suspension of sanctions on Iranian oil sales, USD 24B in frozen Iranian assets released and a 60-day window for comprehensive nuclear negotiations. Experts caution Hormuz throughput will take many months to fully normalise due to mine clearance, vessel backlog and infrastructure damage.",
+        "whyItMatters": "Every Dubai property drag tracked over the last 100 days — World Bank UAE 2026 GDP cut to 2.4%, MAF/Tilal Al Ghaf force-majeure flag, Volpi's overseas-buyer travel disruption thesis, Volpi's Hormuz-driven materials-cost squeeze, Fortune's AED 2.36B listings cuts — was priced against a closed-Hormuz baseline. A confirmed reopening flips the macro narrative from defensive to risk-on: oil-funded GCC liquidity, lower freight/insurance/build-cost premiums, restored overseas-buyer travel and rebounding DFM Real Estate Index (was -21% from pre-war highs). Watch the next 2–4 weeks for offer revisions on stale luxury inventory and a step-change in transaction velocity.",
+        "forWho": "Cash buyers eyeing discounted ready/secondary stock; developers re-pricing post-handover plans; brokers contacting sidelined international leads; macro-anchored owners deciding whether to lift or hold ask prices.",
+        "tryIt": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war"
+      },
+      "image": {
+        "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/1200/675/trump-iran-talks-fox-news.jpeg",
+        "alt": "President Donald Trump speaking in the Oval Office on June 11, 2026, ahead of the framework deal that reopens the Strait of Hormuz.",
+        "fit": "cover",
+        "credit": "Jim Lo Scalzo / EPA / Bloomberg via Getty Images / Fox News"
+      },
+      "publishDate": "2026-06-15T14:09:03.195Z"
+    },
+    {
+      "id": "dubai-moodys-uae-aa2-affirmed-7-percent-contraction-2026-rebound-13-percent-2027-jun-14",
+      "categories": [
+        "market"
+      ],
+      "title": "Moody's reaffirms UAE Aa2 with stable outlook even as it pencils a 7% 2026 GDP contraction — flags real estate, tourism, logistics as the confidence-pressured sectors, sees 13% rebound in 2027",
+      "org": "Moody's Ratings (Arab News)",
+      "date": "2026-06-14",
+      "url": "https://www.arabnews.com/node/2647118/business-economy",
+      "summary": "Moody's holds the UAE at Aa2 / stable thanks to Abu Dhabi's >300% GDP financial-asset cushion, 3-4% federal debt, and the Habshan-Fujairah bypass — but explicitly names real estate, tourism, logistics, transport and FDI as the channels where weaker confidence and interrupted connectivity bite hardest.",
+      "tags": [
+        "moodys",
+        "uae-sovereign",
+        "aa2",
+        "macro",
+        "real-estate-confidence",
+        "hydrocarbon",
+        "fdi"
+      ],
+      "importance": "major",
+      "tickers": [
+        "UAE",
+        "ABU-DHABI",
+        "DXB",
+        "MOODYS"
+      ],
+      "metrics": {
+        "Sovereign rating": "Aa2 affirmed (stable outlook)",
+        "2026 GDP forecast": "approximately -7% YoY",
+        "Hydrocarbon production drag": "-23%",
+        "Non-hydrocarbon drag": "-4%",
+        "2027 rebound": "+13%",
+        "Abu Dhabi gov financial assets": ">300% of GDP at end-2025",
+        "Federal debt": "3-4% of GDP",
+        "Oil price assumption": "USD 90-110/bbl in 2026",
+        "Pressured sectors flagged": "real estate, tourism, logistics, transport, FDI"
+      },
+      "links": [
+        {
+          "label": "Arab News — Moody's affirms UAE at Aa2 despite forecast 7% 2026 contraction",
+          "url": "https://www.arabnews.com/node/2647118/business-economy"
+        },
+        {
+          "label": "Arabian Business — UAE credit rating unchanged at Aa2, strong reserves flagged",
+          "url": "https://www.arabianbusiness.com/finance/uae-credit-rating-unchanged-at-aa2-as-moodys-flags-strong-reserves-low-debt-and-policy-strength"
+        },
+        {
+          "label": "Investing.com — Moody's affirms UAE Aa2 despite Strait of Hormuz closure",
+          "url": "https://au.investing.com/news/world-news/moodys-affirms-uae-aa2-rating-despite-strait-of-hormuz-closure-93CH-4485657"
+        }
+      ],
+      "explainer": {
+        "tagline": "The credit market's vote of confidence on the UAE balance sheet even at peak war-stress — the floor underneath Dubai property funding.",
+        "whatIsIt": "Moody's Ratings on 14 June 2026 affirmed the UAE's long-term sovereign rating at Aa2 with a stable outlook, alongside the foreign-currency senior unsecured debt and medium-term note programme ratings. The affirmation reaches print one day before the Hormuz-reopening framework deal, so the assessment baseline is the worst-case 'war still on' scenario.",
+        "howItWorks": "Moody's pencils real GDP to contract by around 7% in 2026, driven by a 23% drop in hydrocarbon output and a 4% non-hydrocarbon contraction, before a 13% rebound in 2027 as trade flows resume. The buffers cited: Abu Dhabi government financial assets above 300% of GDP at end-2025, federal debt at 3-4% of GDP, an estimated 0.8% 2025 federal budget surplus, and the Habshan-Fujairah pipeline bypassing Hormuz for part of the oil book. Oil price assumption USD 90-110/bbl for 2026.",
+        "whyItMatters": "Moody's explicitly names 'tourism, real estate, logistics, transport and foreign investment' as the sectors 'expected to face pressure from weaker confidence and interrupted connectivity' — i.e. the same channels DxbEstate Intel has been logging through the Volpi pieces, MAF force majeure and the JLL hospitality stress note. For Dubai property, the Aa2 affirmation is the floor — it preserves mortgage funding cost, dirham peg confidence and developer paper spreads even in the contraction scenario. Paired with the Hormuz reopening it implies a sharply higher pivot to 2027 than the spot tape currently prices.",
+        "forWho": "Developer treasury and bond investors, mortgage lenders pricing UAE rate risk, foreign HNW buyers comparing UAE sovereign risk to peers, brokers framing the macro to nervous overseas leads.",
+        "tryIt": "https://www.arabnews.com/node/2647118/business-economy"
+      },
+      "image": {
+        "url": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/main-image/2026/06/14/4721606-1793634146.jpg?itok=fHywz0UG",
+        "alt": "Moody's Ratings affirms UAE at Aa2 with stable outlook on 14 June 2026 despite forecasting a 7% economic contraction.",
+        "fit": "cover",
+        "credit": "Arab News"
+      },
+      "publishDate": "2026-06-15T14:09:03.195Z"
+    },
     {
       "id": "dubai-maf-tilal-al-ghaf-denies-force-majeure-construction-on-schedule-jun-12-2026",
       "categories": [
