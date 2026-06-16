@@ -1,8 +1,272 @@
 {
-  "generatedAt": "2026-06-16T00:43:43.437Z",
+  "generatedAt": "2026-06-16T13:46:56.313Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-anax-elle-residences-dubai-islands-groundbreaking-sold-out-q4-2027-jun-16-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "ANAX Developments breaks ground on ELLE Residences Dubai Islands — 91 apartments + 7 signature townhouses sold out shortly after launch, Q4 2027 handover, IFG starts enabling works",
+      "org": "Khaleej Times / ANAX Developments",
+      "date": "2026-06-16",
+      "url": "https://www.khaleejtimes.com/business/property/anax-developments-breaks-ground-on-elle-residences-dubai-islands-and-unveils-anax-20",
+      "summary": "ANAX Holding chairman Satish Sanpal joins ANAX Developments CEO Raja Alameddine and MD Ravi Bhirani to break ground on the sold-out ELLE Residences Dubai Islands — 91 apartments + 7 signature townhouses with direct waterfront access — alongside the launch of an 'ANAX 2.0' growth phase. International Foundation Group is contractor for enabling works ahead of the Q4 2027 handover.",
+      "tags": [
+        "anax",
+        "elle-residences",
+        "dubai-islands",
+        "groundbreaking",
+        "branded-residence",
+        "ifg",
+        "anax-2-0"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DUBAI-ISLANDS",
+        "DXB",
+        "ANAX"
+      ],
+      "metrics": {
+        "Apartments": "91",
+        "Signature townhouses": "7",
+        "Total units": "98",
+        "Sales status": "Sold out shortly after launch",
+        "Handover": "Q4 2027",
+        "Brand": "ELLE (second global ELLE-branded residential project; previous tower in Miami; first ELLE residential in the Middle East)",
+        "Location": "Dubai Islands — direct waterfront access",
+        "Enabling works contractor": "International Foundation Group (IFG)",
+        "Developer": "ANAX Developments (ANAX Holding subsidiary)",
+        "Phase": "ANAX 2.0 growth chapter unveiled at groundbreaking"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — ANAX breaks ground on ELLE Residences Dubai Islands (16 Jun 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/anax-developments-breaks-ground-on-elle-residences-dubai-islands-and-unveils-anax-20"
+        },
+        {
+          "label": "ANAX Developments — corporate site",
+          "url": "https://anaxdevelopments.com/"
+        }
+      ],
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-16/15e1xuox/1AA5I0759.jpg.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "ANAX Developments groundbreaking ceremony at ELLE Residences Dubai Islands with chairman Satish Sanpal and CEO Raja Alameddine.",
+        "fit": "cover",
+        "credit": "ANAX Developments via Khaleej Times"
+      },
+      "explainer": {
+        "tagline": "ANAX moves a sold-out Dubai Islands branded-residence project from sales sheet into ground works and unveils an 'ANAX 2.0' growth phase in the same beat.",
+        "whatIsIt": "ANAX Developments, the residential arm of ANAX Holding, has broken ground on ELLE Residences Dubai Islands — 91 apartments and 7 signature townhouses, the second global ELLE-branded residential project after the Miami tower and the brand's first Middle East address. Founder/Chairman Satish Sanpal, CEO Raja Alameddine and Managing Director Ravi Bhirani used the ceremony to also unveil 'ANAX 2.0', a growth-and-quality reset for the developer's pipeline.",
+        "howItWorks": "International Foundation Group (IFG), a geotechnical and foundation specialist, has been appointed enabling-works contractor and is now on site. The project sold out shortly after launch, so buyers in the assignment market will value imminent construction starts against the Q4 2027 handover. The waterfront positioning competes head-on with DHG Helvetia Marine, Marea Residences and Innovate Living's Omoria — all 2027/2028 Dubai Islands handovers — and adds branded-residence supply against Sharafi Marea, Six Senses Palm Jumeirah, and Dubai Mansions further along the curve.",
+        "whyItMatters": "Dubai Islands is shifting from launch-led headlines to a delivery-led mid-market: this is the third Dubai Islands groundbreaking in six weeks (Helvetia Marine 2 Jun, Omoria 20 May, ELLE 16 Jun). A sold-out branded-residence groundbreaking validates the demand tape for the cluster and tightens the supply story for ready inventory on Dubai Islands by mid-2027. Assignment-market pricing for ANAX's allocation should now reset against contractor mobilisation and IFG progress milestones rather than launch-day pricing.",
+        "forWho": "Assignment buyers tracking sold-out ELLE units, brokers building Dubai Islands branded-residence comparable sets, fund buyers eyeing branded-residence Q4 2027 delivery exposure, and operators benchmarking ANAX execution risk against Helvetia Marine / Omoria / Marea peers.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/anax-developments-breaks-ground-on-elle-residences-dubai-islands-and-unveils-anax-20"
+      },
+      "publishDate": "2026-06-16T13:46:56.313Z"
+    },
+    {
+      "id": "dubai-smart-rental-index-tenant-renewal-leverage-merlin-amaya-range-jun-16-2026",
+      "categories": [
+        "rental",
+        "legal",
+        "market"
+      ],
+      "title": "Dubai tenants weaponise the Smart Rental Index for renewal cuts — Merlin, Amaya & Co and Range International flag apartment rents easing from Q1 peak while villa rents still bid up year-on-year",
+      "org": "Khaleej Times / Merlin Real Estate",
+      "date": "2026-06-16",
+      "url": "https://www.khaleejtimes.com/business/dubai-tenants-using-smart-rental-index-to-negotiate-rent-reductions",
+      "summary": "Brokers Merlin Real Estate (Rohit Bachani), Amaya & Co (Alois Kugendran) and Range International (Humaira Vaqqas) tell Khaleej Times tenants now lean on the DLD's January-2025 Smart Rental Index — building grade, structural quality, finishes, location, services — to push renewal asks down, with apartment rents easing from the Q1 2026 peak while villa renewals continue to climb year-on-year.",
+      "tags": [
+        "smart-rental-index",
+        "dld",
+        "rera",
+        "rent-renewal",
+        "tenant-negotiation",
+        "merlin",
+        "amaya-co",
+        "range-international"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "RENT-INDEX",
+        "RERA"
+      ],
+      "metrics": {
+        "Index live since": "January 2025 (Dubai Land Department)",
+        "Inputs": "Building classification, structural characteristics, finishes quality, location, spatial value, services and facilities",
+        "Apartment rents": "Eased modestly from Q1 2026 peak",
+        "Villa rents": "Still higher year-on-year",
+        "Tenant use case": "Cross-checking landlord renewal asks against benchmark data",
+        "Key risk for landlords": "Index-anchored cap, not market-anchored, on annual renewal increases",
+        "Cited brokers": "Merlin Real Estate, Amaya & Co, Range International Property Investments"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai tenants using Smart Rental Index to negotiate rent reductions (16 Jun 2026)",
+          "url": "https://www.khaleejtimes.com/business/dubai-tenants-using-smart-rental-index-to-negotiate-rent-reductions"
+        },
+        {
+          "label": "Dubai Land Department — Dubai REST eservices (Smart Rental Index lookup)",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/7ad9694b-ecce-42a0-88c6-c986081a34e9-org.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai apartment buildings — Smart Rental Index now used by tenants to negotiate renewal reductions.",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "explainer": {
+        "tagline": "Eighteen months after DLD wired the Smart Rental Index into rent-cap math, brokers say tenants are now actively using it to push back on renewal increases.",
+        "whatIsIt": "The Smart Rental Index — DLD's January-2025 successor to the older RERA rental index — scores buildings on construction grade, finishes, location, spatial value and amenities. Three Dubai brokers (Merlin, Amaya & Co, Range International) tell Khaleej Times tenants are now actively pulling the index data the same way landlords do and using it to challenge renewal asks at the kitchen-table negotiation stage.",
+        "howItWorks": "The index translates building characteristics into a per-bedroom benchmark; under RERA's renewal cap, an existing rent more than ~21% below the index permits a +20% renewal hike, with smaller deltas allowed for asks 11-20% / 6-10% / 0-5% below benchmark. Tenants can pull the index reading themselves via Dubai REST and challenge landlords whose proposed increase exceeds the schedule. Brokers say renewal negotiations now open with the index print, not the agent's market read. The split is segment-specific — apartment rents are easing from a Q1 2026 peak so the index gives tenants real leverage, while villa benchmarks continue to climb YoY and keep landlords in the pricing seat.",
+        "whyItMatters": "This is a material shift in landlord/tenant balance: for the first time the index is acting as a buyer-protection tool that tenants understand and use, not just a regulator's reference. Apartment landlords renewing into Q3 2026 need to model the index reading before quoting; secondary-market apartment yields could compress as renewals reset toward index. Conversely, villa landlords still hold pricing power. For owner-occupiers comparing rent vs buy maths, the rent side is now more disciplined and that compresses the spread that drives the buy decision.",
+        "forWho": "Apartment landlords renewing Q3-Q4 2026 leases, secondary-market apartment underwriters, rent-vs-buy spread modellers, RERA-cap advisors, brokers building tenant-side rep mandates.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+      },
+      "publishDate": "2026-06-16T13:46:56.313Z"
+    },
+    {
+      "id": "dubai-fam-properties-jan-may-2026-luxury-villa-rental-tape-509m-palm-jumeirah-dubai-hills-jun-15-2026",
+      "categories": [
+        "rental",
+        "luxury",
+        "market"
+      ],
+      "title": "fäm Properties Jan-May 2026 Dubai luxury villa rental tape — AED 509M of new contracts above AED 1M (+27% YoY), AED 114M renewals (+28%), 7 leases above AED 10M, Palm Jumeirah AED 113M leads on volume / Dubai Hills Estate posts +37% strongest growth",
+      "org": "Dubai Week / fäm Properties",
+      "date": "2026-06-15",
+      "url": "https://www.dubaiweek.ae/seven-dubai-villas-command-annual-rents-above-aed10-million/",
+      "summary": "fäm Properties CEO Firas Al Msaddi's Jan-May 2026 luxury villa rental scan — annualised new contracts above AED 1M up 27% YoY to AED 509M, renewals up 28% to AED 114M, with 7 villas leased above AED 10M and 9 in the AED 5-10M band. Palm Jumeirah leads on volume (36 new, AED 113M, +14%) while Dubai Hills Estate posts strongest growth (35 new, AED 87M, +37%) and District One MBR City rounds out the top three at 22 new contracts.",
+      "tags": [
+        "fam-properties",
+        "firas-al-msaddi",
+        "luxury-rental",
+        "palm-jumeirah",
+        "dubai-hills-estate",
+        "district-one",
+        "10m-leases"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "PALM",
+        "DUBAI-HILLS",
+        "MBR-CITY"
+      ],
+      "metrics": {
+        "Window": "Jan-May 2026 (annualised values)",
+        "New contracts above AED 1M": "AED 509M (+27% YoY from AED 400M)",
+        "Renewals above AED 1M": "AED 114M (+28% YoY from AED 89M)",
+        "Above AED 10M leases": "7 villas",
+        "AED 5-10M band leases": "9 villas",
+        "AED 2-3M new contracts growth": "+21%",
+        "AED 2-3M renewals growth": "+17%",
+        "Palm Jumeirah new contracts": "36 above AED 1M",
+        "Palm Jumeirah new contracts value": "AED 113M (+14% from AED 99M in 2025)",
+        "Dubai Hills Estate new contracts": "35 above AED 1M",
+        "Dubai Hills Estate annualised value": "AED 87M (+37% from AED 63M)",
+        "District One MBR City new contracts": "22 above AED 1M",
+        "Palm Jumeirah share of new contracts": "69%",
+        "Dubai Hills new vs renewal split": "85% fresh tenancies",
+        "12-month contract share": "67.3% of all Jan-May 2026 contracts"
+      },
+      "links": [
+        {
+          "label": "Dubai Week — Seven Dubai villas command annual rents above AED 10M (15 Jun 2026)",
+          "url": "https://www.dubaiweek.ae/seven-dubai-villas-command-annual-rents-above-aed10-million/"
+        },
+        {
+          "label": "Emirates Projects — Dubai's Luxury Villa Rentals Surge (fäm Properties report)",
+          "url": "https://emirates.tpg.media/dubais-luxury-villa-rentals-surge/"
+        }
+      ],
+      "image": {
+        "url": "https://www.dubaiweek.ae/wp-content/uploads/2026/06/Palm-Jumeirah-recorded-the-highest-number-of-new-and-renewed-con-4fc70138e0489635f07357731be30f5.jpg.jpg",
+        "alt": "Palm Jumeirah villas — leading community for AED 1M+ luxury rental contracts in fäm Properties Jan-May 2026 tape.",
+        "fit": "cover",
+        "credit": "fäm Properties via Dubai Week"
+      },
+      "explainer": {
+        "tagline": "fäm Properties' Jan-May 2026 villa tape: luxury rent value is leaning up while volume holds — value-mix, not pure demand, drives the +27% YoY new-contract print.",
+        "whatIsIt": "fäm Properties has published its Jan-May 2026 read on Dubai villa rentals above AED 1M. New annualised contract value rose 27% YoY to AED 509M (vs AED 400M in 2025), renewals up 28% to AED 114M (vs AED 89M). Seven contracts cleared the AED 10M annual threshold and nine more sat in the AED 5-10M band. CEO Firas Al Msaddi says volume held steady — the value lift came from a mix shift toward higher price brackets, with the AED 2-3M tier alone up 21% on new and 17% on renewals.",
+        "howItWorks": "Palm Jumeirah leads on absolute volume — 36 new contracts above AED 1M (69% new agreements) for AED 113M, up 14% from AED 99M last year — but the strongest growth print is Dubai Hills Estate at 35 new contracts (85% fresh tenancies, up to AED 87M / +37% from AED 63M). District One MBR City completes the podium at 22 new contracts. 67.3% of all Jan-May contracts ran a 12-month duration, signalling primary-residence (not short-let) demand at the top of the market. For brokers, this puts Dubai Hills Estate up against Palm Jumeirah as the highest-growth ultra-luxury rental brand in the AED 1M+ band.",
+        "whyItMatters": "The luxury rental tape is the cleanest live read on whether HNW residents are exiting Dubai post-conflict. 7 leases above AED 10M and 9 between AED 5-10M in five months says the top end is sticky — Bayut's 21 May ultra-luxury resilience read called the same. Operators can use this to: (1) underwrite branded-residence yields against confirmed AED/yr benchmarks, (2) push villa-owners considering selling toward holding for rent, (3) widen broker-coverage in Dubai Hills Estate where +37% YoY growth was largely fresh tenant intake (i.e. capacity is being absorbed, not just renewed). It also tightens the wedge for landlords confronting tenants who lean on the Smart Rental Index for renewals — at the AED 1M+ end the data still supports landlord pricing power.",
+        "forWho": "Villa owners deciding rent vs sell, branded-residence yield underwriters, brokers expanding Dubai Hills Estate luxury-rental coverage, family-office capital allocating to villa-rental income, holiday-home operators benchmarking long-let vs short-let.",
+        "tryIt": "https://www.dubaiweek.ae/seven-dubai-villas-command-annual-rents-above-aed10-million/"
+      },
+      "publishDate": "2026-06-16T13:46:56.313Z"
+    },
+    {
+      "id": "dubai-cavendish-maxwell-sharjah-rent-spillover-muwaileh-aljada-290k-contracts-jun-15-2026",
+      "categories": [
+        "rental",
+        "market",
+        "lead"
+      ],
+      "title": "Cavendish Maxwell flags Sharjah rent spillover from Dubai-priced-out tenants — Muwaileh / Aljada post 33-56% annual rent rises, Sharjah books 290K residential contracts (+4.4%) in 2025, stock still 20-30% cheaper than comparable Dubai inventory",
+      "org": "Khaleej Times / Cavendish Maxwell",
+      "date": "2026-06-15",
+      "url": "https://www.khaleejtimes.com/business/property/sharjah-rents-soar-as-housing-demand-surges-amid-dubai-spillover",
+      "summary": "Cavendish Maxwell research manager Ali Siddiqui tells Khaleej Times Sharjah recorded ~290K residential rental contracts in 2025 (up from 278K in 2024, +4.4% across all 368.5K contracts) as Dubai-priced-out tenants migrate north. Muwaileh and Aljada are seeing some renewals lifted 33-56% annually, with Sharjah stock still 20-30% cheaper than comparable Dubai inventory.",
+      "tags": [
+        "sharjah",
+        "cavendish-maxwell",
+        "ali-siddiqui",
+        "muwaileh",
+        "aljada",
+        "rent-spillover",
+        "dubai-overflow",
+        "tenant-migration"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "SHARJAH",
+        "DXB",
+        "MUWAILEH",
+        "ALJADA"
+      ],
+      "metrics": {
+        "Sharjah 2025 residential contracts": "~290,000 (up from 278,000 in 2024)",
+        "Total 2025 contracts (all uses)": "368,500 (+4.4% YoY)",
+        "Tenant composition": "Families 86%, singles 10%, worker accommodation 4%",
+        "High-growth communities": "Muwaileh, Aljada, emerging mixed-use",
+        "Rent rise range (high-demand)": "33-56% annually",
+        "Sharjah vs Dubai affordability gap": "20-30% cheaper than comparable Dubai stock",
+        "Demand driver": "Dubai rent climb + foreign-ownership reforms + infrastructure investment",
+        "Cited source": "Ali Siddiqui, Research Manager, Cavendish Maxwell"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Sharjah rents soar amid Dubai spillover (15 Jun 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/sharjah-rents-soar-as-housing-demand-surges-amid-dubai-spillover"
+        },
+        {
+          "label": "Cavendish Maxwell — Research & insights",
+          "url": "https://www.cavendishmaxwell.com/insights/research"
+        }
+      ],
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/33f881b2-8190-453f-b040-8df28d0aa8f5-org.jpg?width=600&height=400&q=60&format=auto",
+        "alt": "Sharjah residential cluster — Muwaileh and Aljada among communities seeing 33-56% rent rises from Dubai-spillover demand.",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "explainer": {
+        "tagline": "Sharjah is now the migration valve for Dubai-priced-out tenants — and Cavendish Maxwell says the 33-56% rent rises in Muwaileh and Aljada are the tape of that pressure.",
+        "whatIsIt": "Cavendish Maxwell research manager Ali Siddiqui tells Khaleej Times Sharjah's rental market booked ~290K residential contracts in 2025 (up from 278K in 2024) — 86% family, 10% singles, 4% worker accommodation. High-demand communities like Muwaileh and Aljada have seen some annual rent uplifts of 33-56% as Dubai-priced-out tenants migrate north for Sharjah stock that's still 20-30% cheaper than comparable Dubai inventory.",
+        "howItWorks": "Sharjah's foreign-ownership reforms (residency-linked title-deed access since 2022, opened further in 2025) and infrastructure investment around Sheikh Mohammed Bin Zayed Road have meaningfully reduced the cost of living one emirate east of Dubai. Coupled with persistent JVC/Marina/Business Bay rent climbs (Bayut's 5-yr +106-153% scan), Dubai-priced-out tenants moving to Aljada or Muwaileh trade 20-30% off rent for a ~30-45 min commute. The result is a Sharjah micro-overheat: 33-56% renewals in Muwaileh and Aljada feed back into the regional rent-cap debate just as ADREC's Abu Dhabi rent freeze (2 Jun 2026) signals a UAE-wide tightening of landlord pricing power.",
+        "whyItMatters": "Dubai operators should read this as a behaviour-pivot signal, not a competitive threat: every tenant who leaves Dubai for Sharjah is a vacated Dubai unit a landlord must re-let — at a price the Smart Rental Index now disciplines. For Dubai investors with rental-yield strategies, this argues for: (1) defending occupancy with index-aligned renewal asks rather than chasing market rent and risking voids, (2) eyeing the 30-45 min commute zones (JVC, Dubai South, Discovery Gardens) as natural retention plays against Sharjah, (3) considering Sharjah residential as a separate yield vehicle if mandate allows. The Abu Dhabi freeze + Sharjah overheat + Dubai easing combination is a coordinated UAE rent re-rating.",
+        "forWho": "Yield investors weighing Dubai vs Sharjah; Dubai landlords stress-testing tenant retention; brokers covering commuter-belt Dubai areas; family-office allocators looking at UAE rental as one portfolio; HR mobility teams pricing Dubai vs Sharjah housing allowances.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/sharjah-rents-soar-as-housing-demand-surges-amid-dubai-spillover"
+      },
+      "publishDate": "2026-06-16T13:46:56.313Z"
+    },
     {
       "id": "dubai-palm-jebel-ali-first-villa-handovers-end-2026-nakheel-jun-16-2026",
       "categories": [

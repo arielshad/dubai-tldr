@@ -5211,6 +5211,64 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260616t134656z",
+      "timestamp": "2026-06-16T13:46:56.313Z",
+      "source": "github-actions-sweep",
+      "summary": "Four fresh Dubai property cards captured in the 2026-06-16 13:30 UTC sweep — ANAX × ELLE Residences Dubai Islands groundbreaking (sold-out, Q4 2027 handover), the Smart Rental Index now in tenant hands for renewal cuts, fäm Properties' Jan-May 2026 luxury villa rental tape (AED 509M / +27% YoY), and the Cavendish Maxwell read on Sharjah rent spillover from Dubai-priced-out tenants.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-anax-elle-residences-dubai-islands-groundbreaking-sold-out-q4-2027-jun-16-2026",
+          "title": "ANAX Developments breaks ground on ELLE Residences Dubai Islands — 91 apartments + 7 signature townhouses sold out shortly after launch, Q4 2027 handover, IFG starts enabling works",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-smart-rental-index-tenant-renewal-leverage-merlin-amaya-range-jun-16-2026",
+          "title": "Dubai tenants weaponise the Smart Rental Index for renewal cuts — Merlin, Amaya & Co and Range International flag apartment rents easing from Q1 peak while villa rents still bid up year-on-year",
+          "category": "rental",
+          "note": "Added under rental."
+        },
+        {
+          "id": "dubai-fam-properties-jan-may-2026-luxury-villa-rental-tape-509m-palm-jumeirah-dubai-hills-jun-15-2026",
+          "title": "fäm Properties Jan-May 2026 Dubai luxury villa rental tape — AED 509M of new contracts above AED 1M (+27% YoY), AED 114M renewals (+28%), 7 leases above AED 10M, Palm Jumeirah AED 113M leads on volume / Dubai Hills Estate posts +37% strongest growth",
+          "category": "rental",
+          "note": "Added under rental."
+        },
+        {
+          "id": "dubai-cavendish-maxwell-sharjah-rent-spillover-muwaileh-aljada-290k-contracts-jun-15-2026",
+          "title": "Cavendish Maxwell flags Sharjah rent spillover from Dubai-priced-out tenants — Muwaileh / Aljada post 33-56% annual rent rises, Sharjah books 290K residential contracts (+4.4%) in 2025, stock still 20-30% cheaper than comparable Dubai inventory",
+          "category": "rental",
+          "note": "Added under rental."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "rental",
+        "legal",
+        "market",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
