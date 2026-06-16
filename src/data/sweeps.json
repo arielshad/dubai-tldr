@@ -5163,6 +5163,54 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260616t004343z",
+      "timestamp": "2026-06-16T00:43:43.437Z",
+      "source": "github-actions-sweep",
+      "summary": "Three verified Dubai signals dated 14–16 Jun 2026 — Palm Jebel Ali's first villa handovers locked for end-2026 after Dubai Holding consolidates 723 Fronds K–P contracts; Al Maktoum International Airport phase-1 anchored to 2032 open with AED 13B executing + AED 55B more by year-end; Gulf News + Elevate quantify the branded-residence premium at 30–40% with Dubai capturing 88% of the UAE branded-resi stack.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-palm-jebel-ali-first-villa-handovers-end-2026-nakheel-jun-16-2026",
+          "title": "Palm Jebel Ali locks first villa handovers for end-2026 — Dubai Holding / Nakheel push 723 Beach + Coral Collection units across Fronds K–P with AED 8.5B of construction contracts under execution",
+          "category": "developer",
+          "note": "Dubai Holding RE / Nakheel publicly anchor end-2026 first handover for Palm Jebel Ali — iconic stalled mega-project finally moves to a real delivery window."
+        },
+        {
+          "id": "dubai-al-maktoum-international-airport-phase-1-2032-aed-13b-execution-aed-55b-jun-15-2026",
+          "title": "Al Maktoum International Airport phase 1 on track for 2032 — AED 13B of contracts already under execution, another AED 55B in awards lined up by year-end as Dubai South ground-game readies 260M-pax buildout",
+          "category": "commercial",
+          "note": "DAEP reaffirms 2032 phase-1 opening with AED 68B of near-term construction pipeline — anchors Dubai South land-value thesis."
+        },
+        {
+          "id": "dubai-branded-residences-30-40-premium-88-percent-uae-share-elevate-jun-14-2026",
+          "title": "Gulf News + Elevate quantify Dubai's branded-residence premium — 30–40% over comparable unbranded stock, Dubai holds 88% of the UAE branded-resi pool as Aldar lands the luxury-positioning play",
+          "category": "luxury",
+          "note": "Elevate × Gulf News quantify Dubai's branded-residence premium at 30–40% with 88% UAE share — a fresh diligence benchmark for luxury buyers."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "market",
+        "luxury",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
