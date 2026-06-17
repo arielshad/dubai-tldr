@@ -1,8 +1,241 @@
 {
-  "generatedAt": "2026-06-17T00:40:10.882Z",
+  "generatedAt": "2026-06-17T13:18:02.670Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-equitativa-emirates-reit-indigo7-szr-aed-37m-jun-17-2026",
+      "categories": [
+        "commercial",
+        "market",
+        "ready"
+      ],
+      "title": "Equitativa / Emirates REIT divests Indigo 7 on Sheikh Zayed Road for AED 37M — 6.3% above the December 2025 valuation",
+      "org": "TradeArabia / Equitativa",
+      "date": "2026-06-17",
+      "url": "https://www.tradearabia.com/News/463761/Equitativa-sells-prime-commercial-building-in-Dubai",
+      "summary": "Equitativa, manager of Emirates REIT, books an AED 37M ($10.2M) sale of the 1,902 sqm Indigo 7 mixed-use retail and office building on Sheikh Zayed Road — sale price exceeds the December 2025 valuation of AED 34.8M, with CEO Thierry Delvaux flagging balance-sheet strengthening through the regional-conflict window.",
+      "tags": [
+        "commercial",
+        "REIT",
+        "Sheikh Zayed Road",
+        "Emirates REIT",
+        "Equitativa",
+        "Indigo 7"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-SZR",
+        "DXB-COMMERCIAL"
+      ],
+      "metrics": {
+        "Sale price": "AED 37M ($10.2M)",
+        "Dec 2025 valuation": "AED 34.8M",
+        "Premium to NAV": "+6.3%",
+        "GLA": "1,902 sqm",
+        "Asset acquired": "September 2011",
+        "Seller": "Equitativa (Emirates REIT manager)",
+        "Buyer": "Private (undisclosed)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia: Equitativa sells prime commercial building in Dubai",
+          "url": "https://www.tradearabia.com/News/463761/Equitativa-sells-prime-commercial-building-in-Dubai"
+        },
+        {
+          "label": "Emirates REIT — investor / portfolio overview (Equitativa)",
+          "url": "https://www.equitativa.com/emirates-reit/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Listed-REIT print sets a fresh AED/sqft mark for mixed-use commercial on Sheikh Zayed Road — sold above its own audited Dec-2025 NAV.",
+        "whatIsIt": "Equitativa, the manager of London-listed Emirates REIT, has sold the Indigo 7 mixed-use building on Sheikh Zayed Road for AED 37M ($10.2M). The asset was acquired by the REIT in September 2011 and totals 1,902 sqm of retail and office space.",
+        "howItWorks": "The headline price exceeds the December 2025 third-party valuation of AED 34.8M by ~6.3%. Equitativa is using the proceeds to strengthen Emirates REIT's balance sheet — CEO Thierry Delvaux explicitly cites positioning for the 'evolving macroeconomic and geopolitical environment'. Implied effective rate is ~AED 19,450/sqm of net floor area, before factoring in tenancy and DLD transfer costs.",
+        "whyItMatters": "For Sheikh Zayed Road commercial underwriting this is one of the cleanest publicly disclosed comps of mid-2026: a regulated REIT divesting at a +6.3% premium to a recent audited NAV during a war-overhang quarter when wider commercial rumours skew softer. Other SZR commercial holders now have a data point that NAV is at minimum a floor — and a possible re-rating signal for owner-occupiers and small-lot office investors.",
+        "forWho": "SZR office investors, REIT analysts, mid-cap commercial brokers, Emirati family offices recycling capital out of regulated REITs."
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/17/TA_20260617105531.webp",
+        "alt": "Indigo 7 mixed-use commercial building on Sheikh Zayed Road, sold by Equitativa for AED 37M.",
+        "credit": "TradeArabia"
+      },
+      "publishDate": "2026-06-17T13:18:02.670Z"
+    },
+    {
+      "id": "dubai-mortgage-fixed-rate-375-percent-lomond-rush-jun-17-2026",
+      "categories": [
+        "market",
+        "rental",
+        "lead"
+      ],
+      "title": "Dubai homebuyer rush — UAE banks' one-year fixed mortgage drops to 3.75%, two-year 3.78%, three-year 3.95% as buyers lock in pre-volatility",
+      "org": "Khaleej Times / Lomond (Betterhomes)",
+      "date": "2026-06-17",
+      "url": "https://www.khaleejtimes.com/business/dubai-homebuyers-rush-to-lock-in-fixed-rate-mortgages-as-rates-drop-to-375",
+      "summary": "Khaleej Times maps a sharp Dubai mortgage-enquiry pickup as UAE banks repost one-year fixed rates at 3.75%, two-year ~3.78% and three-year ~3.95%. Lomond head of mortgages Adriaan Rossouw calls fixed-rate 'the commercially rational' choice. LTV rules: first-time buyers up to 80% on ready, investors 60% on second properties, off-plan still 50% buyer contribution.",
+      "tags": [
+        "mortgage",
+        "fixed rate",
+        "Lomond",
+        "Betterhomes",
+        "LTV",
+        "Khaleej Times",
+        "Adriaan Rossouw"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MORTGAGE",
+        "DXB-RETAIL"
+      ],
+      "metrics": {
+        "1-year fixed": "3.75%",
+        "2-year fixed": "~3.78%",
+        "3-year fixed": "~3.95%",
+        "First-time buyer LTV (ready)": "up to 80%",
+        "Investor LTV (2nd property)": "up to 60%",
+        "Off-plan minimum buyer contribution": "50%"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times: Dubai homebuyers rush to lock in fixed-rate mortgages",
+          "url": "https://www.khaleejtimes.com/business/dubai-homebuyers-rush-to-lock-in-fixed-rate-mortgages-as-rates-drop-to-375"
+        },
+        {
+          "label": "Lomond UAE — mortgage advisory (Betterhomes)",
+          "url": "https://www.lomond.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First time in this cycle UAE banks repost one-year fixed at 3.75% — Lomond flags fixed-rate as 'commercially rational' as enquiries climb.",
+        "whatIsIt": "Khaleej Times documents a sharp Dubai mortgage-enquiry pickup as UAE banks reset their best-published one-year fixed rate at 3.75%, with two-year products around 3.78% and three-year fixed around 3.95%. Lomond — Betterhomes' mortgage arm — is the named broker mapping the rush.",
+        "howItWorks": "Borrower stack: first-time buyers on ready properties up to 80% LTV, investors on second properties up to 60% LTV, off-plan still demands a 50% buyer contribution. Adriaan Rossouw at Lomond explicitly calls fixed-rate products 'the default consideration for buyers comparing financing options' and 'not merely the cautious choice; it is the commercially rational one'. Enquiry volumes have risen steadily since early 2026.",
+        "whyItMatters": "A 3.75% one-year fixed reshapes the buy-versus-rent maths across mid-market apartments (AED 1–3M ticket) and trims downside risk on holding through the next leg of the war-discount unwind. It also tilts churn back toward primary-residence buyers vs leveraged investors — the LTV bands are explicitly more favourable to first-time end-users.",
+        "forWho": "Mortgage brokers, mid-market buyer agents pricing 2-year holds, Lomond/Betterhomes/Mortgage Finder competitors, end-users underwriting fixed-rate vs variable on their next purchase.",
+        "tryIt": "https://www.khaleejtimes.com/business/dubai-homebuyers-rush-to-lock-in-fixed-rate-mortgages-as-rates-drop-to-375"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-10/uk0fcshn/ANI_20260610082808.jpg",
+        "alt": "Dubai mortgage-rate composite — UAE banks repost one-year fixed at 3.75% in June 2026.",
+        "credit": "Khaleej Times / ANI"
+      },
+      "publishDate": "2026-06-17T13:18:02.670Z"
+    },
+    {
+      "id": "dubai-sharjah-ruler-aed-750m-al-taawun-tunnel-noor-road-jun-17-2026",
+      "categories": [
+        "market",
+        "legal",
+        "land"
+      ],
+      "title": "Sharjah Ruler commits AED 750M to two Sharjah-Dubai connectors — Al Taawun dual-carriageway tunnel + Noor Road extension by end-2026 to open a new cross-emirate corridor",
+      "org": "TradeArabia / Sharjah Media Office",
+      "date": "2026-06-17",
+      "url": "https://www.tradearabia.com/News/463737/Sharjah-Ruler-announces-%24204m-new-roads-linking-with-Dubai",
+      "summary": "HH Sheikh Sultan bin Mohammed Al Qasimi signs off on AED 750M ($204.22M) of new road works — an underground dual-carriageway tunnel from Al Taawun Street to Al Nahda Bridge, plus a Noor Road extension through to Dubai via Al Nahda Bridge, scheduled to open by end-2026. The Sharjah Ruler frames it as 'an important corridor between us and the Emirate of Dubai'.",
+      "tags": [
+        "Sharjah",
+        "infrastructure",
+        "Al Nahda Bridge",
+        "Al Taawun",
+        "Noor Road",
+        "cross-emirate"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-NAHDA",
+        "SHARJAH"
+      ],
+      "metrics": {
+        "Total investment": "AED 750M ($204.22M)",
+        "Al Taawun project": "Dual-carriageway underground tunnel — Al Taawun Street → Al Nahda Bridge (Dubai)",
+        "Noor Road project": "Extension from Al Orooba Street through Al Nahda Bridge → Dubai",
+        "Noor Road target completion": "End of 2026",
+        "Tunnel timeline": "Not yet specified"
+      },
+      "links": [
+        {
+          "label": "TradeArabia: Sharjah Ruler announces $204m new roads linking with Dubai",
+          "url": "https://www.tradearabia.com/News/463737/Sharjah-Ruler-announces-%24204m-new-roads-linking-with-Dubai"
+        },
+        {
+          "label": "Sharjah Roads & Transport Authority",
+          "url": "https://srta.gov.ae/en/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 750M of Sharjah road spend re-opens a fresh artery into Al Nahda Dubai — directly relevant to cross-emirate apartment-rent arbitrage already running through Muwaileh and Aljada.",
+        "whatIsIt": "Sharjah Ruler HH Sheikh Sultan bin Mohammed Al Qasimi has approved AED 750M ($204.22M) for two new road works: an underground dual-carriageway tunnel from Al Taawun Street to Al Nahda Bridge, and the Noor Road extension from Al Orooba Street through to Dubai via Al Nahda Bridge. Noor Road is targeted to open by end-2026.",
+        "howItWorks": "Both projects materially shorten Sharjah-side commute time into Al Nahda Dubai. The 'important corridor' framing maps directly onto the Sharjah-to-Dubai workforce flow that has driven Muwaileh and Aljada rents 33–56% higher YoY in Cavendish Maxwell's mid-June read. End-2026 Noor Road completion lands inside the typical 12-month landlord renewal cycle.",
+        "whyItMatters": "Cuts travel-time discount on Sharjah stock 20–30% cheaper than comparable Dubai inventory — likely to lift demand for Sharjah supply at the same time Dubai's Al Nahda and Al Qusais apartment owners get a fresh commuter inflow. For Dubai landlords on the Al Nahda corridor specifically, this is a leasing-tailwind signal for the next two renewal cycles.",
+        "forWho": "Cross-emirate buy-to-rent investors, Sharjah developers (Aljada, Muwaileh), Dubai Al Nahda apartment landlords, infrastructure-linked retail and F&B operators on Al Ittihad and Al Nahda Roads."
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/17/TA_20260617080621.webp",
+        "alt": "Sharjah Ruler announcement of AED 750M road works linking to Dubai via Al Nahda Bridge.",
+        "credit": "TradeArabia / Sharjah Media Office"
+      },
+      "publishDate": "2026-06-17T13:18:02.670Z"
+    },
+    {
+      "id": "dubai-omniyat-doubling-aed-200b-portfolio-2030-mahdi-amjad-jun-15-2026",
+      "categories": [
+        "developer",
+        "market",
+        "luxury"
+      ],
+      "title": "Omniyat formally targets >AED 200B portfolio by 2030 — current book AED 100–120B, $2B cash + $1B+ institutional credit lines on tap as Mahdi Amjad signals doubling through the war-discount window",
+      "org": "The National",
+      "date": "2026-06-15",
+      "url": "https://www.thenationalnews.com/business/property/2026/06/15/dubais-omniyat-aims-to-double-its-portfolio-to-more-than-dh200bn-by-2030/",
+      "summary": "The National reports founder-chairman Mahdi Amjad locking in Omniyat's 2030 target: more than AED 200B portfolio versus today's AED 100–120B (including AED 54B of landbank and projects under construction). Liquidity stack — $2B cash + $1B+ in institutional credit lines — sized to deploy through the Iran-war discount window without flexing prices on existing inventory.",
+      "tags": [
+        "Omniyat",
+        "Mahdi Amjad",
+        "luxury",
+        "developer",
+        "City of Arabia",
+        "The Yards",
+        "Arancia"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-CITY-OF-ARABIA",
+        "DXB-LUXURY",
+        "DXB-DEVELOPER"
+      ],
+      "metrics": {
+        "Current portfolio": "AED 100–120B (incl. landbank + projects under construction AED 54B)",
+        "2030 target": ">AED 200B (≈doubling)",
+        "Cash on hand": "$2B",
+        "Institutional credit lines": "$1B+",
+        "The Yards (City of Arabia)": "AED 4B masterplan, 2.3M sqft, 1,560 units",
+        "Q1 2026 Dubai context": "AED 252B citywide (+31% YoY)"
+      },
+      "links": [
+        {
+          "label": "The National: Dubai's Omniyat aims to double its portfolio to more than Dh200bn by 2030",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/15/dubais-omniyat-aims-to-double-its-portfolio-to-more-than-dh200bn-by-2030/"
+        },
+        {
+          "label": "Omniyat — corporate site",
+          "url": "https://www.omniyat.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Mahdi Amjad puts a formal AED 200B+/2030 number on Omniyat — and confirms a $3B+ liquidity stack already lined up to deploy through the war-discount window.",
+        "whatIsIt": "In an interview with The National, Omniyat founder-executive-chairman Mahdi Amjad sets a 2030 target of more than AED 200B for the group's property book — roughly double today's AED 100–120B (AED 54B of which is landbank and projects already under construction). Recent flagship: The Yards in City of Arabia (AED 4B, 2.3M sqft, 1,560 units), with Arancia Yards as the first phase.",
+        "howItWorks": "Funding stack: $2B cash on hand plus $1B+ in institutional credit lines, sized to keep buying landbank and progressing construction without flexing prices on already-sold inventory through the Iran-war discount window. New large-scale Abu Dhabi project is also on the development desk (details to be released).",
+        "whyItMatters": "Omniyat is the most aggressive of Dubai's privately-held ultra-prime developers (Lumena Alta, One Palm, Marquise Square). A formal portfolio-doubling target with a financed runway is a counter-signal to the 'developers are pausing' narrative — and points buyers / brokers toward continued primary-side launch flow in Business Bay, City of Arabia and select Abu Dhabi inserts. Existing buyers also get reassurance prices are not being cut on delivered stock.",
+        "forWho": "Ultra-prime buyers tracking Omniyat launches, branded-residence brokers, primary-side investors weighing developer balance sheets, suppliers and contractors bidding into upcoming Omniyat projects."
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/3BKF5533JBD4JH4NFCQ2KM4XJQ.jpg?smart=true&auth=6b74caa925da4c45867cf997d359187b7b6ddea684dddd701cb0c10eb2e95042&width=400&height=221",
+        "alt": "Omniyat's The Yards masterplan in Dubai's City of Arabia — flagship of the AED 200B+ 2030 portfolio target.",
+        "fit": "cover",
+        "credit": "The National / Omniyat"
+      },
+      "publishDate": "2026-06-17T13:18:02.670Z"
+    },
     {
       "id": "dubai-aiqya-jun-1-15-2026-mid-month-5263-deals-aed-8-1b-offplan-84-1-jun-16",
       "categories": [

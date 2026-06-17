@@ -5319,6 +5319,62 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260617t131802z",
+      "timestamp": "2026-06-17T13:18:02.670Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep finds four fresh Dubai-property signals in the 72h window: Equitativa books an AED 37M Indigo 7 sale on Sheikh Zayed Road (over the December 2025 valuation), Lomond/Khaleej Times maps a fixed-rate mortgage rush as one-year rates drop to 3.75%, Sharjah commits AED 750M to two new Dubai-linking road projects, and Omniyat formally targets >AED 200B by 2030 with $3B+ liquidity to deploy.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-equitativa-emirates-reit-indigo7-szr-aed-37m-jun-17-2026",
+          "title": "Equitativa / Emirates REIT divests Indigo 7 on Sheikh Zayed Road for AED 37M — 6.3% above the December 2025 valuation",
+          "category": "commercial",
+          "note": "Listed-REIT comp — Indigo 7 sold at +6.3% premium to Dec-2025 NAV; rare clean public commercial print on Sheikh Zayed Road through the war-discount window."
+        },
+        {
+          "id": "dubai-mortgage-fixed-rate-375-percent-lomond-rush-jun-17-2026",
+          "title": "Dubai homebuyer rush — UAE banks' one-year fixed mortgage drops to 3.75%, two-year 3.78%, three-year 3.95% as buyers lock in pre-volatility",
+          "category": "market",
+          "note": "First sub-4% one-year fixed of the cycle — material lever on buy-vs-rent maths and end-user share of next-cycle transactions."
+        },
+        {
+          "id": "dubai-sharjah-ruler-aed-750m-al-taawun-tunnel-noor-road-jun-17-2026",
+          "title": "Sharjah Ruler commits AED 750M to two Sharjah-Dubai connectors — Al Taawun dual-carriageway tunnel + Noor Road extension by end-2026 to open a new cross-emirate corridor",
+          "category": "market",
+          "note": "AED 750M cross-emirate connector lands directly on the Sharjah-to-Dubai workforce flow already driving the Cavendish Maxwell rent-spillover story."
+        },
+        {
+          "id": "dubai-omniyat-doubling-aed-200b-portfolio-2030-mahdi-amjad-jun-15-2026",
+          "title": "Omniyat formally targets >AED 200B portfolio by 2030 — current book AED 100–120B, $2B cash + $1B+ institutional credit lines on tap as Mahdi Amjad signals doubling through the war-discount window",
+          "category": "developer",
+          "note": "Formal AED 200B+/2030 target with $3B+ liquidity stack; counter-signal to the developer-pause narrative as ultra-prime supply keeps coming."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commercial",
+        "market",
+        "developer",
+        "rental",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
