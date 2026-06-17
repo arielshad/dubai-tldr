@@ -1,8 +1,213 @@
 {
-  "generatedAt": "2026-06-16T13:46:56.313Z",
+  "generatedAt": "2026-06-17T00:40:10.882Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-aiqya-jun-1-15-2026-mid-month-5263-deals-aed-8-1b-offplan-84-1-jun-16",
+      "categories": [
+        "market",
+        "offplan"
+      ],
+      "title": "AIQYA Jun 1–15 2026 mid-month Dubai apartments brief — 5,263 deals worth AED 8.10B, off-plan widens to 84.1% (from May 80.2%) as Azizi Venice 14 / 9 / 6 + ELTIERA VIEWS dominate flow",
+      "org": "AIQYA",
+      "date": "2026-06-16",
+      "url": "https://www.aiqya.com/dubai/dubai-residential-market-june-2026-mid-month-data-brief/",
+      "summary": "First-half-June freehold apartment tape from AIQYA: 5,263 deals, AED 8.10B, 84.1% off-plan, median AED 1,720/sqft, with Madinat Al Mataar alone clearing 28.6% of volume on Azizi Venice supply.",
+      "tags": [
+        "AIQYA",
+        "Dubai apartments",
+        "June 2026",
+        "mid-month brief",
+        "off-plan",
+        "Azizi Venice",
+        "ELTIERA VIEWS",
+        "DAMAC Lagoons Valencia",
+        "Madinat Al Mataar",
+        "JVC",
+        "DLRC",
+        "market data"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MADINAT-AL-MATAAR",
+        "JVC",
+        "DLRC",
+        "JEBEL-ALI-1"
+      ],
+      "metrics": {
+        "Period": "1–15 Jun 2026",
+        "Total apartment deals": "5,263",
+        "Total value": "AED 8.10B",
+        "Off-plan share": "84.1%",
+        "Off-plan share, May 2026": "80.2%",
+        "Average ticket": "AED 1.54M",
+        "Median ticket": "AED 1.09M",
+        "Average price": "AED 1,848/sqft",
+        "Median price": "AED 1,720/sqft",
+        "Median unit size": "724 sqft",
+        "Top-5 area share": "45.5%",
+        "Top-10 area share": "58.0%",
+        "Madinat Al Mataar deals": "1,507 (28.6%)",
+        "JVC deals": "319",
+        "Al Thanyah Fifth deals": "215",
+        "DLRC deals": "178",
+        "Jabal Ali First deals": "176",
+        "Azizi Venice 14 deals": "678 (12.9%)",
+        "ELTIERA VIEWS deals": "198",
+        "Azizi Venice 9 deals": "146",
+        "Azizi Venice 6 deals": "95",
+        "DAMAC Lagoons Valencia deals": "93",
+        "Azizi-branded share": "~33.3%"
+      },
+      "links": [
+        {
+          "label": "AIQYA mid-month brief",
+          "url": "https://www.aiqya.com/dubai/dubai-residential-market-june-2026-mid-month-data-brief/"
+        },
+        {
+          "label": "AIQYA May 2026 baseline (in feed)",
+          "url": "https://aiqya.com/dubai/dubai-residential-market-may-2026-data-snapshot"
+        }
+      ],
+      "explainer": {
+        "tagline": "First-half-June apartment tape: 5,263 deals, AED 8.10B, off-plan widens to 84.1% from May's 80.2% as Azizi Venice 14 alone clears 12.9% of the city.",
+        "whatIsIt": "Mid-month AIQYA data drop covers Dubai freehold apartment transactions from 1–15 June 2026 — the cleanest single-source check on whether the June seasonality call (8–12% pullback from May) is showing up in the numbers yet, and whether the post-shock off-plan/ready mix from May is widening or narrowing.",
+        "howItWorks": "Half-month run prints 5,263 apartment deals worth AED 8.10B at AED 1,848/sqft average (median AED 1,720). Off-plan jumps to 84.1% from May's 80.2% — concentration is heavy: top-5 areas take 45.5%, Madinat Al Mataar alone is 28.6% with 1,507 deals, and Azizi Venice 14/9/6 plus ELTIERA VIEWS account for ~21% of all sales. Azizi-branded projects across all clusters now ~33.3% of identified volume.",
+        "whyItMatters": "Tells a buyer this is a Madinat Al Mataar + Azizi Venice tape, not a citywide one. If you're underwriting JVC / DLRC / Al Thanyah secondary, comp-set distortion from Azizi off-plan volume is real — strip those projects out before reading citywide AED/sqft. If you're a developer, the mid-month read says June will not break the 80%+ off-plan share that defined May; ready-stock sellers should price accordingly.",
+        "forWho": "Off-plan vs ready underwriters; brokers pricing comp sets in airport-corridor / Azizi-saturated communities; researchers checking the seasonality print.",
+        "tryIt": "https://www.aiqya.com/dubai/dubai-residential-market-june-2026-mid-month-data-brief/"
+      },
+      "image": {
+        "url": "https://www.aiqya.com/wp-content/uploads/2026/06/dubai-residential-market-june-2026-860x573.jpg",
+        "alt": "AIQYA Dubai residential market June 2026 mid-month data brief hero image",
+        "fit": "cover",
+        "credit": "AIQYA"
+      },
+      "publishDate": "2026-06-17T00:40:10.882Z"
+    },
+    {
+      "id": "dubai-fthb-programme-developer-reaction-ellington-springfield-jun-16-2026",
+      "categories": [
+        "developer",
+        "lead",
+        "market"
+      ],
+      "title": "Khaleej Times maps the developer-side push behind Dubai's First-Time Home Buyer Programme — Ellington offers 8-month DLD-fee splits, Springfield calls it an 'ownership-driven' shift as the 22-developer roster reaches ~3,200 buyers",
+      "org": "Khaleej Times",
+      "date": "2026-06-16",
+      "url": "https://www.khaleejtimes.com/business/property/developers-expect-dubais-first-time-buyer-programme-driving-homeownership-demand",
+      "summary": "Khaleej Times catches the developer-side response one week after Dubai expanded the FTHB roster to 22 partners — Ellington offers DLD-fee splits, Springfield flags an ownership-driven shift in the residential mix.",
+      "tags": [
+        "FTHB",
+        "First-Time Home Buyer Programme",
+        "Ellington Properties",
+        "Springfield Properties",
+        "Emaar",
+        "DAMAC",
+        "Danube",
+        "Azizi",
+        "DLD",
+        "homeownership",
+        "Dubai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Beneficiaries since Jul-2025": "~3,200",
+        "Developers participating": "22",
+        "New developers added (Jun 8 expansion)": "9",
+        "DLD transfer fee": "4%",
+        "Ellington offer": "DLD fee split across 8 monthly instalments",
+        "Eligibility": "18+, no existing freehold residential property in Dubai"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — developer reaction (Jun 16, 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/developers-expect-dubais-first-time-buyer-programme-driving-homeownership-demand"
+        },
+        {
+          "label": "Dubai Media Office — FTHB Jun 8 expansion (in feed)",
+          "url": "https://mediaoffice.ae/en/news/2026/jun/08-06/dubai-first-time-home-buyer-program"
+        }
+      ],
+      "explainer": {
+        "tagline": "Ellington splits the 4% DLD fee across 8 months, Springfield calls it 'ownership-driven' — developer-side detail on the FTHB push.",
+        "whatIsIt": "A week after Dubai expanded the First-Time Home Buyer Programme roster to 22 developers, Khaleej Times pulls the operator view. Ellington CEO Ellie Naaman details the actual incentives buyers see — preferential pricing on units plus the 4% DLD transfer fee paid across 8 monthly instalments. Springfield CEO Farooq Syed frames the scheme as the trigger for a 'more mature, ownership-driven residential market'.",
+        "howItWorks": "Programme is open to anyone 18+ with no current freehold residential property in Dubai (Emirati citizens get enhanced terms). Buyers route through the 22 partner developers (Emaar, DAMAC, Danube, Azizi, Ellington, Springfield et al.) and unlock priority access to new units, preferential pricing, flexible payment plans. The Ellington-style 4%-DLD-fee instalment is the closest thing to a closing-cost discount available on a Dubai primary transaction today.",
+        "whyItMatters": "Confirms that the Jun 8 22-developer expansion is being absorbed into actual offer sheets — not just a media-office headline. For a first-time buyer modeling a sub-AED 2M ticket, the DLD-fee split alone shifts the AED 80K transfer cost from a closing-day cheque to ~AED 10K/month, materially changing the cash-curve. For sellers and secondary brokers, the primary-side incentive stack widens the off-plan vs resale spread again.",
+        "forWho": "First-time buyers comparing primary vs secondary; brokers underwriting closing-cost pitches; developers tracking which of the 22 partners are stacking the most aggressive sweetener.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/developers-expect-dubais-first-time-buyer-programme-driving-homeownership-demand"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/u-Rp3SKNoe1TR3ed6M_GRYh0ZTc.jpg?width=600&height=400&q=60&format=auto",
+        "alt": "Dubai Land Department First-Time Home Buyer Programme — developer reaction (Khaleej Times)",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-06-17T00:40:10.882Z"
+    },
+    {
+      "id": "dubai-construction-cost-war-impact-samana-91-percent-3-22-percent-jun-17-2026",
+      "categories": [
+        "developer",
+        "market",
+        "legal"
+      ],
+      "title": "Gulf News × Samana × University of Birmingham Dubai: regional-war construction-cost pass-through hits Dubai homes at 3–22% material-price rise — already-sold units protected, future buys repriced as 70% of demand still local-supplied",
+      "org": "Gulf News",
+      "date": "2026-06-17",
+      "url": "https://gulfnews.com/business/property/will-higher-material-costs-make-dubai-homes-more-expensive-1.500531301",
+      "summary": "Samana CEO Imran Farooq and University of Birmingham Dubai's Dr Seyed Ghaffar map the war's pass-through into Dubai homebuilding — material prices up 3–22% vs pre-war, already-sold units locked, future pricing exposed.",
+      "tags": [
+        "construction cost",
+        "regional war",
+        "Samana Developers",
+        "University of Birmingham Dubai",
+        "Imran Farooq",
+        "Seyed Ghaffar",
+        "supply chain",
+        "Dubai homes",
+        "off-plan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Material price rise vs pre-war": "3–22%",
+        "Samana units sold-through": "91%",
+        "Local-supply coverage of demand": "70%",
+        "Article date": "2026-06-17"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Will buyers pay for higher building costs? (Jun 17, 2026)",
+          "url": "https://gulfnews.com/business/property/will-higher-material-costs-make-dubai-homes-more-expensive-1.500531301"
+        },
+        {
+          "label": "Khaleej Times — Tilal Al Ghaf force-majeure denial / construction on schedule (Jun 12, in feed)",
+          "url": "https://khaleejtimes.com/business/property/uae-majid-al-futtaim-denies-reports-delay-tilal-al-ghaf-regional-war"
+        }
+      ],
+      "explainer": {
+        "tagline": "Material costs up 3–22% post-war — already-sold units locked, future buyers wear the bill as Samana posts 91% sold-through.",
+        "whatIsIt": "Gulf News stress-tests the regional-war pass-through into Dubai homebuilding. Samana CEO Imran Farooq and University of Birmingham Dubai construction-management professor Dr Seyed Ghaffar both put on-record numbers behind a question that has been hand-waved since Q1: war disruptions have increased procurement costs, extended delivery timelines, and pushed material prices 3–22% above pre-war levels even though local production still covers ~70% of demand.",
+        "howItWorks": "Pricing impact is contract-timing-dependent, not blanket. Already-sold units inside a developer's book (Samana cites 91% sold-through across its portfolio) are insulated — the developer eats the cost. Future buyers / new launches re-price. Materials remain available but flow through costlier, longer routes — i.e. logistics/delivery, not base raw-material price, is the bigger driver.",
+        "whyItMatters": "Concrete answer to the most-asked buyer question this quarter: yes, future Dubai homes cost more; no, the bill on already-sold contracts does not get passed back. For a buyer staring at an off-plan launch this week, the 3–22% range is the implicit pricing premium being absorbed (or not) by the developer's quote. For a secondary-market seller, the same data widens the resale-vs-new-launch arb if the developer is forced to mark up.",
+        "forWho": "Off-plan buyers comparing pre-war SPAs vs new launches; secondary sellers underwriting resale-vs-new spreads; analysts modeling 2026 margin compression for residential developers.",
+        "tryIt": "https://gulfnews.com/business/property/will-higher-material-costs-make-dubai-homes-more-expensive-1.500531301"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2Fimport%2F2023%2F08%2F16%2FStock---Dubai-construction---UAE-construction---Construction-_189fea39c5a_large.jpg",
+        "alt": "Dubai construction site — building material costs and supply-chain pass-through (Gulf News)",
+        "fit": "cover",
+        "credit": "Gulf News"
+      },
+      "publishDate": "2026-06-17T00:40:10.882Z"
+    },
     {
       "id": "dubai-anax-elle-residences-dubai-islands-groundbreaking-sold-out-q4-2027-jun-16-2026",
       "categories": [

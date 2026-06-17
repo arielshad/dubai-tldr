@@ -5269,6 +5269,56 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260617t004010z",
+      "timestamp": "2026-06-17T00:40:10.882Z",
+      "source": "github-actions-sweep",
+      "summary": "Three new mid-June 2026 Dubai property reads: AIQYA's first-half-June apartment data print (5,263 deals / AED 8.10B / 84.1% off-plan), Khaleej Times' developer-side reaction to the expanded First-Time Home Buyer Programme, and Gulf News' on-the-record check on regional-war construction-cost pass-through (3–22% material price rise, Samana 91% sold-through).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-aiqya-jun-1-15-2026-mid-month-5263-deals-aed-8-1b-offplan-84-1-jun-16",
+          "title": "AIQYA Jun 1–15 2026 mid-month Dubai apartments brief — 5,263 deals worth AED 8.10B, off-plan widens to 84.1% (from May 80.2%) as Azizi Venice 14 / 9 / 6 + ELTIERA VIEWS dominate flow",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-fthb-programme-developer-reaction-ellington-springfield-jun-16-2026",
+          "title": "Khaleej Times maps the developer-side push behind Dubai's First-Time Home Buyer Programme — Ellington offers 8-month DLD-fee splits, Springfield calls it an 'ownership-driven' shift as the 22-developer roster reaches ~3,200 buyers",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-construction-cost-war-impact-samana-91-percent-3-22-percent-jun-17-2026",
+          "title": "Gulf News × Samana × University of Birmingham Dubai: regional-war construction-cost pass-through hits Dubai homes at 3–22% material-price rise — already-sold units protected, future buys repriced as 70% of demand still local-supplied",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "offplan",
+        "ready",
+        "rental",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
