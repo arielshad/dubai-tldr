@@ -5375,6 +5375,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260618t004024z",
+      "timestamp": "2026-06-18T00:40:24.600Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep at 2026-06-18 00:32 UTC produced no qualifying new opportunities. The prior sweep (2026-06-17 13:18 UTC) already captured the day's tier-1 Dubai signals (Equitativa Indigo7 SZR sale, 3.75% fixed-mortgage rush, Sharjah Al Taawun tunnel AED 750M, construction cost-war impact on developers). The only fresh stories surfaced in this window — Arada's 100 Avenue Road London launch (UAE developer going abroad, not Dubai), Aqaree proptech platform launch (no concrete pricing/distress signal), Dubai Investments Danah Bay villa handover (Al Marjan Island/RAK, not Dubai), and a Khaleej Times follow-on on FTHB developer expectations (duplicates jun-16-2026 FTHB card already in feed) — all fail the inclusion bar of materially-below-comps, seller-motivation evidence, specific buyer/seller action, or Dubai-specific regulatory signal. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
