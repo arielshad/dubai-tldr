@@ -5411,6 +5411,62 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260618t131050z",
+      "timestamp": "2026-06-18T13:10:50.288Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-18 sweep ingests two fresh Jun-18 developer launches (DAMAC Lifestyle Collection across DAMAC Hills / Hills 2 / Lagoons / Riverside at AED 1,999/month entry; Ellington's lagoon-facing Everly Place at Meydan Horizon, 209 units) and the back-to-back Jun-17 / Jun-16 DLD daily prints (AED 1.26B at 60.3% off-plan; AED 1.56B at 58.8% off-plan).",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-damac-lifestyle-collection-aed-1999-monthly-master-communities-jun-18-2026",
+          "title": "DAMAC launches The Lifestyle Collection — apartments across DAMAC Hills, Hills 2, Lagoons and Riverside with monthly payments from AED 1,999 ($544.2) for first-time buyers, end-users and long-term residents",
+          "category": "developer",
+          "note": "First Jun-18 primary-side launch from a top-5 developer pitched explicitly on affordability and FTHB-rail mapping — material new pricing signal across DAMAC Hills / Hills 2 / Lagoons / Riverside."
+        },
+        {
+          "id": "dubai-ellington-everly-place-meydan-horizon-209-residences-jun-18-2026",
+          "title": "Ellington launches Everly Place at Meydan Horizon — 209 lagoon-facing 1- to 3-BR residences (plus studies) in MBR City, anchored on lifestyle amenities and the future Dubai Metro Gold Line",
+          "category": "offplan",
+          "note": "Adds 209 design-led units to Meydan Horizon's lagoon-front supply from an FTHB-partnered developer; useful comp for MBR City primary stock and Gold Line accessibility plays."
+        },
+        {
+          "id": "dubai-dld-jun-17-2026-daily-print-aed-126b-offplan-603-percent",
+          "title": "Dubai DLD daily print 2026-06-17: AED 1.26B with off-plan at 60.3% — off-plan flats AED 613.6M lead, ready flats AED 282.6M anchors as apartment-led demand stays the spine of the book",
+          "category": "market",
+          "note": "Continues the daily DLD cadence — AED 1.26B with off-plan flats AED 613.6M anchoring apartment-led demand through 2026-06-17."
+        },
+        {
+          "id": "dubai-dld-jun-16-2026-daily-print-aed-156b-offplan-588-percent",
+          "title": "Dubai DLD daily print 2026-06-16: AED 1.56B with off-plan at 58.8% — off-plan flats AED 723.2M lead, ready flats AED 548.6M holds the secondary engine as ready commercial / villa share rebuilds",
+          "category": "market",
+          "note": "Highest June ready-flat clearance to date (AED 548.6M) alongside an AED 723.2M off-plan flats lead — material rotation signal worth a card."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "market",
+        "lead",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

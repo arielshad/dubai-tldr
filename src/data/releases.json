@@ -1,8 +1,270 @@
 {
-  "generatedAt": "2026-06-18T00:40:24.600Z",
+  "generatedAt": "2026-06-18T13:10:50.288Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-damac-lifestyle-collection-aed-1999-monthly-master-communities-jun-18-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "lead"
+      ],
+      "title": "DAMAC launches The Lifestyle Collection — apartments across DAMAC Hills, Hills 2, Lagoons and Riverside with monthly payments from AED 1,999 ($544.2) for first-time buyers, end-users and long-term residents",
+      "org": "DAMAC Properties / TradeArabia",
+      "date": "2026-06-18",
+      "url": "https://www.tradearabia.com/News/463865/Damac-launches-new-lifestyle-collection-in-Dubai",
+      "summary": "DAMAC Properties debuts 'The Lifestyle Collection' — a curated portfolio of apartments across DAMAC Hills, DAMAC Hills 2, DAMAC Lagoons and DAMAC Riverside priced from AED 1,999/month — explicitly framed for first-time buyers, end-users and long-term residents stepping into Dubai's master-community living during the post-AED-750K-visa-floor / First-Time Home Buyer Programme window.",
+      "tags": [
+        "DAMAC",
+        "Lifestyle Collection",
+        "AED 1,999/month",
+        "DAMAC Hills",
+        "DAMAC Hills 2",
+        "DAMAC Lagoons",
+        "DAMAC Riverside",
+        "first-time buyer",
+        "end-user",
+        "Jun 18 2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DAMAC",
+        "DXB"
+      ],
+      "metrics": {
+        "Entry monthly payment": "AED 1,999 (~USD 544.20)",
+        "Communities included": "DAMAC Hills, DAMAC Hills 2, DAMAC Lagoons, DAMAC Riverside",
+        "Target buyer": "First-time buyers, end-users, long-term residents",
+        "DLD First-Time Home Buyer Programme footprint to date": "AED 5B+ across 3,200+ first-time buyers (Jun 8 2026)",
+        "Launch date": "2026-06-18"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — DAMAC launches new lifestyle collection in Dubai (Jun 18 2026)",
+          "url": "https://www.tradearabia.com/News/463865/Damac-launches-new-lifestyle-collection-in-Dubai"
+        },
+        {
+          "label": "Zawya press release — DAMAC The Lifestyle Collection (Jun 18 2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/damac-launches-the-lifestyle-collection-making-apartment-ownership-in-dubais-master-communities-even-more-accessible-loll7gbz"
+        },
+        {
+          "label": "GDN online — DAMAC launches new lifestyle collection in Dubai",
+          "url": "https://www.gdnonline.com/Details/1398036/Damac-launches-new-lifestyle-collection-in-Dubai"
+        },
+        {
+          "label": "Dubai Land Department — First-Time Home Buyer overview",
+          "url": "https://dubailand.gov.ae/en/eservices/first-time-home-buyer-overview/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DAMAC opens four master communities to first-time buyers with AED 1,999/month entry — affordability-led play that maps onto Dubai's First-Time Home Buyer Programme and the new no-floor visa rule.",
+        "whatIsIt": "DAMAC's new 'Lifestyle Collection' bundles a curated apartment set across DAMAC Hills, DAMAC Hills 2, DAMAC Lagoons and DAMAC Riverside under a single accessibility narrative — monthly payment plans starting at AED 1,999 (~USD 544.2) targeting first-time buyers, end-users and long-term residents who want master-community living without a luxury ticket. Managing Director Amira Sajwani positions it as 'access to a community' rather than just an apartment.",
+        "howItWorks": "Headline number is the monthly payment plan starting at AED 1,999 across the four master-planned communities. The launch deliberately rides Dubai's policy stack: the Dubai Land Department's First-Time Home Buyer Programme has already moved 3,200+ buyers and AED 5B+ of transactions since Jul 2025 (Jun 8 2026 update), and the May 2026 removal of the AED 750K minimum on the 2-year investor visa means even the smaller Lifestyle units now sit on a visa-eligible runway. Buyers should still underwrite the full ticket price, service charges per community, and whether each unit qualifies for the FTHB priority/preferential-pricing pipeline.",
+        "whyItMatters": "Two months into Dubai's cooling debate (Cavendish Maxwell flagged May 2026 down to ~9,500 deals / AED 22B, -27% MoM / -46% YoY) and with secondary listings cutting AED 2.36B by end-May, the top-five developers leaning into affordability is a real read on where the next demand pocket sits. For brokers, DAMAC's monthly-payment messaging gives a sharper hook for renters considering a first buy; for owners and resellers in the same four communities, it sets a primary-side price reference that will compete with their resale asks; for DAMAC itself, it doubles down on the same FTHB rail that 21 other developers (Ellington, Springfield, Arada, Reportage, SAMANA, Sky View etc.) are already on.",
+        "forWho": "Brokers fielding first-time buyer enquiries in DAMAC Hills / Hills 2 / Lagoons / Riverside, renters underwriting a buy-vs-rent flip, FTHB-eligible Dubai residents, and primary-side analysts tracking how the AED 750K visa-floor removal feeds entry-level demand.",
+        "tryIt": "https://www.damacproperties.com/en/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/18/TA_20260618130452.webp",
+        "alt": "DAMAC The Lifestyle Collection — affordable apartment ownership across DAMAC Hills, Hills 2, Lagoons and Riverside, AED 1,999/month entry",
+        "fit": "cover",
+        "credit": "DAMAC Properties / TradeArabia"
+      },
+      "publishDate": "2026-06-18T13:10:50.288Z"
+    },
+    {
+      "id": "dubai-ellington-everly-place-meydan-horizon-209-residences-jun-18-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "luxury"
+      ],
+      "title": "Ellington launches Everly Place at Meydan Horizon — 209 lagoon-facing 1- to 3-BR residences (plus studies) in MBR City, anchored on lifestyle amenities and the future Dubai Metro Gold Line",
+      "org": "Ellington Properties / TradeArabia",
+      "date": "2026-06-18",
+      "url": "https://www.tradearabia.com/News/463859/Ellington-announces-launch-of-209-design-led-residences-in-Meydan-",
+      "summary": "Ellington Properties launches Everly Place at MBR City's Meydan Horizon — 209 design-led residences (1/2/3-BR + study apartments) overlooking the crystal lagoon, with amenities spanning an infinity pool, club lounge with bowling alley, café bar, coworking, spa with sauna/chromotherapy, outdoor cinema and BBQ zones; positioned near Downtown, Dubai Creek Harbour and the upcoming Dubai Metro Gold Line.",
+      "tags": [
+        "Ellington",
+        "Everly Place",
+        "Meydan Horizon",
+        "MBR City",
+        "lagoon-facing",
+        "209 residences",
+        "1-3 BR + study",
+        "Gold Line connectivity",
+        "Jun 18 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MBR-CITY",
+        "MEYDAN"
+      ],
+      "metrics": {
+        "Unit count": "209 residences",
+        "Unit mix": "1 / 2 / 3-BR apartments + study units",
+        "Location": "Meydan Horizon, Mohammed Bin Rashid City",
+        "Frontage": "Crystal lagoon",
+        "Connectivity": "Near Downtown Dubai, Dubai Creek Harbour, future Dubai Metro Gold Line (42 km, 15 stops)",
+        "Launch date": "2026-06-18"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Ellington announces launch of 209 design-led residences in Meydan (Jun 18 2026)",
+          "url": "https://www.tradearabia.com/News/463859/Ellington-announces-launch-of-209-design-led-residences-in-Meydan-"
+        },
+        {
+          "label": "Ellington Properties — corporate site",
+          "url": "https://ellingtonproperties.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Ellington adds 209 lagoon-front residences in MBR City's Meydan Horizon — design-led, amenity-heavy and walking distance from the future Dubai Metro Gold Line.",
+        "whatIsIt": "Everly Place is Ellington Properties' newest Mohammed Bin Rashid City launch — 209 design-led 1 / 2 / 3-BR units plus study apartments, lined up along the Meydan Horizon crystal lagoon with floor-to-ceiling windows and lagoon-facing layouts. The product is positioned squarely on Ellington's lifestyle-and-amenities thesis: infinity pool overlooking the lagoon, a club lounge with bowling alley, café bar, coworking and gaming spaces, fitness and yoga studios, spa-inspired changing rooms with sauna and chromotherapy showers, kids' play areas, outdoor cinema, BBQ zones, outdoor table tennis, cabanas and landscaped podium gardens.",
+        "howItWorks": "Public launch is dated 2026-06-18 with TradeArabia carrying Ellington's announcement. Detailed pricing, payment plan and handover timeline are not yet disclosed in the launch note. Until the developer publishes a price list and registers an Oqood escrow account, buyers should verify the project's RERA registration via the DLD Trakheesi portal and confirm payment-plan terms in the SPA. Location proximity is to Downtown Dubai, Dubai Creek Harbour and the upcoming 42 km / 15-stop Dubai Metro Gold Line.",
+        "whyItMatters": "Meydan is one of Dubai's deepest MBR City sub-markets and Ellington is the same developer the DLD already names as a 22-partner FTHB Programme developer (Khaleej Times Jun-16 'developer reaction' piece flagged Ellington offering 8-month DLD-fee splits to first-time buyers). Adding 209 design-led units on the lagoon-front extends Ellington's footprint into a sub-area where the Gold Line build-out is set to reprice walkability — useful as a primary-side comp for resellers in nearby Ellington House II / Berkeley Place / The Quayside / Belgravia clusters.",
+        "forWho": "Buyers benchmarking new MBR City / Meydan stock against existing Ellington inventory, brokers fielding lagoon-frontage end-user demand, owners in adjacent District 11 / Sobha Hartland clusters tracking primary-side supply, and underwriters pricing the Gold Line accessibility premium.",
+        "tryIt": "https://ellingtonproperties.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/18/TA_20260618114318.webp",
+        "alt": "Ellington Everly Place at Meydan Horizon — 209 lagoon-facing 1- to 3-BR residences with design-led amenities in MBR City, launched Jun 18 2026",
+        "fit": "cover",
+        "credit": "Ellington Properties / TradeArabia"
+      },
+      "publishDate": "2026-06-18T13:10:50.288Z"
+    },
+    {
+      "id": "dubai-dld-jun-17-2026-daily-print-aed-126b-offplan-603-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-17: AED 1.26B with off-plan at 60.3% — off-plan flats AED 613.6M lead, ready flats AED 282.6M anchors as apartment-led demand stays the spine of the book",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-06-17",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-18-jun-2026",
+      "summary": "Dubai's 2026-06-17 DLD tape printed AED 1.26B of total transacted value — AED 759.2M off-plan (60.3%) and AED 499.1M ready (39.7%). Off-plan flats AED 613.6M led the day; off-plan villas AED 72.6M, commercial AED 44.0M and hotel apartments AED 29.0M filled the rest. Ready stack ran AED 282.6M flats, AED 105.9M villas, AED 99.9M commercial and AED 10.7M hotel apartments.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan 60.3%",
+        "AED 1.26B",
+        "apartments lead",
+        "off-plan flats AED 613.6M",
+        "ready flats AED 282.6M",
+        "Jun 17 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-06-17",
+        "Total transacted value": "AED 1.26B",
+        "Off-plan share": "60.3% (AED 759.2M)",
+        "Ready share": "39.7% (AED 499.1M)",
+        "Off-plan flats": "AED 613.6M",
+        "Off-plan villas": "AED 72.6M",
+        "Off-plan commercial": "AED 44.0M",
+        "Off-plan hotel apartments": "AED 29.0M",
+        "Ready flats": "AED 282.6M",
+        "Ready villas": "AED 105.9M",
+        "Ready commercial": "AED 99.9M",
+        "Ready hotel apartments": "AED 10.7M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Jun 18 review (Jun 17 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-18-jun-2026"
+        },
+        {
+          "label": "DLD official transactions page",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD tape softens to AED 1.26B on 2026-06-17 but off-plan share rebuilds to 60.3% — apartments still doing the heavy lifting on both books.",
+        "whatIsIt": "The Real Estate Reports' Jun-18 daily review summarises Dubai's 2026-06-17 DLD print: AED 1.26B of total transacted value with off-plan at AED 759.2M (60.3%) and ready at AED 499.1M (39.7%). Off-plan flats at AED 613.6M and ready flats at AED 282.6M dominate the day's flow.",
+        "howItWorks": "Off-plan stack: flats AED 613.6M (80.8% of off-plan), villas AED 72.6M (9.6%), commercial AED 44.0M (5.8%), hotel apartments AED 29.0M (3.8%). Ready stack: flats AED 282.6M (56.6% of ready), villas AED 105.9M (21.2%), commercial AED 99.9M (20.0%), hotel apartments AED 10.7M (2.1%). The 2026-06-17 day sits between Jun-16's AED 1.56B and the preceding mid-week range as off-plan apartments continue to capture roughly four-fifths of primary-side flow.",
+        "whyItMatters": "AED 1.26B keeps the tape comfortably above AED 1B/day even as the headline cools off Jun-16's AED 1.56B print — the AED 613.6M off-plan flats line still anchors primary absorption while the ready commercial AED 99.9M (~20% of ready) shows secondary investors keep picking up income-producing stock alongside ready flats. For brokers, the spread between off-plan flats (AED 613.6M) and ready flats (AED 282.6M) again reinforces primary apartments as the cleanest single-segment exit at this point in the cycle.",
+        "forWho": "Brokers calibrating off-plan and ready-flat ask prices, primary developers benchmarking inventory absorption, secondary investors tracking ready commercial flow, market analysts following the daily DLD cadence.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/23562828-7404-4e9d-a3cc-0aa568ff16c2/pexels-abid-bin-nazar-10514386.jpg",
+        "alt": "Dubai DLD daily print 2026-06-17 — AED 1.26B with off-plan at 60.3% as off-plan flats AED 613.6M lead apartment-led demand",
+        "fit": "cover",
+        "credit": "Abid Bin Nazar / The Real Estate Reports"
+      },
+      "publishDate": "2026-06-18T13:10:50.288Z"
+    },
+    {
+      "id": "dubai-dld-jun-16-2026-daily-print-aed-156b-offplan-588-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-16: AED 1.56B with off-plan at 58.8% — off-plan flats AED 723.2M lead, ready flats AED 548.6M holds the secondary engine as ready commercial / villa share rebuilds",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-06-16",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-17-jun-2026",
+      "summary": "Dubai's 2026-06-16 DLD tape printed AED 1.56B of total transacted value — AED 915.8M off-plan (58.8%) and AED 642.8M ready (41.2%). Off-plan flats AED 723.2M led the day with off-plan commercial AED 95.4M; ready flats AED 548.6M dominated the ready stack while ready villas AED 56.0M and ready commercial AED 21.3M filled the rest.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan 58.8%",
+        "AED 1.56B",
+        "apartments lead",
+        "off-plan flats AED 723.2M",
+        "ready flats AED 548.6M",
+        "Jun 16 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-06-16",
+        "Total transacted value": "AED 1.56B",
+        "Off-plan share": "58.8% (AED 915.8M)",
+        "Ready share": "41.2% (AED 642.8M)",
+        "Off-plan flats": "AED 723.2M",
+        "Off-plan commercial": "AED 95.4M",
+        "Off-plan hotel apartments": "AED 52.4M",
+        "Off-plan villas": "AED 44.7M",
+        "Ready flats": "AED 548.6M",
+        "Ready villas": "AED 56.0M",
+        "Ready commercial": "AED 21.3M",
+        "Ready hotel apartments": "AED 16.9M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Jun 17 review (Jun 16 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-17-jun-2026"
+        },
+        {
+          "label": "DLD official transactions page",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD tape jumps back to AED 1.56B on 2026-06-16 — ready share rebuilds to 41.2% as ready flats clear AED 548.6M alongside an AED 723.2M off-plan flats lead.",
+        "whatIsIt": "The Real Estate Reports' Jun-17 daily review summarises Dubai's 2026-06-16 DLD print: AED 1.56B of total transacted value with off-plan at AED 915.8M (58.8%) and ready at AED 642.8M (41.2%). Off-plan flats AED 723.2M lead the day; ready flats AED 548.6M anchor the secondary book.",
+        "howItWorks": "Off-plan stack: flats AED 723.2M (79.0% of off-plan), commercial AED 95.4M (10.4%), hotel apartments AED 52.4M (5.7%), villas AED 44.7M (4.9%). Ready stack: flats AED 548.6M (85.3% of ready), villas AED 56.0M (8.7%), commercial AED 21.3M (3.3%), hotel apartments AED 16.9M (2.6%). Jun-16 prints +52% above the Jun-17 follow-on of AED 1.26B and shifts ~1.5 ppt of share back toward the ready book as completed apartments draw end-user / investor cash.",
+        "whyItMatters": "AED 1.56B with ready flats at AED 548.6M is the largest single-day ready-flat clearance in the June run to date — a useful read on whether the Bayut/JLL 'rally fades, ready market softens' framing is loosening as buyers pick up completed inventory at sub-peak asks. The AED 723.2M off-plan flats line keeps the primary book firmly in the AED 700M+ zone, consistent with AIQYA's mid-month 84.1% off-plan apartment share. Brokers should treat the ready-flat surge as a near-term liquidity datapoint for secondary repricing conversations.",
+        "forWho": "Brokers fielding ready-flat re-asks, primary developers benchmarking flats absorption, secondary owners considering price discovery, and market analysts tracking the ready/off-plan rotation through June 2026.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d631c16d-6a4f-4dfb-8084-24d340bbd421/pexels-kirandeepsingh-11370462.jpg",
+        "alt": "Dubai DLD daily print 2026-06-16 — AED 1.56B with off-plan at 58.8% and ready share rebuilding to 41.2% on AED 548.6M ready flats",
+        "fit": "cover",
+        "credit": "Kirandeep Singh / The Real Estate Reports"
+      },
+      "publishDate": "2026-06-18T13:10:50.288Z"
+    },
     {
       "id": "dubai-equitativa-emirates-reit-indigo7-szr-aed-37m-jun-17-2026",
       "categories": [
