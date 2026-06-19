@@ -5512,6 +5512,48 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260619t131627z",
+      "timestamp": "2026-06-19T13:16:27.372Z",
+      "source": "github-actions-sweep",
+      "summary": "Two verified additions on the 2026-06-19 sweep: the Dubai DLD daily print for 2026-06-18 (AED 1.42B, off-plan 64.6%) and the Omnitech-launched Aqaree UAE proptech portal on 2026-06-17 — a new entrant into the broker-verified listings stack alongside Bayut, Property Finder, dubizzle and Houza. Empty across distress/auction/luxury within the 72h window.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-18-2026-daily-print-aed-142b-offplan-646-percent",
+          "title": "Dubai DLD daily print 2026-06-18: AED 1.42B with off-plan at 64.6% — off-plan flats AED 690.6M lead, ready flats AED 277.3M anchors as commercial books AED 232.2M combined",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-aqaree-omnitech-proptech-launch-uae-portal-jun-17-2026",
+          "title": "Aqaree by Omnitech Technology launches UAE proptech portal on 2026-06-17 — verified-broker listings with integrated video viewings, new entrant alongside Bayut, Property Finder, dubizzle and Houza",
+          "category": "media",
+          "note": "Added under media."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "media",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

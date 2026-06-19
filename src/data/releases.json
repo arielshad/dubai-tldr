@@ -1,8 +1,135 @@
 {
-  "generatedAt": "2026-06-19T00:47:02.971Z",
+  "generatedAt": "2026-06-19T13:16:27.372Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-18-2026-daily-print-aed-142b-offplan-646-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-18: AED 1.42B with off-plan at 64.6% — off-plan flats AED 690.6M lead, ready flats AED 277.3M anchors as commercial books AED 232.2M combined",
+      "org": "Dubai Land Department / The Real Estate Reports",
+      "date": "2026-06-18",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-19-jun-2026",
+      "summary": "Dubai's 2026-06-18 DLD tape printed AED 1.42B of total transacted value — AED 916.5M off-plan (64.6%) and AED 501.9M ready (35.4%). Off-plan flats AED 690.6M led the day; off-plan commercial AED 178.1M, off-plan villas AED 26.1M and off-plan hotel apartments AED 21.6M filled the rest. Ready stack ran AED 277.3M flats, AED 157.7M villas, AED 54.1M commercial and AED 12.8M hotel apartments.",
+      "tags": [
+        "DLD",
+        "daily print",
+        "off-plan 64.6%",
+        "AED 1.42B",
+        "apartments lead",
+        "off-plan flats AED 690.6M",
+        "ready flats AED 277.3M",
+        "Jun 18 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB"
+      ],
+      "metrics": {
+        "Date": "2026-06-18",
+        "Total transacted value": "AED 1.42B",
+        "Off-plan share": "64.6% (AED 916.5M)",
+        "Ready share": "35.4% (AED 501.9M)",
+        "Off-plan flats": "AED 690.6M",
+        "Off-plan villas": "AED 26.1M",
+        "Off-plan commercial": "AED 178.1M",
+        "Off-plan hotel apartments": "AED 21.6M",
+        "Ready flats": "AED 277.3M",
+        "Ready villas": "AED 157.7M",
+        "Ready commercial": "AED 54.1M",
+        "Ready hotel apartments": "AED 12.8M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Jun 19 review (Jun 18 tape)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-19-jun-2026"
+        },
+        {
+          "label": "DLD official transactions page",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD tape rebuilds to AED 1.42B on 2026-06-18 with off-plan share back up to 64.6% — off-plan flats AED 690.6M and commercial AED 232M combined run the day.",
+        "whatIsIt": "The Real Estate Reports' Jun-19 daily review summarises Dubai's 2026-06-18 DLD print: AED 1.42B of total transacted value with off-plan at AED 916.5M (64.6%) and ready at AED 501.9M (35.4%). Off-plan flats at AED 690.6M and ready flats at AED 277.3M dominate the day's flow as commercial across both books prints a combined AED 232.2M.",
+        "howItWorks": "Off-plan stack: flats AED 690.6M (75.4% of off-plan), commercial AED 178.1M (19.4%), villas AED 26.1M (2.8%), hotel apartments AED 21.6M (2.4%). Ready stack: flats AED 277.3M (55.2% of ready), villas AED 157.7M (31.4%), commercial AED 54.1M (10.8%), hotel apartments AED 12.8M (2.6%). The 2026-06-18 print sits above the Jun-17 AED 1.26B day and just under Jun-16's AED 1.56B as off-plan share climbs back over 60% on a heavier commercial contribution.",
+        "whyItMatters": "AED 1.42B keeps the tape comfortably above AED 1B/day and the off-plan flats AED 690.6M line still anchors primary absorption. The standout is the AED 178.1M off-plan commercial line — the biggest off-plan commercial day this week — alongside AED 157.7M of ready villas (~31% of ready) showing secondary villa flow has not faded with apartments. For brokers the spread between off-plan flats (AED 690.6M) and ready flats (AED 277.3M) again reinforces primary apartments as the cleanest single-segment exit at this point in the cycle.",
+        "forWho": "Brokers calibrating off-plan and ready-flat ask prices, primary developers benchmarking inventory absorption, secondary investors tracking ready villas and ready commercial, market analysts following the daily DLD cadence.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/72d1305c-faba-4d6d-b9d7-74baa0560e21/pexels-sam-rana-1645605.jpg",
+        "alt": "Dubai DLD daily print 2026-06-18 — AED 1.42B with off-plan at 64.6% as off-plan flats AED 690.6M lead and combined commercial books AED 232M",
+        "fit": "cover",
+        "credit": "Sam Rana / The Real Estate Reports"
+      },
+      "publishDate": "2026-06-19T13:16:27.372Z"
+    },
+    {
+      "id": "dubai-aqaree-omnitech-proptech-launch-uae-portal-jun-17-2026",
+      "categories": [
+        "media",
+        "lead"
+      ],
+      "title": "Aqaree by Omnitech Technology launches UAE proptech portal on 2026-06-17 — verified-broker listings with integrated video viewings, new entrant alongside Bayut, Property Finder, dubizzle and Houza",
+      "org": "Aqaree / Omnitech Technology / Khaleej Times / Gulf Today",
+      "date": "2026-06-17",
+      "url": "https://www.khaleejtimes.com/business/property/aqaree-launches-in-the-uae-to-enhance-property-discovery-and-support-the-evolution-of-the-real-estate-ecosystem",
+      "summary": "Mohamed Eissa Al Refaei, CEO of Omnitech Technology, launches Aqaree — a UAE-developed proptech portal that aggregates verified listings from registered brokers and pairs each one with integrated video-based property viewing. Pitched as a transparency / accessibility play across Abu Dhabi and the wider UAE; the founder frames it as a collaboration-not-replacement layer for brokers rather than a direct portal-war entry.",
+      "tags": [
+        "proptech",
+        "Aqaree",
+        "Omnitech Technology",
+        "Mohamed Eissa Al Refaei",
+        "verified listings",
+        "video viewings",
+        "UAE portal launch",
+        "Jun 17 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "UAE",
+        "AUH"
+      ],
+      "metrics": {
+        "Date": "2026-06-17",
+        "Operator": "Omnitech Technology",
+        "Founder / CEO": "Mohamed Eissa Al Refaei",
+        "Launch market": "Abu Dhabi + wider UAE",
+        "Listing source": "Verified registered-broker inventory",
+        "Differentiator": "Integrated video-based property viewings",
+        "Positioning vs. incumbents": "Collaboration / complement, not replacement"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Aqaree launches in the UAE",
+          "url": "https://www.khaleejtimes.com/business/property/aqaree-launches-in-the-uae-to-enhance-property-discovery-and-support-the-evolution-of-the-real-estate-ecosystem"
+        },
+        {
+          "label": "Gulf Today — UAE-developed new platform to drive transparency in real estate",
+          "url": "https://www.gulftoday.ae/business/2026/06/17/uae-developed-new-platform-to-drive-transparency-in-real-estate"
+        }
+      ],
+      "explainer": {
+        "tagline": "New UAE proptech portal Aqaree opens on 2026-06-17 — verified-broker listings + integrated video viewings, another channel brokers and operators now have to monitor alongside Bayut, Property Finder, dubizzle and Houza.",
+        "whatIsIt": "Aqaree is a UAE-developed digital real-estate portal built by Omnitech Technology and led by Mohamed Eissa Al Refaei as CEO. It aggregates verified listings from registered brokers across Abu Dhabi and the wider UAE and pairs each listing with integrated video-based property viewing, pitched as a transparency and accessibility upgrade for buyers and tenants rather than a direct Bayut / Property Finder replacement.",
+        "howItWorks": "Aqaree's value proposition has two halves: (1) every listing comes from a registered broker — Omnitech screens the supply side instead of accepting anonymous uploads, and (2) every listing carries a structured video viewing so buyers and tenants can rule properties in or out remotely before booking a physical inspection. The launch was carried by Khaleej Times (partner content, Jun 17 2026) and Gulf Today (editorial, Jun 17 2026); neither piece discloses broker count, listing volume, funding, or pricing model.",
+        "whyItMatters": "For Dubai brokers and operators, Aqaree is a new channel — and another inventory fragmentation point — alongside Bayut, Property Finder, dubizzle and Houza. The video-first format also nudges Dubai's portal layer closer to remote-buyer workflows, which matters for the meaningful share of Dubai demand coming from overseas. The launch is too young to underwrite — no broker / listing / funding numbers have been published — so the immediate operator action is registration and monitoring rather than dependency.",
+        "forWho": "UAE brokers deciding which portals to syndicate to, Dubai property operators tracking new listing channels, overseas buyers using video-led remote viewings, proptech investors mapping UAE portal competition.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/aqaree-launches-in-the-uae-to-enhance-property-discovery-and-support-the-evolution-of-the-real-estate-ecosystem"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-17/89gr83oo/WhatsApp-Image-2026-06-17-at-10.20.31-AM.jpeg?width=800&height=600&q=60&format=auto",
+        "alt": "Aqaree proptech portal launches in the UAE on 2026-06-17 with verified-broker listings and integrated video viewings",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-06-19T13:16:27.372Z"
+    },
     {
       "id": "dubai-gold-line-metro-jvc-mbr-city-meydan-property-impact-jun-18-2026",
       "categories": [
