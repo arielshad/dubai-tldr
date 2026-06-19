@@ -1,8 +1,174 @@
 {
-  "generatedAt": "2026-06-18T13:10:50.288Z",
+  "generatedAt": "2026-06-19T00:47:02.971Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-gold-line-metro-jvc-mbr-city-meydan-property-impact-jun-18-2026",
+      "categories": [
+        "market",
+        "ready",
+        "offplan",
+        "rental"
+      ],
+      "title": "Gulf News maps the Dubai Metro Gold Line repricing scan — AED 34B / 18 stations / 1.5M residents corridor lifts JVC, MBR City, Meydan, Al Barsha South into the metro-premium bracket as HRE, Arabian Acres, Merlin, Meraki and Pride & Property flag 15–30% historic premiums",
+      "org": "Gulf News (Nivetha Dayanand)",
+      "date": "2026-06-18",
+      "url": "https://www.gulfnews.com/business/property/dubai-gold-line-puts-jvc-mbr-city-and-meydan-on-property-investors-radar-1.500531351",
+      "summary": "Gulf News pulls together the broker-and-developer read on the AED 34B Dubai Metro Gold Line (18 underground stations, opens Sept 2032) — five named houses (HRE Development, Arabian Acres, Merlin Real Estate, Meraki Developers, Pride & Property) put the metro-adjacency premium at 15–30% historically and 18–25% during the build phase, with JVC, MBR City, Meydan, Al Barsha South, Business Bay, Jumeirah Golf Estates and Nad Al Sheba named as the corridor's repricing winners.",
+      "tags": [
+        "Dubai Metro Gold Line",
+        "RTA",
+        "AED 34B",
+        "18 stations",
+        "Sept 2032",
+        "JVC",
+        "MBR City",
+        "Meydan",
+        "Al Barsha South",
+        "Business Bay",
+        "Nad Al Sheba",
+        "Jumeirah Golf Estates",
+        "metro premium",
+        "transit-oriented",
+        "HRE Development",
+        "Arabian Acres",
+        "Merlin Real Estate",
+        "Meraki Developers",
+        "Pride & Property",
+        "Jun 18 2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-JVC",
+        "MBR-CITY",
+        "MEYDAN",
+        "BUSBAY",
+        "JGE"
+      ],
+      "metrics": {
+        "Project capex": "AED 34B (fully underground)",
+        "Stations": "18 stations across 15 strategic locations",
+        "Catchment": "~1.5M residents, 55 major developments already on the corridor",
+        "Opens": "September 2032 (per RTA timeline)",
+        "Historic metro premium (HRE)": "20–30%, 18–25% during dev phase",
+        "Historic metro premium (Pride & Property)": "~15–20% for comparable units",
+        "RTA forecast price uplift near stations": "Up to ~20%",
+        "RTA 20-year cumulative economic return": "~430%",
+        "Key interchanges": "Business Bay (Red Line), Al Ghubaiba (Green Line), Meydan & Jumeirah Golf Estates (planned Etihad Rail)",
+        "Date": "2026-06-18"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Dubai Gold Line puts JVC, MBR City and Meydan on property investors' radar (Jun 18 2026)",
+          "url": "https://www.gulfnews.com/business/property/dubai-gold-line-puts-jvc-mbr-city-and-meydan-on-property-investors-radar-1.500531351"
+        },
+        {
+          "label": "Ellington Everly Place at Meydan Horizon — 209 residences anchored on future Gold Line (Jun 18 2026, TradeArabia)",
+          "url": "https://www.tradearabia.com/News/463859/Ellington-announces-launch-of-209-design-led-residences-in-Meydan-"
+        },
+        {
+          "label": "RTA — Dubai Metro Blue Line / network overview",
+          "url": "https://www.rta.ae/wps/portal/rta/ae/home"
+        }
+      ],
+      "explainer": {
+        "tagline": "Brokers and developers put a number on the Gold Line: 15–30% historic metro-adjacency premium, with JVC, MBR City and Meydan named as the first repricing winners.",
+        "whatIsIt": "Gulf News' Nivetha Dayanand pulls five named houses (HRE Development, Arabian Acres, Merlin Real Estate, Meraki Developers, Pride & Property) into a single read on how the AED 34B fully-underground Dubai Metro Gold Line is already pulling buyer decisions forward in the communities it will eventually serve. The line connects 15 strategic locations through 18 stations, anchors interchanges at Business Bay (Red Line), Al Ghubaiba (Green Line) and planned Etihad Rail nodes at Meydan and Jumeirah Golf Estates, and is not scheduled to open until September 2032.",
+        "howItWorks": "Mohammed Al Sari (HRE Development) puts the historical metro-adjacency premium at 20–30%, rising 18–25% during the development phase; Nithin Chauhan (Pride & Property) sees a more conservative 15–20% for comparable units, with 'plots that sat on the market at a certain valuation … being looked at differently now.' Issa Atiq (Arabian Acres) names JVC, MBR City and Al Barsha South as the communities gaining metro for the first time. Rohit Bachani (Merlin) and Ajay Rajendran (Meraki) flag Business Bay, Nad Al Sheba and Jumeirah Golf Estates plus 'strongest accessibility premium … around interchange stations.' RTA models project ~20% uplift in nearby property values and a 430% cumulative 20-year economic return; ~1.5M residents and 55 already-built developments sit inside the corridor. The repricing cycle the article describes moves in stages: announcement → route clarity → visible construction → 12–24 months pre-opening → post-launch adoption.",
+        "whyItMatters": "Dubai's last major metro repricing (Red Line tower clusters, Burj Khalifa/Dubai Mall) is what these brokers are anchoring the 15–30% premium to — but the Gold Line corridor starts from a stronger base than typical greenfield, because JVC already runs the city's highest residential volumes, MBR City and Meydan attract investors today, and Business Bay is one of Dubai's most liquid resale districts. For buyers, the announcement-to-visible-construction window is historically the cleanest entry; for sellers in JVC / MBR City / Al Barsha South, listings can be re-priced with a metro-narrative rider; for off-plan developers, feasibility timelines and transit-oriented mid-rise / mixed-use formats are already being re-cut to land mid-build. The Gold Line announcement also rhymes with the Ellington Everly Place Meydan Horizon launch (Jun 18 2026, 209 residences) which explicitly markets the Gold Line as a value driver.",
+        "forWho": "Brokers underwriting JVC / MBR City / Meydan / Al Barsha South / Business Bay listings, off-plan investors picking transit-oriented units, secondary sellers timing a metro-narrative repricing, and developers re-cutting feasibility against the Gold Line timeline.",
+        "tryIt": "https://www.gulfnews.com/business/property/dubai-gold-line-puts-jvc-mbr-city-and-meydan-on-property-investors-radar-1.500531351"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-04-23%2F7xahkacf%2FDubai-Metro-Gold-Line?w=480&auto=format%2Ccompress&fit=max",
+        "alt": "Dubai Metro Gold Line — AED 34B fully-underground line connecting 18 stations across JVC, MBR City, Meydan, Al Barsha South, Business Bay, Jumeirah Golf Estates and Nad Al Sheba (Sept 2032 opening)",
+        "fit": "cover",
+        "credit": "Dubai Media Office / Gulf News"
+      },
+      "publishDate": "2026-06-19T00:47:02.971Z"
+    },
+    {
+      "id": "dubai-bugatti-baccarat-aed-323m-three-luxury-deals-us-iran-truce-jun-17-2026",
+      "categories": [
+        "luxury",
+        "ready",
+        "market"
+      ],
+      "title": "Dubai's first-truce-day luxury tape — three branded-residence units clear AED 323M as AED 200M + AED 70M Bugatti Residences Business Bay deals stack on a AED 53M Baccarat Hotel & Residences Downtown sale (plus AED 42.5M Al Barari plot)",
+      "org": "Gulf Today (Farooq Fayyad)",
+      "date": "2026-06-17",
+      "url": "https://www.gulftoday.ae/business/2026/06/17/three-luxury-units-worth-dhs323-million-sold-in-dubai-on-first-day-of-us-iranian-agreement",
+      "summary": "Gulf Today flags three branded-residence trades totalling AED 323M on Dubai's first trading day after the US-Iran truce — a AED 200M and a AED 70M 5BR/10-parking unit at Bugatti Residences (Business Bay, Binghatti), a AED 53M 5BR Baccarat Hotel & Residences sale (Burj Khalifa area) and a AED 42.5M Al Barari land plot — frames the tape as the truce-window read on Dubai's branded-luxury bid.",
+      "tags": [
+        "Bugatti Residences",
+        "Binghatti",
+        "Baccarat Hotel & Residences",
+        "Shamal Holding",
+        "H&H Development",
+        "Business Bay",
+        "Burj Khalifa",
+        "Al Barari",
+        "branded residences",
+        "US-Iran truce",
+        "AED 323M tape",
+        "AED 200M",
+        "AED 70M",
+        "AED 53M",
+        "AED 42.5M land plot",
+        "Jun 17 2026"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "BUSBAY",
+        "DOWNTOWN",
+        "PALM"
+      ],
+      "metrics": {
+        "Tape total (three units)": "AED 323M, 2026-06-17",
+        "Deal 1 — Bugatti Residences (Business Bay, Binghatti)": "AED 200M, 5BR + 10 parking spaces",
+        "Deal 2 — Bugatti Residences (Business Bay, Binghatti)": "AED 70M, 5BR + 10 parking spaces",
+        "Deal 3 — Baccarat Hotel & Residences (Burj Khalifa area)": "AED 53M, 5BR",
+        "Side-trade — Al Barari residential land plot": "AED 42.5M",
+        "Bugatti reference — penthouse record (Dec 2025)": "AED 550M at AED 11,650/sqft, Business Bay all-time high",
+        "Branded-residence premium (Gulf News × Elevate, Jun 14 2026)": "30–40% over comparable unbranded stock",
+        "Macro frame": "First trading day after US-Iran truce announcement"
+      },
+      "links": [
+        {
+          "label": "Gulf Today — Three luxury units worth AED 323M sold on first day of US-Iran agreement (Jun 17 2026)",
+          "url": "https://www.gulftoday.ae/business/2026/06/17/three-luxury-units-worth-dhs323-million-sold-in-dubai-on-first-day-of-us-iranian-agreement"
+        },
+        {
+          "label": "Bugatti Residences by Binghatti — official Newsroom unveiling",
+          "url": "https://newsroom.bugatti.com/en/press-releases/the-official-unveiling-bugatti-residences-by-binghatti"
+        },
+        {
+          "label": "Baccarat Hotel & Residences — Downtown Dubai project page",
+          "url": "https://baccarat-downtown-dubai.com/"
+        },
+        {
+          "label": "Khaleej Times — Bugatti Residences AED 550M Sky Mansion penthouse record (Dec 2025)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-middle-east-most-expensive-penthouse-sold-dh550-million"
+        }
+      ],
+      "explainer": {
+        "tagline": "Branded-luxury Dubai books AED 323M on the truce day — two Bugatti Residences mansions plus a Baccarat 5BR — a clean read on where post-Hormuz capital actually went.",
+        "whatIsIt": "Gulf Today, citing DLD data, flagged three high-value residential transactions worth AED 323M on Dubai's first trading day after the US-Iran truce announcement: AED 200M and AED 70M deals for 5BR units (each with 10 parking spaces) at Bugatti Residences in Business Bay (Binghatti), plus a AED 53M 5BR at Baccarat Hotel & Residences in the Burj Khalifa area (Shamal Holding × H&H Development). A separate AED 42.5M Al Barari residential land plot cleared in the same window.",
+        "howItWorks": "The Bugatti deals follow Binghatti's December 2025 Sky Mansion penthouse record (AED 550M, AED 11,650/sqft — Business Bay's all-time high). Bugatti Residences is structured around 171 Riviera Mansion units and 11 Sky Mansion penthouses with per-unit car lifts and private parking allocations; both new trades sit in the Riviera-Mansion cohort at a roughly AED 70M baseline rising to AED 200M for the larger / better-stacked unit. The Baccarat trade at AED 53M lands inside Shamal Holding × H&H Development's 49-key branded residential block alongside the 144-room Baccarat Hotel; comparable 2-bed listings on the project enter at AED 18M, signalling the AED 53M unit sits in the upper-floor / larger-format tier. The Al Barari plot trade rounds out the day on residential land.",
+        "whyItMatters": "The tape is the cleanest available read on where Dubai luxury capital sat the moment Hormuz reopened — branded residences with limited supply (Bugatti's 11 penthouses, Baccarat's 49 residences) absorbed AED 323M across three units in one day, even before the broader market processed the truce. With the Gulf News × Elevate branded-residence premium read at 30–40% (Jun 14 2026), and Bugatti's per-sqft already at AED 11,650, the trades support the thesis that war-discount unwind is concentrating into trophy-grade branded stock rather than the broader resale book. For brokers, it's a re-price cue on remaining Bugatti / Baccarat inventory; for owners on the same projects, it's a clean comp; for funds running luxury Dubai theses, it's a same-day post-truce data point that the bid is real.",
+        "forWho": "Luxury Dubai brokers on Bugatti Residences / Baccarat / Business Bay / Downtown books, ultra-prime owners marking books to the truce-window tape, and Middle East luxury / branded-residence funds reading the first post-Hormuz print.",
+        "tryIt": "https://www.gulftoday.ae/business/2026/06/17/three-luxury-units-worth-dhs323-million-sold-in-dubai-on-first-day-of-us-iranian-agreement"
+      },
+      "image": {
+        "url": "https://cdnx.premiumread.com/?url=https://www.gulftoday.ae/gulftoday/uploads/images/2026/06/17/1088024.webp&w=800&q=100&f=webp&t=0.0.2",
+        "alt": "Dubai luxury skyline — Bugatti Residences (Binghatti, Business Bay) and Baccarat Hotel & Residences (Downtown / Burj Khalifa area) tape AED 323M of branded-luxury deals on US-Iran truce day",
+        "fit": "cover",
+        "credit": "Gulf Today / WAM"
+      },
+      "publishDate": "2026-06-19T00:47:02.971Z"
+    },
     {
       "id": "dubai-damac-lifestyle-collection-aed-1999-monthly-master-communities-jun-18-2026",
       "categories": [

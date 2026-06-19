@@ -5467,6 +5467,51 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260619t004702z",
+      "timestamp": "2026-06-19T00:47:02.971Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh Dubai property cards: the AED 34B Gold Line Metro repricing scan across JVC/MBR City/Meydan with five named broker quotes, and the AED 323M Bugatti+Baccarat branded-residence luxury tape struck on the first US-Iran truce day.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-gold-line-metro-jvc-mbr-city-meydan-property-impact-jun-18-2026",
+          "title": "Gulf News maps the Dubai Metro Gold Line repricing scan — AED 34B / 18 stations / 1.5M residents corridor lifts JVC, MBR City, Meydan, Al Barsha South into the metro-premium bracket as HRE, Arabian Acres, Merlin, Meraki and Pride & Property flag 15–30% historic premiums",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-bugatti-baccarat-aed-323m-three-luxury-deals-us-iran-truce-jun-17-2026",
+          "title": "Dubai's first-truce-day luxury tape — three branded-residence units clear AED 323M as AED 200M + AED 70M Bugatti Residences Business Bay deals stack on a AED 53M Baccarat Hotel & Residences Downtown sale (plus AED 42.5M Al Barari plot)",
+          "category": "luxury",
+          "note": "Added under luxury."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "ready",
+        "offplan",
+        "rental",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
