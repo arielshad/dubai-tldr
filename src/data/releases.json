@@ -1,8 +1,192 @@
 {
-  "generatedAt": "2026-06-20T00:35:27.881Z",
+  "generatedAt": "2026-06-20T12:39:17.784Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-19-2026-daily-print-aed-164b-offplan-483-percent-ready-tie",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-19: AED 1.64B with off-plan back to 48.3% — ready flats AED 602.9M nearly tie off-plan flats AED 607.9M as mortgage flow lifts the ready book",
+      "org": "The Real Estate Report",
+      "date": "2026-06-19",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-20-jun-2026",
+      "summary": "Friday print breaks the off-plan-dominated week pattern — off-plan share drops to 48.3% as ready flats AED 602.9M sit within 1% of off-plan flats AED 607.9M, with AED 381M in flat mortgages anchoring the ready engine.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "mortgages",
+        "market-data"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARKET"
+      ],
+      "metrics": {
+        "Total tape": "AED 1.64B",
+        "Off-plan share": "48.3%",
+        "Off-plan flats": "AED 607.9M",
+        "Ready flats": "AED 602.9M",
+        "Off-plan villas": "AED 86.0M",
+        "Off-plan commercial": "AED 85.1M",
+        "Ready commercial": "AED 112.5M",
+        "Flat mortgages": "AED 381M"
+      },
+      "links": [
+        {
+          "label": "Daily review (The Real Estate Report, 2026-06-20)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-20-jun-2026"
+        },
+        {
+          "label": "DLD open data portal",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "First print of the week where ready flats almost match off-plan flats — mortgage liquidity, not off-plan launches, drove the ready book.",
+        "whatIsIt": "Dubai's daily DLD print for 2026-06-19 totals AED 1.64B with off-plan share back to 48.3% — a sharp break from the 58.8% / 60.3% / 64.6% off-plan dominance across 2026-06-16 / 17 / 18. Ready flats AED 602.9M came within AED 5M of off-plan flats AED 607.9M.",
+        "howItWorks": "Off-plan: flats AED 607.9M, commercial AED 85.1M, villas AED 86.0M (~AED 779M total). Ready: flats AED 602.9M, commercial AED 112.5M, plus a chunky AED 381M in flat mortgages — the mortgage flow is the swing variable that lifted ready-flat value to parity. Total tape AED 1.64B is 15.5% above the 2026-06-18 print (AED 1.42B).",
+        "whyItMatters": "Two reads: (1) the rate-cut window (fixed mortgages at 3.75–3.95% per the 2026-06-17 KT piece) is now visible in DLD weekly cadence, not just sentiment surveys; (2) ready-flat liquidity is wide enough that secondary sellers don't need to discount to off-plan to clear — useful when underwriting hold-vs-sell on completed stock. Watch whether ready-flat parity holds across the weekend prints before treating it as a regime shift.",
+        "forWho": "Secondary brokers, ready-stock sellers underwriting hold-vs-sell, mortgage originators, sales-comp analysts.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-20-jun-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/18d7221c-3668-49a4-a502-a1f3b95b96e5/pexels-florian-kriechbaumer-1479976889-26926258.jpg",
+        "alt": "Dubai skyline cover image for The Real Estate Report's 2026-06-19 daily DLD print",
+        "fit": "cover",
+        "credit": "The Real Estate Report / Pexels"
+      },
+      "publishDate": "2026-06-20T12:39:17.784Z"
+    },
+    {
+      "id": "dubai-zazen-ivy-al-furjan-leed-handover-jun-20-2026",
+      "categories": [
+        "ready",
+        "developer"
+      ],
+      "title": "ZāZEN Properties starts handover of LEED-certified ZāZEN Ivy in Al Furjan — second LEED development after ZāZEN One and ZāZEN Gardens, six-storey residential block with Vastu-compliant layouts",
+      "org": "ZāZEN Properties / TradeArabia",
+      "date": "2026-06-20",
+      "url": "https://www.tradearabia.com/News/463910/ZaZEN-starts-handover-of-its--LEED-certified-residential-project",
+      "summary": "ZāZEN Ivy hands over in Al Furjan as ZāZEN's second LEED-certified development — six-storey block with Vastu-compliant residences, near Gardens Metro, Sheikh Zayed Road and Ibn Battuta Mall.",
+      "tags": [
+        "zazen",
+        "al-furjan",
+        "handover",
+        "leed",
+        "vastu",
+        "developer",
+        "boutique"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "AL-FURJAN",
+        "DXB-WEST"
+      ],
+      "metrics": {
+        "Project": "ZāZEN Ivy",
+        "Community": "Al Furjan",
+        "Stack": "Six storeys",
+        "Certification": "LEED",
+        "Developer's prior projects": "ZāZEN One, ZāZEN Gardens",
+        "Nearby anchors": "Gardens Metro, SZR, Ibn Battuta Mall, DWC airport"
+      },
+      "links": [
+        {
+          "label": "TradeArabia handover announcement (2026-06-20)",
+          "url": "https://www.tradearabia.com/News/463910/ZaZEN-starts-handover-of-its--LEED-certified-residential-project"
+        },
+        {
+          "label": "Al Furjan ready inventory — Property Finder",
+          "url": "https://www.propertyfinder.ae/en/search?l=78&c=1&t=1&ob=mr"
+        },
+        {
+          "label": "Al Furjan ready inventory — Bayut",
+          "url": "https://www.bayut.com/for-sale/property/dubai/al-furjan/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Boutique LEED-cert handover in Al Furjan — ZāZEN's second LEED book and a fresh on-market resale set near Gardens Metro and Ibn Battuta Mall.",
+        "whatIsIt": "Indian-Emirati boutique developer ZāZEN Properties announced on 2026-06-20 that handover has officially started at ZāZEN Ivy, a six-storey residential development in Al Furjan. The project is ZāZEN's second LEED-certified delivery after ZāZEN One and the company's ZāZEN Gardens line.",
+        "howItWorks": "Unit count, price points and exact Al Furjan sub-cluster were not disclosed in the announcement — operators underwriting resale or short-let should pull the broker permit, original SPA prices and current portal asks (Property Finder, Bayut) before anchoring a comp. The hand-over event itself unlocks: (a) title-deed-ready resale, (b) end-user mortgage finance against a completed asset, and (c) holiday-home licensing. Location markers verified by the developer: Gardens Metro Station, Sheikh Zayed Road, Ibn Battuta Mall, Al Maktoum International Airport (DWC).",
+        "whyItMatters": "Al Furjan is mid-market West Dubai (DXB-WEST corridor) with steady end-user demand and an active short-let book. A fresh handover from a small developer with a LEED stamp is exactly the catalyst that opens 6–9 months of secondary-market churn as original buyers test exit. Pair with the 2026-06-19 mortgage-rate cut to model 'flip vs hold vs rent' against current Al Furjan comps before committing.",
+        "forWho": "Al Furjan buy-side brokers, ready-stock acquisition desks, short-let operators, end-users looking at sub-AED-2M handovers, mortgage originators.",
+        "tryIt": "https://www.bayut.com/for-sale/property/dubai/al-furjan/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/20/TA_20260620103335.webp",
+        "alt": "ZāZEN Ivy LEED-certified residential project in Al Furjan, Dubai, with handover beginning 2026-06-20",
+        "fit": "cover",
+        "credit": "ZāZEN Properties / TradeArabia"
+      },
+      "publishDate": "2026-06-20T12:39:17.784Z"
+    },
+    {
+      "id": "dubai-broker-survival-test-cba-salman-bin-ali-jun-19-2026",
+      "categories": [
+        "lead",
+        "market"
+      ],
+      "title": "Khaleej Times × CBA Real Estate: Dubai broker 'survival test' as buyers ask sharper questions — Q1 Dh176.7B / 48K deals (+23.4% value YoY) sets the maturity bar that exposes weak agents",
+      "org": "Khaleej Times / CBA Real Estate",
+      "date": "2026-06-19",
+      "url": "https://www.khaleejtimes.com/business/property/brokers-face-survival-test-as-dubai-property-buyers-increasingly-look-for-quality-advice",
+      "summary": "Salman Bin Ali (CEO, CBA Real Estate) frames a Dubai broker shake-out: Q1 2026 residential at Dh176.7B / ~48K deals (+23.4% value, +5.5% volume YoY) means buyers test for knowledge, not pitch — AI exposes weak brokers fastest.",
+      "tags": [
+        "brokerage",
+        "market-maturity",
+        "ai",
+        "lead",
+        "shake-out",
+        "cba-real-estate"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-BROKERS"
+      ],
+      "metrics": {
+        "Q1 2026 residential value": "AED 176.7B",
+        "Q1 2026 deal count": "~48,000",
+        "YoY value growth": "+23.4%",
+        "YoY volume growth": "+5.5%",
+        "January 2026 monthly record": "AED 72.4B",
+        "Off-plan share by volume": "~70%",
+        "Off-plan share by value": "~71%"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times article (2026-06-19)",
+          "url": "https://www.khaleejtimes.com/business/property/brokers-face-survival-test-as-dubai-property-buyers-increasingly-look-for-quality-advice"
+        },
+        {
+          "label": "Related Apr/May brokerage-shake-out card",
+          "url": "https://www.arabianbusiness.com/industries/real-estate/dubai-brokerages-could-shut-down-in-5-to-6-months"
+        }
+      ],
+      "explainer": {
+        "tagline": "Q1 print sets the maturity bar — Salman Bin Ali argues buyer questions, not market direction, are now the cull mechanism.",
+        "whatIsIt": "Khaleej Times' 2026-06-19 piece quotes Salman Bin Ali, CEO of CBA Real Estate, calling the next phase a 'survival test' for Dubai brokers. The thesis: buyer sentiment has softened just enough that clients now ask harder questions — about systems, comps, and post-sale service — which exposes brokers who built their book during the up-only cycle.",
+        "howItWorks": "Bin Ali leans on Q1 2026 data: AED 176.7B residential sales across ~48,000 deals, up 23.4% in value and 5.5% in volume YoY, with January 2026 setting an all-time monthly record at AED 72.4B and off-plan share running ~70% by volume / ~71% by value. The framing: top-line is still strong, but the spread between brokers who can defend a comp and those who can't is now visible at the client meeting. AI tools that surface comps and risk in seconds will widen that spread.",
+        "whyItMatters": "This is a fresh marker for the broker-side capital and consolidation thesis already mapped in the May 2026 Arabian Business shake-out card and the Unique × Console acquisition print. Operators sourcing teams, lead-gen partners, or acquisition targets should watch (a) which agencies invest in systems vs marketing budget, (b) M&A activity for boutique HNW desks, and (c) whether the rate-cut window pulls more end-users in to clients who can underwrite mortgage scenarios.",
+        "forWho": "Brokerage CEOs, agency M&A buyers, PropTech vendors selling to brokers, recruiters sourcing senior agents, agency operations leads.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/brokers-face-survival-test-as-dubai-property-buyers-increasingly-look-for-quality-advice"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-19/43t2japm/Dubai-property4.jpeg",
+        "alt": "Dubai property skyline image accompanying Khaleej Times' 2026-06-19 broker survival-test article",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Salman Bin Ali",
+        "handle": "CBA Real Estate",
+        "profileUrl": "https://www.khaleejtimes.com/business/property/brokers-face-survival-test-as-dubai-property-buyers-increasingly-look-for-quality-advice"
+      },
+      "publishDate": "2026-06-20T12:39:17.784Z"
+    },
     {
       "id": "dubai-amis-jacob-co-fleurs-de-jardin-meydan-district-11-groundbreaking-jun-19-2026",
       "categories": [

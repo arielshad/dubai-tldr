@@ -5595,6 +5595,55 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260620t123917z",
+      "timestamp": "2026-06-20T12:39:17.784Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-20 sweep ingests three fresh Dubai signals — the 2026-06-19 DLD daily print (AED 1.64B, off-plan share back to 48.3% as ready flats AED 602.9M nearly match off-plan flats AED 607.9M), ZāZEN Properties starts handover of LEED-certified ZāZEN Ivy in Al Furjan, and Khaleej Times' Salman Bin Ali / CBA Real Estate quality-broker-survival call.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-19-2026-daily-print-aed-164b-offplan-483-percent-ready-tie",
+          "title": "Dubai DLD daily print 2026-06-19: AED 1.64B with off-plan back to 48.3% — ready flats AED 602.9M nearly tie off-plan flats AED 607.9M as mortgage flow lifts the ready book",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-zazen-ivy-al-furjan-leed-handover-jun-20-2026",
+          "title": "ZāZEN Properties starts handover of LEED-certified ZāZEN Ivy in Al Furjan — second LEED development after ZāZEN One and ZāZEN Gardens, six-storey residential block with Vastu-compliant layouts",
+          "category": "ready",
+          "note": "Added under ready."
+        },
+        {
+          "id": "dubai-broker-survival-test-cba-salman-bin-ali-jun-19-2026",
+          "title": "Khaleej Times × CBA Real Estate: Dubai broker 'survival test' as buyers ask sharper questions — Q1 Dh176.7B / 48K deals (+23.4% value YoY) sets the maturity bar that exposes weak agents",
+          "category": "lead",
+          "note": "Added under lead."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "ready",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
