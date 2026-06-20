@@ -5554,6 +5554,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260620t003527z",
+      "timestamp": "2026-06-20T00:35:27.881Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-20 04:30 GST sweep: 24h newsflow added one verified primary-side event — AMIS GPD Development × Jacob & Co. broke ground on the Fleurs de Jardin branded villa community in Meydan District 11, with AMIS flagging an AED 2B / 340-unit portfolio, AED 5B end-2026 pipeline target and a USD 10B IPO valuation horizon. The 2026-06-19 DLD daily print is not yet published; existing Jun 17/18 prints and the Jun 18 Ellington Everly Place / DAMAC Lifestyle Collection / Gold Line metro reads remain the live primary references.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-amis-jacob-co-fleurs-de-jardin-meydan-district-11-groundbreaking-jun-19-2026",
+          "title": "AMIS GPD × Jacob & Co. break ground on Fleurs de Jardin at Meydan District 11 — AMIS' sixth project in <2 years lifts its book past AED 2B / 340 units and lines up a USD 10B IPO valuation in three to four years",
+          "category": "luxury",
+          "note": "Verified primary-side groundbreaking event 2026-06-19 with a named branded-residence partner (Jacob & Co.) and a public USD 10B IPO horizon — first new AMIS card in the feed; cluster value vs AMIS Woodland Residences and the Jun-18 Ellington Meydan launch."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "market",
+        "ready",
+        "rental",
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

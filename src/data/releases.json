@@ -1,8 +1,78 @@
 {
-  "generatedAt": "2026-06-19T13:16:27.372Z",
+  "generatedAt": "2026-06-20T00:35:27.881Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-amis-jacob-co-fleurs-de-jardin-meydan-district-11-groundbreaking-jun-19-2026",
+      "categories": [
+        "luxury",
+        "developer",
+        "offplan"
+      ],
+      "title": "AMIS GPD × Jacob & Co. break ground on Fleurs de Jardin at Meydan District 11 — AMIS' sixth project in <2 years lifts its book past AED 2B / 340 units and lines up a USD 10B IPO valuation in three to four years",
+      "org": "AMIS GPD Development / Gulf News",
+      "date": "2026-06-19",
+      "url": "https://gulfnews.com/business/property/amis-breaks-ground-on-jacob-cos-meydan-villa-community-showcases-near-complete-woodland-residences-1.500579734",
+      "summary": "AMIS GPD Development broke ground 2026-06-19 on Fleurs de Jardin in Meydan District 11 — a branded villa community co-created with Jacob & Co. featuring 5-BR villas and 6-BR grand mansions. The launch is AMIS' sixth project in under two years, takes its portfolio past AED 2B (USD 544M) across 340+ units, and feeds an AED 5B development-pipeline target by end-2026 ahead of a planned USD 10B IPO valuation in three to four years. Near-complete Woodland Residences (5-BR villas with Automobili Lamborghini surfaces, also in District 11) is on track for handover next year.",
+      "tags": [
+        "AMIS GPD Development",
+        "Jacob & Co.",
+        "Fleurs de Jardin",
+        "Meydan District 11",
+        "branded residences",
+        "5-BR villas + 6-BR mansions",
+        "USD 10B IPO target",
+        "AED 5B pipeline 2026",
+        "Woodland Residences",
+        "Jun 19 2026"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "MEYDAN",
+        "MBR-CITY"
+      ],
+      "metrics": {
+        "Project": "Fleurs de Jardin (branded with Jacob & Co.)",
+        "Location": "Meydan District 11, Dubai",
+        "Unit mix": "5-BR villas + 6-BR grand mansions",
+        "Developer portfolio": "AED 2B+ ($544M+) across 340+ units, 6 projects in <2 years",
+        "Capital structure": "Debt-free, fully funded; institutional Asian capital backing",
+        "Pipeline target": "AED 5B development pipeline by end-2026",
+        "IPO target": "USD 10B valuation within 3-4 years",
+        "Sister project": "Woodland Residences (5-BR villas, Automobili Lamborghini surfaces) — handover next year",
+        "Event date": "2026-06-19"
+      },
+      "links": [
+        {
+          "label": "Gulf News — AMIS breaks ground on Jacob & Co.'s Meydan villa community, showcases near-complete Woodland Residences (Jun 19 2026)",
+          "url": "https://gulfnews.com/business/property/amis-breaks-ground-on-jacob-cos-meydan-villa-community-showcases-near-complete-woodland-residences-1.500579734"
+        },
+        {
+          "label": "Bizpreneur Middle East — AMIS Breaks Ground on Jacob & Co.'s Villa Community in Meydan; Targets USD 10B IPO Valuation in three years (Jun 19 2026)",
+          "url": "https://www.bizpreneurme.com/amis-breaks-ground-on-jacob-targets-a-usd-10-billion-ipo-valuation-in-three-years/"
+        },
+        {
+          "label": "AMIS Development — corporate site",
+          "url": "https://amisdevelopment.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AMIS plants its sixth Meydan flag with a Jacob & Co.-branded villa community and a public USD 10B IPO horizon — Dubai's branded-residence premium leans into watchmaker-luxury craft.",
+        "whatIsIt": "AMIS GPD Development — a Dubai developer roughly two years old, backed by institutional Asian capital and run by founder/CEO Neeraj Mishra — broke ground 2026-06-19 on Fleurs de Jardin, a branded villa community in Meydan District 11 created with high-jewellery / high-watchmaking house Jacob & Co. The masterplan is built around 5-BR villas and 6-BR grand mansions designed to reflect Jacob & Co.'s aesthetic. The signing ceremony was attended by Jacob Arabo (founder/chairman/creative director of Jacob & Co.), Neeraj Mishra and shareholder Shah Azim Hameed.",
+        "howItWorks": "The project is AMIS' sixth in under two years and lifts its current development book past AED 2B (~USD 544M) across 340+ units. AMIS describes itself as fully funded and debt-free, and is targeting an AED 5B (~USD 1.36B) pipeline by end-2026 ahead of a public listing in 3-4 years at a USD 10B valuation. The sister Woodland Residences in District 11 — 5-BR villas finished with Automobili Lamborghini surfaces — is flagged as near-complete with handover next year, giving an active delivery track record buyers can verify on site. As with any newly announced ultra-luxury Dubai launch, prospective buyers should confirm RERA project registration via the DLD Trakheesi portal, the Oqood escrow account and the SPA payment-plan terms before signing — the launch note does not yet disclose ticket pricing.",
+        "whyItMatters": "Dubai's branded-residence premium runs ~30-40% over comparable unbranded stock (Elevate/GulfNews Jun-14 read) and 88% of the UAE branded-resi pool sits in Dubai, so AMIS planting a sixth Meydan project under a recognised jewellery-house brand is a continuation, not a leap. What's new is (a) the IPO horizon: a Dubai developer publicly signalling a USD 10B listing target gives the secondary-market a forward-looking comp for AMIS stock, (b) the District 11 cluster effect: AMIS now anchors Woodland Residences (near-complete) plus Fleurs de Jardin (groundbreak) in the same sub-community — useful for resale buyers underwriting a developer-cluster premium, and (c) it sits alongside the Jun-18 Ellington Everly Place at Meydan Horizon launch (209 lagoon-facing residences) and the Gold Line metro repricing scan as a third Meydan / MBR City primary-side data point in 48 hours.",
+        "forWho": "Branded-residence buyers benchmarking Jacob & Co.'s craft-led positioning against more familiar names (Bulgari, Armani Casa, Bugatti, Baccarat) in the same Meydan / MBR City catchment; resale owners in AMIS Woodland Residences using the new groundbreak as a forward-priced comp; brokers cross-shopping ultra-prime villa stock against Palm Jumeirah / Al Barari; institutional credit teams watching debt-free Dubai developers signal an IPO horizon.",
+        "tryIt": "https://amisdevelopment.com/"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-06-19%2Fmkoveqfi%2FFleurs-De-Jardin-lead.jpg",
+        "alt": "AMIS GPD Development and Jacob & Co. break ground on Fleurs de Jardin branded villa community in Meydan District 11 (Gulf News, Jun 19 2026)",
+        "fit": "cover",
+        "credit": "AMIS GPD Development / Gulf News"
+      },
+      "publishDate": "2026-06-20T00:35:27.881Z"
+    },
     {
       "id": "dubai-dld-jun-18-2026-daily-print-aed-142b-offplan-646-percent",
       "categories": [
