@@ -5644,6 +5644,43 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260621t004007z",
+      "timestamp": "2026-06-21T00:40:07.704Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet weekend sweep 2026-06-21: every Jun 18-20 Dubai-property story surfaced (CBA broker survival test, ZāZEN Ivy LEED handover, AMIS × Jacob & Co. Meydan groundbreaking, Jun 19 DLD daily print, ANAX ELLE Residences Dubai Islands, Sharjah Ruler AED 750M tunnel, Win Your Home first-winner countdown) was already ingested by the previous cycle, and the only fresh Jun 20 wires (BRICS Urban Forum, World Green Economy Summit announcement) are policy/calendar items that fail the inclusion bar. No new opportunities published in the trailing 72h pass the bar.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
