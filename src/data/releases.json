@@ -1,8 +1,78 @@
 {
-  "generatedAt": "2026-06-21T00:40:07.704Z",
+  "generatedAt": "2026-06-21T12:51:48.613Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-rta-bus-taxi-lanes-30-percent-145km-naif-satwa-nahda-jun-21-2026",
+      "categories": [
+        "market",
+        "rental",
+        "commercial"
+      ],
+      "title": "RTA hits 30% on 14.5-km dedicated bus & taxi lanes — Naif (-59% peak), Al Satwa (-54%), Omar Bin Al Khattab (-50%) corridor commute squeeze tees up 2026-2027 mid-market rental repricing window",
+      "org": "Dubai Roads & Transport Authority / TradeArabia",
+      "date": "2026-06-21",
+      "publishDate": "2026-06-21T12:51:48.613Z",
+      "url": "https://www.tradearabia.com/News/463940/Dubai-Bus-and-Taxi-Lanes-Project-30pc-complete",
+      "summary": "Dubai's Roads & Transport Authority confirms 30% completion of its 14.5-km dedicated bus & taxi lanes project spanning Naif, Al Satwa, Al Nahda, Omar Bin Al Khattab, Sheikh Sabah Al-Ahmad and 2nd December streets — full delivery 2025-2027 with peak bus travel times collapsing 24-59% and arrival punctuality up 28-56%.",
+      "tags": [
+        "RTA",
+        "infrastructure",
+        "transit",
+        "mid-market",
+        "Naif",
+        "Al Satwa",
+        "Al Nahda",
+        "Omar Bin Al Khattab",
+        "rental",
+        "yield"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-NAIF",
+        "DXB-SATWA",
+        "DXB-NAHDA",
+        "DXB-RENTAL"
+      ],
+      "metrics": {
+        "Lanes added": "14.5 km (network grows 6.1 km → 20.6 km)",
+        "Completion to date": "30% of project",
+        "Corridors": "Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah, 2nd December, Al Satwa, Al Nahda, Omar Bin Al Khattab, Naif",
+        "Peak travel-time cut": "24-59% (Naif -59%, Al Satwa -54%, Omar Bin Al Khattab -50%)",
+        "Schedule adherence lift": "28-56% (2nd December +56%, Sheikh Sabah Al Ahmad +52%)",
+        "Ridership uplift target": "up to +30% on affected routes",
+        "Delivery window": "2025-2027"
+      },
+      "links": [
+        {
+          "label": "TradeArabia: Dubai Bus and Taxi Lanes Project 30pc complete (21 Jun 2026)",
+          "url": "https://www.tradearabia.com/News/463940/Dubai-Bus-and-Taxi-Lanes-Project-30pc-complete"
+        },
+        {
+          "label": "Emirates 24|7: Dubai completes 30% of dedicated bus and taxi lane expansion project",
+          "url": "https://www.emirates247.com/uae/dubai-completes-30-of-dedicated-bus-and-taxi-lane-expansion-project/2821"
+        },
+        {
+          "label": "Dubai Roads & Transport Authority",
+          "url": "https://www.rta.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Mid-market landlords on Naif, Al Satwa, Al Nahda and Omar Bin Al Khattab gain a 24-59% peak-commute compression by 2027 — a credible underwrite anchor for the next two lease cycles.",
+        "whatIsIt": "Dubai's Roads & Transport Authority confirmed on 21 June 2026 that its dedicated bus and taxi lanes project is 30% complete, with 14.5 km of new lanes being built across six dense legacy-Dubai corridors: Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah Street, 2nd December Street, Al Satwa Street, Al Nahda Street, Omar Bin Al Khattab Street and Naif Street. On completion the citywide dedicated network expands from 6.1 km to 20.6 km.",
+        "howItWorks": "Modelled peak bus travel times drop 24-59% on the affected routes — Naif -59%, Al Satwa -54%, Omar Bin Al Khattab -50% — with bus arrival punctuality up 28-56% (2nd December +56%, Sheikh Sabah Al-Ahmad +52%). RTA targets up to a 30% ridership uplift on certain routes. Delivery is staged across 2025-2027, so each corridor's commute-time gain lands inside the typical 12-month landlord renewal cycle.",
+        "whyItMatters": "Naif, Al Satwa, Al Nahda and Omar Bin Al Khattab are bread-and-butter mid-market apartment rental and small-bay commercial corridors where transit access is a primary yield driver. The improvement stacks on top of the Sharjah Ruler's AED 750M Al Taawun tunnel + Noor Road extension into Al Nahda (end-2026), reinforcing the same artery from both sides. Operators can price the next-year lease against a measurable, time-bound commute-time delta — not a speculative metro headline.",
+        "forWho": "Mid-market apartment landlords and brokers on Al Satwa / Al Nahda / Naif / Omar Bin Al Khattab; neighbourhood retail, F&B and clinic operators with frontage on the six corridors; transit-oriented investors building out a Gold Line-adjacent rental book; service-charge underwriters re-cutting yield models for legacy-Dubai stock.",
+        "tryIt": "https://www.tradearabia.com/News/463940/Dubai-Bus-and-Taxi-Lanes-Project-30pc-complete"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/21/TA_20260621120417.webp",
+        "alt": "Dubai RTA dedicated bus and taxi lane on a multi-lane city street",
+        "fit": "cover",
+        "credit": "TradeArabia / RTA"
+      }
+    },
     {
       "id": "dubai-dld-jun-19-2026-daily-print-aed-164b-offplan-483-percent-ready-tie",
       "categories": [

@@ -5681,6 +5681,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260621t125148z",
+      "timestamp": "2026-06-21T12:51:48.613Z",
+      "source": "github-actions-sweep",
+      "summary": "Quiet weekend tape: only one fresh tier-1 Dubai signal in the 72h window — the RTA's 30% completion update on its 14.5-km dedicated bus & taxi lanes project, which compresses peak commute times 24–59% across six mid-market apartment corridors including Naif, Al Satwa, Al Nahda and Omar Bin Al Khattab. Portal sweeps and daily DLD prints already covered by recent items returned no qualifying new opportunities; nothing else cleared the inclusion bar without padding.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-rta-bus-taxi-lanes-30-percent-145km-naif-satwa-nahda-jun-21-2026",
+          "title": "RTA hits 30% on 14.5-km dedicated bus & taxi lanes — Naif (-59% peak), Al Satwa (-54%), Omar Bin Al Khattab (-50%) corridor commute squeeze tees up 2026-2027 mid-market rental repricing window",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "rental",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
