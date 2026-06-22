@@ -5742,6 +5742,55 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260622t140410z",
+      "timestamp": "2026-06-22T14:04:10.546Z",
+      "source": "github-actions-sweep",
+      "summary": "Three Jun-22 ingestions — Imtiaz RAW District sell-out (AED 2B) on Sheikh Zayed Road / Downtown Jebel Ali, Azizi Creek Views III handover progress (66% complete, Q4 2026), and Khaleej Times × Grovy × BenCo × BetterHomes post-truce activity pickup grounded in fresh ValuStrat capital-value prints.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-imtiaz-raw-district-sells-out-aed-2b-sheikh-zayed-road-jun-22-2026",
+          "title": "Imtiaz Developments sells out AED 2B RAW District on launch day — Sheikh Zayed Road / Downtown Jebel Ali mixed-use block with studios from AED 649K, 50/50 plan, Q1 2029 handover and Metro-direct pedestrian bridge",
+          "category": "offplan",
+          "note": "Added under offplan."
+        },
+        {
+          "id": "dubai-azizi-creek-views-iii-q4-2026-handover-66-percent-jun-22-2026",
+          "title": "Azizi Developments confirms Creek Views III on track for Q4 2026 handover — 290-unit Dubai Healthcare City block hits 66% overall completion (façade 75%, structural complete, MEP 79%, HVAC 83%)",
+          "category": "offplan",
+          "note": "Added under offplan."
+        },
+        {
+          "id": "dubai-khaleej-times-grovy-benco-betterhomes-truce-recovery-valustrat-jun-22-2026",
+          "title": "Khaleej Times × Grovy × BenCo × BetterHomes post-truce read — ValuStrat capital-value drops decelerate (-5.9% Mar → -1.9% Apr → -1.2% May, +2.5% YoY) as sub-AED 3M activity picks up and sellers lean on rental income over fire-sales",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "developer",
+        "ready",
+        "market"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
