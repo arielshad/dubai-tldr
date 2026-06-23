@@ -5791,6 +5791,41 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260623t003523z",
+      "timestamp": "2026-06-23T00:35:23.930Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-06-23: most Jun 20–22 Dubai property news (Imtiaz RAW District sell-out, Khaleej Times truce-recovery read, Azizi Creek Views III handover, RTA bus-lane progress, Aqaree, broker-survival, daily DLD prints) already in the feed; one fresh AED 124M Vision Tower commercial flagship deal verified and added.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-fam-vision-tower-business-bay-aed-124m-office-sale-jun-22-2026",
+          "title": "fäm Properties closes AED 124M Vision Tower office takeover — UAE-based occupier buys ~40,000 sqft contiguous Grade A block at ~AED 3,100/sqft in Business Bay, biggest single Dubai commercial deal of its kind",
+          "category": "commercial",
+          "note": "Added under commercial."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "commercial",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

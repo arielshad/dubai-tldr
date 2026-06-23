@@ -1,8 +1,73 @@
 {
-  "generatedAt": "2026-06-22T14:04:10.546Z",
+  "generatedAt": "2026-06-23T00:35:23.930Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-fam-vision-tower-business-bay-aed-124m-office-sale-jun-22-2026",
+      "categories": [
+        "commercial",
+        "ready"
+      ],
+      "title": "fäm Properties closes AED 124M Vision Tower office takeover — UAE-based occupier buys ~40,000 sqft contiguous Grade A block at ~AED 3,100/sqft in Business Bay, biggest single Dubai commercial deal of its kind",
+      "org": "fäm Properties × Vision Tower (Dubai Properties Group)",
+      "date": "2026-06-22",
+      "url": "https://www.zawya.com/en/press-release/companies-news/fam-properties-closes-aed124-mln-office-sale-at-vision-tower-business-bay-fn5c7ezo",
+      "summary": "fäm Properties brokered the sale of ~40,000 sqft of contiguous, multi-floor Grade A office space at Vision Tower in Business Bay for AED 124M to an undisclosed UAE-based occupier — billed as the largest commercial real-estate deal of its kind ever recorded in Dubai. Daniel McCullagh (Commercial Sales Manager) led the deal; CEO Firas Al Msaddi flagged sustained occupier confidence in institutional-grade Business Bay stock.",
+      "tags": [
+        "business-bay",
+        "commercial-office",
+        "grade-a",
+        "vision-tower",
+        "fam-properties",
+        "dubai-properties",
+        "contiguous-floors",
+        "owner-occupier"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-BB",
+        "BUSINESS-BAY"
+      ],
+      "metrics": {
+        "Ticket": "AED 124M",
+        "Size": "~40,000 sqft (contiguous, multi-floor)",
+        "AED/sqft": "~3,100",
+        "Tower": "Vision Tower (60 floors / 260m, Dubai Properties Group, completed Jan 2011)",
+        "Asset grade": "Grade A office",
+        "Buyer": "UAE-based occupier (undisclosed) — business-expansion purchase",
+        "Broker": "fäm Properties (Daniel McCullagh, Commercial Sales Manager)"
+      },
+      "links": [
+        {
+          "label": "Dubai Week write-up — biggest office sale at Vision Tower",
+          "url": "https://www.dubaiweek.ae/dubais-biggest-office-sale-aed124m-buys-40000-square-feet-at-vision-tower/"
+        },
+        {
+          "label": "Vision Tower (Dubai Properties Group)",
+          "url": "https://www.dp.ae/our-portfolio/office-spaces/35/vision-tower/"
+        },
+        {
+          "label": "fäm Properties — Vision Tower inventory",
+          "url": "https://famproperties.com/business-bay-dubai/the-vision-tower"
+        }
+      ],
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/84e8a4f5-1814-4ab9-ac2b-97b3d9d0388d/0/visiontowerinbusinessbaydubai-jpg.webp?f=3%3A2&q=0.75&w=3840",
+        "alt": "Vision Tower in Business Bay, Dubai — the 60-storey Grade A office building where fäm Properties brokered an AED 124M, ~40,000 sqft contiguous multi-floor sale on 2026-06-22.",
+        "fit": "cover",
+        "credit": "Zawya / fäm Properties"
+      },
+      "explainer": {
+        "tagline": "Single occupier just paid AED 124M for a Grade A multi-floor Vision Tower block — Dubai's biggest contiguous office deal of its kind, at ~AED 3,100/sqft.",
+        "whatIsIt": "fäm Properties brokered the sale of ~40,000 sqft of contiguous, multi-floor Grade A office space at Vision Tower, Business Bay, for AED 124M. The buyer is an undisclosed UAE-based company taking the block as an expansion footprint, not a tenant.",
+        "howItWorks": "Deal mechanics: AED 124M ticket, ~40,000 sqft of contiguous multi-floor takedown at the 60-storey / 260m Vision Tower built by Dubai Properties Group in 2011. Implied price ~AED 3,100/sqft. fäm Properties' Daniel McCullagh ran the trade; multi-party negotiation and 'detailed commercial structuring' (their words) were required to consolidate the floors. Settlement and DLD transfer fees (typical 4% on commercial) sit with the buyer alongside service-charge underwriting.",
+        "whyItMatters": "This is the single largest contiguous Dubai office takedown of its kind on record per the broker, and it lands at a moment when Cavendish Maxwell's Q1 2026 tape already pegs Dubai office sale prices +25% and rents +20% YoY across 1,600 deals worth AED 8.2B. An institutional-quality block clearing ~AED 3,100/sqft sets a fresh anchor for Business Bay strata pricing and signals occupier (not flipper) demand at the top end. Risks: undisclosed counterparty means the comp is broker-attested rather than name-checked; check actual transfer on DLD/REST when it appears.",
+        "forWho": "Commercial brokers underwriting Business Bay Grade A comps, landlords pricing contiguous-floor disposals, owner-occupiers benchmarking expansion HQ deals, REIT/strata analysts.",
+        "tryIt": "https://www.dp.ae/our-portfolio/office-spaces/35/vision-tower/"
+      },
+      "publishDate": "2026-06-23T00:35:23.930Z"
+    },
     {
       "id": "dubai-imtiaz-raw-district-sells-out-aed-2b-sheikh-zayed-road-jun-22-2026",
       "categories": [
