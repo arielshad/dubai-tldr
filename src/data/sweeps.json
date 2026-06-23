@@ -5826,6 +5826,63 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260623t125931z",
+      "timestamp": "2026-06-23T12:59:31.271Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-23 sweep adds four verified items: DLD's Flexi Rent monthly-pay tenancy scheme with 12 launch partners, MERED's ICONIC Residences (Pininfarina) hitting Level 31 in Dubai Internet City, Palma Development awarding piling/shoring on Serenia District at Jumeirah Islands, and the DLD daily print for 2026-06-22 at AED 1.27B with off-plan back to 66.9%.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-flexi-rent-monthly-payment-scheme-12-partners-jun-23-2026",
+          "title": "Dubai Land Department launches Flexi Rent — annual leases convert to monthly / quarterly / semi-annual instalments across 12 launch partners (Wasl, Deyaar, Driven, Dubai World, SBK, Rocky, SRG, Harbor, Modern, Al Showaib, Dubai Investment) with bounced-cheque fees waived and annual-increase waivers in scope",
+          "category": "rental",
+          "note": "Added under rental."
+        },
+        {
+          "id": "dubai-mered-iconic-residences-pininfarina-level-31-construction-milestone-jun-23-2026",
+          "title": "MERED's ICONIC Residences (Pininfarina) hits Level 31 / ~140 m in Dubai Internet City — 310 ultra-luxury apartments + duplex penthouse on track for Q3 2027 handover after 3M safe man-hours and façade installation kick-off",
+          "category": "offplan",
+          "note": "Added under offplan."
+        },
+        {
+          "id": "dubai-palma-serenia-district-jumeirah-islands-piling-apcc-khansaheb-jun-23-2026",
+          "title": "Palma Development awards APCC piling/shoring on AED 5B Serenia District East at Jumeirah Islands — West Residence (46-storey, 419 units) foundations done with Khansaheb as main contractor on the AED 760M phase-one contract awarded December 2025",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-dld-jun-22-2026-daily-print-aed-127b-offplan-669-percent",
+          "title": "Dubai DLD daily print 2026-06-22: AED 1.27B with off-plan back to 66.9% — off-plan flats AED 663.2M lead the tape while ready flats AED 325.0M hold the secondary engine and weekly book hits AED 8.99B / 3,139 deals",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "rental",
+        "legal",
+        "market",
+        "offplan",
+        "developer",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

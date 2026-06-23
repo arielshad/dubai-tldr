@@ -1,8 +1,296 @@
 {
-  "generatedAt": "2026-06-23T00:35:23.930Z",
+  "generatedAt": "2026-06-23T12:59:31.271Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-flexi-rent-monthly-payment-scheme-12-partners-jun-23-2026",
+      "categories": [
+        "rental",
+        "legal",
+        "market"
+      ],
+      "title": "Dubai Land Department launches Flexi Rent — annual leases convert to monthly / quarterly / semi-annual instalments across 12 launch partners (Wasl, Deyaar, Driven, Dubai World, SBK, Rocky, SRG, Harbor, Modern, Al Showaib, Dubai Investment) with bounced-cheque fees waived and annual-increase waivers in scope",
+      "org": "Dubai Land Department / Gulf News",
+      "date": "2026-06-23",
+      "url": "https://gulfnews.com/business/property/dubai-launches-flexi-rents-initiative-to-ease-tenant-payment-burden-1.500583691",
+      "summary": "DLD's Rental Affairs head Khalid Al Shaibani unveiled Flexi Rent on 2026-06-23 — an affordability initiative letting new and renewing tenants split annual rent into monthly, quarterly, semi-annual or up-to-12-month instalments paid via credit/debit cards or cheques. Same headline rent regardless of frequency; bounced-cheque fees waived; annual rent increases may be waived in specific cases; phase one runs through 12 named real-estate partners with more onboarding.",
+      "tags": [
+        "dld",
+        "flexi-rent",
+        "rental",
+        "tenancy",
+        "monthly-rent",
+        "wasl",
+        "deyaar",
+        "driven-properties",
+        "regulation",
+        "affordability"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "DXB-RENTAL"
+      ],
+      "metrics": {
+        "Scheme": "Flexi Rent (Affordable Rental Initiative)",
+        "Issuer": "Dubai Land Department — Rental Affairs Section",
+        "Launch partners": "12 firms — Wasl Properties, Deyaar Property Management, Dubai World Real Estate, Modern Real Estate, Dubai Investment Real Estate, SBK Real Estate, Rocky Real Estate, SRG Properties, Harbor Real Estate, Driven Properties, Al Showaib Real Estate (named) + 1",
+        "Payment frequency": "monthly / quarterly / semi-annual / up to 12 instalments",
+        "Headline rent": "unchanged regardless of frequency",
+        "Bounced-cheque fee": "waived under scheme",
+        "Annual rent increase": "may be waived in specific cases",
+        "Channels": "credit card, debit card, traditional cheque",
+        "Eligibility": "new and renewed tenancy contracts in partner portfolios (residential — vacant and occupied)",
+        "Context": "~1.2M tenancy contracts registered in Dubai in 2025",
+        "Next wave": "second initiative within ~2 months per Al Shaibani"
+      },
+      "links": [
+        {
+          "label": "Gulf News: Dubai launches Flexi Rents to ease tenant payment burden (2026-06-23)",
+          "url": "https://gulfnews.com/business/property/dubai-launches-flexi-rents-initiative-to-ease-tenant-payment-burden-1.500583691"
+        },
+        {
+          "label": "The National: Dubai launches Flexi Rent pay-per-month scheme to support tenants (2026-06-23)",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/23/dubai-launches-flexi-rent-scheme-to-support-tenants/"
+        },
+        {
+          "label": "Dubai Land Department — open data portal",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-06-23%2Ffp9v313e%2Fimages.jpg",
+        "alt": "Dubai skyline at dusk — illustrative cover for DLD's Flexi Rent monthly-payment tenancy initiative launched 2026-06-23.",
+        "fit": "cover",
+        "credit": "Gulf News"
+      },
+      "explainer": {
+        "tagline": "DLD just made monthly rent payments official across 12 real-estate firms — a structural lever on Dubai's ~1.2M tenancy contracts.",
+        "whatIsIt": "Dubai Land Department's Rental Affairs Section launched Flexi Rent on 2026-06-23. Tenants in participating landlords' portfolios (new or renewing) can split their annual rent into monthly, quarterly, semi-annual or up-to-12-month instalments paid by card or cheque. The headline rent doesn't change with the frequency, but bounced-cheque fees go away and annual rent hikes can be waived case by case.",
+        "howItWorks": "Phase one runs through 12 named partners: Wasl, Deyaar, Dubai World Real Estate, Modern, Dubai Investment, SBK, Rocky, SRG, Harbor, Driven, Al Showaib (plus one additional named partner). Tenants opt in at signing or renewal — no DLD-side eligibility test or credit gating disclosed. Payment plan choice runs from monthly through up to 12 instalments; grace periods, redesigned schedules and promotional discounts sit on top. DLD's Khalid Al Shaibani has flagged a second affordability initiative within ~2 months, with more landlords onboarding in waves.",
+        "whyItMatters": "Dubai's standard rental contract has historically asked for 1–4 cheques up front, which is a working-capital filter that pushes mid-income tenants into smaller units or sister emirates. Spreading rent across 12 monthly payments converts a capital-stack problem into a budgeting problem — directly relevant to (a) Dubai-priced-out tenants who'd been leaking to Sharjah (see the Cavendish Maxwell Q1 piece in the feed), (b) landlords with vacant inventory in Wasl/Deyaar-grade buildings who can now widen their applicant pool without dropping ask. The waivable annual-increase clause also softens the Smart Rental Index renewal squeeze that tenants have been weaponising since Q1. Risks: voluntary scheme limited to the 12 launch partners; landlords outside the list don't have to play.",
+        "forWho": "Residential landlords/PMs underwriting tenant credit and vacancy duration, tenants negotiating renewal increases, mortgage underwriters reading rental cashflow, build-to-rent operators benchmarking competitor concessions.",
+        "tryIt": "https://gulfnews.com/business/property/dubai-launches-flexi-rents-initiative-to-ease-tenant-payment-burden-1.500583691"
+      },
+      "publishDate": "2026-06-23T12:59:31.271Z"
+    },
+    {
+      "id": "dubai-mered-iconic-residences-pininfarina-level-31-construction-milestone-jun-23-2026",
+      "categories": [
+        "offplan",
+        "luxury",
+        "developer"
+      ],
+      "title": "MERED's ICONIC Residences (Pininfarina) hits Level 31 / ~140 m in Dubai Internet City — 310 ultra-luxury apartments + duplex penthouse on track for Q3 2027 handover after 3M safe man-hours and façade installation kick-off",
+      "org": "MERED Development / Trade Arabia",
+      "date": "2026-06-23",
+      "url": "https://tradearabia.com/News/464009/MERED-marks-key-construction-milestone-at-its-66-storey-Dubai-tower",
+      "summary": "MERED's G+66 ICONIC Residences in Dubai Internet City — Pininfarina's first Dubai residential project — has topped out Level 31 (~140 m) with MEP nearing completion on Tier 1 floors, the first mock-up apartment progressing to white-box, façade installation starting on lower floors and 3M safe man-hours logged over 80 weeks. 310 ultra-luxury apartments + one signature duplex penthouse, on track for Q3 2027 handover.",
+      "tags": [
+        "MERED",
+        "ICONIC Residences",
+        "Pininfarina",
+        "Dubai Internet City",
+        "off-plan",
+        "ultra-luxury",
+        "construction-milestone",
+        "Hirsch Bedner Associates",
+        "SERA Group",
+        "Bond Interiors"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DIC",
+        "DXB-INTERNET-CITY"
+      ],
+      "metrics": {
+        "Project": "ICONIC Residences by MERED (designed by Pininfarina)",
+        "Location": "Dubai Internet City — opposite Palm Jumeirah, 5 min to Palm, 25 min to Downtown",
+        "Tower": "G+66 floors (~140 m at Level 31 today)",
+        "Units": "310 apartments + 1 duplex (two-level) signature penthouse",
+        "Layouts": "1 / 2 / 3-BR + penthouse",
+        "Construction (latest)": "Level 31 topped (~47% of vertical height), MEP near complete Tier 1, first mock-up to white-box, façade install on lower floors",
+        "Safety": "3,000,000 safe man-hours without lost-time injury (80 weeks)",
+        "Design + consultants": "Pininfarina (architecture), Hirsch Bedner Associates (interiors), SERA Group (consultancy), Currie & Brown (PM/QS), Bond Interiors (fit-out)",
+        "Handover": "Q3 2027 (developer guidance)"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia: MERED marks key construction milestone at its 66-storey Dubai tower (2026-06-23)",
+          "url": "https://tradearabia.com/News/464009/MERED-marks-key-construction-milestone-at-its-66-storey-Dubai-tower"
+        },
+        {
+          "label": "GDN: MERED marks key construction milestone (mirror)",
+          "url": "https://www.gdnonline.com/Details/1398507/MERED-marks-key-construction-milestone-at-its-66-storey-Dubai-tower"
+        },
+        {
+          "label": "MERED — ICONIC Residences project page",
+          "url": "https://mered.ae/iconic"
+        },
+        {
+          "label": "Property Finder — ICONIC Residences (MERED)",
+          "url": "https://www.propertyfinder.ae/en/new-projects/mered-development/iconic-tower"
+        }
+      ],
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/23/TA_20260623123205.webp",
+        "alt": "Render / construction image of MERED's ICONIC Residences by Pininfarina in Dubai Internet City — the G+66 ultra-luxury tower has hit Level 31 and ~140 m on 2026-06-23.",
+        "fit": "cover",
+        "credit": "Trade Arabia / MERED"
+      },
+      "explainer": {
+        "tagline": "Pininfarina's first Dubai residential tower is past halfway vertically — Q3 2027 handover credible, secondary asks should start firming up against the original launch deck.",
+        "whatIsIt": "MERED's ICONIC Residences in Dubai Internet City — a 66-storey ultra-luxury residential tower designed by Pininfarina with 310 apartments and a single duplex signature penthouse — has reached Level 31 (~140 m). MEP installations are near complete on Tier 1 residential floors, the first mock-up apartment is approaching white-box completion, and curtain-wall / façade installation has begun on the lower floors. The site is at 3M safe man-hours over 80 weeks of activity.",
+        "howItWorks": "Build progress puts the tower at roughly Level 31 of 66 (~47% vertical) with 18 months left to the developer's Q3 2027 handover guide. Consultant stack: Pininfarina (architecture), HBA (interiors), SERA Group (consultancy), Currie & Brown (PM/QS), Bond Interiors (fit-out) — credible international fit-out roster for branded-residence pricing. Location anchor: 5 min to Palm Jumeirah, 25 min to Downtown, sitting in Dubai Internet City among Google / Amazon / Visa / MasterCard HQs. Underwrite: ultra-luxury 1–3-BR + penthouse stock with handover ~12 months ahead of the 2028 supply wall flagged by the broader pipeline (78K+ units handing over in 2H 2026 alone), giving secondary holders a leasing window before the wave.",
+        "whyItMatters": "Two angles. (a) Buyers who took early launch tickets now have a credible delivery anchor — useful for hold-vs-flip math against the post-2025 Dubai branded-residence premium of 30–40% (per the Elevate / Gulf News read in the feed). (b) Operators watching DIC / Palm-adjacent ultra-luxury supply get a hard data point that pre-2028 luxury handovers are tracking. Risks: still 18 months to handover, no public payment-plan / sales-velocity disclosure in this print — verify the assignment market on Property Finder before underwriting any flip.",
+        "forWho": "Branded-residence flippers, Palm/Marina luxury brokers, fit-out / handover consultants, end-users underwriting Q3 2027 move-in dates.",
+        "tryIt": "https://mered.ae/iconic"
+      },
+      "publishDate": "2026-06-23T12:59:31.271Z"
+    },
+    {
+      "id": "dubai-palma-serenia-district-jumeirah-islands-piling-apcc-khansaheb-jun-23-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Palma Development awards APCC piling/shoring on AED 5B Serenia District East at Jumeirah Islands — West Residence (46-storey, 419 units) foundations done with Khansaheb as main contractor on the AED 760M phase-one contract awarded December 2025",
+      "org": "Palma Development / Trade Arabia",
+      "date": "2026-06-23",
+      "url": "https://tradearabia.com/News/464013/Palma-awards-piling%2c-shoring-contract-for-%241.36bn-Jumeirah-Islands-community",
+      "summary": "Palma Development has awarded APCC Piling & Marine Contracting the piling-and-shoring works for Serenia District East — the next phase of its AED 5B (~USD 1.36B) Jumeirah Islands master-plan. Phase-one anchor West Residence (46-storey, 419 1-/2-/3-BR units designed by Nikken Sekkei) has completed foundation works under the AED 760M main-contract awarded to Khansaheb Civil Engineering in December 2025.",
+      "tags": [
+        "Palma Development",
+        "Serenia District",
+        "Jumeirah Islands",
+        "APCC",
+        "Khansaheb",
+        "Nikken Sekkei",
+        "off-plan",
+        "construction-milestone",
+        "luxury",
+        "master-plan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-JI",
+        "JUMEIRAH-ISLANDS"
+      ],
+      "metrics": {
+        "Master-plan value": "AED 5B (~USD 1.36B)",
+        "Plot": "600,000 sqft (3.5M sqft BUA) across 6 integrated towers + clubhouse",
+        "Phase one anchor": "West Residence — 46-storey, 419 units (1/2/3-BR)",
+        "Architect": "Nikken Sekkei (Japan)",
+        "Main contractor (phase 1)": "Khansaheb Civil Engineering — AED 760M contract awarded Dec 2025",
+        "New contract (today)": "APCC Piling & Marine Contracting — piling + shoring for Serenia District East",
+        "Foundation status": "West Residence foundations complete; Serenia District East piling/shoring now underway",
+        "Pricing (from project site)": "Apartments from AED 1.9M",
+        "Walkways": "20 km of pedestrian/community pathways across the master-plan"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia: Palma awards piling/shoring contract for $1.36bn Jumeirah Islands community (2026-06-23)",
+          "url": "https://tradearabia.com/News/464013/Palma-awards-piling%2c-shoring-contract-for-%241.36bn-Jumeirah-Islands-community"
+        },
+        {
+          "label": "Palma Holding — Serenia District launch announcement",
+          "url": "https://palmaholding.com/our-news/palma-development-launches-aed-5-billion-serenia-district-at-jumeirah-islands-setting-a-new-benchmark-for-urban-living/"
+        },
+        {
+          "label": "Palma Holding — AED 760M West Residence contract award",
+          "url": "https://palmaholding.com/our-news/palma-development-awards-aed-760mln-contract-for-west-residence-at-serenia-district/"
+        },
+        {
+          "label": "Palma Serenia — project site (from AED 1.9M)",
+          "url": "https://www.palmaserenia.com/"
+        }
+      ],
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/23/TA_20260623125454.webp",
+        "alt": "Render of Palma Development's Serenia District at Jumeirah Islands — APCC awarded piling and shoring works on Serenia District East on 2026-06-23, with West Residence foundations already complete under Khansaheb.",
+        "fit": "cover",
+        "credit": "Trade Arabia / Palma Development"
+      },
+      "explainer": {
+        "tagline": "Jumeirah Islands gets its next big delivery anchor — Palma's AED 5B Serenia District is now in piling on Phase East with West Residence foundations done.",
+        "whatIsIt": "Palma Development has awarded APCC Piling & Marine Contracting the piling and shoring works on Serenia District East — the next construction phase of its AED 5B Serenia District master-plan in Jumeirah Islands. Phase-one anchor West Residence (46-storey, 419 1-/2-/3-BR units) has completed foundations under the AED 760M main-contract awarded to Khansaheb Civil Engineering in December 2025.",
+        "howItWorks": "Master-plan footprint: 600,000 sqft of plot, 3.5M sqft of BUA, 6 integrated towers, a 100,000 sqft Serenia Signature Clubhouse and 20 km of community walkways. Architect Nikken Sekkei (world's third-largest firm) on the design. Phase-one execution stack is now real — Khansaheb is the main contractor on the AED 760M West Residence package, APCC is now mobilising on Serenia District East, and the project site lists apartments from AED 1.9M (~AED 1,800–2,200/sqft band depending on tower / view). Two-stage construction visibility narrows the typical off-plan default risk in this price band.",
+        "whyItMatters": "Jumeirah Islands is already up +153% over 5 years on Bayut's scan (the top community in the city), and Palma's master-plan is the first new institutional supply landing there in over a decade. Today's APCC mobilisation tells you Phase East is not a render-only launch — it's a second tower in the ground, which matters for buyers comparing Phase East prices to the AED 1.9M-anchored West Residence asks. For West Residence buyers, foundations-complete tightens the delivery curve and starts justifying the assignment ask. Risks: no payment-plan / sales-velocity disclosure in this print; check developer / portal listings for Phase East ask vs West.",
+        "forWho": "Jumeirah Islands resale brokers, off-plan flippers underwriting assignment math, end-users on a Palma waitlist, construction-stage analysts pricing default risk.",
+        "tryIt": "https://www.palmaserenia.com/"
+      },
+      "publishDate": "2026-06-23T12:59:31.271Z"
+    },
+    {
+      "id": "dubai-dld-jun-22-2026-daily-print-aed-127b-offplan-669-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-22: AED 1.27B with off-plan back to 66.9% — off-plan flats AED 663.2M lead the tape while ready flats AED 325.0M hold the secondary engine and weekly book hits AED 8.99B / 3,139 deals",
+      "org": "The Real Estate Report",
+      "date": "2026-06-22",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-23-jun-2026",
+      "summary": "Monday's print rebuilds off-plan dominance — AED 1.27B tape with off-plan AED 849.7M (66.9%) vs ready AED 421.3M (33.1%). Off-plan flats AED 663.2M anchor, ready flats AED 325.0M back-stop. Weekly book sits at AED 8.99B across 3,139 deals; headlines include fäm's AED 124M Vision Tower office trade and a AED 242.5M two-building residential portfolio in City Walk / Meydan.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "weekly-tape",
+        "market-data"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARKET"
+      ],
+      "metrics": {
+        "Total tape": "AED 1.27B",
+        "Off-plan share": "66.9% (AED 849.7M)",
+        "Ready share": "33.1% (AED 421.3M)",
+        "Off-plan flats": "AED 663.2M",
+        "Ready flats": "AED 325.0M",
+        "Off-plan villas": "AED 129.4M",
+        "Ready villas": "AED 75.7M",
+        "Off-plan commercial": "AED 35.5M",
+        "Ready commercial": "AED 13.2M",
+        "Off-plan hotel apts/rooms": "AED 21.6M",
+        "Ready hotel apts/rooms": "AED 7.3M",
+        "Weekly tape": "AED 8.99B across 3,139 sale deals",
+        "Headline trades": "fäm × Vision Tower AED 124M Business Bay office sale; AED 242.5M two-building residential acquisition (City Walk / Meydan); Imtiaz RAW District AED 2B same-day sell-out",
+        "Delivery flag": "Dubai Creek Tower delayed 3–4 months on supply-chain"
+      },
+      "links": [
+        {
+          "label": "Daily review (The Real Estate Report, 2026-06-23 cover, transactions 2026-06-22)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-23-jun-2026"
+        },
+        {
+          "label": "DLD open data portal",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions",
+          "url": "https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions"
+        }
+      ],
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/947910e8-c3a8-49f6-ab5c-4939f8c1c4e9/pexels-mohit-marwaha-12655304-6328735.jpg",
+        "alt": "Dubai skyline cover image for The Real Estate Report's daily DLD print covering 2026-06-22 transactions.",
+        "fit": "cover",
+        "credit": "The Real Estate Report / Pexels"
+      },
+      "explainer": {
+        "tagline": "Off-plan reclaims 66.9% of Monday's tape — the brief Friday parity didn't carry into the week's open.",
+        "whatIsIt": "Dubai's DLD daily print for 2026-06-22 books AED 1.27B with off-plan back up to 66.9% — a clean rebound from Friday's 48.3%. Off-plan flats AED 663.2M lead, ready flats AED 325.0M hold the secondary engine; off-plan villas AED 129.4M outrun ready villas AED 75.7M two-to-one.",
+        "howItWorks": "Off-plan: flats AED 663.2M, villas AED 129.4M, hotel apts AED 21.6M, commercial AED 35.5M (~AED 850M total). Ready: flats AED 325.0M, villas AED 75.7M, hotel apts AED 7.3M, commercial AED 13.2M (~AED 421M total). Weekly book to date: AED 8.99B across 3,139 sale deals. Headlines on the tape: fäm × Vision Tower's AED 124M Business Bay office trade (already in the feed), a AED 242.5M two-building residential portfolio (City Walk / Meydan) and Imtiaz's AED 2B RAW District same-day sell-out. Delivery flag worth filing: Dubai Creek Tower delayed 3–4 months on supply-chain.",
+        "whyItMatters": "Two reads: (1) Friday's 48.3% off-plan share looked like a regime shift in mortgage-flow vs developer-launch mix — the Monday print says it was a one-day mortgage anomaly, not a regime change. (2) Weekly cadence at AED 8.99B / 3,139 deals confirms the post-truce activity pickup ValuStrat flagged (capital-value drops -5.9% Mar → -1.2% May) is sustained, not a single-week relief rally. Ready-flat liquidity (AED 325M) is half of off-plan flat (AED 663M) — secondary holders still don't have the bid-side leverage to push pricing above off-plan comps.",
+        "forWho": "Mortgage originators reading flow, off-plan launch sponsors timing the next tranche, secondary brokers pricing hold-vs-sell on ready stock, market analysts tracking weekly cadence.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-23-jun-2026"
+      },
+      "publishDate": "2026-06-23T12:59:31.271Z"
+    },
     {
       "id": "dubai-fam-vision-tower-business-bay-aed-124m-office-sale-jun-22-2026",
       "categories": [
