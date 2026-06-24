@@ -5920,6 +5920,75 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260624t124831z",
+      "timestamp": "2026-06-24T12:48:31.412Z",
+      "source": "github-actions-sweep",
+      "summary": "Six fresh Dubai property cards from 23-24 Jun 2026 — Nakheel's Palm Central Private Residences (222 beachfront homes on Palm Jebel Ali), Khaleej Times' post-truce luxury read with betterhomes' Harry Martin and ValuStrat-aligned signal, the 23 Jun DLD daily print (AED 1.04B, off-plan 57.7%), conveyance.ae's bilateral digital conveyancing platform launch, Marriott Executive Apartments JLT opening at Orra The Embankment (150 keys), and Innovo × FieldAI deploying general-purpose construction robots at Majid Al Futtaim's Ghaf Woods.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-nakheel-palm-central-private-residences-palm-jebel-ali-222-homes-jun-24-2026",
+          "title": "Nakheel releases 222 beachfront homes at Palm Central Private Residences on Palm Jebel Ali — three low- to mid-rise buildings with 1-4 BR apartments and 4-5 BR townhouses, duplex layouts with double-height living and direct beach access",
+          "category": "offplan",
+          "note": "Fresh Nakheel apartment-and-townhouse release on Palm Jebel Ali (distinct from the existing Fronds K-P villa handovers item) — opens a sub-villa price layer on the same beachfront brand."
+        },
+        {
+          "id": "dubai-khaleej-times-betterhomes-harry-martin-luxury-villas-7-8-percent-jun-24-2026",
+          "title": "Khaleej Times × betterhomes × Harry Martin post-truce luxury read — established villa communities (Al Barari, Arabian Ranches, Jumeirah Golf Estates, Victory Heights) up 7-8% YoY as Jumeirah Golf Estates and Arabian Ranches print Dh40M+ villa records",
+          "category": "luxury",
+          "note": "Post-truce luxury read with Harry Martin (betterhomes) quotes and 7-8% YoY villa data on Al Barari / JGE / Arabian Ranches / Emirates Living — fits the broker-side maturity narrative running through CBA, Grovy and Merlin items already in the feed."
+        },
+        {
+          "id": "dubai-dld-jun-23-2026-daily-print-aed-104b-offplan-577-percent",
+          "title": "Dubai DLD daily print 2026-06-23: AED 1.04B with off-plan at 57.7% — off-plan flats AED 507.8M lead, ready flats AED 264.5M anchors as ready villas AED 89.0M and ready commercial AED 58.1M rebuild the secondary book",
+          "category": "market",
+          "note": "Continues the daily DLD tape series — 23-Jun trading day prints AED 1.04B with off-plan at 57.7%, mid-cycle vs. 22-Jun (66.9%) and 19-Jun (48.3%)."
+        },
+        {
+          "id": "dubai-conveyance-ae-cendale-bilateral-digital-conveyancing-platform-jun-23-2026",
+          "title": "conveyance.ae launches the UAE's first bilateral digital Dubai property-transfer platform — fixed-fee, broker-and-buyer-and-seller workspace operated by Cendale Documents Clearing FZCO (Trade Licence 78065), independent of DLD",
+          "category": "legal",
+          "note": "First bilateral digital Dubai conveyancing platform — verifies as a Cendale Documents Clearing FZCO product (Trade Licence 78065), explicitly independent of DLD; relevant for resale-side workflow operators."
+        },
+        {
+          "id": "dubai-marriott-executive-apartments-jlt-orra-embankment-150-keys-jun-24-2026",
+          "title": "Marriott Executive Apartments opens at Orra The Embankment in Jumeirah Lakes Towers — 150 furnished 1/2/3-BR keys operated by Marriott Bonvoy, developed by Orra Hotel Apartments, positioned between Dubai Marina and Uptown Dubai",
+          "category": "ready",
+          "note": "150-key Marriott serviced-apartment opening at Orra The Embankment in JLT — direct supply add to the corporate extended-stay segment."
+        },
+        {
+          "id": "dubai-innovo-fieldai-ghaf-woods-mafl-general-purpose-construction-robots-jun-24-2026",
+          "title": "Innovo × FieldAI deploy general-purpose AI construction robots at Majid Al Futtaim's AED 1.7B Ghaf Woods Dubai — autonomous site monitoring, multi-robot coordination and data capture in the biophilic community as Dubai becomes a frontier-construction-tech proving ground",
+          "category": "developer",
+          "note": "General-purpose AI construction robots go live at Majid Al Futtaim's AED 1.7B Ghaf Woods — first material proof point for AI-managed Dubai jobsites at scale."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "luxury",
+        "market",
+        "ready",
+        "developer",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

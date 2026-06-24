@@ -1,8 +1,384 @@
 {
-  "generatedAt": "2026-06-24T00:32:58.591Z",
+  "generatedAt": "2026-06-24T12:48:31.412Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-nakheel-palm-central-private-residences-palm-jebel-ali-222-homes-jun-24-2026",
+      "categories": [
+        "offplan",
+        "luxury",
+        "developer"
+      ],
+      "title": "Nakheel releases 222 beachfront homes at Palm Central Private Residences on Palm Jebel Ali — three low- to mid-rise buildings with 1-4 BR apartments and 4-5 BR townhouses, duplex layouts with double-height living and direct beach access",
+      "org": "Khaleej Times / Nakheel × Dubai Holding Real Estate",
+      "date": "2026-06-24",
+      "url": "https://www.khaleejtimes.com/business/property/dubai-nakheel-beachfront-palm-central-private-residences",
+      "summary": "Nakheel unveils the next Palm Jebel Ali release — 222 beachfront homes across three low- to mid-rise buildings, mixing 1-4 BR apartments with 4-5 BR townhouses and duplex layouts with double-height living rooms opening to the sea on the 13.4-km, seven-island masterplan.",
+      "tags": [
+        "palm-jebel-ali",
+        "beachfront",
+        "off-plan",
+        "duplex",
+        "dubai-holding",
+        "release"
+      ],
+      "importance": "major",
+      "tickers": [
+        "PJA",
+        "DXB"
+      ],
+      "metrics": {
+        "Homes released": "222",
+        "Building count": "3 low- to mid-rise",
+        "Unit mix": "1-4 BR apartments + 4-5 BR townhouses",
+        "Masterplan reach": "13.4 km across 7 islands",
+        "Wider retail": "9,000 sqm centre"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Nakheel Palm Central release (2026-06-24)",
+          "url": "https://www.khaleejtimes.com/business/property/dubai-nakheel-beachfront-palm-central-private-residences"
+        },
+        {
+          "label": "Dubai Holding Real Estate — Palm Jebel Ali masterplan",
+          "url": "https://nakheel.com/en/communities/palm-jebel-ali"
+        },
+        {
+          "label": "Dubai 2040 Urban Master Plan",
+          "url": "https://www.dubai2040.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Nakheel's next Palm Jebel Ali drop — 222 beachfront homes across three towers with duplex layouts and direct sand access.",
+        "whatIsIt": "Dubai Holding Real Estate (Nakheel) released Palm Central Private Residences on Wednesday — the next phase of branded beachfront product on Palm Jebel Ali. The 222-home release spans three low- to mid-rise buildings, mixes 1-4 BR apartments with 4-5 BR townhouses, and adds select duplex units with double-height living areas and oversized terraces.",
+        "howItWorks": "Buyers get direct beach access from the buildings, with amenities listed by KT including pools, a fitness centre, games room, kids club and sports courts. The wider Palm Jebel Ali masterplan stretches 13.4 km across seven interconnected islands and is anchored by a 9,000 sqm retail centre and the 1,000-capacity Palm Jebel Ali Friday Mosque. Payment plan and AED pricing were not disclosed in the release — buyers should request the price grid and the construction-linked schedule from the developer or appointed brokers before signing.",
+        "whyItMatters": "Palm Jebel Ali is the largest beachfront supply pipeline in Dubai 2040, and the Coral / Beach Collection villa book is already AED 8.5B under execution with first handovers locked for end-2026. This release adds a denser apartment-and-townhouse layer to a project that until now has been villa-led, which lets buyers under the AED 8-10M villa entry ticket get exposure to the same beachfront brand.",
+        "forWho": "End users wanting Palm-branded beachfront under the villa ticket; off-plan investors hunting Dubai Holding pre-handover deals; brokers building Palm Jebel Ali apartment comp sheets.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/dubai-nakheel-beachfront-palm-central-private-residences"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-24/zai4v6db/Palm-Central-Private-Residences-3-.jpg",
+        "alt": "Render of Palm Central Private Residences on Palm Jebel Ali (Nakheel, 2026-06-24 release)",
+        "fit": "cover",
+        "credit": "Khaleej Times / Dubai Holding Real Estate"
+      },
+      "publishDate": "2026-06-24T12:48:31.412Z"
+    },
+    {
+      "id": "dubai-khaleej-times-betterhomes-harry-martin-luxury-villas-7-8-percent-jun-24-2026",
+      "categories": [
+        "luxury",
+        "market",
+        "ready"
+      ],
+      "title": "Khaleej Times × betterhomes × Harry Martin post-truce luxury read — established villa communities (Al Barari, Arabian Ranches, Jumeirah Golf Estates, Victory Heights) up 7-8% YoY as Jumeirah Golf Estates and Arabian Ranches print Dh40M+ villa records",
+      "org": "Khaleej Times / betterhomes (Harry Martin)",
+      "date": "2026-06-24",
+      "url": "https://www.khaleejtimes.com/business/property/beyond-the-conflict-where-does-dubais-luxury-residential-market-go-next",
+      "summary": "betterhomes' Harry Martin tells KT the post-truce repricing favours scarcity, not speculation — established villa enclaves (Al Barari, Arabian Ranches, Jumeirah Golf Estates, Victory Heights, The Lakes / Meadows / Emirates Hills, Jumeirah Islands, The Springs, Jumeirah Park) post 7-8% YoY value rises with record Dh40M+ villa sales in JGE and Arabian Ranches.",
+      "tags": [
+        "luxury",
+        "betterhomes",
+        "harry-martin",
+        "valuStrat",
+        "off-plan",
+        "villa",
+        "post-truce"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "AL-BARARI",
+        "ARABIAN-RANCHES",
+        "JGE",
+        "VICTORY-HEIGHTS"
+      ],
+      "metrics": {
+        "Villa YoY value rise (May)": "7-8% (betterhomes data)",
+        "JGE / Arabian Ranches villa records": ">AED 40M individual transactions",
+        "Off-plan share signal": "Still 'huge share', per Martin",
+        "Communities flagged": "Al Barari, Arabian Ranches, JGE, Victory Heights, The Lakes, The Meadows, Emirates Hills, Jumeirah Islands, The Springs, Jumeirah Park"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Beyond the conflict (2026-06-24)",
+          "url": "https://www.khaleejtimes.com/business/property/beyond-the-conflict-where-does-dubais-luxury-residential-market-go-next"
+        },
+        {
+          "label": "betterhomes Dubai market reports",
+          "url": "https://www.bhomes.com/en/insights/market-reports"
+        },
+        {
+          "label": "ValuStrat Price Index — Dubai",
+          "url": "https://valustrat.com/research"
+        }
+      ],
+      "explainer": {
+        "tagline": "Established villa enclaves are absorbing the post-truce reset — discernment, not panic, drives the Dubai luxury bid.",
+        "whatIsIt": "Khaleej Times publishes betterhomes' read of Dubai's luxury residential market on the day buyer confidence rebounds post-truce. Harry Martin, betterhomes' Head of Off-Plan and Capital Markets, frames the next phase as 'far more controlled and selective' — off-plan still dominates volume but established villa enclaves (Al Barari, Arabian Ranches, Jumeirah Golf Estates, Victory Heights) carry the YoY pricing wins.",
+        "howItWorks": "betterhomes' May 2026 data shows townhouse / villa values in established communities up 7-8% YoY. Jumeirah Golf Estates and Arabian Ranches printed individual villa transactions above AED 40M. Emirates Living (The Lakes, Meadows, Emirates Hills) plus Jumeirah Islands, The Springs and Jumeirah Park are tagged as the durable demand zones — buyers should focus on wellness, privacy and plot premiums, not speculative-gain narratives.",
+        "whyItMatters": "Reads alongside ValuStrat's deceleration (-1.2% May vs. -5.9% March) and the bayut+dubizzle 'rally fades' tape — the Dubai market is bifurcating between off-plan speculation softness and established-villa scarcity bids. The same enclaves Martin names are the ones where rental yields, repeat broker flow and resale liquidity hold up through war-discount cycles.",
+        "forWho": "Luxury end-users underwriting Dh10M+ villa purchases; brokers triaging seller pitches across Emirates Living and JGE; investors rotating off-plan exposure into ready trophy stock.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/beyond-the-conflict-where-does-dubais-luxury-residential-market-go-next"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-23/0g0ef44v/Dubai-villa.jpeg",
+        "alt": "Dubai villa hero image — Khaleej Times × betterhomes post-truce luxury market read (2026-06-24)",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-06-24T12:48:31.412Z"
+    },
+    {
+      "id": "dubai-dld-jun-23-2026-daily-print-aed-104b-offplan-577-percent",
+      "categories": [
+        "market",
+        "offplan",
+        "ready"
+      ],
+      "title": "Dubai DLD daily print 2026-06-23: AED 1.04B with off-plan at 57.7% — off-plan flats AED 507.8M lead, ready flats AED 264.5M anchors as ready villas AED 89.0M and ready commercial AED 58.1M rebuild the secondary book",
+      "org": "The Real Estate Report / Dubai Land Department",
+      "date": "2026-06-24",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-24-jun-2026",
+      "summary": "Dubai Land Department freehold tape for trading day 2026-06-23 prints AED 1.04B — off-plan AED 601.6M (57.7%) led by off-plan flats AED 507.8M, ready AED 441.0M (42.3%) with ready flats AED 264.5M, ready villas AED 89.0M and ready commercial AED 58.1M.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "tape"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Trading day": "2026-06-23",
+        "Total value": "AED 1.04B",
+        "Off-plan share": "57.7% (AED 601.6M)",
+        "Ready share": "42.3% (AED 441.0M)",
+        "Off-plan flats": "AED 507.8M (84.4% of off-plan)",
+        "Off-plan villas": "AED 57.0M (9.5%)",
+        "Off-plan commercial": "AED 21.5M (3.6%)",
+        "Ready flats": "AED 264.5M (60.0%)",
+        "Ready villas": "AED 89.0M (20.2%)",
+        "Ready commercial": "AED 58.1M (13.2%)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 24-Jun-2026 review (Jun 23 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-24-jun-2026"
+        },
+        {
+          "label": "DLD open data portal",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions service",
+          "url": "https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan retains the wheel at 57.7%, but ready villas back to 20% of the secondary book post-truce.",
+        "whatIsIt": "Daily Dubai Land Department tape for trading day 2026-06-23 cleared AED 1.04 billion. Off-plan held 57.7% of value (AED 601.6M); ready held 42.3% (AED 441.0M). Within off-plan, flats dominated at 84.4% — within ready, villas rebuilt to 20.2% as the post-truce ready book widens.",
+        "howItWorks": "Use this as the previous-day baseline for any pricing or absorption pitch. Off-plan flats AED 507.8M leads, ready flats AED 264.5M anchors. Ready villas AED 89.0M and ready commercial AED 58.1M signal that the secondary book is rebuilding villa and office participation after the truce-day luxury day. Deal-count and weekly-book numbers were not disclosed in this print.",
+        "whyItMatters": "57.7% off-plan vs. 66.9% on 22-Jun and 48.3% on 19-Jun shows the off-plan / ready mix swinging within a single week — a useful cross-check against narratives of 'all off-plan' or 'ready market dead'. The villa rebuild matches the Khaleej Times × betterhomes post-truce luxury read.",
+        "forWho": "DLD operators, brokers triaging buyer demand by asset class, market-data shops keeping a daily off-plan / ready mix series.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-24-jun-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/41772fce-3906-4c11-955e-c44127512202/dubai-1351569_1280__1_.jpg",
+        "alt": "Dubai skyline cover image for The Real Estate Report's 2026-06-24 daily DLD print (Jun 23 tape)",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-06-24T12:48:31.412Z"
+    },
+    {
+      "id": "dubai-conveyance-ae-cendale-bilateral-digital-conveyancing-platform-jun-23-2026",
+      "categories": [
+        "legal",
+        "media",
+        "lead"
+      ],
+      "title": "conveyance.ae launches the UAE's first bilateral digital Dubai property-transfer platform — fixed-fee, broker-and-buyer-and-seller workspace operated by Cendale Documents Clearing FZCO (Trade Licence 78065), independent of DLD",
+      "org": "GlobeNewswire / Cendale Documents Clearing FZCO (conveyance.ae)",
+      "date": "2026-06-23",
+      "url": "https://www.globenewswire.com/news-release/2026/06/23/3316314/0/en/conveyance-ae-Unveils-Revolutionary-Digital-Property-Transfer-Platform.html",
+      "summary": "Cendale Documents Clearing FZCO (Trade Licence 78065) launches conveyance.ae — billed as the UAE's first bilateral digital conveyancing platform for Dubai property transfers, with fixed-fee professional coordination, structured document upload, and a single auditable workspace for buyer, seller and both brokers. Independent of DLD, COO Gigi Mikhnevich.",
+      "tags": [
+        "proptech",
+        "conveyancing",
+        "transfer",
+        "cendale",
+        "legal",
+        "dld-independent"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Operator": "Cendale Documents Clearing FZCO",
+        "Trade licence": "78065",
+        "COO": "Gigi Mikhnevich",
+        "Fee model": "Fixed-fee, full price transparency",
+        "Counterparties on platform": "Buyer + seller + both brokers",
+        "DLD affiliation": "None — independent service"
+      },
+      "links": [
+        {
+          "label": "GlobeNewswire — conveyance.ae launch (2026-06-23)",
+          "url": "https://www.globenewswire.com/news-release/2026/06/23/3316314/0/en/conveyance-ae-Unveils-Revolutionary-Digital-Property-Transfer-Platform.html"
+        },
+        {
+          "label": "conveyance.ae — live platform",
+          "url": "https://www.conveyance.ae"
+        },
+        {
+          "label": "DLD eServices — official transfer flows (for comparison)",
+          "url": "https://dubailand.gov.ae/en/eservices/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Fixed-fee, bilateral digital conveyancing for Dubai transfers — buyer, seller and both brokers in one auditable workspace.",
+        "whatIsIt": "conveyance.ae launched on 2026-06-23 as what its operator Cendale Documents Clearing FZCO (Trade Licence 78065) calls the UAE's first bilateral digital conveyancing platform for Dubai property transfers. The service replaces fragmented email-and-broker chains with a single workspace where the buyer, seller and both sides' brokers upload IDs, title deeds and contracts toward title-deed issuance.",
+        "howItWorks": "Pricing is fixed-fee with full transparency upfront. COO Gigi Mikhnevich frames the gap as digital property search being 'an excellent job' while the transfer leg lacks dedicated oversight buyers often assume exists. The platform is explicitly not affiliated with DLD or any government authority — it's a private coordination layer that runs procedural checklists and compliance oversight in parallel to standard trustee / typing-centre / DLD flows.",
+        "whyItMatters": "Dubai's transfer process is the most error-prone touchpoint in the deal cycle for retail buyers — missed documents, NOC delays and broker miscoordination cost both sides money. A neutral, fixed-fee platform turns 'pay the typing centre per task' into a single price tag and a documented audit trail. Brokers can use it as a deal-shepherd if both sides agree to onboard.",
+        "forWho": "Resale buyers and sellers wanting price-transparent transfer coordination; brokers shepherding cross-agency deals; conveyancers and PR operators benchmarking digital-transfer flows.",
+        "tryIt": "https://www.conveyance.ae"
+      },
+      "image": {
+        "url": "https://pressranger.s3.us-west-1.amazonaws.com/3426126/Screen-Shot-2026-06-23-at-3.04.12-PM.png",
+        "alt": "Screenshot hero image from the conveyance.ae launch press release (2026-06-23)",
+        "fit": "cover",
+        "credit": "GlobeNewswire / Cendale Documents Clearing FZCO"
+      },
+      "publishDate": "2026-06-24T12:48:31.412Z"
+    },
+    {
+      "id": "dubai-marriott-executive-apartments-jlt-orra-embankment-150-keys-jun-24-2026",
+      "categories": [
+        "ready",
+        "developer",
+        "rental"
+      ],
+      "title": "Marriott Executive Apartments opens at Orra The Embankment in Jumeirah Lakes Towers — 150 furnished 1/2/3-BR keys operated by Marriott Bonvoy, developed by Orra Hotel Apartments, positioned between Dubai Marina and Uptown Dubai",
+      "org": "Trade Arabia / Marriott Bonvoy × Orra Hotel Apartments",
+      "date": "2026-06-24",
+      "url": "https://tradearabia.com/news/464069/marriott-executive-apartments-opens-premium-mixed-use-project-in-jlt",
+      "summary": "Marriott Bonvoy's Executive Apartments brand opens at Orra The Embankment in Jumeirah Lakes Towers — 150 fully-furnished 1/2/3-BR keys under Marriott management, with all-day dining, paddle court, outdoor pool, sauna and steam, kids club and meeting space serving the Dubai Marina / Uptown Dubai corridor for extended stays.",
+      "tags": [
+        "serviced-apartments",
+        "marriott",
+        "jlt",
+        "orra",
+        "extended-stay"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "JLT",
+        "DUBAI-MARINA"
+      ],
+      "metrics": {
+        "Keys": "150 (fully furnished 1/2/3-BR)",
+        "Operator": "Marriott Bonvoy (Marriott Executive Apartments brand)",
+        "Developer": "Orra Hotel Apartments",
+        "Location": "Orra The Embankment, JLT — between Dubai Marina and Uptown Dubai",
+        "Brand portfolio": "30+ Marriott Bonvoy brands"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia — Marriott Executive Apartments JLT (2026-06-24)",
+          "url": "https://tradearabia.com/news/464069/marriott-executive-apartments-opens-premium-mixed-use-project-in-jlt"
+        },
+        {
+          "label": "Marriott Bonvoy — Executive Apartments brand",
+          "url": "https://executive-apartments.marriott.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Marriott brings 150 serviced-apartment keys to JLT — extended-stay supply for the Marina / Uptown Dubai corporate corridor.",
+        "whatIsIt": "Marriott Executive Apartments — Marriott Bonvoy's extended-stay brand — opened in Orra The Embankment at Jumeirah Lakes Towers. The 150-key inventory is fully furnished and runs a 1/2/3-BR mix under Marriott management, developed by Orra Hotel Apartments and positioned in the JLT cluster bridging Dubai Marina and Uptown Dubai.",
+        "howItWorks": "Amenity stack is built for corporate longer-stay: all-day international restaurant, fitness centre, paddle court, outdoor pool, sauna and steam, kids play area, concierge, meeting and conference space, keyless entry and high-speed wifi throughout. The GM positioning is 'extended stays with seamless access to Dubai's key commercial hubs'. Nightly / monthly rates and any operator-style rental program were not disclosed in the announcement.",
+        "whyItMatters": "JLT serviced-apartment supply has been a thin pocket vs. Dubai Marina, even as JLT Grade A office rents rip alongside the rest of the office market (JLL Q1: prime office vacancy 0.7%, rents +23.4% YoY). A 150-key Marriott-branded extended-stay block is a direct demand-capture for the corporate-tenant pipeline that today bleeds south to Marina or north to DIFC.",
+        "forWho": "Holiday-home and serviced-apartment operators benchmarking new branded supply; corporate-housing buyers; JLT residential landlords watching tenant churn into branded keys.",
+        "tryIt": "https://tradearabia.com/news/464069/marriott-executive-apartments-opens-premium-mixed-use-project-in-jlt"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/24/TA_20260624150936.webp",
+        "alt": "Marriott Executive Apartments JLT — opening at Orra The Embankment in Jumeirah Lakes Towers (2026-06-24)",
+        "fit": "cover",
+        "credit": "Trade Arabia / Marriott"
+      },
+      "publishDate": "2026-06-24T12:48:31.412Z"
+    },
+    {
+      "id": "dubai-innovo-fieldai-ghaf-woods-mafl-general-purpose-construction-robots-jun-24-2026",
+      "categories": [
+        "developer",
+        "media",
+        "market"
+      ],
+      "title": "Innovo × FieldAI deploy general-purpose AI construction robots at Majid Al Futtaim's AED 1.7B Ghaf Woods Dubai — autonomous site monitoring, multi-robot coordination and data capture in the biophilic community as Dubai becomes a frontier-construction-tech proving ground",
+      "org": "Trade Arabia / Innovo Group × FieldAI × Majid Al Futtaim",
+      "date": "2026-06-24",
+      "url": "https://tradearabia.com/news/464070/innovo-fieldai-deploy-general-purpose-robots-at-mideast-building-sites",
+      "summary": "Innovo Group and FieldAI start production deployment of general-purpose AI robots at Majid Al Futtaim's AED 1.7B Ghaf Woods biophilic community in Dubai — FieldAI's 'universal robot brain' handles autonomous site progress monitoring, real-time documentation, multi-robot coordination and site logistics in the UAE's first mass-AI construction stack.",
+      "tags": [
+        "construction-tech",
+        "ghaf-woods",
+        "majid-al-futtaim",
+        "field-ai",
+        "innovo",
+        "ai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "GHAF-WOODS"
+      ],
+      "metrics": {
+        "Anchor project": "Ghaf Woods, Dubai (biophilic residential community)",
+        "Anchor project value": "AED 1.7B (Majid Al Futtaim)",
+        "Tech partner": "FieldAI (universal robot brain)",
+        "Construction partner": "Innovo Group (UAE)",
+        "Initial use cases": "Autonomous progress monitoring, data capture, multi-robot coordination, site logistics"
+      },
+      "links": [
+        {
+          "label": "Trade Arabia — Innovo × FieldAI Ghaf Woods deployment (2026-06-24)",
+          "url": "https://tradearabia.com/news/464070/innovo-fieldai-deploy-general-purpose-robots-at-mideast-building-sites"
+        },
+        {
+          "label": "Majid Al Futtaim — Ghaf Woods",
+          "url": "https://www.ghafwoods.com/"
+        },
+        {
+          "label": "UAE National AI Strategy 2031",
+          "url": "https://ai.gov.ae/strategy/"
+        }
+      ],
+      "explainer": {
+        "tagline": "General-purpose AI robots go live on a Dubai jobsite — Innovo + FieldAI use Ghaf Woods as the Middle East proving ground.",
+        "whatIsIt": "UAE contractor Innovo Group and physical-AI firm FieldAI announce production deployment of general-purpose construction robots at Majid Al Futtaim's AED 1.7 billion Ghaf Woods biophilic community in Dubai. FieldAI's 'universal robot brain' is adaptable across robot types — initial uses are autonomous site progress monitoring, real-time documentation, environmental understanding, multi-robot coordination and site-logistics tasks in repetitive and operationally complex areas.",
+        "howItWorks": "Ghaf Woods is the anchor project; Innovo is positioning the Middle East — and Dubai in particular — as the proving ground for frontier construction tech given the extreme heat and safety-critical conditions. The play sits under the UAE's National Strategy for AI 2031. Specific unit counts of robots, savings targets and per-task economics were not disclosed in the announcement.",
+        "whyItMatters": "Construction cost pass-through risk has been the single most-cited handover-delay headline of 2026 (force-majeure invocations, regional-war material spikes). AI-managed site monitoring and multi-robot coordination is the first credible cost-and-schedule defence at scale — and the fact that the anchor is a Majid Al Futtaim biophilic community means buyers should expect rollout to other MAF builds (Tilal Al Ghaf, etc.) and broader Innovo-fronted contracts.",
+        "forWho": "Off-plan buyers underwriting handover risk on Innovo / MAF projects; developer ops watching contractor productivity; investors tracking Dubai's construction-tech stack.",
+        "tryIt": "https://tradearabia.com/news/464070/innovo-fieldai-deploy-general-purpose-robots-at-mideast-building-sites"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/24/TA_20260624151836.webp",
+        "alt": "Innovo × FieldAI general-purpose AI robots deploying at Majid Al Futtaim's Ghaf Woods, Dubai (2026-06-24)",
+        "fit": "cover",
+        "credit": "Trade Arabia / Innovo Group"
+      },
+      "publishDate": "2026-06-24T12:48:31.412Z"
+    },
     {
       "id": "dubai-etihad-rail-passenger-launch-jge-station-sept-30-jun-23-2026",
       "categories": [
