@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-06-23T12:59:31.271Z",
+  "generatedAt": "2026-06-24T00:32:58.591Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-etihad-rail-passenger-launch-jge-station-sept-30-jun-23-2026",
+      "categories": [
+        "market",
+        "rental",
+        "land",
+        "commercial"
+      ],
+      "title": "Etihad Rail confirms 30 Jun 2026 passenger launch — Dubai station opens at Jumeirah Golf Estates 30 Sep 2026, fares from AED 55 / 120, 1h 45m Abu Dhabi-Fujairah at 200 kph",
+      "org": "Etihad Rail / Gulf News / The National / Khaleej Times",
+      "date": "2026-06-23",
+      "url": "https://gulfnews.com/uae/etihad-rail-announces-start-date-of-passenger-services-1.500583696",
+      "summary": "Etihad Rail on 23 Jun 2026 inaugurated the Mohamed bin Zayed City station and confirmed the passenger network: 30 Jun Abu Dhabi-Fujairah introductory phase, Dubai (Jumeirah Golf Estates) and Al Dhaid live 30 Sep, Al Dhafra 30 Dec, Sharjah city 30 Mar 2027. 13 trains, 400 pax each, Abu Dhabi-Fujairah in 1h 45m at up to 200 kph. Fares from AED 55 Comfort / AED 120 Premium. Tickets on sale via the Etihad Rail app from 23 Jun.",
+      "tags": [
+        "Etihad Rail",
+        "infrastructure",
+        "transit",
+        "JGE",
+        "Jumeirah Golf Estates",
+        "rental",
+        "commute",
+        "south-Dubai",
+        "Wasl",
+        "yield"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JGE",
+        "AL-FURJAN",
+        "DIP",
+        "EXPO-CITY",
+        "DXB-RENTAL"
+      ],
+      "metrics": {
+        "Introductory launch": "2026-06-30 (Abu Dhabi MBZ City ↔ Fujairah Al Hilal City)",
+        "Dubai station opens": "2026-09-30 (Jumeirah Golf Estates, SMBZ Road)",
+        "Al Dhafra opens": "2026-12-30",
+        "Sharjah city opens": "2027-03-30",
+        "Abu Dhabi-Fujairah journey": "1h 45m",
+        "Top speed": "200 kph",
+        "Fleet": "13 trains × 400 passengers",
+        "Comfort fare": "AED 55",
+        "Premium fare": "AED 120",
+        "Network": "11 cities / 900 km / 36M passenger target by 2030",
+        "Ticket sales open": "2026-06-23 (Etihad Rail app & website)"
+      },
+      "links": [
+        {
+          "label": "Gulf News: Etihad Rail announces passenger services start date (23 Jun 2026)",
+          "url": "https://gulfnews.com/uae/etihad-rail-announces-start-date-of-passenger-services-1.500583696"
+        },
+        {
+          "label": "The National: Etihad Rail to launch first passenger service on June 30 (23 Jun 2026)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/06/23/etihad-rail-to-launch-first-passenger-service-on-june-30/"
+        },
+        {
+          "label": "Khaleej Times: Etihad Rail to begin introductory phase of passenger train services on June 30",
+          "url": "https://www.khaleejtimes.com/uae/transport/etihad-rail-to-begin-introductory-phase-of-passenger-train-services-on-june-30"
+        },
+        {
+          "label": "TradeArabia: Etihad Rail to launch inaugural passenger service from June 30",
+          "url": "https://tradearabia.com/News/464021/Etihad-Rail-to-launch-inaugural-passenger-service-from-June-30"
+        },
+        {
+          "label": "Abu Dhabi Media Office: Crown Prince inaugurates MBZ City Passenger Train Station (23 Jun 2026)",
+          "url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-inaugurates-mbz-city-passenger-train-station-and-witnesses-unveiling-of-uae-passenger-rail-network/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Inter-emirate rail moves from speculative to scheduled — Dubai's Jumeirah Golf Estates station opens 30 Sep 2026 with publishable fares, ticketing live today.",
+        "whatIsIt": "Etihad Rail confirmed on 23 Jun 2026 that the UAE's federal passenger network starts revenue service in phases: an Abu Dhabi (Mohamed bin Zayed City) ↔ Fujairah (Al Hilal City) introductory leg on 30 Jun 2026, then Dubai's main station at Jumeirah Golf Estates and Al Dhaid (Sharjah) on 30 Sep, Al Dhafra on 30 Dec, and Sharjah city on 30 Mar 2027. The Mohamed bin Zayed City station was inaugurated the same day by Abu Dhabi's Crown Prince and tickets opened for sale via the Etihad Rail app.",
+        "howItWorks": "A 13-train fleet running up to 200 kph compresses the Abu Dhabi-Fujairah leg to 1h 45m, with introductory fares set at AED 55 Comfort / AED 120 Premium. Dubai's station sits on Sheikh Mohammed Bin Zayed Road inside Jumeirah Golf Estates, feeding Al Furjan, Dubai Investments Park, Dubai Production City, Expo City Dubai and Green Community via RTA shuttle bus and the planned Dubai Metro Gold Line interchange. Wasl has already anchored the 'Jumeirah Golf Estates – The Next Chapter' expansion on direct station access.",
+        "whyItMatters": "For the first time south-Dubai stock gets a fixed-date inter-emirate connection on a publishable timetable, so landlords and developers can underwrite 12-month leases and off-plan handover deltas against a real station opening — not a speculative milestone. The signal stacks on top of the Gold Line metro repricing scan covering JVC, MBR City and Meydan, the RTA bus & taxi lanes 30% milestone on Naif/Satwa/Nahda, and the Al Maktoum International Airport phase-1 build-out — collectively expanding the south-Dubai commute corridor by Q4 2026. Risks: the full 11-city, 900-km network only completes in 2027; Comfort-class price elasticity at AED 55 is untested; and Dubai's downtown access still relies on a Metro Gold Line that opens in 2032.",
+        "forWho": "South-Dubai landlords and brokers covering Jumeirah Golf Estates, Al Furjan, Dubai Investments Park, Dubai Production City and Expo City; Wasl and other JGE-adjacent off-plan developers timing launches against 30 Sep station-open; transit-oriented investors building a Gold Line/Etihad-Rail rental book on SMBZ Road; inter-emirate weekly commuters (Sharjah, Fujairah, Ruwais workforce) re-pricing primary-residence options inside Dubai.",
+        "tryIt": "https://www.etihadrail.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/23/TA_20260623181838.webp",
+        "alt": "Etihad Rail passenger train at the Mohamed bin Zayed City Passenger Train Station in Abu Dhabi (inaugurated 23 Jun 2026)",
+        "fit": "cover",
+        "credit": "TradeArabia / Etihad Rail"
+      },
+      "publishDate": "2026-06-24T00:32:58.591Z"
+    },
     {
       "id": "dubai-dld-flexi-rent-monthly-payment-scheme-12-partners-jun-23-2026",
       "categories": [

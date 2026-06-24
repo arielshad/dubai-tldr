@@ -5883,6 +5883,43 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260624t003258z",
+      "timestamp": "2026-06-24T00:32:58.591Z",
+      "source": "github-actions-sweep",
+      "summary": "Single confirmed-date market signal: Etihad Rail set 30 June 2026 as the introductory passenger launch and named 30 September 2026 for the Dubai station at Jumeirah Golf Estates — a fixed, publishable inter-emirate commute compression for south-Dubai gated communities and Wasl's JGE 'Next Chapter' expansion. Remaining 72h coverage already in feed; no portal/auction/distress signals cleared the bar this sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-etihad-rail-passenger-launch-jge-station-sept-30-jun-23-2026",
+          "title": "Etihad Rail confirms 30 Jun 2026 passenger launch — Dubai station opens at Jumeirah Golf Estates 30 Sep 2026, fares from AED 55 / 120, 1h 45m Abu Dhabi-Fujairah at 200 kph",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "rental",
+        "land",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
