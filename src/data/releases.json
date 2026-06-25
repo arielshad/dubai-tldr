@@ -1,8 +1,78 @@
 {
-  "generatedAt": "2026-06-24T12:48:31.412Z",
+  "generatedAt": "2026-06-25T00:36:31.942Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-currie-brown-post-truce-construction-cost-uae-saudi-steel-159-copper-54-alu-105-jun-25-2026",
+      "categories": [
+        "market",
+        "developer"
+      ],
+      "title": "Currie & Brown post-truce read: UAE/Saudi steel could rise up to 15.9% by September, copper 5.4%, aluminium 10.5% even as US-Iran deal eases Hormuz supply concerns — data centres and hospitality flagged as the MEP-heavy sectors most exposed",
+      "org": "TradeArabia / Currie & Brown",
+      "date": "2026-06-25",
+      "url": "https://tradearabia.com/News/464102/Construction-costs-still-at-risk-of-rising-despite-Middle-East-truce",
+      "summary": "Currie & Brown scenarios UAE/Saudi construction-cost pass-through under different post-truce oil paths — steel +15.9% by Sept, copper +5.4%, aluminium +10.5% in the higher-oil case, vs +18% India steel and +4.3% Singapore. Data centres (copper/MEP intensity) and hospitality (globally sourced fit-out) most exposed.",
+      "tags": [
+        "currie-brown",
+        "construction-cost",
+        "post-truce",
+        "us-iran-deal",
+        "steel",
+        "copper",
+        "aluminium",
+        "MEP",
+        "data-centres",
+        "hospitality",
+        "giga-projects",
+        "supply-chain"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "UAE"
+      ],
+      "metrics": {
+        "Steel — UAE/Saudi (higher-oil scenario, by Sept)": "+ up to 15.9%",
+        "Copper — UAE/Saudi": "+5.4%",
+        "Aluminium — UAE/Saudi": "+ up to 10.5%",
+        "Steel — India scenario": "+ up to 18%",
+        "Steel — Singapore scenario": "+4.3%",
+        "Source": "Currie & Brown oil-price-scenario research",
+        "Article date": "2026-06-25",
+        "Most-exposed sectors": "Data centres (copper + MEP); hospitality (fit-out / FF&E)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Construction costs still at risk despite Middle East truce (Jun 25, 2026)",
+          "url": "https://tradearabia.com/News/464102/Construction-costs-still-at-risk-of-rising-despite-Middle-East-truce"
+        },
+        {
+          "label": "Currie & Brown — Middle East / UAE practice",
+          "url": "https://www.curriebrown.com/locations/middle-east/uae/"
+        },
+        {
+          "label": "Gulf News × Samana × Birmingham — earlier 3–22% pass-through read (Jun 17, in feed)",
+          "url": "https://gulfnews.com/business/property/will-higher-material-costs-make-dubai-homes-more-expensive-1.500531301"
+        }
+      ],
+      "explainer": {
+        "tagline": "Post-truce, but not post-cost — UAE steel could lift 15.9% by Sept, with data centres and hospitality holding the MEP / fit-out exposure.",
+        "whatIsIt": "Currie & Brown — the global project and cost management firm — published a fresh scenario-based read on what the US-Iran deal does and does not change for construction inputs. Headline: the deal eases Hormuz shipping concerns but does not collapse the commodity-cost wedge. Under their higher-oil scenario, UAE/Saudi steel could rise by up to 15.9% by September, copper by 5.4% and aluminium by up to 10.5%, with very uneven outcomes across regions (India steel up to 18%, Singapore 4.3% protected by early procurement).",
+        "howItWorks": "The model maps oil-price paths into commodity-cost outcomes via energy-intensity of manufacturing and transport. Singapore's softer outcome reflects early-procurement insulation; India's 18% prints from import-reliance + strong domestic demand. UAE/Saudi exposure is anchored on giga-projects, airport expansion, hospitality buildouts and data-centre construction — all of which keep demand elevated even as the oil overhang eases. Within sectors, Currie & Brown flags data centres (copper-heavy plus MEP intensity) and hospitality (globally sourced fit-out, furnishings, specialist equipment) as the most exposed to the September window.",
+        "whyItMatters": "This is a forward-looking scenario, not a backward-looking pass-through report — useful for anyone underwriting a 2026 H2 fit-out or contract repricing. Off-plan buyers already locked into SPAs at fixed prices keep their edge (consistent with the existing Samana × Birmingham read in feed). What is new: a specific September-timeline ceiling on commodity moves and a sector-by-sector exposure read that pinpoints data centres and hospitality stock as the contractor-margin pressure points to watch. Pair with the in-feed Tilal Al Ghaf force-majeure spat and Fitch handover-slip thesis to triangulate developer-margin risk into 2027.",
+        "forWho": "Developers underwriting new launches with fit-out exposure; data-centre and hospitality operators commissioning MEP work; off-plan buyers comparing pre-truce SPAs vs new launches; analysts modelling H2 2026 construction-cost inflation.",
+        "tryIt": "https://www.curriebrown.com/locations/middle-east/uae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/25/TA_20260625020539.webp",
+        "alt": "Construction site illustration — Currie & Brown post-truce commodity-cost research (TradeArabia, Jun 25 2026)",
+        "fit": "cover",
+        "credit": "TradeArabia"
+      },
+      "publishDate": "2026-06-25T00:36:31.942Z"
+    },
     {
       "id": "dubai-nakheel-palm-central-private-residences-palm-jebel-ali-222-homes-jun-24-2026",
       "categories": [

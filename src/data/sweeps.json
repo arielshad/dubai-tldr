@@ -5989,6 +5989,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260625t003631z",
+      "timestamp": "2026-06-25T00:36:31.942Z",
+      "source": "github-actions-sweep",
+      "summary": "Post-truce Dubai sweep adds the Currie & Brown commodity-cost scenario — UAE/Saudi steel could rise up to 15.9% by September, copper 5.4%, aluminium 10.5% even with the US-Iran deal easing Hormuz concerns. Data centres and hospitality flagged as the MEP-heavy sectors most exposed.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-currie-brown-post-truce-construction-cost-uae-saudi-steel-159-copper-54-alu-105-jun-25-2026",
+          "title": "Currie & Brown post-truce read: UAE/Saudi steel could rise up to 15.9% by September, copper 5.4%, aluminium 10.5% even as US-Iran deal eases Hormuz supply concerns — data centres and hospitality flagged as the MEP-heavy sectors most exposed",
+          "category": "market",
+          "note": "Fresh Currie & Brown post-truce scenario adds a forward-looking commodity-cost angle distinct from the Jun 17 Samana×Birmingham pass-through piece — different firm, post-truce framing, sector-by-sector exposure (data centres / hospitality) and a September timeline."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "offplan",
+        "ready",
+        "rental",
+        "distress",
+        "luxury",
+        "commercial",
+        "auction",
+        "lead",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
