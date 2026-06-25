@@ -6033,6 +6033,50 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260625t130056z",
+      "timestamp": "2026-06-25T13:00:56.169Z",
+      "source": "github-actions-sweep",
+      "summary": "Daily sweep on 2026-06-25 — one fresh DLD daily-print card (2026-06-24 trading day, just published in The Real Estate Report's 25-Jun-2026 review), plus a pricing-grid update to the Nakheel Palm Central Private Residences card after The National disclosed AED 2.7M–14.9M unit pricing and Sep 2030 handover.",
+      "counts": {
+        "added": 1,
+        "updated": 1,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-24-2026-daily-print-aed-162b-offplan-447-percent-ready-553-azizi-riviera-280m-mortgage",
+          "title": "Dubai DLD daily print 2026-06-24: AED 1.62B with ready back to 55.3% — ready flats AED 706.9M leads as an Azizi Riviera Beachfront portfolio mortgage clears more than AED 280M while off-plan flats AED 491.7M holds the primary engine",
+          "category": "market",
+          "note": "Fresh daily DLD print for trading day 2026-06-24, published in The Real Estate Report's 25-Jun-2026 review this morning. Captures the AED 280M+ Azizi Riviera Beachfront single-mortgage anomaly that pushed ready share back to 55.3%."
+        }
+      ],
+      "updated": [
+        {
+          "id": "dubai-nakheel-palm-central-private-residences-palm-jebel-ali-222-homes-jun-24-2026",
+          "title": "Nakheel releases 222 beachfront homes at Palm Central Private Residences on Palm Jebel Ali — three low- to mid-rise buildings with 1-4 BR apartments from AED 2.7M and 4-5 BR townhouses from AED 14.9M, September 2030 handover",
+          "note": "Adds the AED price grid (1-BR AED 2.7M → 4-BR AED 12.4M, townhouses from AED 14.9M) and September 2030 handover that The National 2026-06-24 disclosed after the initial Khaleej Times release."
+        }
+      ],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "ready",
+        "developer",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

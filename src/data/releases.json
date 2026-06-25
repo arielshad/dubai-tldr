@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-06-25T00:36:31.942Z",
+  "generatedAt": "2026-06-25T13:00:56.169Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-24-2026-daily-print-aed-162b-offplan-447-percent-ready-553-azizi-riviera-280m-mortgage",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-06-24: AED 1.62B with ready back to 55.3% — ready flats AED 706.9M leads as an Azizi Riviera Beachfront portfolio mortgage clears more than AED 280M while off-plan flats AED 491.7M holds the primary engine",
+      "org": "The Real Estate Report / Dubai Land Department",
+      "date": "2026-06-25",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-25-jun-2026",
+      "summary": "Dubai Land Department freehold tape for trading day 2026-06-24 prints AED 1.62B — ready AED 895.7M (55.3%) led by ready flats AED 706.9M with a single Azizi Riviera Beachfront portfolio mortgage >AED 280M, off-plan AED 722.7M (44.7%) led by off-plan flats AED 491.7M and off-plan villas AED 202.3M.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "tape",
+        "azizi-riviera-beachfront",
+        "mortgage"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD",
+        "MBR-CITY"
+      ],
+      "metrics": {
+        "Trading day": "2026-06-24",
+        "Total value": "AED 1.62B",
+        "Ready share": "55.3% (AED 895.7M)",
+        "Off-plan share": "44.7% (AED 722.7M)",
+        "Ready flats": "AED 706.9M (78.9% of ready)",
+        "Ready villas": "AED 101.8M (11.4%)",
+        "Ready commercial": "AED 62.4M (7.0%)",
+        "Ready hotel apt/rooms": "AED 24.4M (2.7%)",
+        "Off-plan flats": "AED 491.7M (68.0% of off-plan)",
+        "Off-plan villas": "AED 202.3M (28.0%)",
+        "Off-plan commercial": "AED 18.0M (2.5%)",
+        "Off-plan hotel apt/rooms": "AED 10.7M (1.5%)",
+        "Single-deal anchor": "Azizi Riviera Beachfront portfolio mortgage >AED 280M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 25-Jun-2026 review (Jun 24 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-25-jun-2026"
+        },
+        {
+          "label": "DLD open data portal",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions service",
+          "url": "https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions"
+        }
+      ],
+      "explainer": {
+        "tagline": "Ready back to 55.3% of the tape on a single AED 280M+ Azizi Riviera Beachfront mortgage — the secondary book is no longer the quiet half.",
+        "whatIsIt": "Daily Dubai Land Department tape for trading day 2026-06-24 cleared AED 1.62 billion. Ready held 55.3% of value (AED 895.7M); off-plan held 44.7% (AED 722.7M). Within ready, flats dominated at 78.9% — within off-plan, villas pushed to 28.0% as the residential mix stayed firmly the spine of the book.",
+        "howItWorks": "Use this as the previous-day baseline for any pricing or absorption pitch. Ready flats AED 706.9M leads the day, but more than AED 280M of that came from a single Azizi Riviera Beachfront portfolio mortgage transaction — strip it out and the day looks closer to a 50/50 ready-off-plan tape. Off-plan flats AED 491.7M held the primary engine, off-plan villas AED 202.3M flagged continued villa demand. Hotel apt/rooms AED 35.1M and commercial AED 80.4M round out the residual. Deal-count and weekly-book figures were not disclosed in this print.",
+        "whyItMatters": "44.7% off-plan vs 57.7% on 23-Jun and 66.9% on 22-Jun shows the mix swinging back to ready inside a week — but the swing is almost entirely a single mortgage portfolio rather than a broader behavioural shift, useful context for anyone pitching 'ready is back'. The off-plan villa AED 202M day is the real fundamental signal once the Azizi block is netted out.",
+        "forWho": "DLD operators, brokers triaging buyer demand by asset class, market-data shops keeping a daily off-plan / ready mix series, MBR City brokers tracking the Azizi Riviera Beachfront secondary book.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-25-jun-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bdad11e0-f488-4ccf-a814-278cf37d1db9/pexels-ahsan-elahi-15693277.jpg",
+        "alt": "Dubai skyline cover image for The Real Estate Report's 2026-06-25 daily DLD print (Jun 24 tape)",
+        "fit": "cover",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-06-25T13:00:56.169Z"
+    },
     {
       "id": "dubai-currie-brown-post-truce-construction-cost-uae-saudi-steel-159-copper-54-alu-105-jun-25-2026",
       "categories": [
@@ -80,11 +152,11 @@
         "luxury",
         "developer"
       ],
-      "title": "Nakheel releases 222 beachfront homes at Palm Central Private Residences on Palm Jebel Ali — three low- to mid-rise buildings with 1-4 BR apartments and 4-5 BR townhouses, duplex layouts with double-height living and direct beach access",
+      "title": "Nakheel releases 222 beachfront homes at Palm Central Private Residences on Palm Jebel Ali — three low- to mid-rise buildings with 1-4 BR apartments from AED 2.7M and 4-5 BR townhouses from AED 14.9M, September 2030 handover",
       "org": "Khaleej Times / Nakheel × Dubai Holding Real Estate",
       "date": "2026-06-24",
       "url": "https://www.khaleejtimes.com/business/property/dubai-nakheel-beachfront-palm-central-private-residences",
-      "summary": "Nakheel unveils the next Palm Jebel Ali release — 222 beachfront homes across three low- to mid-rise buildings, mixing 1-4 BR apartments with 4-5 BR townhouses and duplex layouts with double-height living rooms opening to the sea on the 13.4-km, seven-island masterplan.",
+      "summary": "Nakheel unveils the next Palm Jebel Ali release — 222 beachfront homes across three low- to mid-rise buildings, 1-BR from AED 2.7M, 2-BR AED 4.3M, 3-BR AED 7.5M, 4-BR AED 12.4M, and 4-5-BR townhouses from AED 14.9M, all on a September 2030 handover.",
       "tags": [
         "palm-jebel-ali",
         "beachfront",
@@ -102,6 +174,12 @@
         "Homes released": "222",
         "Building count": "3 low- to mid-rise",
         "Unit mix": "1-4 BR apartments + 4-5 BR townhouses",
+        "1-BR price": "from AED 2.7M (USD 730K)",
+        "2-BR price": "from AED 4.3M",
+        "3-BR price": "from AED 7.5M",
+        "4-BR price": "from AED 12.4M",
+        "4-5-BR townhouse price": "from AED 14.9M",
+        "Handover": "September 2030",
         "Masterplan reach": "13.4 km across 7 islands",
         "Wider retail": "9,000 sqm centre"
       },
@@ -109,6 +187,10 @@
         {
           "label": "Khaleej Times — Nakheel Palm Central release (2026-06-24)",
           "url": "https://www.khaleejtimes.com/business/property/dubai-nakheel-beachfront-palm-central-private-residences"
+        },
+        {
+          "label": "The National — Nakheel pricing grid (2026-06-24)",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/24/nakheel-launches-222-homes-for-sale-at-palm-jebel-ali-with-prices-from-dh27m/"
         },
         {
           "label": "Dubai Holding Real Estate — Palm Jebel Ali masterplan",
@@ -120,12 +202,12 @@
         }
       ],
       "explainer": {
-        "tagline": "Nakheel's next Palm Jebel Ali drop — 222 beachfront homes across three towers with duplex layouts and direct sand access.",
+        "tagline": "Nakheel's next Palm Jebel Ali drop — 222 beachfront homes from AED 2.7M, four-year build to September 2030 handover.",
         "whatIsIt": "Dubai Holding Real Estate (Nakheel) released Palm Central Private Residences on Wednesday — the next phase of branded beachfront product on Palm Jebel Ali. The 222-home release spans three low- to mid-rise buildings, mixes 1-4 BR apartments with 4-5 BR townhouses, and adds select duplex units with double-height living areas and oversized terraces.",
-        "howItWorks": "Buyers get direct beach access from the buildings, with amenities listed by KT including pools, a fitness centre, games room, kids club and sports courts. The wider Palm Jebel Ali masterplan stretches 13.4 km across seven interconnected islands and is anchored by a 9,000 sqm retail centre and the 1,000-capacity Palm Jebel Ali Friday Mosque. Payment plan and AED pricing were not disclosed in the release — buyers should request the price grid and the construction-linked schedule from the developer or appointed brokers before signing.",
-        "whyItMatters": "Palm Jebel Ali is the largest beachfront supply pipeline in Dubai 2040, and the Coral / Beach Collection villa book is already AED 8.5B under execution with first handovers locked for end-2026. This release adds a denser apartment-and-townhouse layer to a project that until now has been villa-led, which lets buyers under the AED 8-10M villa entry ticket get exposure to the same beachfront brand.",
-        "forWho": "End users wanting Palm-branded beachfront under the villa ticket; off-plan investors hunting Dubai Holding pre-handover deals; brokers building Palm Jebel Ali apartment comp sheets.",
-        "tryIt": "https://www.khaleejtimes.com/business/property/dubai-nakheel-beachfront-palm-central-private-residences"
+        "howItWorks": "Pricing per The National 2026-06-24 follow-up: 1-BR from AED 2.7M (USD 730K), 2-BR AED 4.3M, 3-BR AED 7.5M, 4-BR AED 12.4M, 4-5-BR townhouses from AED 14.9M. Handover is locked for September 2030, sold direct by Nakheel as a follow-up to the strong response to the October 2025 first phase. Buyers get direct beach access, with amenities listed by KT including pools, a fitness centre, games room, kids club and sports courts. The wider Palm Jebel Ali masterplan stretches 13.4 km across seven interconnected islands and is anchored by a 9,000 sqm retail centre and the 1,000-capacity Palm Jebel Ali Friday Mosque. Payment plan splits were not disclosed — request the construction-linked schedule from Nakheel or appointed brokers before signing.",
+        "whyItMatters": "Palm Jebel Ali is the largest beachfront supply pipeline in Dubai 2040 and the Coral / Beach Collection villa book is already AED 8.5B under execution with first handovers locked for end-2026. The AED 2.7M entry point on this release is the cheapest verified ticket into the Palm Central apartment layer and puts the Palm beachfront brand inside reach of buyers who can't write the AED 8-10M villa cheque.",
+        "forWho": "End users wanting Palm-branded beachfront from a sub-AED 3M entry; off-plan investors hunting Dubai Holding pre-handover deals with a four-year build runway; brokers building Palm Jebel Ali apartment and townhouse comp sheets.",
+        "tryIt": "https://www.thenationalnews.com/business/property/2026/06/24/nakheel-launches-222-homes-for-sale-at-palm-jebel-ali-with-prices-from-dh27m/"
       },
       "image": {
         "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-24/zai4v6db/Palm-Central-Private-Residences-3-.jpg",
