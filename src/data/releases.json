@@ -1,8 +1,94 @@
 {
-  "generatedAt": "2026-06-25T13:00:56.169Z",
+  "generatedAt": "2026-06-26T00:37:50.295Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-gulf-news-betterhomes-mar-april-2026-buyer-nationality-british-1st-marina-jvc-jlt-jun-24",
+      "categories": [
+        "market",
+        "lead",
+        "ready"
+      ],
+      "title": "Gulf News × Betterhomes Mar-April 2026 broker-book buyer-nationality ranking — British #1, Indian #2, Australian #3, Egyptian #4 as Dubai Marina / JVC / JLT / Downtown / DAMAC Lagoons take the top community slots",
+      "org": "Gulf News (Nivetha Dayanand) / Betterhomes",
+      "date": "2026-06-24",
+      "url": "https://gulfnews.com/business/property/this-nationality-is-buying-the-most-property-in-dubai-1.500581937",
+      "summary": "Gulf News' Nivetha Dayanand (24 Jun 2026, 08:37 GST) publishes Betterhomes' own Mar-April 2026 brokerage-book ranking: British buyers #1, Indians #2, Australians #3, Egyptians #4 — inverting the DXB Interact end-May post-crisis split that had Indians ahead at 20.59% vs British 13.26%. Apartments drove the majority of deals with Dubai Marina leading by a clear margin, followed by JVC, JLT, Downtown and DAMAC Lagoons. UAE banks' best published mortgages sit at 3.75% (1-yr fix), 3.78% (2-yr), 3.95% (3-yr); FTB LTV up to 80% on ready, investor / second-home LTV capped ~60%, off-plan deposit ~50%. JLL pipeline guides ~59K units H2 2026 and ~92K through 2027, apartment-led.",
+      "tags": [
+        "betterhomes",
+        "gulf-news",
+        "nationality",
+        "british-buyers",
+        "indian-buyers",
+        "dubai-marina",
+        "jvc",
+        "jlt",
+        "downtown",
+        "damac-lagoons",
+        "mortgage",
+        "ltv",
+        "jll",
+        "supply-pipeline",
+        "lomond"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARINA",
+        "JVC",
+        "JLT",
+        "DOWNTOWN",
+        "DAMAC-LAGOONS"
+      ],
+      "metrics": {
+        "Period": "Mar-Apr 2026 (Betterhomes book)",
+        "Top buyer #1": "British",
+        "Top buyer #2": "Indian",
+        "Top buyer #3": "Australian",
+        "Top buyer #4": "Egyptian",
+        "Lead community": "Dubai Marina",
+        "Next-tier communities": "JVC, JLT, Downtown, DAMAC Lagoons",
+        "1-yr fixed mortgage": "3.75%",
+        "2-yr fixed mortgage": "3.78%",
+        "3-yr fixed mortgage": "3.95%",
+        "FTB ready LTV": "up to 80%",
+        "Investor / 2nd-home LTV": "~60%",
+        "Off-plan deposit": "~50%",
+        "JLL H2 2026 supply": "~59,000 units",
+        "JLL 2027 supply": "~92,000 units",
+        "Cross-check (DXB Interact end-May)": "Indians 20.59% / British 13.26%"
+      },
+      "links": [
+        {
+          "label": "Gulf News: This nationality is buying the most property in Dubai (2026-06-24)",
+          "url": "https://gulfnews.com/business/property/this-nationality-is-buying-the-most-property-in-dubai-1.500581937"
+        },
+        {
+          "label": "Cross-check: Gulf Today × DXB Interact post-crisis nationality split (29 May 2026)",
+          "url": "https://gulftoday.ae/business/2026/05/29/buyer-nationality-mix-dxb-interact"
+        }
+      ],
+      "explainer": {
+        "tagline": "Betterhomes' Mar-April 2026 broker book puts British buyers back at #1 — inverting the DXB Interact post-crisis ranking that had Indians ahead.",
+        "whatIsIt": "Gulf News' Nivetha Dayanand publishes Betterhomes' own brokerage-book ranking for Mar-April 2026 — British buyers take the top slot at the agency, followed by Indians, Australians and Egyptians. Apartments drove the bulk of deals, and Dubai Marina led the location mix by a clear margin, with JVC, JLT, Downtown and DAMAC Lagoons (townhouses) rounding out the top five communities.",
+        "howItWorks": "This is Betterhomes' broker-level deal flow, not the DLD-wide DXB Interact transaction data (which had Indians at 20.59% / British 13.26% through end-May 2026 post-crisis). UAE banks' best-published mortgage rates sit at 3.75% (1-year fix), 3.78% (2-year) and 3.95% (3-year). LTV terms quoted in the piece: 80% for first-time buyers on ready property, ~60% for investors / second-home buyers, and an effective 50% deposit requirement on off-plan. JLL's supply pipeline guides ~59,000 units to land through H2 2026 and ~92,000 across 2027 — apartment-led, and concentrated in the same Marina / JVC / JLT corridors where Betterhomes books most of its flow.",
+        "whyItMatters": "British #1 inverts the post-crisis Indian-led ranking documented by Gulf Today × DXB Interact in late May, so brokers can't safely default to 'India-first' marketing. The Marina / JVC / JLT / Downtown / Lagoons map mirrors the same volume engines bid by Betterhomes' broker book — and those communities are also the most exposed to JLL's incoming 59-92K unit supply, so absorption risk is concentrated there. Adriaan Rossouw (Head of Mortgages, Lomond) frames lending fundamentals as 'sound — rates attractive, LTV structures clear, banks lending,' which keeps the financing channel intact while the geographic-mix narrative shifts.",
+        "forWho": "Buyer-side brokers segmenting their Mar-April book by nationality, developer sales teams calibrating roadshow geography between London / Mumbai / Sydney / Cairo, mortgage brokers re-pricing 1-3-year fixed offers against LTV caps, and underwriters reading apartment-pipeline absorption in Marina / JVC / JLT.",
+        "tryIt": "https://gulfnews.com/business/property/this-nationality-is-buying-the-most-property-in-dubai-1.500581937"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2024-11-30%2F4srue2im%2Fdubai_frame_tourists_resources1_16a3106f0ae_original_ratio.jpg",
+        "alt": "Dubai cityscape — Gulf News × Betterhomes Mar-April 2026 buyer-nationality ranking (British #1)",
+        "fit": "cover",
+        "credit": "Gulf News / Betterhomes"
+      },
+      "author": {
+        "name": "Nivetha Dayanand",
+        "handle": "Gulf News",
+        "profileUrl": "https://gulfnews.com/business/property/this-nationality-is-buying-the-most-property-in-dubai-1.500581937"
+      },
+      "publishDate": "2026-06-26T00:37:50.295Z"
+    },
     {
       "id": "dubai-dld-jun-24-2026-daily-print-aed-162b-offplan-447-percent-ready-553-azizi-riviera-280m-mortgage",
       "categories": [

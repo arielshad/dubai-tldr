@@ -6077,6 +6077,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260626t003750z",
+      "timestamp": "2026-06-26T00:37:50.295Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled sweep on 2026-06-26 with the last sweep ~11h prior. Most tier-1 stories from the 72h window (Nakheel Palm Central Private Residences, Flexi Rent, Currie & Brown construction-cost read, DLD daily prints through 2026-06-24, MERED Iconic Residences L31, Palma Serenia District, Marriott Executive JLT, Innovo×FieldAI Ghaf Woods, Etihad Rail launch confirmation) are already in feed. One verified fresh card added: Gulf News × Betterhomes Mar-April 2026 broker-book buyer-nationality ranking (Nivetha Dayanand, 2026-06-24) — British #1 inverts DXB Interact's post-crisis Indian-led ranking. DLD Jun-25 daily print not yet published by therealestatereports; no new launches landed on Jun 25-26 outside Nakheel.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-gulf-news-betterhomes-mar-april-2026-buyer-nationality-british-1st-marina-jvc-jlt-jun-24",
+          "title": "Gulf News × Betterhomes Mar-April 2026 broker-book buyer-nationality ranking — British #1, Indian #2, Australian #3, Egyptian #4 as Dubai Marina / JVC / JLT / Downtown / DAMAC Lagoons take the top community slots",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "lead",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
