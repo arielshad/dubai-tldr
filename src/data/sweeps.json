@@ -6113,6 +6113,68 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260626t124718z",
+      "timestamp": "2026-06-26T12:47:18.128Z",
+      "source": "github-actions-sweep",
+      "summary": "Five verified Dubai property signals across the 23-26 Jun 2026 window — DLD daily print, Emaar Beachfront 54-storey Bristol main-contract award, Crown Prince approves four urban projects, AGBI/AHS Sajwani liquidity-spike read, and AGBI/Betterhomes May mortgage tape.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-25-2026-daily-print-aed-152b-ready-51-percent",
+          "title": "Dubai DLD daily print 2026-06-25: AED 1.52B with ready edging ahead at 51.0% — ready flats AED 459.8M + ready villas AED 173.6M anchor the tape as off-plan eases to 49.0%",
+          "category": "market",
+          "note": "Latest DLD daily print — drives the rolling sort-by-publishDate market tape that operators expect every day."
+        },
+        {
+          "id": "dubai-bristol-emaar-beachfront-al-sahel-54-storey-150-keys-227-apts-jun-24-2026",
+          "title": "Al-Sahel Contracting wins Emaar Beachfront 'The Bristol Luxury Hotels & Resorts' main-contract — 54-storey, 150 hotel keys + 227 1-to-4 BR apartments at Dubai Harbour with 2028 completion",
+          "category": "developer",
+          "note": "Concrete supply-side signal — Emaar contract award on a 54-storey Beachfront tower that adds 227 ready apartments and 150 hotel keys to the 2028 pipeline."
+        },
+        {
+          "id": "dubai-crown-prince-falcon-market-creek-lighting-kengo-kuma-reservoir-park-jun-26-2026",
+          "title": "Sheikh Hamdan approves four Dubai urban-fabric projects — AED 50M Falcon Market, 8-km Creek Lighting (Q1 2027), Kengo Kuma Reservoir Park and a world-first AI-powered Park Design Challenge",
+          "category": "market",
+          "note": "Crown Prince approves four urban-fabric projects that reposition Dubai's amenity stack — direct read-through for prime-area scarcity narrative."
+        },
+        {
+          "id": "dubai-agbi-sajwani-ahs-properties-q4-liquidity-spike-may-aed-22b-jun-24-2026",
+          "title": "AGBI × Abbas Sajwani (AHS Properties) Jun-24 read: 'Capital paused, not left' — May AED 22B (-42% MoM) softness frames a Q4 liquidity spike as Grade A prices hold and Grade B softens ~10%",
+          "category": "market",
+          "note": "Sajwani / AHS Properties forecasts a Q4 capital-return spike anchored to May AED 22B / 42% MoM softness — actionable timing read for HNW buyers."
+        },
+        {
+          "id": "dubai-agbi-betterhomes-may-2026-mortgage-aed-175b-17-percent-yoy-jun-25-2026",
+          "title": "AGBI × Betterhomes Jun-25 read: May 2026 Dubai mortgage value AED 17.5B (+17% YoY) as cash sales pause — UAE mortgage-and-real-estate loan book hits AED 1.45T (+11.5% YoY)",
+          "category": "market",
+          "note": "Mortgage tape — May 2026 AED 17.5B mortgage value up 17% YoY despite 45% transaction-count drop. Confirms financed buyers leaning in as cash buyers pause."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "luxury",
+        "commercial",
+        "rental"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps",
+        "dubizzle-houza-crosscheck"
+      ]
     }
   ]
 }

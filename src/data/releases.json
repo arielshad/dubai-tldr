@@ -1,8 +1,324 @@
 {
-  "generatedAt": "2026-06-26T00:37:50.295Z",
+  "generatedAt": "2026-06-26T12:47:18.128Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-25-2026-daily-print-aed-152b-ready-51-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-25: AED 1.52B with ready edging ahead at 51.0% — ready flats AED 459.8M + ready villas AED 173.6M anchor the tape as off-plan eases to 49.0%",
+      "org": "The Real Estate Report",
+      "date": "2026-06-25",
+      "publishDate": "2026-06-26T12:47:18.128Z",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-26-jun-2026",
+      "summary": "AED 1.52B DLD daily tape on 2026-06-25 sees ready properties edge ahead at AED 774.9M / 51.0% as ready flats book AED 459.8M and ready villas AED 173.6M, while off-plan flats hold AED 485.5M of the AED 744.2M off-plan side.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "ready",
+        "offplan",
+        "flats",
+        "villas",
+        "commercial"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Total tape": "AED 1.52B",
+        "Ready share": "51.0%",
+        "Off-plan share": "49.0%",
+        "Off-plan flats": "AED 485.5M",
+        "Off-plan villas": "AED 141.3M",
+        "Off-plan commercial": "AED 95.3M",
+        "Ready flats": "AED 459.8M",
+        "Ready villas": "AED 173.6M",
+        "Ready commercial": "AED 107.0M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 26 Jun 2026 daily review",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-26-jun-2026"
+        },
+        {
+          "label": "DLD eServices — Real Estate Transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai REST — official transaction portal",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 1.52B day with ready properties barely ahead — first time the secondary book outpaces off-plan in the late-Jun cycle.",
+        "whatIsIt": "Dubai Land Department freehold transaction tape for 2026-06-25 totalled AED 1.52B across ready and off-plan stock, with ready edging ahead at AED 774.9M (51.0%) versus AED 744.2M (49.0%) off-plan. Ready flats led the day at AED 459.8M, with ready villas adding AED 173.6M.",
+        "howItWorks": "Off-plan flats clocked AED 485.5M (65.2% of off-plan flow), off-plan villas AED 141.3M (19.0%) and off-plan commercial AED 95.3M (12.8%). On the ready side, flats took AED 459.8M (59.3%), villas AED 173.6M (22.4%) and commercial AED 107.0M (13.8%). Hotel apartments cleared AED 56.7M combined.",
+        "whyItMatters": "Three of the past four sessions (22, 23, 24 Jun) saw off-plan dominate; the 25-Jun flip toward ready confirms the rotation flagged in the rolling sweep — financed buyers leaning into secondary stock as off-plan launches digest. The villa share (AED 314.9M of total) is back to the upper half of the May-Jun band.",
+        "forWho": "Secondary-stock buyers, ready-flat operators, mortgage brokers tracking the cash/financed mix, and analysts pricing the ready-vs-off-plan share rotation.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/16880497-a043-4080-a884-88d8d41a2037/pexels-pranjalsrivastava9-2403251__1_.jpg",
+        "alt": "Dubai skyline overlooking transaction activity on 25 June 2026",
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "dubai-bristol-emaar-beachfront-al-sahel-54-storey-150-keys-227-apts-jun-24-2026",
+      "categories": [
+        "developer",
+        "luxury"
+      ],
+      "title": "Al-Sahel Contracting wins Emaar Beachfront 'The Bristol Luxury Hotels & Resorts' main-contract — 54-storey, 150 hotel keys + 227 1-to-4 BR apartments at Dubai Harbour with 2028 completion",
+      "org": "MEED",
+      "date": "2026-06-24",
+      "publishDate": "2026-06-26T12:47:18.128Z",
+      "url": "https://www.meed.com/contractor-wins-emaar-dubai-harbour-project-deal",
+      "summary": "Emaar Properties awards Al-Sahel Contracting Company the main-construction contract on The Bristol Luxury Hotels & Resorts at Emaar Beachfront — a 54-storey mixed-use tower combining 150 hotel keys and 227 one-to-four-bedroom apartments at Dubai Harbour, with completion targeted for 2028 and Dutch Foundation already done with enabling works.",
+      "tags": [
+        "emaar",
+        "dubai-harbour",
+        "emaar-beachfront",
+        "bristol",
+        "branded-residence",
+        "construction-contract",
+        "supply"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-HARBOUR",
+        "BEACHFRONT"
+      ],
+      "metrics": {
+        "Tower height": "54 storeys",
+        "Hotel keys": "150",
+        "Apartments": "227 (1-4 BR)",
+        "Completion target": "2028",
+        "Main contractor": "Al-Sahel Contracting Company",
+        "Consultant": "Mirage Leisure & Development",
+        "Enabling-works contractor": "Dutch Foundation"
+      },
+      "links": [
+        {
+          "label": "MEED — Contractor wins Emaar Dubai Harbour project deal",
+          "url": "https://www.meed.com/contractor-wins-emaar-dubai-harbour-project-deal"
+        },
+        {
+          "label": "Al-Sahel Contracting project page — The Bristol",
+          "url": "https://www.alsahelcon.com/project/the-bristol-luxury-hotels-resorts-underconstruction"
+        },
+        {
+          "label": "Emaar Properties — The Bristol at Emaar Beachfront",
+          "url": "https://properties.emaar.com/en/properties/the-bristol-luxury-hotels-resorts-at-emaar-beachfront/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Emaar's next Beachfront tower locks its main contractor — 150 hotel keys and 227 apartments queued for 2028 delivery on Dubai Harbour.",
+        "whatIsIt": "Emaar Properties has signed Al-Sahel Contracting Company as the main contractor for The Bristol Luxury Hotels & Resorts at Emaar Beachfront on Dubai Harbour. The 54-storey mixed-use tower combines a 150-key hotel with 227 one- to four-bedroom apartments and is consulted by Dubai-based Mirage Leisure & Development.",
+        "howItWorks": "Dutch Foundation has already wrapped the enabling works, so the main-build awards put Bristol on a 2028 hand-over track. The tower joins Emaar's Beachfront pipeline alongside Beachgate and Bayview, all routed through the Dubai Harbour gateway. No contract value was disclosed.",
+        "whyItMatters": "Emaar Beachfront stays the single most active branded-Beachfront pipeline in Dubai; another 227 ready apartments hit 2028 supply, which dampens the resale scarcity narrative even as Palm Jumeirah, Palm Jebel Ali and Jumeirah Bay clear record luxury tickets. For secondary buyers, the 2028 completion sets a hard liquidity window for assignment exits before keys land.",
+        "forWho": "Off-plan buyers tracking Beachfront supply, branded-residence operators, hotel-investment desks, and assignment-resale brokers pricing 2027-2028 exit windows.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/the-bristol"
+      },
+      "image": {
+        "url": "https://www.meed.com/Uploads/NewsArticle/17411104/main.jpg",
+        "alt": "Render of The Bristol Luxury Hotels & Resorts at Emaar Beachfront, Dubai Harbour",
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "dubai-crown-prince-falcon-market-creek-lighting-kengo-kuma-reservoir-park-jun-26-2026",
+      "categories": [
+        "market"
+      ],
+      "title": "Sheikh Hamdan approves four Dubai urban-fabric projects — AED 50M Falcon Market, 8-km Creek Lighting (Q1 2027), Kengo Kuma Reservoir Park and a world-first AI-powered Park Design Challenge",
+      "org": "TradeArabia",
+      "date": "2026-06-26",
+      "publishDate": "2026-06-26T12:47:18.128Z",
+      "url": "https://tradearabia.com/News/464130/Dubai-approves-falcon-market%2c-Creek-lighting-project--",
+      "summary": "Dubai Crown Prince HH Sheikh Hamdan bin Mohammed greenlights four urban-fabric projects on 2026-06-26 — an AED 50M Falcon Market with falcon-wing architecture, an 8-km Dubai Creek Lighting Project completing Q1 2027, a Reservoir Park designed by Kengo Kuma, and a world-first AI-Powered Park Design Challenge — quietly thickening the amenity stack underwriting Dubai's prime-area positioning.",
+      "tags": [
+        "sheikh-hamdan",
+        "dubai-creek",
+        "urban-design",
+        "kengo-kuma",
+        "ai-park",
+        "amenity-stack",
+        "infrastructure"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-CREEK",
+        "DXB"
+      ],
+      "metrics": {
+        "Falcon Market budget": "AED 50M (~USD 13.61M)",
+        "Falcon Market size": "~50,000 sqft",
+        "Creek Lighting scope": "8-km waterfront span",
+        "Creek Lighting completion": "Q1 2027",
+        "Reservoir Park architect": "Kengo Kuma",
+        "AI Park Design Challenge scope": "world-first"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai approves falcon market, Creek lighting project",
+          "url": "https://tradearabia.com/News/464130/Dubai-approves-falcon-market%2c-Creek-lighting-project--"
+        },
+        {
+          "label": "The Real Estate Report — 26 Jun 2026 daily review",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-26-jun-2026"
+        },
+        {
+          "label": "Dubai Media Office",
+          "url": "https://mediaoffice.ae/en/news"
+        }
+      ],
+      "explainer": {
+        "tagline": "Four urban-fabric approvals quietly thicken Dubai's amenity stack — a direct read-through for prime-area pricing power.",
+        "whatIsIt": "On 2026-06-26 Dubai Crown Prince HH Sheikh Hamdan bin Mohammed approved a quartet of urban-fabric projects: a falcon-wing-architecture AED 50M Dubai Falcon Market (~50,000 sqft, retail + veterinary clinic + cultural events), an 8-km Dubai Creek Lighting Project (Q1 2027 completion), a Reservoir Park designed by Japanese architect Kengo Kuma, and the world-first AI-Powered Park Design Challenge.",
+        "howItWorks": "The four projects share a single press window but four distinct programmes. The Falcon Market formalises a high-status leisure cluster around falconry. The Creek Lighting Project rewrites the night-time experience along an 8-km stretch of historic waterfront, lifting Bur Dubai / Deira frontage. Reservoir Park brings a marquee-architect signature to a public-space programme. The AI Park Design Challenge opens a competition for designers, students, startups and AI specialists.",
+        "whyItMatters": "Dubai's prime-area pricing power isn't driven by inventory alone — it's the amenity stack that anchors the 'lifestyle premium' narrative around Palm Jumeirah, Downtown, Dubai Creek Harbour and Jumeirah. Each approval adds soft-power supply to the city's positioning vs Singapore, Miami and Monaco, the comps that institutional capital uses for super-prime underwriting. Creek-side product (Dubai Square, Creek Harbour, Bur Dubai heritage frontage) is the most direct beneficiary.",
+        "forWho": "Prime-area brokers, branded-residence developers, hospitality operators, urban planners and architecture/design firms eyeing Dubai entry.",
+        "tryIt": "https://mediaoffice.ae/en/news"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/26/TA_20260626071103.webp",
+        "alt": "Dubai Crown Prince Sheikh Hamdan announcement of four urban projects",
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "dubai-agbi-sajwani-ahs-properties-q4-liquidity-spike-may-aed-22b-jun-24-2026",
+      "categories": [
+        "market",
+        "luxury"
+      ],
+      "title": "AGBI × Abbas Sajwani (AHS Properties) Jun-24 read: 'Capital paused, not left' — May AED 22B (-42% MoM) softness frames a Q4 liquidity spike as Grade A prices hold and Grade B softens ~10%",
+      "org": "AGBI",
+      "date": "2026-06-24",
+      "publishDate": "2026-06-26T12:47:18.128Z",
+      "url": "https://www.agbi.com/real-estate/2026/06/abbas-sajwani-dubai-property-liquidity-to-spike/",
+      "summary": "Speaking to AGBI on 24 Jun, AHS Properties founder Abbas Sajwani frames the May AED 22B residential tape (-42% MoM vs February's AED 46B peak) as a buyer pause rather than a price reset — Grade A prices held, Grade B softened ~10%, and 'the big liquidity spike will come in September' as delayed capital returns post-summer.",
+      "tags": [
+        "ahs-properties",
+        "sajwani",
+        "iran-war",
+        "liquidity",
+        "prime",
+        "grade-a",
+        "may-2026",
+        "q4-forecast"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "PRIME"
+      ],
+      "metrics": {
+        "May 2026 residential sales": "AED 22B (USD 6.1B)",
+        "MoM change": "-42% vs April",
+        "Feb 2026 peak": "AED 46B",
+        "Off-plan sales (May)": "AED 16B (-50% MoM)",
+        "Ready-home decline": "<15% MoM",
+        "Citywide price decline (3M)": "<5%",
+        "Grade B softening": "~10%",
+        "AHS Shangri-La acquisition": "AED 1B (closed May)"
+      },
+      "links": [
+        {
+          "label": "AGBI — Sajwani: Iran war failed to spark Dubai property selloff",
+          "url": "https://www.agbi.com/real-estate/2026/06/abbas-sajwani-dubai-property-liquidity-to-spike/"
+        },
+        {
+          "label": "AGBI — Abbas Sajwani: Conflict had little impact on Dubai property deals",
+          "url": "https://www.agbi.com/real-estate/2026/06/abbas-sajwani-dubai-property-conflict/"
+        },
+        {
+          "label": "AGBI — Dubai property rally fades as buyers secure discounts",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-property-rally-fades-as-buyers-secure-discounts/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sajwani says capital is paused, not gone — pencils a Q4 liquidity spike as Grade A holds and Grade B softens ~10%.",
+        "whatIsIt": "AHS Properties founder Abbas Sajwani told AGBI on 24 Jun that the Iran-conflict-driven softness reads as a buyer pause, not a re-pricing event. May 2026 residential sales fell 42% MoM to AED 22B from April, and 52% off Feb's AED 46B peak — but Grade A locations 'have not corrected,' citywide prices declined less than 5% in three months, and Grade B softened roughly 10%.",
+        "howItWorks": "Off-plan took the brunt — May off-plan sales halved to AED 16B, while ready-home sales declined less than 15%. Sajwani argues 'the big liquidity spike will come in September' as Eid + summer travel + war-pause delays unwind, capital that paused mid-conflict returns, and Q4 books a catch-up flow. AHS itself closed the AED 1B Shangri-La Dubai acquisition in May at the unchanged January valuation, signalling institutional buyers held line on pricing.",
+        "whyItMatters": "This is the cleanest investor-side framing of the May softness — distinguishing a transitory war-discount from a fundamental re-rate. For HNW buyers, Sajwani's 'Grade A hasn't corrected' is the directional read: the discount window is narrowing in prime, and Q4 liquidity could close it entirely. For Grade B sellers, the ~10% softness sets a realistic listing-cut band rather than panic discounting.",
+        "forWho": "HNW and institutional buyers timing entries, prime-asset sellers calibrating asking levels, brokers segmenting Grade A vs Grade B mandates, and operators stress-testing Q4 cash-flow assumptions.",
+        "tryIt": "https://www.agbi.com/real-estate/2026/06/abbas-sajwani-dubai-property-liquidity-to-spike/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/06/951813D8-74C7-4F4C-B16A-3C7EAE5173D8-scaled.jpg",
+        "alt": "AHS Properties founder Abbas Sajwani speaking on Dubai property outlook",
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "dubai-agbi-betterhomes-may-2026-mortgage-aed-175b-17-percent-yoy-jun-25-2026",
+      "categories": [
+        "market"
+      ],
+      "title": "AGBI × Betterhomes Jun-25 read: May 2026 Dubai mortgage value AED 17.5B (+17% YoY) as cash sales pause — UAE mortgage-and-real-estate loan book hits AED 1.45T (+11.5% YoY)",
+      "org": "AGBI",
+      "date": "2026-06-25",
+      "publishDate": "2026-06-26T12:47:18.128Z",
+      "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-mortgage-value-rises-despite-property-slowdown/",
+      "summary": "AGBI / Betterhomes / UAE Central Bank tape: Dubai mortgage value hit AED 17.5B in May 2026 — up 17% YoY despite a 45% YoY drop in mortgaged-deal count — while the UAE mortgage-and-real-estate loan book climbs to AED 1.45T (+11.5% YoY) and cash buyers stay ~75% of April flow. Financed-buyer share lifts as cash pauses.",
+      "tags": [
+        "mortgage",
+        "betterhomes",
+        "uae-central-bank",
+        "ltv",
+        "cash-vs-financed",
+        "may-2026",
+        "financing"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "FINANCE"
+      ],
+      "metrics": {
+        "May 2026 mortgage value": "AED 17.5B (USD 4.8B)",
+        "YoY change (value)": "+17%",
+        "YoY change (mortgaged-deal count)": "-45%",
+        "UAE mortgage + RE loan book (April)": "AED 1.45T",
+        "Loan book YoY": "+11.5%",
+        "Cash share of April transactions": "~75%",
+        "April sales YoY": "-22%",
+        "May sales YoY": "-45%"
+      },
+      "links": [
+        {
+          "label": "AGBI — Dubai mortgage value rises despite property slowdown",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-mortgage-value-rises-despite-property-slowdown/"
+        },
+        {
+          "label": "Khaleej Times — Dubai homebuyers rush to lock in fixed-rate mortgages",
+          "url": "https://khaleejtimes.com/business/dubai-homebuyers-rush-to-lock-in-fixed-rate-mortgages-as-rates-drop-to-375"
+        },
+        {
+          "label": "AGBI — Dubai property rally fades as buyers secure discounts",
+          "url": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-property-rally-fades-as-buyers-secure-discounts/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Mortgaged-deal value beats cash flow as financed buyers lean in — May 2026 hits AED 17.5B mortgages on -45% deal count.",
+        "whatIsIt": "AGBI's 25-Jun tape — sourced from Dubai Land Department, Betterhomes brokerage and UAE Central Bank — frames May 2026's softness as a cash-buyer pause rather than a financing pullback. Mortgage value rose 17% YoY to AED 17.5B even as mortgaged-deal count fell 45% YoY, signalling fewer-but-bigger financed tickets. The UAE-wide mortgage-and-real-estate loan book reached AED 1.45T in April, up 11.5% YoY.",
+        "howItWorks": "Cash deals dominated April at ~75% of transactions, but Dubai sales fell 22% YoY in April and 45% YoY in May — concentrated in the cash bucket. Mortgage flow held value because average ticket size scaled. Banks held rates and LTV ceilings consistent through the conflict, though some lenders re-tightened underwriting on selected segments. Khaleej Times reported one-year fixed rates at 3.75% / two-year 3.78% / three-year 3.95% earlier in June, giving financed buyers a structural pricing edge.",
+        "whyItMatters": "Operators reading May as a market freeze get the signal wrong — financed-buyer demand absorbed a chunk of inventory cash buyers passed on. For sellers willing to accept mortgaged offers, the financing pipeline stays open. For end users, the rate floor at 3.75% is the financing condition you compare against rent (~6-7% yield); the spread is wide enough that taking mortgaged inventory at present asks beats rolling rent on the same unit.",
+        "forWho": "Mortgage brokers, mid-market buyers timing rate locks, sellers calibrating cash-vs-financed offers, and institutional desks pricing the financed-buyer flow into 2H 2026.",
+        "tryIt": "https://www.agbi.com/analysis/real-estate/2026/06/dubai-mortgage-value-rises-despite-property-slowdown/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/06/mortgages-scaled.jpg",
+        "alt": "Dubai mortgage tape rising in May 2026 as cash sales cool",
+        "fit": "cover"
+      }
+    },
     {
       "id": "dubai-gulf-news-betterhomes-mar-april-2026-buyer-nationality-british-1st-marina-jvc-jlt-jun-24",
       "categories": [
