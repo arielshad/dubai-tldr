@@ -6175,6 +6175,44 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260627t003307z",
+      "timestamp": "2026-06-27T00:33:07.513Z",
+      "source": "github-actions-sweep",
+      "summary": "Scheduled 12h sweep on 2026-06-27T00:27Z. Re-ran portal, DLD/RERA, developer, brokerage and market-data surfaces. The 211-item feed already covers the June 24-26 publishing flow (Nakheel Palm Central Private Residences, Bristol/Emaar Beachfront Al-Sahel contract, Sheikh Hamdan Falcon Market / Creek Lighting / Kengo Kuma, AGBI x AHS Sajwani, AGBI x Betterhomes May mortgage AED 17.5B, Betterhomes buyer-nationality, DLD daily prints through 2026-06-25, Currie & Brown post-truce cost, MERED, Palma APCC, Flexi Rent, Khaleej Times x Betterhomes luxury). The remaining 24-26 Jun signal — a Storeys / Aldar #1 / Arada #4 partner-content piece, an Al Habtoor 1970 Office Tower / OMNIYAT LUMENA ALTA / Oxford Cove launch round-up without firm new metrics, and several older Q3/Q4 2025 relaunches resurfacing in search (Solaya, Vayla, Global Partners Creek) — does not clear the inclusion bar. Empty sweep is success per the prompt; no padding.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
