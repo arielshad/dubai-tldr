@@ -6213,6 +6213,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260627t123221z",
+      "timestamp": "2026-06-27T12:32:21.634Z",
+      "source": "github-actions-sweep",
+      "summary": "Two Dubai-property cards added on 2026-06-27: the DLD Jun-26 daily print (AED 1.39B with ready 54.3%) and Mario Volpi's The National column flagging 12-15% seller cuts as foreign capital eases.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-26-2026-daily-print-aed-139b-ready-543-percent",
+          "title": "Dubai DLD daily print 2026-06-26: AED 1.39B with ready holding 54.3% — ready flats AED 509.2M lead, ready villas AED 135.0M and ready commercial AED 78.7M anchor the secondary book as off-plan eases to 45.7%",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-the-national-mario-volpi-foreign-capital-flow-12-15-percent-cuts-jun-27-2026",
+          "title": "The National × Mario Volpi (Eva Real Estate) Jun-27 column: foreign capital 'still coming, with less confidence' — Q1 Dh148.35B foreign value (+26% YoY) frames 12-15% asking-price cuts as the summer entry window",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

@@ -1,8 +1,136 @@
 {
-  "generatedAt": "2026-06-27T00:33:07.513Z",
+  "generatedAt": "2026-06-27T12:32:21.634Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-26-2026-daily-print-aed-139b-ready-543-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-26: AED 1.39B with ready holding 54.3% — ready flats AED 509.2M lead, ready villas AED 135.0M and ready commercial AED 78.7M anchor the secondary book as off-plan eases to 45.7%",
+      "org": "The Real Estate Report",
+      "date": "2026-06-26",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-27-jun-2026",
+      "summary": "AED 1.39B DLD daily tape on 2026-06-26 keeps ready ahead at AED 757.9M / 54.3% as ready flats book AED 509.2M and ready villas AED 135.0M, while off-plan flats hold AED 518.3M of the AED 637.0M off-plan side.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "ready",
+        "offplan",
+        "flats",
+        "villas",
+        "commercial"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Total tape": "AED 1.39B",
+        "Ready share": "54.3%",
+        "Off-plan share": "45.7%",
+        "Off-plan flats": "AED 518.3M",
+        "Off-plan villas": "AED 90.6M",
+        "Off-plan commercial": "AED 11.7M",
+        "Off-plan hotel apts": "AED 16.4M",
+        "Ready flats": "AED 509.2M",
+        "Ready villas": "AED 135.0M",
+        "Ready commercial": "AED 78.7M",
+        "Ready hotel apts": "AED 34.9M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 27 Jun 2026 daily review",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-27-jun-2026"
+        },
+        {
+          "label": "DLD eServices — Real Estate Transactions",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai REST — official transaction portal",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Second straight session with ready ahead of off-plan — flats lead AED 509.2M as the secondary book holds the tape.",
+        "whatIsIt": "Dubai Land Department freehold transaction tape for 2026-06-26 totalled AED 1.39B across ready and off-plan stock, with ready ahead at AED 757.9M (54.3%) versus AED 637.0M (45.7%) off-plan. Ready flats led the day at AED 509.2M, off-plan flats clocked AED 518.3M.",
+        "howItWorks": "Off-plan flats took AED 518.3M (81.4% of off-plan flow), off-plan villas AED 90.6M (14.2%), off-plan hotel apartments AED 16.4M and off-plan commercial AED 11.7M. On the ready side flats took AED 509.2M (67.2%), villas AED 135.0M (17.8%), commercial AED 78.7M (10.4%) and hotel apartments AED 34.9M (4.6%).",
+        "whyItMatters": "Two consecutive sessions (25-Jun and 26-Jun) with ready in the lead confirm the rotation toward financed secondary stock first flagged on 25-Jun. Off-plan flats still carry the new-stock engine but the villa share (AED 225.6M combined) keeps prime ready supply on the bid as the late-June desk shrinks ahead of the summer break.",
+        "forWho": "Mortgage brokers, ready-flat operators, secondary-stock buyers and analysts tracking the ready-vs-off-plan rotation.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6a9f20a9-f803-4085-9d10-2124df1e5a45/dubai-1617778_1280.jpg",
+        "alt": "Dubai skyline overlooking transaction activity on 26 June 2026",
+        "fit": "cover"
+      },
+      "publishDate": "2026-06-27T12:32:21.634Z"
+    },
+    {
+      "id": "dubai-the-national-mario-volpi-foreign-capital-flow-12-15-percent-cuts-jun-27-2026",
+      "categories": [
+        "market",
+        "lead"
+      ],
+      "title": "The National × Mario Volpi (Eva Real Estate) Jun-27 column: foreign capital 'still coming, with less confidence' — Q1 Dh148.35B foreign value (+26% YoY) frames 12-15% asking-price cuts as the summer entry window",
+      "org": "The National × Eva Real Estate",
+      "date": "2026-06-27",
+      "url": "https://www.thenationalnews.com/business/money/2026/06/26/uae-property-is-foreign-capital-still-flowing-into-dubais-property-market/",
+      "summary": "Mario Volpi's UAE Property column for The National (published 2026-06-27, 4:00 AM) reads Q1 2026 foreign investment of Dh148.35B (+26% YoY) against post-Iran-war price discovery, citing sellers cutting asking prices 12-15% to secure quick deals.",
+      "tags": [
+        "foreign-capital",
+        "price-discovery",
+        "seller-cuts",
+        "summer-window",
+        "broker-column",
+        "eva-real-estate"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD"
+      ],
+      "metrics": {
+        "Q1 2026 foreign investment": "Dh148.35B",
+        "Foreign value YoY": "+26%",
+        "Seller asking-price cut range": "12-15%",
+        "Publication": "2026-06-27 04:00 AM",
+        "Column author": "Mario Volpi"
+      },
+      "links": [
+        {
+          "label": "The National — UAE Property: Is foreign capital still flowing into Dubai's market?",
+          "url": "https://www.thenationalnews.com/business/money/2026/06/26/uae-property-is-foreign-capital-still-flowing-into-dubais-property-market/"
+        },
+        {
+          "label": "Dubai Land Department — Q1 2026 transactions release",
+          "url": "https://dubailand.gov.ae/en/news-media/dubai-s-real-estate-transactions-surge-31-to-reach-aed-252-billion-in-q1-2026/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Foreign money keeps flowing into Dubai property — but with measurably less confidence, and a documented 12-15% asking-price haircut as the entry hook.",
+        "whatIsIt": "Mario Volpi, senior investment manager at Eva Real Estate, uses his weekly UAE Property column to argue Dubai's foreign capital is in re-evaluation mode rather than retreat. DLD Q1 2026 foreign investment of Dh148.35B (up 26% YoY) frames the case; the wrinkle is that some sellers are now cutting asking prices by 12-15% to secure quick deals.",
+        "howItWorks": "Buyer playbook is: (1) screen ready-stock sellers in the post-truce window for 10%+ asking-price reductions or 'priced-to-move' language, (2) cross-check against DLD comp for the same building and floor band before bidding, (3) underwrite the deal on tax-free rental yield and a 3-5 year horizon rather than short-term capital gains. Seller playbook is the mirror — sharpen positioning, focus on cash-buyer pipelines, and avoid chasing pre-truce list prices.",
+        "whyItMatters": "Volpi's 12-15% asking-price cut datapoint is one of the cleanest broker-side reads we have on the post-truce summer; it slots between AGBI's 20%-discount print and the wider 'Capital paused, not left' framing. Operators can use this as a sourcing trigger rather than relying on portal screens alone.",
+        "forWho": "End-user buyers in the AED 1.5-5M band, cash buyers screening for forced sellers, investor brokers running negotiation playbooks, and sellers calibrating list price against the new market clearing level.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/64MTNWT4GJFBTBDZWHWQESEZUA.jpg?smart=true&auth=e2ccee245d7c25083bdaf827e57b73840fbb89c5e5331d04d662d9a3b491885a&width=1200&height=675",
+        "alt": "The National × Mario Volpi UAE Property column — foreign capital flow into Dubai (Jun 27 2026)",
+        "fit": "cover",
+        "credit": "The National / Getty Images"
+      },
+      "author": {
+        "name": "Mario Volpi",
+        "handle": "Eva Real Estate",
+        "profileUrl": "https://www.thenationalnews.com/author/mario-volpi/"
+      },
+      "publishDate": "2026-06-27T12:32:21.634Z"
+    },
     {
       "id": "dubai-dld-jun-25-2026-daily-print-aed-152b-ready-51-percent",
       "categories": [
