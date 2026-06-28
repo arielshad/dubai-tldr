@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-06-27T12:32:21.634Z",
+  "generatedAt": "2026-06-28T02:21:09.730Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-w-capital-h1-2026-aed-275b-record-half-year-launch-jun-27-2026",
+      "categories": [
+        "market",
+        "developer",
+        "offplan"
+      ],
+      "title": "W Capital Jun-27 read: Dubai's AED 275B H1 2026 launch print marks largest half-year ever, pacing past 2025's AED 463B annual book",
+      "org": "W Capital Real Estate Brokerage / TradeArabia",
+      "date": "2026-06-27",
+      "publishDate": "2026-06-28T02:21:09.730Z",
+      "url": "https://tradearabia.com/News/464145/Dubai's-real-estate-projects-value-top-$75bn-in-H1",
+      "summary": "W Capital tallies Dubai's H1 2026 launch book at AED 275B — DLD-registered 250 projects worth AED 75B (Jan-May) stacked on Emaar's June AED 200B megaproject — and projects 2026 will pace past 2025's AED 463B annual print if H2 launches hold cadence.",
+      "tags": [
+        "W Capital",
+        "H1 2026",
+        "launch pipeline",
+        "Walid Al Zarooni",
+        "DLD",
+        "Emaar",
+        "supply",
+        "off-plan"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "DLD"
+      ],
+      "metrics": {
+        "H1 2026 launch value": "AED 275B+",
+        "Jan-May DLD-registered projects": "250 (AED 75B)",
+        "Housing units (Jan-May)": "59,400",
+        "Villas (Jan-May)": "10,800",
+        "Emaar June megaproject": "AED 200B",
+        "2025 annual launch value": "AED 463B",
+        "Source": "W Capital Real Estate Brokerage survey"
+      },
+      "links": [
+        {
+          "label": "TradeArabia coverage (27 Jun 2026)",
+          "url": "https://tradearabia.com/News/464145/Dubai's-real-estate-projects-value-top-$75bn-in-H1"
+        },
+        {
+          "label": "TravelsDubai coverage (27 Jun 2026)",
+          "url": "https://www.travelsdubai.com/27-Jun-2026/dubai-real-estate-projects-cross-dh275bn-2026-records-biggest-half-year-launch-surge"
+        },
+        {
+          "label": "Existing Jun-1 DLD launch print",
+          "url": "https://gulftoday.ae/business/2026/06/01/dubai-launched-250-real-estate-projects-worth-dhs75-billion-in-last-5-months"
+        },
+        {
+          "label": "Existing Jun-11 Emaar AED 200B megaproject",
+          "url": "https://thenationalnews.com/business/property/2026/06/11/emaar-to-launch-dh200bn-megaproject-in-dubai-set-to-house-150000-people"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's H1 2026 just printed AED 275B of launches — the biggest half-year ever, and a half-step shy of 2025's full-year AED 463B run-rate.",
+        "whatIsIt": "W Capital Real Estate Brokerage published a Jun-27 survey aggregating Dubai's H1 2026 launch book. It combines the DLD-registered 250 Jan-May projects worth AED 75B with Emaar's June AED 200B masterplan announcement into a single AED 275B+ half-year tally — the largest H1 launch print in Dubai's history.",
+        "howItWorks": "The 250 Jan-May projects carry roughly 59,400 residential units plus 10,800 villas, per DLD registration data. Emaar's June megaproject layers another ~150,000-resident, 4.5M sqm GFA masterplan on top. Walid Al Zarooni, W Capital chairman, frames the cadence as 'an exceptional indicator' and projects the full-year tally to surpass 2025's AED 463B if H2 launches hold pace.",
+        "whyItMatters": "This is a supply-pipeline signal, not a transaction print: it tells operators that the off-plan absorption test for 2027-2030 just got materially harder. Cap-rate-sensitive ready holders may face fresh comp pressure as deliveries land; off-plan brokers gain inventory but face thinner per-launch demand. Frame H2 underwriting around supply-side stress, not just rate moves.",
+        "forWho": "Off-plan brokers tracking inventory; developer-side sales heads scenario-planning H2 launches; ready-market sellers stress-testing 2027-2030 absorption against expanding pipeline.",
+        "tryIt": "https://tradearabia.com/News/464145/Dubai's-real-estate-projects-value-top-$75bn-in-H1"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/27/TA_20260627195910.webp",
+        "alt": "Dubai skyline at dusk illustrating H1 2026 launch volume",
+        "fit": "cover",
+        "credit": "TradeArabia / W Capital"
+      }
+    },
+    {
+      "id": "dubai-bayut-dubizzle-group-five-european-languages-jun-27-2026",
+      "categories": [
+        "media",
+        "lead",
+        "luxury"
+      ],
+      "title": "Bayut adds French, German, Italian, Spanish and Dutch on Jun-27 — Dubizzle Group bets European HNW search flow is the next portal frontier after Chinese and Russian",
+      "org": "Bayut / Dubizzle Group",
+      "date": "2026-06-27",
+      "publishDate": "2026-06-28T02:21:09.730Z",
+      "url": "https://www.biztoday.news/2026/06/27/bayut-expands-multilingual-experience-to-meet-growing-global-interest-in-uae-real-estate/",
+      "summary": "Bayut, the Dubizzle Group portal, switched on French, German, Italian, Spanish and Dutch on Jun-27 — five new European interfaces on top of the existing English, Arabic, Chinese and Russian — signalling that European buyer-flow is now meaningful enough to merit dedicated discovery rails.",
+      "tags": [
+        "Bayut",
+        "Dubizzle Group",
+        "European buyers",
+        "multilingual",
+        "portal",
+        "lead-gen",
+        "HNW",
+        "French",
+        "German",
+        "Italian",
+        "Spanish",
+        "Dutch"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-PORTAL"
+      ],
+      "metrics": {
+        "New languages": "French, German, Italian, Spanish, Dutch",
+        "Existing languages": "English, Arabic, Chinese, Russian",
+        "Total languages": "9",
+        "Parent": "Dubizzle Group",
+        "Date live": "2026-06-27"
+      },
+      "links": [
+        {
+          "label": "BizToday coverage (27 Jun 2026)",
+          "url": "https://www.biztoday.news/2026/06/27/bayut-expands-multilingual-experience-to-meet-growing-global-interest-in-uae-real-estate/"
+        },
+        {
+          "label": "Bayut for-sale Dubai",
+          "url": "https://www.bayut.com/for-sale/property/dubai/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubizzle Group flips on five European interfaces at Bayut, signalling French/German/Italian/Spanish/Dutch buyer flow is the next portal frontier.",
+        "whatIsIt": "Bayut, the UAE's largest property portal, switched on French, German, Italian, Spanish and Dutch on Jun-27 — five new European languages added on top of the existing English, Arabic, Chinese and Russian. Muneeb Farrukh, VP of Product at Bayut, frames it: 'Property search is highly personal, and language plays a critical role in how users understand, compare and make decisions.'",
+        "howItWorks": "The expansion follows the previous Chinese and Russian rollouts. The platform now supports 9 languages total. Brokers listing on Bayut should verify that their listing descriptions translate cleanly (auto-translation often fails on building names, area codes, and finish terms) and consider whether to draft purpose-built listing copy for the European-language audiences they specifically target.",
+        "whyItMatters": "This is an operator signal more than a market signal: Dubizzle Group's research team sees enough French/German/Italian/Spanish/Dutch search traffic to merit dedicated language rails — consistent with Gulf News × Betterhomes' Mar-Apr broker-book putting British buyers #1 and increasing Continental-European demand. Brokers and developers targeting these nationalities should refresh listing copy, sales-deck translations, and broker bios accordingly.",
+        "forWho": "Brokers and developers actively targeting French, German, Italian, Spanish or Dutch buyers; HNW agencies refreshing European-language sales decks; portal-marketing teams optimising listing copy for the new interfaces.",
+        "tryIt": "https://www.bayut.com/for-sale/property/dubai/"
+      },
+      "image": {
+        "url": "https://www.biztoday.news/wp-content/uploads/2026/06/bayut21-850x491.jpg",
+        "alt": "Bayut logo on multilingual interface graphic",
+        "fit": "cover",
+        "credit": "BizToday / Bayut"
+      }
+    },
     {
       "id": "dubai-dld-jun-26-2026-daily-print-aed-139b-ready-543-percent",
       "categories": [

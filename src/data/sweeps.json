@@ -6254,6 +6254,46 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260628t022109z",
+      "timestamp": "2026-06-28T02:21:09.730Z",
+      "source": "github-actions-sweep",
+      "summary": "Jun 28 sweep adds two fresh Jun-27 reads: W Capital's AED 275B H1 2026 launch-record print pacing past 2025's AED 463B annual book, and Bayut/Dubizzle Group's five-European-language expansion (French, German, Italian, Spanish, Dutch) signalling European buyer-flow priority. Most other Jun-25 to Jun-27 stories are already covered (DLD daily prints, Flexi Rent, post-truce reads) or remain too thinly sourced to ship.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-w-capital-h1-2026-aed-275b-record-half-year-launch-jun-27-2026",
+          "title": "W Capital Jun-27 read: Dubai's AED 275B H1 2026 launch print marks largest half-year ever, pacing past 2025's AED 463B annual book",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-bayut-dubizzle-group-five-european-languages-jun-27-2026",
+          "title": "Bayut adds French, German, Italian, Spanish and Dutch on Jun-27 — Dubizzle Group bets European HNW search flow is the next portal frontier after Chinese and Russian",
+          "category": "media",
+          "note": "Added under media."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "media",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
