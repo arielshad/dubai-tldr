@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-06-28T02:21:09.730Z",
+  "generatedAt": "2026-06-28T13:18:23.570Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-the-national-cavendish-maxwell-rental-cool-off-18200-h1-supply-jun-26-2026",
+      "categories": [
+        "rental",
+        "market"
+      ],
+      "title": "The National × Cavendish Maxwell Jun-26 read: 18,200 H1 2026 deliveries (+13.1% YoY) hand Dubai tenants real negotiating power as rents ease -1.1% QoQ — apartments -0.9%, villas/townhouses -2.1%, still +8.9% YoY",
+      "org": "The National × Cavendish Maxwell",
+      "date": "2026-06-26",
+      "url": "https://www.thenationalnews.com/business/property/2026/06/26/dubai-rental-market-cools-as-supply-surge-hands-tenants-new-negotiating-power/",
+      "summary": "Cavendish Maxwell-anchored read: nearly 18,200 Dubai residential units delivered in H1 2026 (+13.1% YoY) and the supply surge has Dubai rents -1.1% over the three months to May (apartments -0.9%, villas/townhouses -2.1%), even as the index stays +8.9% YoY and >44% above May 2020. Ali Siddiqui flags 'the era of near-automatic annual rent increases is drawing to a close.'",
+      "tags": [
+        "rental",
+        "supply",
+        "Cavendish Maxwell",
+        "The National",
+        "tenant leverage",
+        "Dubai Hills Estate",
+        "RERA"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DXB-HILLS",
+        "RERA"
+      ],
+      "metrics": {
+        "H1 2026 deliveries": "~18,200 residential units",
+        "YoY delivery change": "+13.1%",
+        "Dubai rents QoQ to May": "-1.1%",
+        "Apartment rents QoQ": "-0.9%",
+        "Villa/townhouse rents QoQ": "-2.1%",
+        "Dubai rents YoY (May)": "+8.9%",
+        "Since pandemic": ">+44% vs May 2020",
+        "Tenant case (Dubai Hills)": "AED 195K → AED 175K renewal (-10%)",
+        "Tenant case (apartment)": "Same-building Property Finder rents -20% YoY"
+      },
+      "links": [
+        {
+          "label": "The National rental cool-off article (Jun-26)",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/26/dubai-rental-market-cools-as-supply-surge-hands-tenants-new-negotiating-power/"
+        },
+        {
+          "label": "Cavendish Maxwell Dubai Q1 2026 residential report",
+          "url": "https://cavendishmaxwell.com/resources/uploads/2026/05/Dubai-Residential-Market-Performance-Q1-2026-1.pdf"
+        }
+      ],
+      "explainer": {
+        "tagline": "Cavendish Maxwell quantifies the supply tipping point — 18,200 H1 deliveries hand renters the strongest negotiating window in years.",
+        "whatIsIt": "The National's Jun-26 read, anchored on Cavendish Maxwell data and tenant interviews, lays out the first hard evidence that Dubai's record handover pipeline is finally biting rents. Apartments down -0.9% / villas down -2.1% over three months to May — quarterly softness on top of an index still +8.9% YoY and 44%+ above pandemic-era levels.",
+        "howItWorks": "H1 2026 brought nearly 18,200 residential units to market, a 13.1% jump over H1 2025 (Property Monitor data, via Cavendish Maxwell). RERA's smart rent index still governs annual increases, but listed asking rents and renewal asks are easing first — one Dubai Hills Estate tenant moved a renewal from AED 195K to AED 175K (-10%); another apartment tenant reports Property Finder listings in her building down ~20% YoY. Cavendish Maxwell research manager Ali Siddiqui: 'the era of near-automatic annual rent increases is drawing to a close.'",
+        "whyItMatters": "For landlords, the negotiating playbook flips — renewal automation breaks first, then ask discipline. For tenants, the smart-rent-index leverage (already documented in our Jun-16 card) now sits on top of an actual supply-vs-demand softening rather than a regulatory technicality. Underwriting models that bake in 5–7% annual rent escalators on Dubai mid-market apartments should be stress-tested at flat-to-negative for FY 2026.",
+        "forWho": "Landlords renewing leases in 2026, build-to-rent operators sizing absorption, brokers advising on rent caps and negotiation, and buyers stress-testing yield-on-cost when bidding on ready apartment stock.",
+        "tryIt": "https://www.dubailand.gov.ae/en/eservices/rental-index/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/D2XELBQZTNH4HESHPXDFB7RQEU.jpg?focal=3115%2C2070&auth=4b546115202c6bc1624b38e719fada545d6de937efe6b969558271e87233e592&width=1200&height=675",
+        "alt": "Dubai skyline residential towers, illustrating the rental market cool-off and rising supply pipeline",
+        "fit": "cover",
+        "credit": "Ahmed Ramzan / The National"
+      },
+      "publishDate": "2026-06-28T13:18:23.570Z"
+    },
     {
       "id": "dubai-w-capital-h1-2026-aed-275b-record-half-year-launch-jun-27-2026",
       "categories": [
