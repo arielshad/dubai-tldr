@@ -6329,6 +6329,45 @@
         "market-data-comps",
         "dubizzle-houza-crosscheck"
       ]
+    },
+    {
+      "id": "sweep-20260629t022327z",
+      "timestamp": "2026-06-29T02:23:27.033Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-06-29 02:13Z sweep: WebSearch + WebFetch across portals, DLD/RERA pages, developer roster, auction queues, brokerage and market-data sources surfaced no fresh qualifying opportunity within the 72h date cap. The Jun 26-27 news cycle (DLD 1.39B print, W Capital H1 record, Bayut multilingual launch, Cavendish Maxwell rental cool-off, Volpi foreign-capital column, Nakheel Palm Central Private Residences, Crown Prince Falcon Market) is already represented in the 216-item feed.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "visa"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
