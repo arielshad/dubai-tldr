@@ -6368,6 +6368,56 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260629t153508z",
+      "timestamp": "2026-06-29T15:35:08.755Z",
+      "source": "github-actions-sweep",
+      "summary": "Jun-29 sweep: in-centre Golden Visa facilitation at Meraas/Nakheel, Danube's $4B FY27 'selective' pivot to 2-3 launches, and Property Finder's May read on the narrowing UAE buyer-seller gap (63% expecting price drops, down from 70%+).",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-holding-meraas-nakheel-golden-visa-in-centre-facilitation-jun-29-2026",
+          "title": "Dubai Holding Real Estate launches in-centre Golden Visa facilitation at Meraas and Nakheel — residency specialists embedded at sales hubs to walk AED 2M+ buyers through eligibility, documents and the 10-year application",
+          "category": "visa",
+          "note": "Added under visa."
+        },
+        {
+          "id": "dubai-danube-group-fy27-aed-147b-selective-2-3-launches-anis-sajan-jun-29-2026",
+          "title": "Danube Group's Anis Sajan tells Business Standard: FY27 pipeline cut to USD 4B (~AED 14.7B) and just 2-3 launches vs. ~6 prior plan — break-even is 'satisfactory,' prices won't rise near-term",
+          "category": "developer",
+          "note": "Added under developer."
+        },
+        {
+          "id": "dubai-property-finder-may-2026-buyer-seller-gap-63-percent-rentals-rebound-jun-29-2026",
+          "title": "Property Finder May 2026 read: UAE buyer-seller gap narrows as 63% still expect price drops (vs. 70%+ post-conflict), asking-price index just 2% below pre-conflict and rental flow recovers to -20% from -32% in March",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "visa",
+        "developer",
+        "market",
+        "ready",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

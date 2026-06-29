@@ -1,8 +1,213 @@
 {
-  "generatedAt": "2026-06-29T02:23:27.033Z",
+  "generatedAt": "2026-06-29T15:35:08.755Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-holding-meraas-nakheel-golden-visa-in-centre-facilitation-jun-29-2026",
+      "categories": [
+        "visa",
+        "lead",
+        "ready"
+      ],
+      "title": "Dubai Holding Real Estate launches in-centre Golden Visa facilitation at Meraas and Nakheel — residency specialists embedded at sales hubs to walk AED 2M+ buyers through eligibility, documents and the 10-year application",
+      "org": "Gulf News + Zawya + GDN Online",
+      "date": "2026-06-29",
+      "url": "https://gulfnews.com/business/property/dubai-holding-real-estate-eases-golden-visa-process-for-property-buyers-1.500590587",
+      "summary": "Khalid Al Malik (CEO, Dubai Holding Real Estate) integrates 10-year Golden Visa guidance into the Meraas and Nakheel sales-centre journey. AED 2M property threshold, accredited visa-services partner handles applications; developers facilitate only.",
+      "tags": [
+        "golden-visa",
+        "dubai-holding",
+        "meraas",
+        "nakheel",
+        "khalid-al-malik",
+        "residency",
+        "sales-centre",
+        "aed-2m-threshold"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "MERAAS",
+        "NAKHEEL",
+        "GOLDEN-VISA"
+      ],
+      "metrics": {
+        "Golden Visa property threshold": "AED 2M (~USD 544,500)",
+        "Visa duration": "10 years",
+        "Developers covered": "Meraas + Nakheel (Dubai Holding Real Estate book)",
+        "Service location": "Meraas + Nakheel sales centres (in-person)",
+        "Application handler": "Accredited visa-services provider (DHRE acts as facilitator only)",
+        "Eligibility for existing buyers": "Yes — existing customers can use the service"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Khitam Al Amir (Jun 29, 2026)",
+          "url": "https://gulfnews.com/business/property/dubai-holding-real-estate-eases-golden-visa-process-for-property-buyers-1.500590587"
+        },
+        {
+          "label": "Zawya press release — Meraas + Nakheel Golden Visa facilitation",
+          "url": "https://www.zawya.com/en/press-release/companies-news/meraas-and-nakheel-enhance-customer-experience-with-dedicated-golden-visa-facilitation-cosyyqba"
+        },
+        {
+          "label": "GDN Online — UAE Business coverage (Jun 29, 2026)",
+          "url": "https://www.gdnonline.com/Details/1399071"
+        },
+        {
+          "label": "DLD Golden Visa investor portal",
+          "url": "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Two of Dubai's biggest masterplan books now sell the visa and the unit in the same room — fewer hand-offs, fewer dropped buyers.",
+        "whatIsIt": "Dubai Holding Real Estate (Meraas + Nakheel parent on the residential side) on Jun 29 embedded 10-year Golden Visa specialists directly at Meraas and Nakheel sales centres. The integration covers eligibility checks, document prep and the actual application — handled by an accredited visa-services provider, with the developers acting only as facilitators. Khalid Al Malik (DHRE CEO) framed the move as 'greater clarity and confidence as they choose their home.'",
+        "howItWorks": "The 10-year Golden Visa applies to investors holding a property — or a portfolio of properties — worth at least AED 2 million, subject to applicable conditions and regulatory approval. Existing Meraas/Nakheel customers can also use the service, not just new buyers. The DLD Golden Visa portal remains the underlying federal channel; the new in-centre desk is a guided front-end on top of it.",
+        "whyItMatters": "Meraas and Nakheel together cover most of Dubai's mid-luxury and waterfront primary book — Palm Jebel Ali, Dubai Islands, Bluewaters, La Mer, Madinat Jumeirah Living, Port de la Mer, plus the active Nakheel masterplans. Co-locating the visa workflow with the sales journey shortens the time from 'pay 20%' to 'have a residency stamp' and removes a friction point that historically led overseas buyers to delay. Expect copy-cat moves from Emaar, DAMAC and Sobha within weeks.",
+        "forWho": "Overseas HNW buyers running Dubai-plus-visa decisions in parallel, brokers handling international leads, family-office buyers structuring portfolios to clear the AED 2M Golden Visa floor.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/"
+      },
+      "image": {
+        "url": "https://www.gdnonline.com/gdnimages/20260629/ta_20260629102941.jpg",
+        "alt": "Meraas and Nakheel sales centre Golden Visa facilitation desk",
+        "credit": "GDN Online"
+      },
+      "publishDate": "2026-06-29T15:35:08.755Z"
+    },
+    {
+      "id": "dubai-danube-group-fy27-aed-147b-selective-2-3-launches-anis-sajan-jun-29-2026",
+      "categories": [
+        "developer",
+        "market"
+      ],
+      "title": "Danube Group's Anis Sajan tells Business Standard: FY27 pipeline cut to USD 4B (~AED 14.7B) and just 2-3 launches vs. ~6 prior plan — break-even is 'satisfactory,' prices won't rise near-term",
+      "org": "Business Standard",
+      "date": "2026-06-29",
+      "url": "https://www.themarkettrendz.com/2026/06/dubais-danube-group-targets-nearly-4.html",
+      "summary": "Vice-Chairman Anis Sajan flags a 'correction phase' pivot: Danube cuts FY27 launches from ~6 to 2-3 (~USD 4B / AED 14.7B sales potential). Greenz by Danube phase 1 (USD 1.3B / AED 4.8B) anchors the book; FY26 grew ~20%, but FY27 break-even is the new bar.",
+      "tags": [
+        "danube",
+        "anis-sajan",
+        "rizwan-sajan",
+        "selective-launches",
+        "fy27",
+        "greenz",
+        "correction",
+        "developer-discipline"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DANUBE",
+        "AL-ROWAIYAH"
+      ],
+      "metrics": {
+        "FY27 launch target (sales potential)": "~USD 4B (~AED 14.7B)",
+        "Projects planned FY27": "2-3 (down from ~6 in prior plan)",
+        "Greenz by Danube phase 1 potential": "~USD 1.3B (~AED 4.8B)",
+        "FY26 real-estate business growth": "~20%",
+        "FY27 management bar": "Break-even is 'satisfactory'",
+        "Near-term price view": "Not rising — 'correction phase'",
+        "Key spokesperson": "Anis Sajan, Vice-Chairman, Danube Group",
+        "Greenz booking date": "2026-07-01"
+      },
+      "links": [
+        {
+          "label": "Business Standard — Danube $4B FY27 target (Jun 28, 2026, republished)",
+          "url": "https://www.themarkettrendz.com/2026/06/dubais-danube-group-targets-nearly-4.html"
+        },
+        {
+          "label": "Trendmergers republish — Anis Sajan interview",
+          "url": "https://www.trendmergers.com/2026/06/dubais-danube-group-targets-nearly-4.html"
+        },
+        {
+          "label": "Greenz by Danube — Property Finder project page",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/greenz-by-danube"
+        }
+      ],
+      "explainer": {
+        "tagline": "One of Dubai's most-active mid-market developers is publicly cutting its launch tempo in half — a real read on how the buy-side feels post-truce.",
+        "whatIsIt": "Danube Group VC Anis Sajan told Business Standard on Jun 28-29 that the developer is shrinking its FY27 (Apr 2026 – Mar 2027) launch slate to just 2-3 projects with combined sales potential near USD 4 billion (~AED 14.7B), down from the ~6 launches it would normally run. Greenz by Danube — the fully furnished townhouse/villa masterplan near Dubai Silicon Oasis — is the anchor, with first-phase top-line potential of around USD 1.3B.",
+        "howItWorks": "Sajan frames it as 'selective' rather than defensive: FY26 grew ~20%, but FY27 'break-even' would be satisfactory. Prices won't rise near-term, he said — developers are in a correction phase, and overseas buyers and first-timers have become more discerning after the regional war. Greenz' booking window opens Jul 1 with construction starting Jul 2 (per Property Finder project page).",
+        "whyItMatters": "Danube has been one of the highest-velocity launchers since 2022 (Diamondz, Bayz101, Sportz, Oceanz). When that book publicly halves its launch tempo, it's a signal — not noise — about how mid-market primary demand looks for the next four quarters. Watch for similar cadence trims from Binghatti, Samana, Azizi and Tiger if the AGBI/Bayut 'rally fades' read keeps holding. Buyers can use this window: Sajan's own line is that developers won't push asks until the absorption clears.",
+        "forWho": "Brokers underwriting primary commissions for the next 12 months, mid-market end-users timing 1% / 80-20 plans, market-research desks watching launch tempo as a leading indicator, secondary sellers calibrating list prices against a softer primary push.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/danube-properties/greenz-by-danube"
+      },
+      "image": {
+        "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/28/thumb/fitandfill/1200X628/1782667222-6465.jpg",
+        "alt": "Danube Group Dubai property launch — FY27 pipeline coverage",
+        "credit": "Business Standard"
+      },
+      "publishDate": "2026-06-29T15:35:08.755Z"
+    },
+    {
+      "id": "dubai-property-finder-may-2026-buyer-seller-gap-63-percent-rentals-rebound-jun-29-2026",
+      "categories": [
+        "market",
+        "rental",
+        "ready"
+      ],
+      "title": "Property Finder May 2026 read: UAE buyer-seller gap narrows as 63% still expect price drops (vs. 70%+ post-conflict), asking-price index just 2% below pre-conflict and rental flow recovers to -20% from -32% in March",
+      "org": "Khaleej Times × Property Finder",
+      "date": "2026-06-29",
+      "url": "https://www.khaleejtimes.com/business/uae-buyer-seller-price-gap-narrows-as-house-hunters-opt-to-rent-for-now",
+      "summary": "Property Finder's May survey + listing index show buyers and sellers converging: 63% expect drops (down from 70%+), advertised asks 2% below pre-conflict (vs. 1% in April), new rental contracts climb to -20% from -32% in March, 47% of May rental activity is fresh moves (vs. 41% in March).",
+      "tags": [
+        "property-finder",
+        "buyer-sentiment",
+        "asking-prices",
+        "rental-contracts",
+        "post-truce",
+        "sam-mccone",
+        "may-2026",
+        "consumer-survey"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "UAE",
+        "PF"
+      ],
+      "metrics": {
+        "Buyers expecting price drops (May 2026)": "63%",
+        "Buyers expecting price drops (post-conflict peak)": ">70%",
+        "Pre-conflict sentiment baseline (Jan-Feb)": "36% drops / 35% rises / 29% stable",
+        "Advertised asking-price index vs pre-conflict (May)": "-2%",
+        "Advertised asking-price index vs pre-conflict (April)": "-1%",
+        "New rental contracts vs pre-conflict (March)": "-32%",
+        "New rental contracts vs pre-conflict (May)": "-20%",
+        "Share of May rentals that are new moves (vs renewals)": "47%",
+        "Share of March rentals that were new moves": "41%",
+        "Key broker quote": "Sam McCone, McCone Properties"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Waheed Abbas, Jun 29, 2026, 12:17pm",
+          "url": "https://www.khaleejtimes.com/business/uae-buyer-seller-price-gap-narrows-as-house-hunters-opt-to-rent-for-now"
+        },
+        {
+          "label": "Dubai Standard republish — same Property Finder data",
+          "url": "https://www.dubaistandard.com/buyer-seller-price-gap-shrinks-in-uae-as-prospective-homeowners-delay-purchases/"
+        },
+        {
+          "label": "Property Finder Insights Hub",
+          "url": "https://www.propertyfinder.ae/en/insightshub"
+        }
+      ],
+      "explainer": {
+        "tagline": "Two months into the truce, Property Finder's index says the bid-ask gap is closing — buyers are still in the driver's seat but the lowball window is fading.",
+        "whatIsIt": "Property Finder's May 2026 consumer-sentiment survey and proprietary listing-price index, surfaced by Khaleej Times' Waheed Abbas on Jun 29, show the second consecutive monthly decline in buyers expecting price drops — 63%, down from a post-conflict peak above 70%. Pre-conflict baseline (Jan-Feb) was a balanced 36% drops / 35% rises / 29% stable. Advertised asking prices in May ran ~2% below pre-conflict levels (vs. ~1% in April), so sellers are giving ground slowly while buyer expectations adjust faster.",
+        "howItWorks": "On the rental side, new contract volumes recovered to -20% vs pre-conflict in May, up from -32% in March. The mix is also shifting: 47% of May rental activity was fresh home moves rather than lease renewals (vs. 41% in March), meaning house-hunters who'd planned to buy are stepping into rentals while they wait. Sam McCone (McCone Properties) framed it: 'the lowball approach is fading because serious purchasers now recognise they can secure a good deal without expecting unrealistic discounts.'",
+        "whyItMatters": "This is the cleanest mid-cycle read available — a portal-side index plus a recurring buyer survey, both calibrated to a defined pre-conflict baseline. For sellers, it says the trough on asking prices is closer than the headlines suggest; for buyers, the 'wait six months' thesis is decaying. The rental-flow rebound also implies the rent-vs-buy demand that AGBI and Bayut flagged earlier in June is converting into Ejari contracts, not just enquiries.",
+        "forWho": "Buy-side brokers calibrating offer levels, secondary sellers deciding whether to drop asks or hold, leasing teams sizing the bumper Q3 contract pipeline, market-research teams updating Q2 narrative.",
+        "tryIt": "https://www.propertyfinder.ae/en/insightshub"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/386612a3-e2eb-44be-be74-d00cf7dbbb97-org.jpg",
+        "alt": "UAE buyer-seller property price gap narrowing chart illustration",
+        "credit": "Khaleej Times / Property Finder"
+      },
+      "publishDate": "2026-06-29T15:35:08.755Z"
+    },
     {
       "id": "dubai-the-national-cavendish-maxwell-rental-cool-off-18200-h1-supply-jun-26-2026",
       "categories": [
