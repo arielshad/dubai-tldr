@@ -366,6 +366,16 @@ const SOURCES_META: PageMeta = {
   ogImageAlt: "Dubai property source map — portals, DLD/RERA, developers and data",
 };
 
+const NEWS_META: PageMeta = {
+  title: "Dubai Property Newswire — Latest Real-Estate News | DxbEstate Intel",
+  description:
+    "A live newswire of Dubai real-estate stories — launches, DLD/RERA signals, rent shifts, distressed sellers and market moves, refreshed every 12 hours.",
+  canonical: `${SITE_URL}/news`,
+  ogType: "website",
+  ogImage: DEFAULT_OG_IMAGE,
+  ogImageAlt: "DxbEstate Intel newswire — latest Dubai real-estate news",
+};
+
 const LOG_META: PageMeta = {
   title: "Collection Log — Dubai Listing Changes & Deal Signals | DxbEstate Intel",
   description:
@@ -434,7 +444,21 @@ async function main() {
     ),
   );
 
-  // 3. Sweep log page — CollectionPage JSON-LD
+  // 3. Newswire page — CollectionPage JSON-LD
+  await writeHtml(
+    "news/index.html",
+    injectMeta(
+      template,
+      NEWS_META,
+      renderJsonLdCollectionPage({
+        url: `${SITE_URL}/news`,
+        name: "Dubai Property Newswire",
+        description: NEWS_META.description,
+      }),
+    ),
+  );
+
+  // 3b. Sweep log page — CollectionPage JSON-LD
   await writeHtml(
     "log/index.html",
     injectMeta(
@@ -462,6 +486,12 @@ async function main() {
   const today = new Date().toISOString().slice(0, 10);
   const sitemap = buildSitemap([
     { loc: `${SITE_URL}/`, lastmod: today, changefreq: "daily", priority: 1.0 },
+    {
+      loc: `${SITE_URL}/news`,
+      lastmod: today,
+      changefreq: "daily",
+      priority: 0.9,
+    },
     {
       loc: `${SITE_URL}/sources`,
       lastmod: today,

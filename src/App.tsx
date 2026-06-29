@@ -16,6 +16,7 @@ import { FilterBar } from "./components/FilterBar";
 import { OpportunityModal } from "./components/OpportunityModal";
 import { SourcesPage } from "./components/SourcesPage";
 import { SweepLogPage } from "./components/SweepLogPage";
+import { NewsPage } from "./components/NewsPage";
 import { sources } from "./data/sources";
 import { Subscribe } from "./components/Subscribe";
 import { ThemeToggle } from "./components/ThemeToggle";
@@ -23,6 +24,7 @@ import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
 
 /** Parse current URL into a route. Supported paths:
  *   /                     → feed home
+ *   /news                 → newswire page
  *   /sources          → sources page
  *   /log                  → sweep log page
  *   /opportunities/<id>        → feed with modal open for that item
@@ -31,6 +33,7 @@ import { track, useHeartbeat, useScrollDepth } from "./lib/analytics";
  */
 type Route =
   | { kind: "feed" }
+  | { kind: "news" }
   | { kind: "sources" }
   | { kind: "log" }
   | { kind: "opportunity"; id: string };
@@ -39,8 +42,12 @@ function parseRoute(): Route {
   const hash = window.location.hash.slice(1);
   if (hash === "sources") return { kind: "sources" };
   if (hash === "log") return { kind: "log" };
+  if (hash === "news") return { kind: "news" };
 
   const path = window.location.pathname;
+  if (path === "/news" || path === "/news/") {
+    return { kind: "news" };
+  }
   if (path === "/sources" || path === "/sources/") {
     return { kind: "sources" };
   }
@@ -130,11 +137,12 @@ function itemFromRoute(
   return items.find((i) => i.id === route.id) ?? null;
 }
 
-type Page = "feed" | "sources" | "log";
+type Page = "feed" | "news" | "sources" | "log";
 
 function pageFromRoute(route: Route): Page {
   if (route.kind === "sources") return "sources";
   if (route.kind === "log") return "log";
+  if (route.kind === "news") return "news";
   return "feed";
 }
 
@@ -231,6 +239,13 @@ function App() {
     setRoute({ kind: "sources" });
   }, []);
 
+  // Nav: go to newswire
+  const goNews = useCallback(() => {
+    track("nav", { to: "news", from: pageRef.current });
+    window.history.pushState(null, "", "/news");
+    setRoute({ kind: "news" });
+  }, []);
+
   // Nav: go to sweep log
   const goLog = useCallback(() => {
     track("nav", { to: "log", from: pageRef.current });
@@ -272,17 +287,21 @@ function App() {
   // attach the current scroll snapshot to the entry we're writing, so
   // refresh-at-modal-close still lands exactly where the feed was.
   const closeModal = useCallback(() => {
-    const isFeed = page !== "sources" && page !== "log";
+    const isFeed = page === "feed";
     const target = page === "sources"
       ? "/sources"
       : page === "log"
         ? "/log"
-        : buildFeedUrl(active);
+        : page === "news"
+          ? "/news"
+          : buildFeedUrl(active);
     const next: Route = page === "sources"
       ? { kind: "sources" }
       : page === "log"
         ? { kind: "log" }
-        : { kind: "feed" };
+        : page === "news"
+          ? { kind: "news" }
+          : { kind: "feed" };
     const state = isFeed && window.scrollY > 0
       ? { y: window.scrollY, n: visibleCount, cat: serializeCat(active) }
       : null;
@@ -319,6 +338,10 @@ function App() {
     }
     if (route.kind === "log") {
       document.title = "Collection Log — What Changed & When | DxbEstate Intel";
+      return;
+    }
+    if (route.kind === "news") {
+      document.title = "Dubai Property Newswire — Latest Real-Estate News | DxbEstate Intel";
       return;
     }
     document.title = "DxbEstate Intel — Dubai Listings, Leads & Deal Signals";
@@ -519,6 +542,17 @@ function App() {
             </button>
             <button
               type="button"
+              className={`nav-link ${page === "news" ? "nav-active" : ""}`}
+              onClick={() => {
+                setMenuOpen(false);
+                goNews();
+              }}
+            >
+              <span className="nav-link-lbl">NEWS</span>
+              <span className="nav-link-num">{feed.items.length}</span>
+            </button>
+            <button
+              type="button"
               className={`nav-link ${page === "sources" ? "nav-active" : ""}`}
               onClick={() => {
                 setMenuOpen(false);
@@ -582,6 +616,8 @@ function App() {
             </div>
           )}
         </>
+      ) : page === "news" ? (
+        <NewsPage onOpenOpportunity={openOpportunityById} />
       ) : page === "sources" ? (
         <SourcesPage />
       ) : (
