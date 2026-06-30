@@ -6418,6 +6418,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260630t021856z",
+      "timestamp": "2026-06-30T02:18:56.260Z",
+      "source": "github-actions-sweep",
+      "summary": "One verified Jun-29 ingest: Zoya Developments breaks ground on Calisi in Dubai South just 30 days after launch — an AED 80M, fully-furnished 2BR off-plan from AED 686K with Q3 2027 handover, anchoring the entry-level Dubai South book. Other late-June material (Emaar AED 200B megaproject, DLD Flexi Rent, Property Finder buyer-seller gap, Dubai Holding Golden Visa desks, W Capital H1 launch print, Bayut five-language rollout, Danube FY27 trim) already in the feed; no in-cap distress, auction, DLD daily print or luxury seller-lead survived the inclusion bar this sweep.",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-zoya-developments-calisi-dubai-south-groundbreaking-jun-29-2026",
+          "title": "Zoya Developments breaks ground on Calisi in Dubai South 30 days after launch — AED 80M fully-furnished 2BR off-plan from AED 686K targets Q3 2027 handover near Al Maktoum International",
+          "category": "developer",
+          "note": "Added under developer."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

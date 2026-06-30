@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-06-29T15:35:08.755Z",
+  "generatedAt": "2026-06-30T02:18:56.260Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-zoya-developments-calisi-dubai-south-groundbreaking-jun-29-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "lead"
+      ],
+      "title": "Zoya Developments breaks ground on Calisi in Dubai South 30 days after launch — AED 80M fully-furnished 2BR off-plan from AED 686K targets Q3 2027 handover near Al Maktoum International",
+      "org": "Zawya + TradeArabia + GDN Online",
+      "date": "2026-06-29",
+      "url": "https://www.zawya.com/en/press-release/companies-news/zoya-developments-accelerates-delivery-starts-construction-of-calisi-one-month-after-project-launch-fmp93n0m",
+      "summary": "Zoya CEO Shoaib Khan commits to a Q3 2027 handover on Calisi — Zoya's second Dubai South project after Miorah — with construction starting on Jun 29, just 30 days after the May launch. Fully-furnished two-bed entry from AED 686K, 10 min to Al Maktoum International and 15 min to Expo City Dubai.",
+      "tags": [
+        "zoya-developments",
+        "calisi",
+        "dubai-south",
+        "shoaib-khan",
+        "off-plan",
+        "fully-furnished",
+        "groundbreaking",
+        "al-maktoum-international"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DUBAI-SOUTH",
+        "DWC",
+        "EXPO-CITY"
+      ],
+      "metrics": {
+        "Project value": "AED 80M (~USD 22M)",
+        "Unit type": "Fully furnished 2BR apartments",
+        "Starting price": "AED 686,000",
+        "Launch-to-groundbreaking": "30 days (launched late May 2026, construction started 2026-06-29)",
+        "Handover target": "Q3 2027",
+        "Drive time to Al Maktoum International (DWC)": "~10 min",
+        "Drive time to Expo City Dubai": "~15 min",
+        "Developer order in Dubai South": "2nd Zoya project (after Miorah)",
+        "Zoya Dubai 3-year investment plan": "AED 2B+ (~USD 544M)",
+        "Key spokesperson": "Shoaib Khan, CEO, Zoya Developments"
+      },
+      "links": [
+        {
+          "label": "Zawya press release — Zoya accelerates delivery, starts construction (Jun 29, 2026)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/zoya-developments-accelerates-delivery-starts-construction-of-calisi-one-month-after-project-launch-fmp93n0m"
+        },
+        {
+          "label": "TradeArabia — Zoya breaks ground on premium Dubai South project (Jun 29, 2026)",
+          "url": "https://tradearabia.com/News/464215/Zoya-breaks-ground-on-its-premium-residential-project-in-Dubai-South/CONS"
+        },
+        {
+          "label": "GDN Online UAE Business — Zoya breaks ground on Dubai South project",
+          "url": "https://www.gdnonline.com/Details/1399089/Zoya-breaks-ground-on-its-premium-residential-project-in-Dubai-South"
+        },
+        {
+          "label": "Zoya Developments — official site",
+          "url": "https://www.zoyadevelopments.ae/"
+        },
+        {
+          "label": "Dubai South masterplan — DLD project status enquiry",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-project-status-landing/real-estate-project-status/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Sub-AED 700K, fully-furnished 2BR off-plan in Dubai South — and the developer is putting shovels in the ground 30 days after launch, not 30 months.",
+        "whatIsIt": "Zoya Developments, the UAE arm of the Indian Zoya Group (USD 544M / AED 2B+ committed to Dubai over three years), broke ground on Calisi in Dubai South on Jun 29 — exactly 30 days after the project's official launch. Calisi is an AED 80M building of fully-furnished two-bedroom apartments from AED 686,000, sitting roughly 10 minutes from Al Maktoum International (DWC) and 15 minutes from Expo City Dubai. CEO Shoaib Khan publicly committed to a Q3 2027 handover and 'timely execution… in line with announced schedules.'",
+        "howItWorks": "Calisi is Zoya's second Dubai South residential project after Miorah (the AED 37.5M furnished block launched earlier in the year). At AED 686K, the entry 2BR sits below the AED 750K Dubai property-investor visa threshold (the floor that was removed in May 2026 per the existing visa item) and well under the AED 2M Golden Visa floor, so the unit positions for end-users and first-time buyers, not visa portfolios. Amenities include swimming pool, fitness centre, indoor parking and controlled access. No payment plan disclosed publicly yet — buyers should ask the broker for the construction-linked schedule and DLD Oqood at booking.",
+        "whyItMatters": "Two reads: (1) Dubai South corridor pricing is firming a sub-AED 700K, fully-furnished 2BR product as the entry rung — interesting for the same buyer pool that has been chasing JVC/Majan studios. (2) The 30-day launch-to-groundbreaking cycle is the same kind of execution-speed signal HRE Skyhills and Imtiaz RAW District put down in Q2: developers are leaning into 'we'll actually start building' as a selling point as the Cavendish Maxwell handover-delay narrative gets worse. Buyers can use Calisi as a comparable to underwrite other Dubai South furnished plays (Azizi Venice, Emaar South, Damac Riverside) and to back-out a furnished-vs-unfurnished premium.",
+        "forWho": "First-time end-users priced into the sub-AED 700K bracket near DWC/Expo, brokers covering the Dubai South pipeline, mid-market investors comparing furnished vs unfurnished off-plan economics, India-focused buyer agents tracking Zoya's UAE rollout.",
+        "tryIt": "https://www.zoyadevelopments.ae/"
+      },
+      "image": {
+        "url": "https://www.gdnonline.com/gdnimages/20260629/ta_20260629164457.jpg",
+        "alt": "Zoya Developments breaks ground on Calisi residential project in Dubai South",
+        "credit": "GDN Online / TradeArabia"
+      },
+      "publishDate": "2026-06-30T02:18:56.260Z"
+    },
     {
       "id": "dubai-holding-meraas-nakheel-golden-visa-in-centre-facilitation-jun-29-2026",
       "categories": [
