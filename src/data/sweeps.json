@@ -6454,6 +6454,63 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260630t140115z",
+      "timestamp": "2026-06-30T14:01:15.923Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-06-30 13:55 UTC — adds 4 fresh items: the Jun-29 DLD daily print (50/50 ready vs off-plan), Imtiaz's AED 600M Sea Cliff Residence groundbreaking on Dubai Islands, Dubai Residential REIT's AED 894M / 220-townhouse Jebel Ali Village acquisition, and Morgan's International Realty's 94-investor selectivity report. All four published in the past ~24h and verified via WebFetch.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jun-29-2026-daily-print-aed-132b-ready-501-percent-50-50-split",
+          "title": "Dubai DLD daily print 2026-06-29: AED 1.32B with ready edging back to 50.1% in a near-perfect 50/50 split — ready flats AED 500.4M lead the day as off-plan flats AED 446.5M anchor the secondary engine",
+          "category": "market",
+          "note": "Continues the daily DLD print cadence; second consecutive day of >50% ready share signals a real Q2 mortgage-flow rebuild story."
+        },
+        {
+          "id": "dubai-imtiaz-sea-cliff-residence-groundbreaking-dubai-islands-aed-600m-q1-2028-jun-29-2026",
+          "title": "Imtiaz Developments breaks ground on AED 600M Sea Cliff Residence on Dubai Islands — 1-3BR apartments + 4BR duplexes with Hermès / Villeroy & Boch / Miele partnerships and Q1 2028 handover",
+          "category": "offplan",
+          "note": "AED 600M Imtiaz development with confirmed groundbreaking and branded-interior partnerships — meaningful launch + execution-speed signal."
+        },
+        {
+          "id": "dubai-residential-reit-jebel-ali-village-220-townhouses-aed-894m-dham-jun-30-2026",
+          "title": "Dubai Residential REIT acquires 220 Jebel Ali Village townhouses for AED 894M — DHAM REIT Management's forward-purchase agreement adds AED 75M of stabilised annual rent, lifts H1 2026 portfolio additions to 276 units",
+          "category": "ready",
+          "note": "First public AED 894M forward-purchase from a DFM-listed REIT into a Dubai Holding pipeline cluster — institutional-yield datapoint for the feed."
+        },
+        {
+          "id": "dubai-morgans-international-realty-94-investor-selective-conviction-46-46-60-jun-30-2026",
+          "title": "Morgan's International Realty Jun-30 read: 94-investor survey (AED 3B combined book, AED 5-100M+ tickets) — 46% expect 12-month price stabilisation, 36% pencil decline, 60% bet on 3-year growth as Dubai shifts to 'conviction-driven' selectivity",
+          "category": "market",
+          "note": "94-investor / AED 3B-book survey gives the feed a quantified HNW positioning snapshot to pair with the AGBI / Betterhomes / Cavendish Maxwell reads."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "developer",
+        "ready",
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

@@ -1,8 +1,294 @@
 {
-  "generatedAt": "2026-06-30T02:18:56.260Z",
+  "generatedAt": "2026-06-30T14:01:15.923Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jun-29-2026-daily-print-aed-132b-ready-501-percent-50-50-split",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-06-29: AED 1.32B with ready edging back to 50.1% in a near-perfect 50/50 split — ready flats AED 500.4M lead the day as off-plan flats AED 446.5M anchor the secondary engine",
+      "org": "The Real Estate Reports",
+      "date": "2026-06-29",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-30-jun-2026",
+      "summary": "Monday tape books AED 1.32B with ready AED 661.8M (50.1%) marginally ahead of off-plan AED 658.1M (49.9%). Ready flats AED 500.4M lead, off-plan flats AED 446.5M anchor as the day's notable singles include a Dh 300M Jumeirah Bay gifted residential plot, a Dh 115M JVC residential tower transfer and a Dh 70M ZUHHA Island off-plan villa.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "ready-vs-offplan",
+        "jumeirah-bay",
+        "jvc",
+        "zuhha-island",
+        "expo-city",
+        "azizi"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB",
+        "DLD",
+        "JVC",
+        "JUMEIRAH-BAY"
+      ],
+      "metrics": {
+        "Transaction date": "2026-06-29 (Monday)",
+        "Total value": "AED 1.32B",
+        "Ready share": "50.1% (AED 661.8M)",
+        "Off-plan share": "49.9% (AED 658.1M)",
+        "Ready flats": "AED 500.4M (75.6% of ready)",
+        "Ready villas": "AED 123.2M (18.6% of ready)",
+        "Ready commercial": "AED 20.4M",
+        "Off-plan flats": "AED 446.5M (67.8% of off-plan)",
+        "Off-plan villas": "AED 132.4M (20.1% of off-plan)",
+        "Off-plan commercial": "AED 62.9M",
+        "Hotel apts (combined)": "AED 34.2M",
+        "Notable single (gift plot)": "AED 300M residential plot, Jumeirah Bay",
+        "Notable single (apt tower)": "AED 115M residential tower, JVC",
+        "Notable single (off-plan villa)": "AED 70M off-plan villa, ZUHHA Island",
+        "Developer-bank deals announced": "Expo City Dubai × Emirates NBD; Azizi Developments × Dubai Islamic Bank"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai Market Review 30-Jun-2026 (covers 2026-06-29 tape)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-30-jun-2026"
+        },
+        {
+          "label": "Dubai Land Department — daily transactions search",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions open data",
+          "url": "https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open"
+        }
+      ],
+      "explainer": {
+        "tagline": "Monday tape balances on a 50/50 knife-edge — ready and off-plan within AED 4M of each other as ready flats reclaim the day at AED 500M.",
+        "whatIsIt": "Dubai's DLD print for Monday 2026-06-29 totals AED 1.32B with ready AED 661.8M (50.1%) just nosing ahead of off-plan AED 658.1M (49.9%). Ready flats AED 500.4M lead the city, off-plan flats AED 446.5M hold the secondary engine, and the day's marquee singles are a Dh 300M Jumeirah Bay gifted plot, a Dh 115M JVC residential tower transfer and a Dh 70M off-plan villa on ZUHHA Island.",
+        "howItWorks": "Two days in a row the ready share has held above 50% (Jun-26 booked 54.3%; Jun-29 50.1%), continuing the pattern of Q2 mortgage flow and secondary repricing eating into the off-plan dominance that defined April-May. Off-plan flats AED 446.5M is lighter than the AED 500-700M cluster the engine has run at most of June, and Dh 70M Zuhha Island is the biggest single off-plan villa ticket since Naia Island's plot run. On the rail-side, the Jun-30 Etihad Rail passenger launch and the AED 13B Al Maktoum International Phase 1 contracts already in execution frame the same buyer pool that's chasing Dubai South / DWC inventory.",
+        "whyItMatters": "Three reads: (1) The ready-vs-off-plan share is the tightest in weeks — operators who told sellers 'off-plan eats your asking price' need fresh ammo. (2) Jumeirah Bay's AED 300M gifted plot is the kind of intra-family transfer that hits the headline but doesn't reset comps; buyers should normalize before underwriting. (3) The Expo City × Emirates NBD and Azizi × Dubai Islamic Bank developer-bank pairings deepen the off-plan mortgage rail that started with the Dubai Holding × CBD and Imtiaz × Mashreq tie-ups — buyers can now line up a wider menu of construction-stage financing routes than at any point this cycle.",
+        "forWho": "Brokers using daily tape to defend listing prices, secondary-market buyers watching the ready-share rebuild, off-plan investors tracking developer-bank mortgage rails, family-office buyers gut-checking Jumeirah Bay plot comps.",
+        "tryIt": "https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7b61d4d8-bfa9-4886-a272-570ff1341dc0/pexels-george-tsai-12349901.jpg",
+        "alt": "Dubai skyline frames The Real Estate Reports' Jun 29, 2026 DLD daily print",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-06-30T14:01:15.923Z"
+    },
+    {
+      "id": "dubai-imtiaz-sea-cliff-residence-groundbreaking-dubai-islands-aed-600m-q1-2028-jun-29-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "luxury"
+      ],
+      "title": "Imtiaz Developments breaks ground on AED 600M Sea Cliff Residence on Dubai Islands — 1-3BR apartments + 4BR duplexes with Hermès / Villeroy & Boch / Miele partnerships and Q1 2028 handover",
+      "org": "Khaleej Times + Gulf News",
+      "date": "2026-06-29",
+      "url": "https://www.khaleejtimes.com/business/property/imtiaz-expands-its-dubai-islands-portfolio-with-groundbreaking-of-dh600-million-sea-cliff-residence",
+      "summary": "Imtiaz CEO Masih Imtiaz attends the groundbreaking ceremony for Sea Cliff Residence, an AED 600M waterfront tower on Dubai Islands offering 1-, 2- and 3-bedroom residences plus exclusive 4-bedroom duplexes with private pools. Interiors are co-designed with Hermès, Villeroy & Boch and Miele. Anticipated completion Q1 2028. Imtiaz now runs 22+ Dubai Islands developments and a portfolio above AED 15B.",
+      "tags": [
+        "imtiaz-developments",
+        "sea-cliff-residence",
+        "dubai-islands",
+        "groundbreaking",
+        "off-plan",
+        "hermes",
+        "duplex",
+        "branded-interior"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DUBAI-ISLANDS"
+      ],
+      "metrics": {
+        "Project value": "AED 600M (~USD 163M)",
+        "Location": "Dubai Islands (Imtiaz's 23rd development on the masterplan)",
+        "Unit mix": "1-, 2- and 3-bedroom apartments + exclusive 4-bedroom duplexes (private pools)",
+        "Groundbreaking": "2026-06-29",
+        "Anticipated handover": "Q1 2028",
+        "Interior partnerships": "Hermès, Villeroy & Boch, Miele",
+        "Imtiaz portfolio (cumulative)": "AED 15B+",
+        "Imtiaz Dubai Islands footprint": "22+ developments",
+        "Adjacent track record": "Beach Walk by Imtiaz (first completed Islands project); RAW District (AED 2B sell-out on launch day)",
+        "Key spokesperson": "Masih Imtiaz, CEO, Imtiaz Developments"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Imtiaz expands Dubai Islands with Dh600m Sea Cliff groundbreaking (Jun 30, 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/imtiaz-expands-its-dubai-islands-portfolio-with-groundbreaking-of-dh600-million-sea-cliff-residence"
+        },
+        {
+          "label": "Gulf News — Imtiaz breaks ground for Dh600m Sea Cliff Residence",
+          "url": "https://gulfnews.com/business/property/imtiaz-expands-its-dubai-islands-portfolio-with-groundbreaking-of-dh600m-sea-cliff-residence-1.500591640"
+        },
+        {
+          "label": "Imtiaz Developments — Sea Cliff project page",
+          "url": "https://imtiaz.ae/property/sea-cliff"
+        },
+        {
+          "label": "Imtiaz Developments — News & Press",
+          "url": "https://imtiaz.ae/news-and-press"
+        }
+      ],
+      "explainer": {
+        "tagline": "Imtiaz's 23rd Dubai Islands play — AED 600M Sea Cliff Residence breaks ground with Hermès / Villeroy & Boch / Miele co-designed interiors and a Q1 2028 finish.",
+        "whatIsIt": "Imtiaz Developments held the official groundbreaking ceremony for Sea Cliff Residence on Dubai Islands on 2026-06-29. The AED 600M waterfront tower offers 1-, 2- and 3-bedroom apartments plus exclusive 4-bedroom duplexes with private swimming pools. Interiors are co-designed with Hermès, Villeroy & Boch and Miele. Amenities include an infinity pool, outdoor cinema, pavilion clubhouse, outdoor gym and yoga zone. Anticipated completion is Q1 2028.",
+        "howItWorks": "Sea Cliff is Imtiaz's 23rd development on Dubai Islands — the company is now one of the largest single private investors in the masterplan with cumulative book above AED 15B. The Dubai Islands track record is strong: Beach Walk by Imtiaz is the first completed residential project on the islands, and RAW District by Imtiaz sold out at AED 2B on launch day (per the existing feed item). Sea Cliff is positioned as a 'prime luxury' product — buyers should ask brokers for the booking schedule, DLD Oqood timing, and whether the 4-bed duplex private-pool unit count is the headline 'exclusive' figure or part of standard inventory. No public starting price disclosed; the Hermès / Villeroy & Boch / Miele co-design points to a per-sqft premium over the 1-/2-BR baseline on the islands.",
+        "whyItMatters": "Three reads: (1) Imtiaz pairing branded-interior partnerships with a waterfront groundbreaking on the same week ANAX (ELLE Residences sold out) and DHG (Helvetia Marine sold out) broke ground confirms Dubai Islands is the dominant Q2 2026 launch corridor for branded / boutique inventory. (2) The 'groundbreaking, not just launch' cadence is the same execution-speed signal Zoya put down at Calisi and Imtiaz itself at RAW District — buyers can use it to underwrite delivery risk against the wider Cavendish Maxwell handover-delay narrative. (3) For comp work, Sea Cliff sits in the same price band as Marea Residences (Sharafi, AED 2.74M re-launch, 30/70 plan) and DHG's Helvetia Marine — operators can stack the three to triangulate fair value per sqft on Dubai Islands waterfront 1-2BR product.",
+        "forWho": "End-users and HNW investors comparing branded-interior Dubai Islands inventory, brokers underwriting Imtiaz's delivery track record against Cavendish Maxwell warning lists, comp-builders triangulating Dubai Islands waterfront AED/sqft, family-office buyers tracking the duplex / private-pool segment of the islands.",
+        "tryIt": "https://imtiaz.ae/property/sea-cliff"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-29/n0vw5ck7/1Sea-Cliff-Ground-Breaking.jpg-2.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Imtiaz Developments groundbreaking ceremony for the AED 600M Sea Cliff Residence on Dubai Islands, 2026-06-29",
+        "credit": "Khaleej Times / Imtiaz Developments"
+      },
+      "publishDate": "2026-06-30T14:01:15.923Z"
+    },
+    {
+      "id": "dubai-residential-reit-jebel-ali-village-220-townhouses-aed-894m-dham-jun-30-2026",
+      "categories": [
+        "ready",
+        "commercial",
+        "market",
+        "lead"
+      ],
+      "title": "Dubai Residential REIT acquires 220 Jebel Ali Village townhouses for AED 894M — DHAM REIT Management's forward-purchase agreement adds AED 75M of stabilised annual rent, lifts H1 2026 portfolio additions to 276 units",
+      "org": "Khaleej Times + GDN Online + Zawya",
+      "date": "2026-06-30",
+      "url": "https://www.khaleejtimes.com/business/dubai-residential-reit-buys-220-homes-for-dh894m-in-jebel-ali-village",
+      "summary": "DFM-listed Dubai Residential REIT — GCC's largest by units, managed by DHAM REIT Management — announces a AED 894M (USD 243M) forward purchase of 220 townhouses at Jebel Ali Village from the Dubai Holding residential pipeline. The cluster is 80 3-BR and 140 4-BR units near Sheikh Zayed Road / Ibn Battuta Mall and is expected to add ~AED 75M in annual revenue when stabilised. Total H1 2026 additions hit 276 units alongside the earlier 56-unit Garden View Villas deal.",
+      "tags": [
+        "dubai-residential-reit",
+        "dham-reit-management",
+        "jebel-ali-village",
+        "townhouse",
+        "forward-purchase",
+        "ready",
+        "rental",
+        "dfm-listed"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DFM-DUBAIRR",
+        "JEBEL-ALI-VILLAGE",
+        "SZR"
+      ],
+      "metrics": {
+        "Deal value": "AED 894M (USD 243M)",
+        "Asset": "220 Jebel Ali Village townhouses (80 × 3-BR + 140 × 4-BR)",
+        "Deal structure": "Forward purchase agreement (developer / Dubai Holding pipeline)",
+        "Annual revenue contribution (post-stabilisation, w/ Garden View Villas)": "~AED 75M",
+        "H1 2026 portfolio additions": "276 units (220 Jebel Ali Village + 56 Garden View Villas)",
+        "REIT portfolio (current)": "35,900+ homes / 22 communities / 140,000+ residents",
+        "Listing": "DFM (managed by DHAM REIT Management)",
+        "Spokesperson": "Ahmed Al Suwaidi, MD, DHAM REIT Management",
+        "Next-up pipeline cited": "Lantana Hills, Dubai Wharf units, The Acres community"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai Residential REIT buys 220 homes for Dh894m in Jebel Ali Village (Jun 30, 2026)",
+          "url": "https://www.khaleejtimes.com/business/dubai-residential-reit-buys-220-homes-for-dh894m-in-jebel-ali-village"
+        },
+        {
+          "label": "GDN Online — Dubai Residential REIT buys Jebel Ali townhouses cluster for $243m (Jun 30, 2026)",
+          "url": "https://www.gdnonline.com/Details/1399170"
+        },
+        {
+          "label": "Zawya — Dubai Residential REIT adds 220 townhouses at Jebel Ali Village (AED 894M)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/dubai-residential-reit-adds-220-townhouses-at-jebel-ali-village-to-portfolio-in-aed894mln-acquisition-jdzk8npl"
+        },
+        {
+          "label": "Dubai Financial Market — DUBAIRR listing page",
+          "url": "https://www.dfm.ae/the-exchange/market-information/company/DUBAIRR"
+        }
+      ],
+      "explainer": {
+        "tagline": "DFM-listed REIT books 220 ready-to-rent Jebel Ali Village townhouses for AED 894M and stamps a ~AED 75M annual rent print on the city's secondary-residential income narrative.",
+        "whatIsIt": "Dubai Residential REIT, managed by DHAM REIT Management and listed on the DFM, announced the AED 894M (USD 243M) forward-purchase acquisition of 220 townhouses at Jebel Ali Village on 2026-06-30. The cluster is 80 three-bedroom units and 140 four-bedroom units in the Jebel Ali Village community near Sheikh Zayed Road and Ibn Battuta Mall. Combined with the earlier 56-unit Garden View Villas deal, the new inventory is projected to add about AED 75M in annual rental revenue once stabilised. H1 2026 portfolio additions now stand at 276 units.",
+        "howItWorks": "The acquisition is a forward purchase — Dubai Residential REIT contracts the units from the Dubai Holding residential pipeline ahead of stabilisation, then accretes rent once tenants move in. Implied stabilised gross yield on the AED 75M / AED 894M (plus AED ~80M est. for the Garden View Villas) print is in the 7-8% gross range, in line with Bayut's recent JLT / JVC / Springs / Meadows AED/sqft growth scan and the broader Cavendish Maxwell-flagged H1 2026 supply landing. AHS-Suwaidi flagged Lantana Hills, Dubai Wharf and The Acres as next-up pipeline targets, suggesting the REIT will continue eating Dubai Holding inventory rather than competing in the open secondary market.",
+        "whyItMatters": "Three reads: (1) The REIT's ability to deploy AED 894M in a single forward-purchase ticket while DFM-listed is a public liquidity floor on Jebel Ali Village 3-/4-BR townhouse comp — operators selling private into the same community now have a public benchmark to anchor asks against. (2) AED 75M of incremental annual rent on AED 894M of inventory is the cleanest stabilised-yield datapoint published this year for Dubai institutional residential — useful for any broker pitching family-office private-buyer underwriting. (3) The forward-purchase structure (rather than spot ready takeover) means Dubai Holding is monetising future income at a discount — sellers in adjacent Dubai Holding communities (Lantana Hills, Dubai Wharf, The Acres) should anticipate the REIT as a price-anchor counterparty over H2 2026.",
+        "forWho": "Income-focused buyers underwriting Jebel Ali Village townhouse yields, brokers selling 3-/4-BR product in Dubai Holding masterplans, family offices benchmarking Dubai institutional residential yield, DFM equity holders / DUBAIRR investors, secondary-market sellers in Lantana Hills / Dubai Wharf / The Acres anticipating the next REIT bid.",
+        "tryIt": "https://www.dfm.ae/the-exchange/market-information/company/DUBAIRR"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-30/mjzlzprc/Jebel-Ali-Village-by-Dubai-Residential-REIT-1.jpg",
+        "alt": "Jebel Ali Village townhouse cluster acquired by Dubai Residential REIT for AED 894M",
+        "credit": "Khaleej Times / Dubai Residential REIT"
+      },
+      "publishDate": "2026-06-30T14:01:15.923Z"
+    },
+    {
+      "id": "dubai-morgans-international-realty-94-investor-selective-conviction-46-46-60-jun-30-2026",
+      "categories": [
+        "market",
+        "lead"
+      ],
+      "title": "Morgan's International Realty Jun-30 read: 94-investor survey (AED 3B combined book, AED 5-100M+ tickets) — 46% expect 12-month price stabilisation, 36% pencil decline, 60% bet on 3-year growth as Dubai shifts to 'conviction-driven' selectivity",
+      "org": "TradeArabia + Morgan's International Realty",
+      "date": "2026-06-30",
+      "url": "https://www.tradearabia.com/News/464406/Dubai-property-investors-becoming-selective%2c-look-at-long-term%2c-says-report-",
+      "summary": "Morgan's International Realty published an April-May survey of 94 Dubai investors (portfolios AED 5M-100M+, AED 3B combined). 46% expect 12-month price stabilisation, 36% a decline, 18% growth. Three-year view flips to 60% growth — and 75% of the AED 100M+ cohort. Nearly half plan to hold, a third will sell selected assets, only a fifth will buy. The frame: Dubai is shifting from momentum-driven to conviction-driven investing.",
+      "tags": [
+        "morgans-international-realty",
+        "investor-survey",
+        "selective",
+        "conviction-driven",
+        "12-month-outlook",
+        "3-year-outlook",
+        "luxury",
+        "hold-sell-buy"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB"
+      ],
+      "metrics": {
+        "Survey window": "April-May 2026",
+        "Sample": "94 Dubai investors",
+        "Portfolio range": "AED 5M - AED 100M+",
+        "Combined holdings": "AED 3B",
+        "12-month price view — stabilise": "46%",
+        "12-month price view — decline": "36%",
+        "12-month price view — growth": "18%",
+        "3-year price view — growth": "60% (75% for AED 100M+ cohort)",
+        "Plan to hold existing assets": "~50%",
+        "Plan to sell selected assets": "~33%",
+        "Plan to acquire more": "~20%",
+        "Publisher": "Morgan's International Realty",
+        "Distribution": "TradeArabia (Jun 30, 2026)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai property investors becoming selective, look at long-term, says report (Jun 30, 2026)",
+          "url": "https://www.tradearabia.com/News/464406/Dubai-property-investors-becoming-selective%2c-look-at-long-term%2c-says-report-"
+        },
+        {
+          "label": "Morgan's International Realty — official site",
+          "url": "https://morgansrealty.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Survey of 94 investors with AED 3B in Dubai property: 36% expect a 12-month price drop, 60% expect a 3-year rebound — selectivity is now the default playbook.",
+        "whatIsIt": "Morgan's International Realty has published an April-May 2026 survey of 94 Dubai investors with portfolios ranging from AED 5M to AED 100M+ and AED 3B in combined holdings. The 12-month outlook splits 46% stabilise / 36% decline / 18% growth. The 3-year outlook flips to 60% growth — and rises to 75% growth among the AED 100M+ cohort. On positioning, nearly half plan to hold existing assets, about a third will sell selected properties, and only one-fifth plan to acquire more.",
+        "howItWorks": "The data lines up with the AGBI × Sajwani (AHS, 'Capital paused, not left'), AGBI × Betterhomes (May 2026 mortgage value +17% YoY) and Khaleej Times × CBA 'broker survival test' reads already in the feed — short-term confidence is wobbly, long-term conviction is intact. The selectivity tells: developer reputation, project quality, transparency and long-term resilience are now the buy filters; HNW capital is rotating from momentum-driven AED/sqft chasing into conviction-driven asset-quality screens. Brokers facing the third-of-respondents-want-to-sell flow should expect more 'quality over urgency' negotiations of the kind BlackBrick used to close the AED 24.12M Hattan villa record.",
+        "whyItMatters": "Three reads: (1) The 36% '12-month decline' camp is the largest public quantification of the post-war / pre-truce caution dataset agencies have been narrating — useful for buyers framing 12-15% asking-price cut targets to sellers. (2) The 75% '3-year growth' read among AED 100M+ portfolios is the smoking-gun datapoint that the truly liquid HNW pool is leaning into a Q4 / 2027 recovery — sellers can use it to defend asks; buyers can use it to anchor exit-multiple underwriting. (3) The 50/33/20 hold/sell/buy split is operationally actionable — it tells brokerage teams to overweight listing / repositioning workflows over fresh acquisition pitches for the next two quarters.",
+        "forWho": "HNW buyers benchmarking peer-investor positioning, brokers tuning 12- vs 36-month pitch narratives, sellers framing asking-price expectations against the 36% decline camp, family-office allocators sizing Dubai exposure against AED 100M+ peer cohort, brokerage CEOs reweighting listing vs acquisition workflows.",
+        "tryIt": "https://morgansrealty.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/30/TA_20260630162415.webp",
+        "alt": "Morgan's International Realty Dubai property investor selectivity report featured image",
+        "credit": "TradeArabia / Morgan's International Realty"
+      },
+      "publishDate": "2026-06-30T14:01:15.923Z"
+    },
     {
       "id": "dubai-zoya-developments-calisi-dubai-south-groundbreaking-jun-29-2026",
       "categories": [
