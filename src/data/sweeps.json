@@ -6511,6 +6511,58 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260701t022433z",
+      "timestamp": "2026-07-01T02:24:33.227Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep of 30-Jun to 1-Jul 2026 Dubai property signals — DHG Properties' Swiss Helvetia trio (JVC handover imminent, Meydan Horizon + Dubai Islands groundbroken), the RTA's Gold Line AED 34B / USD 9.2B prequalification launch on the 18-station corridor, and DP World × Lintara/Arcapita breaking ground on a Grade A Jafza build-to-suit logistics box.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dhg-properties-helvetia-jvc-handover-meydan-marine-jun-30-2026",
+          "title": "Swiss DHG Properties lines up UAE expansion with three-project Helvetia rollout — Helvetia Residences JVC handover July 2026, Helvetia Verde Meydan Horizon + Helvetia Marine Dubai Islands both Q1 2028",
+          "category": "developer",
+          "note": "Swiss Helvetia trio anchors a rare cross-cycle developer footprint — JVC handover July 2026, Meydan Horizon Q1 2028, Dubai Islands Q1 2028 fully sold out."
+        },
+        {
+          "id": "dubai-rta-metro-gold-line-92bn-prequalification-18-stations-jun-29-2026",
+          "title": "Dubai RTA opens AED 34B / USD 9.2B Metro Gold Line prequalification — 18 stations from Al Ghubaiba to JGE, Aug 17 bid deadline, 2027 award, Sep 9 2032 opening",
+          "category": "market",
+          "note": "Concrete procurement milestone (Aug 17 bid deadline, 2027 award, Sept 2032 opening) locks in the 18-station repricing corridor referenced in the Jun-18 property-impact map."
+        },
+        {
+          "id": "dubai-dp-world-lintara-arcapita-jafza-build-to-suit-logistics-jun-30-2026",
+          "title": "DP World × Lintara Properties (Arcapita) break ground on Grade A Jafza build-to-suit logistics centre — 20,000 sqm, 12-m clear height, Q1 2027 completion",
+          "category": "commercial",
+          "note": "Grade A build-to-suit groundbreaking adds a concrete point on the Jafza logistics-supply curve as commercial vacancy sits near 0.7% citywide."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "ready",
+        "market",
+        "legal",
+        "land",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

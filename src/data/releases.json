@@ -1,8 +1,198 @@
 {
-  "generatedAt": "2026-06-30T14:01:15.923Z",
+  "generatedAt": "2026-07-01T02:24:33.227Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dhg-properties-helvetia-jvc-handover-meydan-marine-jun-30-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "ready"
+      ],
+      "title": "Swiss DHG Properties lines up UAE expansion with three-project Helvetia rollout — Helvetia Residences JVC handover July 2026, Helvetia Verde Meydan Horizon + Helvetia Marine Dubai Islands both Q1 2028",
+      "org": "Khaleej Times / DHG Properties",
+      "date": "2026-06-30",
+      "publishDate": "2026-07-01T02:24:33.227Z",
+      "url": "https://www.khaleejtimes.com/business/property/dhg-properties-targets-strategic-uae-expansion-amid-strong-market-fundamentals",
+      "summary": "DHG Properties, the Dubai arm of Swiss DHG Group (300+ delivered projects, 2.5M sqm), lines up Helvetia Residences JVC (July 2026 handover, sold out), Helvetia Verde Meydan Horizon (May 2026 groundbreak, Q1 2028), and Helvetia Marine Dubai Islands (June 2026 groundbreak, sold out, Q1 2028) as Chairman/CEO Blagoje Antic tees up Abu Dhabi entry.",
+      "tags": [
+        "developer",
+        "helvetia",
+        "dhg-properties",
+        "jvc",
+        "meydan-horizon",
+        "dubai-islands",
+        "swiss",
+        "handover"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "JVC",
+        "MEYDAN",
+        "DXB-ISLANDS"
+      ],
+      "metrics": {
+        "Helvetia Residences JVC handover": "July 2026 (sold out)",
+        "Helvetia Verde Meydan Horizon": "Groundbreak May 2026, completion Q1 2028",
+        "Helvetia Marine Dubai Islands": "Groundbreak Jun 2026, completion Q1 2028 (sold out)",
+        "Helvetia Marine BUA": "12,938 sqm",
+        "DHG Group track record": "300+ projects, 2.5M sqm (CH/RS/UAE)",
+        "Abu Dhabi 2025 transactions": "AED 142B (+44% YoY)",
+        "Dubai Islands Apr 2026 transactions": "AED 2.6B / 691 deals"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — DHG UAE expansion (Jun 30 2026)",
+          "url": "https://www.khaleejtimes.com/business/property/dhg-properties-targets-strategic-uae-expansion-amid-strong-market-fundamentals"
+        },
+        {
+          "label": "Zawya — DHG unveils third Helvetia in Dubai (Helvetia Marine backgrounder)",
+          "url": "https://www.zawya.com/en/economy/gcc/dhg-properties-unveils-third-premium-helvetia-property-in-dubai-h2244hyq"
+        },
+        {
+          "label": "Property Finder — Helvetia Marine project page",
+          "url": "https://www.propertyfinder.ae/en/new-projects/dhg-properties/helvetia-marine"
+        }
+      ],
+      "explainer": {
+        "tagline": "Swiss DHG Properties splits its Dubai book across JVC handover, Meydan Horizon groundbreak, and Dubai Islands coastal launch — Abu Dhabi next.",
+        "whatIsIt": "The Dubai arm of Swiss DHG Group is running three Helvetia projects across three cycles simultaneously — Helvetia Residences JVC handing over next month, Helvetia Verde Meydan Horizon still in structural build for Q1 2028, and Helvetia Marine Dubai Islands broke ground in June and is already sold out.",
+        "howItWorks": "Helvetia Residences JVC hands over July 2026 fully sold — check post-handover snagging comps and secondary asks against nearby JVC 6.78–7.87% yield stack. Helvetia Verde Meydan Horizon started May 2026 with Q1 2028 delivery, riding the Gold Line repricing tail. Helvetia Marine is a low-rise 12,938 sqm coastal block on Dubai Islands with 1-/2-/3-BR apartments plus duplex + garden residences, positioned into a community that already booked AED 2.6B across 691 deals in April 2026. Chairman/CEO Blagoje Antic frames Abu Dhabi as the next step.",
+        "whyItMatters": "Three-project rollout across handover, off-plan mid-build, and off-plan pre-build gives Dubai buyers a real Helvetia comp set that isn't hypothetical. JVC handover creates fresh secondary supply against a soft rental market (-0.9% QoQ apartments per Cavendish Maxwell), while Dubai Islands and Meydan Horizon are the coastal / Gold Line thesis plays. Sold-out Helvetia Marine confirms coastal demand isn't paused by geopolitical noise.",
+        "forWho": "End-users hunting JVC handover units on secondary; Dubai Islands buyers watching branded-Swiss inventory; Meydan Horizon investors sizing the Gold Line corridor.",
+        "tryIt": "https://www.propertyfinder.ae/en/new-projects/dhg-properties/helvetia-marine"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-30/enij6eve/Artboard-1-copy.png?width=800&height=600&q=60&format=auto",
+        "alt": "DHG Properties Helvetia expansion in JVC, Meydan Horizon and Dubai Islands",
+        "credit": "Khaleej Times / DHG Properties"
+      }
+    },
+    {
+      "id": "dubai-rta-metro-gold-line-92bn-prequalification-18-stations-jun-29-2026",
+      "categories": [
+        "market",
+        "legal",
+        "land"
+      ],
+      "title": "Dubai RTA opens AED 34B / USD 9.2B Metro Gold Line prequalification — 18 stations from Al Ghubaiba to JGE, Aug 17 bid deadline, 2027 award, Sep 9 2032 opening",
+      "org": "TradeArabia / Dubai RTA",
+      "date": "2026-06-29",
+      "publishDate": "2026-07-01T02:24:33.227Z",
+      "url": "https://tradearabia.com/News/464200/Dubai-launches-prequalification-bids-for-$9.2bn-Metro-Gold-Line-network-",
+      "summary": "RTA opens prequalification for the AED 34B / USD 9.2B Metro Gold Line — 18 stations across 15 areas from Al Ghubaiba to Jumeirah Golf Estates. Bid submissions close August 17, preliminary design + formal contracts award in 2027, five-year construction, grand opening September 9 2032. Meydan and JGE stations wire into Etihad Rail.",
+      "tags": [
+        "gold-line",
+        "metro",
+        "rta",
+        "infrastructure",
+        "procurement",
+        "corridor",
+        "prequalification"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JVC",
+        "MBR-CITY",
+        "MEYDAN",
+        "JGE",
+        "AL-GHUBAIBA"
+      ],
+      "metrics": {
+        "Programme value": "AED 34B / USD 9.2B",
+        "Stations": "18 across 15 Dubai areas",
+        "Corridor endpoints": "Al Ghubaiba ↔ Jumeirah Golf Estates",
+        "Bid deadline": "2026-08-17",
+        "Design + contract award": "2027",
+        "Grand opening": "2032-09-09",
+        "Construction window": "~5 years post-award",
+        "Interchanges": "Al Ghubaiba (Green), Business Bay (Red), Meydan (Etihad Rail), JGE (Red + Etihad Rail)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Metro Gold Line prequalification (Jun 29 2026)",
+          "url": "https://tradearabia.com/News/464200/Dubai-launches-prequalification-bids-for-$9.2bn-Metro-Gold-Line-network-"
+        },
+        {
+          "label": "Gulf News — Gold Line property impact scan (Jun 18 2026)",
+          "url": "https://gulfnews.com/business/property/dubai-gold-line-puts-jvc-mbr-city-and-meydan-on-property-investors-radar-1.500531351"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's Gold Line moves from map to tender: AED 34B RFP live, 2032 opening, and every JVC/MBR City/Meydan/JGE underwrite now has a real clock.",
+        "whatIsIt": "The Roads and Transport Authority opened prequalification for the Metro Gold Line network — an AED 34B / USD 9.2B programme covering 18 stations across 15 Dubai areas, running from Al Ghubaiba in the west to Jumeirah Golf Estates in the east. It's the concrete procurement step behind the corridor everyone's been repricing on paper.",
+        "howItWorks": "Bidders must submit prequalification packages by August 17 2026. Preliminary design contracts and formal main contracts land in 2027, followed by roughly five years of tunneling and installation. Grand opening is scheduled September 9 2032. Interchanges: Al Ghubaiba plugs into the Green Line; Business Bay meets the Red Line; Meydan and Jumeirah Golf Estates connect to future Etihad Rail services, and JGE also ties back into the Red Line.",
+        "whyItMatters": "Before this, the Gold Line was a repricing thesis on a map. Now it's a live procurement with a specific opening date and a five-year construction window that starts in 2027. That converts community-level premiums claimed at 15–30% in JVC, MBR City, Meydan and Al Barsha South from 'metro-adjacent' to 'metro-scheduled' for underwriting purposes — but also fixes the pain-window for construction disruption on the corridor.",
+        "forWho": "Investors underwriting JVC/MBR City/Meydan/JGE resale on a metro premium; brokers pricing plot options along the 18-station corridor; developers timing off-plan launches to the 2027 contract award and 2032 opening.",
+        "tryIt": "https://gulfnews.com/business/property/dubai-gold-line-puts-jvc-mbr-city-and-meydan-on-property-investors-radar-1.500531351"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/29/TA_20260629121412.webp",
+        "alt": "Dubai Metro Gold Line prequalification bids launched by RTA",
+        "credit": "TradeArabia"
+      }
+    },
+    {
+      "id": "dubai-dp-world-lintara-arcapita-jafza-build-to-suit-logistics-jun-30-2026",
+      "categories": [
+        "commercial",
+        "developer"
+      ],
+      "title": "DP World × Lintara Properties (Arcapita) break ground on Grade A Jafza build-to-suit logistics centre — 20,000 sqm, 12-m clear height, Q1 2027 completion",
+      "org": "TradeArabia / DP World",
+      "date": "2026-06-30",
+      "publishDate": "2026-07-01T02:24:33.227Z",
+      "url": "https://tradearabia.com/News/464312/DP-World,-Arcapita-unit-break-ground-for-build-to-suit-logistics-centre-in-Jafza",
+      "summary": "DP World and Lintara Properties (Arcapita Group's real estate arm) broke ground on a 20,000 sqm Grade A build-to-suit logistics box in Dubai's Jebel Ali Free Zone with ~12 m clear-height storage, temperature-controlled areas and dedicated dangerous-goods zone, targeting Q1 2027 completion for DP World to operate.",
+      "tags": [
+        "logistics",
+        "commercial",
+        "jafza",
+        "dp-world",
+        "arcapita",
+        "lintara",
+        "build-to-suit",
+        "grade-a"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "JAFZA",
+        "JEBEL-ALI"
+      ],
+      "metrics": {
+        "GLA": "20,000 sqm",
+        "Clear height": "~12 m",
+        "Operator": "DP World",
+        "Developer": "Lintara Properties (Arcapita Group)",
+        "Location": "Jebel Ali Free Zone (Jafza)",
+        "Completion": "Q1 2027",
+        "Features": "Temperature-controlled + dangerous-goods + office space"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — DP World × Lintara Jafza groundbreak (Jun 30 2026)",
+          "url": "https://tradearabia.com/News/464312/DP-World,-Arcapita-unit-break-ground-for-build-to-suit-logistics-centre-in-Jafza"
+        },
+        {
+          "label": "Jafza — free-zone landing page",
+          "url": "https://www.jafza.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Grade A build-to-suit logistics groundbreak inside Jafza — DP World locks up 20,000 sqm of temperature-controlled + DG-capable space by Q1 2027.",
+        "whatIsIt": "DP World and Lintara Properties (Arcapita Group Holdings' real estate development platform) broke ground on a new Grade A build-to-suit logistics facility inside the Jebel Ali Free Zone. Lintara is developing the box and DP World will operate it as part of its integrated regional supply-chain network.",
+        "howItWorks": "The facility spans 20,000 sqm with approximately 12-metre clear-height storage, temperature-controlled zones, dedicated dangerous-goods storage, and supporting office space. Construction is targeted for Q1 2027 completion. DP World CEO Ahmad Yousef Al-Hassan positioned the asset as the type of infrastructure required for more complex regional supply chains.",
+        "whyItMatters": "Purpose-built DG + cold-chain Grade A supply is scarce in Jafza; this fills a specific occupier gap rather than adding generic shed stock. It's also a data point for commercial-supply watchers: DP World is willing to pre-commit for 2027 delivery even as Dubai office vacancy sits near 0.7% and Grade A commercial rents keep climbing, suggesting occupier appetite for long-dated Jebel Ali BTS remains intact.",
+        "forWho": "Logistics occupiers benchmarking Jafza BTS specs and cadence; commercial investors tracking Grade A supply into 2027; brokers pricing DG/temperature-controlled space against generic warehousing.",
+        "tryIt": "https://www.jafza.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/06/30/TA_20260630115739.webp",
+        "alt": "DP World and Lintara Properties break ground on Jafza logistics centre",
+        "credit": "TradeArabia"
+      }
+    },
     {
       "id": "dubai-dld-jun-29-2026-daily-print-aed-132b-ready-501-percent-50-50-split",
       "categories": [
