@@ -1,8 +1,363 @@
 {
-  "generatedAt": "2026-07-01T02:24:33.227Z",
+  "generatedAt": "2026-07-01T14:14:51.143Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-binghatti-bugatti-residences-business-bay-two-penthouses-aed-270m-jul-1-2026",
+      "categories": [
+        "luxury",
+        "ready"
+      ],
+      "title": "Binghatti books AED 270M double-penthouse tape at Bugatti Residences Business Bay — AED 200M + AED 70M international-buyer deals stack the Dec 2025 AED 550M record",
+      "org": "Binghatti Holding / TradeArabia",
+      "date": "2026-07-01",
+      "url": "https://tradearabia.com/News/464531/Binghatti-says-Bugatti-Residences-penthouse-sold-for-AED200m",
+      "summary": "Binghatti books two Bugatti Residences penthouses at Business Bay for AED 270M (AED 200M + AED 70M) to international buyers — Muhammad Binghatti frames the print as HNW resilience proof, layered on the December 2025 AED 550M penthouse still holding the Dubai / Middle East record.",
+      "tags": [
+        "luxury",
+        "branded-residences",
+        "binghatti",
+        "bugatti",
+        "business-bay",
+        "penthouse",
+        "record"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB-BUSINESSBAY",
+        "BUGATTI-RESIDENCES"
+      ],
+      "metrics": {
+        "Deal 1": "AED 200M (USD 73.5M)",
+        "Deal 2": "AED 70M",
+        "Combined tape": "AED 270M",
+        "Buyer type": "International",
+        "Dec 2025 record (same project)": "AED 550M",
+        "Amenities": "Artificial beach, private car lift, luxury spa"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Binghatti says Bugatti Residences penthouse sold for AED 200M (Jul 1 2026)",
+          "url": "https://tradearabia.com/News/464531/Binghatti-says-Bugatti-Residences-penthouse-sold-for-AED200m"
+        },
+        {
+          "label": "Khaleej Times — Dubai developer Binghatti sells 2 penthouses for Dh270 million (Jul 1 2026)",
+          "url": "https://www.khaleejtimes.com/business/dubai-developer-binghatti-sells-2-penthouses-for-dh270-million"
+        }
+      ],
+      "explainer": {
+        "tagline": "Two Bugatti Residences penthouses clear AED 270M in a single July-1 print — Binghatti's HNW branded-resi book keeps compounding after the Dec 2025 AED 550M sale.",
+        "whatIsIt": "Binghatti Holding disclosed the sale of two penthouses at Bugatti Residences by Binghatti in Business Bay for AED 200M and AED 70M respectively — AED 270M combined — both to international buyers. Chairman Muhammad Binghatti frames the July-1 tape as a resilience print for Dubai's ultra-luxury branded-resi segment.",
+        "howItWorks": "Bugatti Residences is Binghatti's Business Bay branded tower with an artificial beach, private car lifts and celebrity residents (Neymar Jr., Aymeric Laporte, Andrea Bocelli). The two new deals stack on top of the December 2025 AED 550M penthouse trade — still the largest of its kind in Dubai and the Middle East per Binghatti. Verify unit-level DLD registration through Dubai REST once the transfers post; branded-resi ticket sizes here already sit multiples above the AED 5M+ luxury threshold used in most Cavendish Maxwell / Keturah tapes.",
+        "whyItMatters": "For sellers of comparable branded-resi stock (Bugatti, Baccarat, Bulgari, Six Senses, Armani), the AED 270M single-day print anchors any post-truce revaluation conversation upward — buyer-side is not paused. For buyers, secondary Bugatti inventory becomes measurably harder to source at 2024 comps once the primary book flags this depth of demand. Watch resale asks in Business Bay branded-resi float wider vs. non-branded neighbours where the -1.1% QoQ apartment softening is more visible.",
+        "forWho": "Ultra-luxury buyers underwriting branded-resi entry, brokers repping HNW international sellers, and Business Bay tower operators sizing secondary asks against a fresh Binghatti primary anchor.",
+        "tryIt": "https://tradearabia.com/News/464531/Binghatti-says-Bugatti-Residences-penthouse-sold-for-AED200m"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/01/TA_20260701121811.webp",
+        "alt": "Bugatti Residences by Binghatti in Business Bay, Dubai — site of the AED 270M double-penthouse tape",
+        "credit": "TradeArabia / Binghatti Holding"
+      },
+      "publishDate": "2026-07-01T14:14:51.143Z"
+    },
+    {
+      "id": "dubai-2-year-property-visa-aed-750k-homes-rising-demand-taskeen-jul-1-2026",
+      "categories": [
+        "visa",
+        "ready"
+      ],
+      "title": "Post-April rule change lifts sub-AED 750K demand — Springfield's Farooq Syed + Merlin's Rohit Bachani flag Dubailand, JVC, JVT, Dubai South, IC, Arjan as visa-tier feeders as sub-AED 750K captures ~25% of Q1 ready deals",
+      "org": "Khaleej Times / Springfield / Merlin Real Estate",
+      "date": "2026-07-01",
+      "url": "https://www.khaleejtimes.com/business/2-year-property-visa-dubai-sees-rising-demand-for-dh750000-homes-after-rule-change",
+      "summary": "April 2026's removal of the Dh750,000 minimum property value for the 2-year residence visa (jointly-owned floor Dh400K per investor via Taskeen) is pulling first-time and overseas buyers into Dubailand, Marjan, Dubai Production City, IC, JVC, JVT, Dubai South, Arjan, Dubai Silicon Oasis and Nshama Townsquare — sub-AED 750K stock already runs ~25% of Q1 ready deals.",
+      "tags": [
+        "visa",
+        "taskeen",
+        "affordability",
+        "first-time-buyer",
+        "jvc",
+        "jvt",
+        "dubai-south",
+        "arjan",
+        "dubailand"
+      ],
+      "importance": "major",
+      "tickers": [
+        "JVC",
+        "JVT",
+        "DUBAILAND",
+        "DXB-SOUTH",
+        "ARJAN",
+        "IC"
+      ],
+      "metrics": {
+        "Rule change": "Dh750K sole-owner floor removed (April 2026)",
+        "Joint-owner share floor": "Dh400K per investor",
+        "Programme": "Taskeen (Dubai Land Department)",
+        "Sub-AED 750K share of Q1 ready deals": "~25%",
+        "2026 handover pipeline": "50,000+ units",
+        "Strongest studio/1BR demand": "Studios lead, 1BR inventory tight"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — 2-year property visa Dubai rising demand for Dh750K homes (Jul 1 2026)",
+          "url": "https://www.khaleejtimes.com/business/2-year-property-visa-dubai-sees-rising-demand-for-dh750000-homes-after-rule-change"
+        },
+        {
+          "label": "Dubai Land Department — Real Estate Transactions (Taskeen entry point)",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's post-April 2-year-visa rule change funnels first-time and overseas capital into sub-AED 750K stock — 10 communities named as the funnel.",
+        "whatIsIt": "Springfield Properties' Farooq Syed and Merlin Real Estate's Rohit Bachani report a demand step-up in Dubai's sub-AED 750K ready market after April's rule change removed the AED 750K minimum property value for the 2-year residence visa. Joint owners now qualify with a Dh400K individual share, processed via the Dubai Land Department's Taskeen programme.",
+        "howItWorks": "Sub-AED 750K stock already runs ~25% of Q1 ready-home transactions. Named feeder communities: Dubailand, Marjan, Dubai Production City, International City, JVC, JVT, Dubai South, Arjan, Dubai Silicon Oasis and Nshama Townsquare. Studios lead demand, one-bedroom inventory remains tight. Buyers should verify: title status, service charges, DLD 4% transfer + trustee, Taskeen visa eligibility per share, tenancy/vacancy on offer, and building service-charge trend versus community comp. 2026 handover pipeline (~50K+ units) will keep resupplying the pool.",
+        "whyItMatters": "For end-users and overseas newcomers, the rule change effectively lowers the visa-attached ownership floor to studio-and-small-1BR territory across the ten named communities, which is exactly where 2026 supply is heaviest. For sellers of sub-AED 750K studios/1BRs, this is the first genuine demand tailwind since the March–May softening — motivated-seller repricing should shrink. For brokers, the qualified-lead funnel is meaningfully bigger for the same ticket size.",
+        "forWho": "First-time buyers and overseas visa-shoppers, brokers repping sub-AED 750K studio/1BR stock, landlords considering vacant-possession sale over rental hold.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-30/4xpkfysk/Screenshot-2026-06-30-at-10.30.26-am.png",
+        "alt": "Dubai apartment stock across JVC, Dubai South and Dubailand — the sub-AED 750K visa-tier communities",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-07-01T14:14:51.143Z"
+    },
+    {
+      "id": "dubai-damac-harbour-lights-dubai-maritime-city-aed-243m-hormuz-supply-resilience-jul-1-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "market"
+      ],
+      "title": "DAMAC's Mohammed Tahaineh confirms Harbour Lights (Dubai Maritime City) on-track for 2027 handover — AED 243M / 294-unit tower, 52 residential levels, Khor Fakkan + Fujairah reroute keeps supply moving as Lagoons hits 5,500–6,000 completion certificates",
+      "org": "DAMAC Properties / Gulf News",
+      "date": "2026-07-01",
+      "url": "https://gulfnews.com/business/property/damac-says-dubai-projects-stayed-on-track-despite-supply-chain-pressure-1.500593479",
+      "summary": "DAMAC Chief Project Officer Mohammed Tahaineh tells Gulf News the AED 243M Harbour Lights tower at Dubai Maritime City (294 apartments across 52 residential levels + 5-level podium, ~200m) is on track for 2027 handover despite Hormuz-linked disruption — Khor Fakkan and Fujairah rerouting absorbs the shock while Lagoons handover certificates cross 5,500-6,000.",
+      "tags": [
+        "developer",
+        "damac",
+        "harbour-lights",
+        "dubai-maritime-city",
+        "lagoons",
+        "supply-chain",
+        "hormuz"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARITIME-CITY",
+        "HARBOUR-LIGHTS",
+        "LAGOONS"
+      ],
+      "metrics": {
+        "Harbour Lights tower value": "AED 243M",
+        "Harbour Lights apartments": "294",
+        "Levels": "52 residential + 5-level podium",
+        "Height": "~200m",
+        "Harbour Lights handover": "2027",
+        "Lagoons completion certificates issued": "5,500–6,000",
+        "Alternative shipping routes": "Khor Fakkan, Fujairah"
+      },
+      "links": [
+        {
+          "label": "Gulf News — DAMAC says Dubai projects stayed on track (Jul 1 2026)",
+          "url": "https://gulfnews.com/business/property/damac-says-dubai-projects-stayed-on-track-despite-supply-chain-pressure-1.500593479"
+        },
+        {
+          "label": "DAMAC Properties — corporate site",
+          "url": "https://www.damacproperties.com/en"
+        }
+      ],
+      "explainer": {
+        "tagline": "DAMAC's project chief prints an execution counter-narrative — Harbour Lights holds 2027, Lagoons crosses 5,500+ completions, Hormuz reroutes absorb the disruption.",
+        "whatIsIt": "DAMAC Chief Project Officer Mohammed Tahaineh publicly reaffirms Dubai Maritime City's Harbour Lights (AED 243M, 294 apartments, 52 residential levels plus a 5-level podium, ~200m tall) as on-track for 2027 handover. He also flags that DAMAC Lagoons has crossed 5,500–6,000 completion certificates as handovers continue.",
+        "howItWorks": "Tahaineh attributes the on-schedule execution to UAE government support and alternative shipping via Khor Fakkan and Fujairah — full Hormuz normalisation is not expected until 2027 per Moody's parallel read. Buyers of Harbour Lights units should still verify: milestone-linked instalments on their SPA, Oqood registration status, escrow account balance, and site progress independently. For Lagoons resale, secondary asks now need to reflect a >5,500-unit completion cohort — comps should reference registered ready trades, not launch-day payment plans.",
+        "whyItMatters": "For off-plan buyers watching the Hormuz risk, DAMAC's explicit 'no major impact' framing removes one of the two main delay narratives (the other being MAF's Tilal Al Ghaf force-majeure notice) — Harbour Lights and Lagoons buyers can push back on any secondary-market discount narrative built on 'delay risk'. For Dubai Maritime City comp-building, AED 243M for 294 units implies ~AED 826K/unit average developer cost basis, a useful anchor for underwriting entry asks.",
+        "forWho": "Off-plan SPA holders at Harbour Lights and Lagoons, brokers repricing DAMAC secondary stock, and buyers underwriting Dubai Maritime City entry.",
+        "tryIt": "https://www.damacproperties.com/en"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-07-01%2Fnm6kgn80%2F2.jpg?w=480&auto=format%2Ccompress&fit=max",
+        "alt": "DAMAC Harbour Lights tower under construction at Dubai Maritime City",
+        "credit": "Gulf News / DAMAC Properties"
+      },
+      "publishDate": "2026-07-01T14:14:51.143Z"
+    },
+    {
+      "id": "dubai-moodys-uae-developers-hormuz-contractor-absorb-20-25-percent-imported-materials-jul-1-2026",
+      "categories": [
+        "market",
+        "developer"
+      ],
+      "title": "Moody's Ratings Jul-1 UAE-developer read — Hormuz shipping disruption lifts imported building material costs 20–25% but contractors absorb, 2–6 month inventory cover, 1.5–2 ppt margin risk if fully passed through across Emaar / Aldar / DAMAC RE / DIFC / Arada / PNC / Binghatti",
+      "org": "Moody's Ratings / Khaleej Times",
+      "date": "2026-07-01",
+      "url": "https://www.khaleejtimes.com/business/uae-developers-weather-hormuz-disruption-as-contractors-absorb-rising-costs-says-moodys",
+      "summary": "Moody's Ratings' Jul-1 UAE-developer note (via Lisa Jaeger) flags Hormuz-linked imported material cost rises of 20–25% vs pre-conflict levels — but 2–6 month inventory cover plus contractor absorption keeps 2026/2027 handovers largely on track across rated names (Emaar, Aldar, DAMAC RE, DIFC, Arada, PNC, Binghatti); margins compress 1.5–2 ppts p.a. only if costs are fully passed through.",
+      "tags": [
+        "market",
+        "moodys",
+        "hormuz",
+        "supply-chain",
+        "developer",
+        "credit",
+        "emaar",
+        "aldar",
+        "damac",
+        "arada"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MARKET",
+        "UAE-DEVS"
+      ],
+      "metrics": {
+        "Imported material cost rise": "20–25%",
+        "Building material inventory cover": "2–6 months",
+        "Handover proceeds unlock — Dubai/Abu Dhabi": "20–40%",
+        "Handover proceeds unlock — Sharjah": "~60%",
+        "Margin risk if fully passed through": "1.5–2 ppts annually",
+        "Full-normalisation timeline": "Not expected until 2027",
+        "Analyst": "Lisa Jaeger, VP-Senior Analyst"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — UAE developers weather Hormuz disruption, Moody's (Jul 1 2026)",
+          "url": "https://www.khaleejtimes.com/business/uae-developers-weather-hormuz-disruption-as-contractors-absorb-rising-costs-says-moodys"
+        },
+        {
+          "label": "The Real Estate Report — UAE developers keep projects moving despite Hormuz (Jul 1 2026)",
+          "url": "https://therealestatereports.com/p/uae-developers-keep-projects-moving-despite-hormuz-disruption-but-demand-risk-is-now-the-bigger-test"
+        }
+      ],
+      "explainer": {
+        "tagline": "Moody's puts a number on the Hormuz pass-through — 20–25% imported material inflation, 2–6 month inventory cover, 1.5–2 ppt margin risk if fully passed to buyers.",
+        "whatIsIt": "Moody's Ratings' Lisa Jaeger publishes a Jul-1 note on UAE developers post-Hormuz disruption: supply chains have rerouted, inventory levels remain adequate, and most 2026/2027 handovers continue largely as planned. Rated names covered include Emaar Properties, Aldar Properties, DAMAC Real Estate Development, DIFC, Arada Developments, PNC Investments and Binghatti Holding.",
+        "howItWorks": "Imported building material costs sit 20–25% above pre-conflict levels; inventory coverage runs 2–6 months across projects. Contractors are absorbing the delta rather than developers passing it to buyers, which shields end-user pricing on already-sold inventory. If costs were fully passed through, margins would compress by 1.5–2 percentage points annually. Handover proceeds unlock 20–40% in Dubai/Abu Dhabi and around 60% in Sharjah — a genuine cash-flow buffer against short-term cost stress. Full trade normalisation not expected until 2027.",
+        "whyItMatters": "For off-plan buyers, the pass-through math means already-sold units are largely price-protected — the risk is a future launch cycle repricing (see the parallel Samana / University of Birmingham 3–22% forward material study). For sellers of resale off-plan positions, use Moody's rated-developer framing to defend against buyer-side 'delay risk' discounting on Emaar / Aldar / DAMAC / Arada / Binghatti stock. For funding-side operators, the 20–40% Dubai handover-proceeds unlock is why developer liquidity has held up despite a slower primary May-June tape.",
+        "forWho": "Off-plan SPA holders on rated-developer stock, secondary resale sellers, credit-focused investors sizing UAE developer risk, and brokers using rated-name credentials to defend asks.",
+        "tryIt": "https://www.khaleejtimes.com/business/uae-developers-weather-hormuz-disruption-as-contractors-absorb-rising-costs-says-moodys"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-12/rgz59gez/d3-2025.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai skyline and construction cranes representing the UAE-developer credit universe covered by Moody's Ratings",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-07-01T14:14:51.143Z"
+    },
+    {
+      "id": "dubai-dld-jun-30-2026-daily-print-aed-136b-offplan-546-percent-ready-454",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-06-30: AED 1.36B with off-plan back to 54.6% — off-plan flats AED 504.0M lead as ready flats AED 449.6M hold the secondary engine, ready villas AED 99.3M and ready commercial AED 46.9M rebuild the ready book",
+      "org": "The Real Estate Report / Dubai Land Department",
+      "date": "2026-06-30",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-01-jul-2026",
+      "summary": "Dubai DLD 2026-06-30 daily print books AED 1.36B — off-plan swings back to 54.6% (AED 741.4M) with off-plan flats AED 504.0M leading, while ready holds 45.4% (AED 615.3M) with ready flats AED 449.6M anchoring and ready villas AED 99.3M + ready commercial AED 46.9M rebuilding the secondary tape.",
+      "tags": [
+        "market",
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "apartments"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DLD"
+      ],
+      "metrics": {
+        "Total": "AED 1.36B",
+        "Off-plan share": "54.6% (AED 741.4M)",
+        "Ready share": "45.4% (AED 615.3M)",
+        "Off-plan flats": "AED 504.0M (68.0% of off-plan)",
+        "Ready flats": "AED 449.6M (73.1% of ready)",
+        "Ready villas": "AED 99.3M (16.1% of ready)",
+        "Ready commercial": "AED 46.9M (7.6% of ready)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — Dubai daily market review 01-Jul-2026 (Jun 30 data)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-01-jul-2026"
+        },
+        {
+          "label": "Dubai Land Department — real estate transactions e-service",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan swings back to 54.6% on a AED 1.36B day — flats own both engines, ready commercial re-appears at AED 46.9M.",
+        "whatIsIt": "Dubai Land Department 2026-06-30 daily print (published via The Real Estate Report on Jul 1). Total AED 1.36B, with off-plan share back at 54.6% (AED 741.4M) after the near-perfect 50/50 split of Jun 29. Flats dominate both books — 68.0% of off-plan and 73.1% of ready — while ready villas and ready commercial rebuild the secondary tape at AED 99.3M and AED 46.9M respectively.",
+        "howItWorks": "Cross-check individual deals via Dubai REST / DLD open data before treating any single day as a trend. The 54.6% off-plan share puts the day inside the June cluster's 50–66% off-plan band. Ready-flat AED 449.6M on the June-30 tape is consistent with the daily-print band published across late June. Commercial re-appearing at AED 46.9M on the ready side matters for Business Bay / Vision Tower / Indigo 7 comp watchers who've been tracking fäm's AED 124M Vision Tower and Equitativa's AED 37M Indigo 7 as anchors.",
+        "whyItMatters": "For end-users, the flat-heavy print (nearly three-quarters of ready volume) confirms apartments remain the demand spine even as the buyer-seller gap narrows (63% of buyers still expect drops per Property Finder May 2026). For sellers of ready villas, AED 99.3M in a single day above the recent Jun 29 AED 123.2M read shows villa demand still bidding sub-AED 500M levels — motivated sellers should not assume the July slowdown narrative applies to villa books yet.",
+        "forWho": "Comp-builders using daily DLD tape, ready-flat sellers benchmarking asks, and commercial buyers timing Business Bay entry.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2d605536-f400-43f7-90d4-5cea1683d4d7/pexels-apasaric-670269.jpg",
+        "alt": "Dubai skyline representing the June 30 DLD daily transactions tape",
+        "credit": "The Real Estate Report"
+      },
+      "publishDate": "2026-07-01T14:14:51.143Z"
+    },
+    {
+      "id": "dubai-the-national-mario-volpi-perception-boom-dubai-mall-50-percent-drop-jun-30-2026",
+      "categories": [
+        "market"
+      ],
+      "title": "The National × Mario Volpi (Eva Real Estate) Jun-30 column — Dubai property 'built on perception,' Dubai Mall March visitor drop ~50% marks the fragility line as Q1 2026 books AED 68.6B in deals",
+      "org": "The National / Mario Volpi (Eva Real Estate)",
+      "date": "2026-06-30",
+      "url": "https://www.thenationalnews.com/business/money/2026/06/30/uae-property-is-dubais-property-boom-built-on-perception/",
+      "summary": "Mario Volpi's Jun-30 The National column argues Dubai property runs on perception more than square-metre economics — Dubai Mall March visitor traffic dropped ~50% during regional tensions, yet Q1 2026 still printed AED 68.6B of property deals. Volpi's tactical read: buyers should prioritise ready over off-plan while uncertainty persists, but strong developers still offer payment-plan optionality.",
+      "tags": [
+        "market",
+        "commentary",
+        "mario-volpi",
+        "the-national",
+        "perception",
+        "off-plan",
+        "ready"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-MARKET"
+      ],
+      "metrics": {
+        "Dubai Mall March visitor drop": "~50%",
+        "Q1 2026 property deals": "AED 68.6B",
+        "Tactical read": "Ready > off-plan in uncertainty",
+        "Author": "Mario Volpi, Senior Investment Manager, Eva Real Estate"
+      },
+      "links": [
+        {
+          "label": "The National — Is Dubai's property boom built on perception? (Jun 30 2026)",
+          "url": "https://www.thenationalnews.com/business/money/2026/06/30/uae-property-is-dubais-property-boom-built-on-perception/"
+        },
+        {
+          "label": "The National — Mario Volpi column archive (Money section)",
+          "url": "https://www.thenationalnews.com/business/money/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Volpi's Jun-30 column frames Dubai property as a perception trade — Dubai Mall ~50% March visitor drop is the tell, ready > off-plan the tactical response.",
+        "whatIsIt": "Mario Volpi (Senior Investment Manager, Eva Real Estate) uses his Jun-30 The National Q&A column to argue Dubai's property market is driven by perception of lifestyle, safety and stability rather than by square-metre economics alone. Dubai Mall's ~50% March visitor drop during peak regional tension is his marker for how quickly the demand backdrop reprices.",
+        "howItWorks": "Volpi's tactical framing: prioritise ready properties over off-plan while uncertainty persists — buyers see the exact unit and can occupy or rent it — but he caveats that strong developers still offer viable payment-plan-and-incentive stacks on off-plan. Q1 2026 property deals came in at AED 68.6B despite the demand shock, so the perception hit is real but contained. Cross-reference with his earlier post-truce columns (Jun 9 PMI read, Jun 27 foreign-capital-cut column) already in the feed to see how his stance has evolved.",
+        "whyItMatters": "For buyers, this is a specific broker-side push toward ready inventory during the uncertainty window — useful counter-framing to the primary-launch cadence. For sellers of ready stock, the tactical read supports asking-side firmness (buyer preference tilts your way). For off-plan holders, Volpi's caveat about 'strong developer' payment plans is the tell that mainstream broker commentary is now segmenting developer credit as an explicit variable.",
+        "forWho": "Cash buyers deciding between ready and off-plan, ready sellers defending asks, and off-plan holders sizing developer-credit risk.",
+        "tryIt": "https://www.thenationalnews.com/business/money/2026/06/30/uae-property-is-dubais-property-boom-built-on-perception/"
+      },
+      "image": {
+        "url": "https://www.thenationalnews.com/resizer/v2/AFV6A4EOSREUBGCX322O7AE5YY.jpg?smart=true&auth=9fb2fa8eb1667a35d9a52dd7bd76a5c9ca10b08ccb735a6d4a5690b9d4e94d73&width=400&height=225",
+        "alt": "Dubai skyline as Mario Volpi's Jun-30 column frames the perception-driven property boom",
+        "credit": "The National"
+      },
+      "publishDate": "2026-07-01T14:14:51.143Z"
+    },
     {
       "id": "dubai-dhg-properties-helvetia-jvc-handover-meydan-marine-jun-30-2026",
       "categories": [

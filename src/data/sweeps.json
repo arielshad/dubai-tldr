@@ -6563,6 +6563,70 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260701t141451z",
+      "timestamp": "2026-07-01T14:14:51.143Z",
+      "source": "github-actions-sweep",
+      "summary": "July 1 2026 sweep — six additions covering the July-1 Bugatti Residences AED 270M double-penthouse tape, the post-April 2-year visa demand shift into sub-AED 750K stock, DAMAC's Harbour Lights supply-chain resilience read, Moody's UAE-developer Hormuz call, the June-30 DLD daily print and Mario Volpi's June-30 'perception boom' column.",
+      "counts": {
+        "added": 6,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-binghatti-bugatti-residences-business-bay-two-penthouses-aed-270m-jul-1-2026",
+          "title": "Binghatti books AED 270M double-penthouse tape at Bugatti Residences Business Bay — AED 200M + AED 70M international-buyer deals stack the Dec 2025 AED 550M record",
+          "category": "luxury",
+          "note": "New AED 270M double-penthouse tape at Bugatti Residences Business Bay — seismic HNW branded-resi print, Jul 1 2026 disclosure."
+        },
+        {
+          "id": "dubai-2-year-property-visa-aed-750k-homes-rising-demand-taskeen-jul-1-2026",
+          "title": "Post-April rule change lifts sub-AED 750K demand — Springfield's Farooq Syed + Merlin's Rohit Bachani flag Dubailand, JVC, JVT, Dubai South, IC, Arjan as visa-tier feeders as sub-AED 750K captures ~25% of Q1 ready deals",
+          "category": "visa",
+          "note": "Post-April rule change now visibly funnelling first-time and overseas buyers into sub-AED 750K stock — ten specific communities named as the funnel, actionable visa-tier signal."
+        },
+        {
+          "id": "dubai-damac-harbour-lights-dubai-maritime-city-aed-243m-hormuz-supply-resilience-jul-1-2026",
+          "title": "DAMAC's Mohammed Tahaineh confirms Harbour Lights (Dubai Maritime City) on-track for 2027 handover — AED 243M / 294-unit tower, 52 residential levels, Khor Fakkan + Fujairah reroute keeps supply moving as Lagoons hits 5,500–6,000 completion certificates",
+          "category": "developer",
+          "note": "First on-record DAMAC execution counter-narrative post-Hormuz — concrete Harbour Lights + Lagoons metrics with reroute detail."
+        },
+        {
+          "id": "dubai-moodys-uae-developers-hormuz-contractor-absorb-20-25-percent-imported-materials-jul-1-2026",
+          "title": "Moody's Ratings Jul-1 UAE-developer read — Hormuz shipping disruption lifts imported building material costs 20–25% but contractors absorb, 2–6 month inventory cover, 1.5–2 ppt margin risk if fully passed through across Emaar / Aldar / DAMAC RE / DIFC / Arada / PNC / Binghatti",
+          "category": "market",
+          "note": "Moody's Ratings sector note quantifies UAE-developer Hormuz absorption — new angle vs the earlier Jun-14 Moody's sovereign Aa2 read already in feed."
+        },
+        {
+          "id": "dubai-dld-jun-30-2026-daily-print-aed-136b-offplan-546-percent-ready-454",
+          "title": "Dubai DLD daily print 2026-06-30: AED 1.36B with off-plan back to 54.6% — off-plan flats AED 504.0M lead as ready flats AED 449.6M hold the secondary engine, ready villas AED 99.3M and ready commercial AED 46.9M rebuild the ready book",
+          "category": "market",
+          "note": "Continues the daily-print cadence — Jun 30 tape post the Jun 29 50/50 split."
+        },
+        {
+          "id": "dubai-the-national-mario-volpi-perception-boom-dubai-mall-50-percent-drop-jun-30-2026",
+          "title": "The National × Mario Volpi (Eva Real Estate) Jun-30 column — Dubai property 'built on perception,' Dubai Mall March visitor drop ~50% marks the fragility line as Q1 2026 books AED 68.6B in deals",
+          "category": "market",
+          "note": "Fresh Volpi column (post his Jun 9 and Jun 27 pieces already in feed) — introduces Dubai Mall visitor traffic as the demand-perception marker."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "luxury",
+        "visa",
+        "developer",
+        "market"
+      ],
+      "sourcesChecked": [
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "market-data-comps",
+        "brokerage-luxury-leads",
+        "bayut-sale-rent"
+      ]
     }
   ]
 }
