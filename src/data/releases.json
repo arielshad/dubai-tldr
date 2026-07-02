@@ -1,8 +1,193 @@
 {
-  "generatedAt": "2026-07-01T14:14:51.143Z",
+  "generatedAt": "2026-07-02T02:11:23.508Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-al-khail-street-elevated-15km-aed-18b-corridor-2030-completion-jul-1-2026",
+      "categories": [
+        "market",
+        "commercial",
+        "ready"
+      ],
+      "title": "Sheikh Hamdan approves AED 18B / USD 4.9B Dubai infrastructure package — First Al Khail Street elevated 15-km corridor cuts SZR peak time 51%, adds ~9,000 vehicles/hr by Q4 2030",
+      "org": "Dubai Media Office / TradeArabia",
+      "date": "2026-07-01",
+      "url": "https://tradearabia.com/news/464576/Dubai-announces-%244.9bn-infrastructure-development-projects",
+      "summary": "HH Sheikh Hamdan approves an AED 18B (USD 4.9B) Dubai infrastructure package anchored on the First Al Khail Street Development Plan — a 15-km three-lanes-per-direction elevated corridor parallel to Sheikh Zayed Road, cutting SZR peak-hour travel by 51% and adding ~9,000 vehicles/hr capacity for 2.6M residents. Construction starts Q3 2027, opens Q4 2030.",
+      "tags": [
+        "infrastructure",
+        "al-khail",
+        "sheikh-zayed-road",
+        "al-barsha",
+        "al-quoz",
+        "business-bay",
+        "meydan",
+        "connectivity"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB-ALQUOZ",
+        "DXB-ALBARSHA",
+        "DXB-BUSINESSBAY",
+        "DXB-MEYDAN"
+      ],
+      "metrics": {
+        "Total package": "AED 18B (USD 4.9B)",
+        "Corridor length": "15 km",
+        "Lanes per direction": "3",
+        "Peak-time reduction on SZR": "51%",
+        "Added capacity": "~9,000 vehicles/hr",
+        "Residents served": "2.6M",
+        "Construction start": "Q3 2027",
+        "Completion": "Q4 2030",
+        "Communities benefiting": "Al Barsha, Al Quoz, Business Bay, Meydan"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai announces $4.9bn infrastructure development projects (Jul 1 2026)",
+          "url": "https://tradearabia.com/news/464576/Dubai-announces-%244.9bn-infrastructure-development-projects"
+        },
+        {
+          "label": "Dubai Media Office (mediaoffice.ae) — Crown Prince statements + programme scope",
+          "url": "https://mediaoffice.ae/en/news/2026/jul/01-07"
+        }
+      ],
+      "explainer": {
+        "tagline": "Al Khail Street doubles as an elevated 3+3 spine parallel to SZR — Al Barsha, Al Quoz, Business Bay and Meydan reprice on connectivity by Q4 2030.",
+        "whatIsIt": "HH Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, has approved an AED 18 billion (USD 4.9 billion) infrastructure programme covering roads, culture-and-arts facilities, trade/customs infrastructure and investment-development plots. The headline project is the First Al Khail Street Development Plan — a 15-km elevated carriageway with three lanes per direction running parallel to Sheikh Zayed Road, funded to serve 2.6 million residents.",
+        "howItWorks": "Construction is slated to begin Q3 2027 with completion targeted for Q4 2030. Dubai's Roads and Transport Authority pencils a 51% reduction in Sheikh Zayed Road peak-hour travel and roughly 9,000 additional vehicles per hour of corridor capacity once open. The elevated design keeps existing at-grade Al Khail traffic intact and layers a second high-speed spine directly serving Al Barsha, Al Quoz, Business Bay and Meydan interchanges.",
+        "whyItMatters": "This sits alongside the AED 34B Metro Gold Line prequal (Jun 29) and RTA's Naif / Satwa / Nahda dedicated bus corridors as the third leg of Dubai's late-2020s connectivity repricing. For Al Quoz warehouse / labour-village landlords and Al Barsha mid-market apartment holders, a 51% commute-time cut on the parallel SZR corridor typically anchors 8–15% rent premiums at delivery (see gold-line 15-30% historic premium calls from HRE / Merlin). For Business Bay office and Meydan / Meydan Horizon residential, the corridor closes the historic 'SZR-only' access moat and creates a second walk-up-to-freeway path that shows up first in AED/sqft asks for buildings within 300m of the elevated ramps.",
+        "forWho": "Al Barsha / Al Quoz mid-market apartment investors, Business Bay commercial landlords, Meydan/MBR City off-plan buyers underwriting 2028+ handover, and infra-adjacent land banking desks.",
+        "tryIt": "https://www.dubailand.gov.ae/en/eservices/dubai-rest/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/01/TA_20260701221714.webp",
+        "alt": "Rendered elevated multi-lane Al Khail Street corridor above the existing Al Khail Road, running parallel to Sheikh Zayed Road, Dubai",
+        "credit": "TradeArabia / Dubai Media Office"
+      },
+      "publishDate": "2026-07-02T02:11:23.508Z"
+    },
+    {
+      "id": "dubai-al-barari-the-cape-10-design-286-apartments-canopy-living-jul-1-2026",
+      "categories": [
+        "offplan",
+        "luxury",
+        "developer"
+      ],
+      "title": "Al Barari unveils 'The Cape' by 10 Design — 286-unit low-rise cluster with 20% balcony ratio, wind-aligned blocks and 500,000 sqft floor area extend the AED 5B masterplan's biophilic push",
+      "org": "Al Barari / 10 Design / TradeArabia",
+      "date": "2026-07-01",
+      "url": "https://tradearabia.com/news/464564/10-Design-unveils-Al-Barari%E2%80%99s-nature-led-residential-development-in-Dubai",
+      "summary": "Al Barari and 10 Design (member of the 10N collective under Egis) unveil 'The Cape' — 286 apartments across three mid-rise blocks aligned with prevailing winds, 500,000 sqft total floor area on a 140,000 sqft plot, 20% of space given to balconies, floor-to-ceiling internal corridor glazing and a canopy-living concept.",
+      "tags": [
+        "offplan",
+        "al-barari",
+        "the-cape",
+        "10-design",
+        "biophilic",
+        "low-rise",
+        "canopy-living"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-ALBARARI",
+        "THE-CAPE"
+      ],
+      "metrics": {
+        "Units": "286 apartments",
+        "Unit mix": "1-BR to 4-BR duplexes",
+        "Buildings": "3 mid-rise blocks",
+        "Total floor area": "500,000 sqft",
+        "Plot": "140,000 sqft",
+        "Balcony share of area": "~20%",
+        "Distance to downtown / DIFC / airport": "20 min",
+        "Amenities": "Pool, wellness rooms, gym, co-working, rooftop lounge, kids' club",
+        "Design partner": "10 Design (Egis / 10N collective)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — 10 Design unveils Al Barari's nature-led residential development in Dubai (Jul 1 2026)",
+          "url": "https://tradearabia.com/news/464564/10-Design-unveils-Al-Barari%E2%80%99s-nature-led-residential-development-in-Dubai"
+        },
+        {
+          "label": "10 Design — practice / project portfolio",
+          "url": "https://www.10design.co/"
+        }
+      ],
+      "explainer": {
+        "tagline": "The Cape adds 286 low-rise apartments to Al Barari with three wind-aligned blocks and a 20% balcony ratio — a mid-rise counterpoint to the villa-heavy AED 5B masterplan.",
+        "whatIsIt": "Al Barari has unveiled 'The Cape', a 286-unit residential block designed by 10 Design (part of the 10N collective under Egis). It sits within the established Al Barari masterplan (20 minutes from downtown Dubai, DIFC and DXB airport) and is Al Barari's mid-rise apartment extension of the biophilic villa community that anchors its brand.",
+        "howItWorks": "The scheme spans 500,000 sqft of total floor area across three mid-rise blocks on a 140,000 sqft plot. Blocks are aligned with prevailing wind directions to enable passive cross-ventilation, 20% of total area is given to balconies, and internal corridors get floor-to-ceiling glazing. Underground parking hides behind discreet portals so ground level stays pedestrian-first, and material palettes lean natural-toned to minimise heat gain. Unit mix runs from 1-BR to 4-BR duplexes; pricing, handover and payment plan have not yet been published by Al Barari.",
+        "whyItMatters": "Al Barari villas already sit in the 'luxury villa community' 7-8% YoY bucket that BetterHomes and Harry Martin flagged in June, and the community historically transacts as one of Dubai's tightest secondary markets. The Cape opens a lower entry point into the community for apartment buyers who otherwise couldn't underwrite a villa there — a repeat of the pattern Emaar used to widen Dubai Hills. Watch primary asks vs. Sobha One / Ellington Everly Place and against the underlying Al Barari villa AED/sqft as a spread check when the price sheet drops.",
+        "forWho": "End-user apartment buyers who want an Al Barari address without the villa ticket, biophilic-brief investors comparing to Ghaf Woods / Meydan Horizon, and brokers repping Emirates Hills / Al Barari villa sellers who need to underwrite a resale pool.",
+        "tryIt": "https://www.10design.co/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/01/TA_20260701184625.webp",
+        "alt": "Render of The Cape at Al Barari — three low-rise apartment blocks by 10 Design with a canopy-living balcony treatment set against Al Barari's landscaped biophilic surroundings",
+        "credit": "TradeArabia / 10 Design / Al Barari"
+      },
+      "publishDate": "2026-07-02T02:11:23.508Z"
+    },
+    {
+      "id": "dubai-gulf-news-salman-bin-ali-verified-listings-permit-mismatch-jul-1-2026",
+      "categories": [
+        "legal",
+        "media",
+        "duplicate"
+      ],
+      "title": "Salman Bin Ali via Gulf News urges Dubai portals to police 'verified' badges — permits linked to land or the wrong classification are showing up on apartment listings, undermining buyer trust",
+      "org": "Gulf News / Salman Bin Ali",
+      "date": "2026-07-01",
+      "url": "https://gulfnews.com/business/property/dubai-property-portals-urged-to-crack-down-on-misleading-verified-listings-1.500593234",
+      "summary": "Gulf News reports Dubai realtor Salman Bin Ali calling on portals to strengthen automated verification — cases surface where apartment listings carry 'verified' badges even though the linked RERA permit belongs to a plot or a different property class. Enforcement asks include cross-checked permits, blocked manual edits post-retrieval and escalating broker sanctions.",
+      "tags": [
+        "verified-listings",
+        "rera",
+        "permit",
+        "salman-bin-ali",
+        "bayut",
+        "propertyfinder",
+        "dubizzle",
+        "buyer-protection"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-CBD"
+      ],
+      "metrics": {
+        "Article date": "2026-07-01",
+        "Named realtor": "Salman Bin Ali",
+        "Verification asks": "Automated permit-vs-listing cross-check; blocked post-retrieval edits; escalating warnings → suspension → sanctions",
+        "Regulatory context": "DLD / RERA 2024 rules cap agent count per listing and require advertising permits",
+        "Common failure mode": "Apartment listing shows permit tied to land / plot / different classification or size"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Dubai property portals urged to crack down on misleading 'verified' listings (Jul 1 2026)",
+          "url": "https://gulfnews.com/business/property/dubai-property-portals-urged-to-crack-down-on-misleading-verified-listings-1.500593234"
+        },
+        {
+          "label": "Dubai Land Department — Trakheesi advertising permit lookup",
+          "url": "https://dubailand.gov.ae/en/eservices/trakheesi-permit/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A 'verified' badge is only as good as the permit behind it — Bin Ali flags apartment cards resting on plot or land permits, and asks portals to auto-cross-check before the trust unravels.",
+        "whatIsIt": "Gulf News on July 1 elevates a call from Dubai realtor Salman Bin Ali for Bayut, Property Finder and other portals to police their 'verified' status more strictly. His concrete claim: multiple apartment listings currently carry a verified badge while the RERA/Trakheesi permit backing them actually corresponds to a plot, land parcel, or property of a different classification or size.",
+        "howItWorks": "The 2024 DLD/RERA rules require an advertising permit before any listing goes live and cap the number of agents allowed per property, but Bin Ali's read is that permit *existence* is being checked without permit *accuracy*. His enforcement asks are: (1) automated cross-check between permit data (type, size, community) and listing content, (2) blocked broker edits to critical listing fields after permit retrieval, and (3) escalating sanctions — warning, temporary suspension, broker penalty, DLD referral. Operators can hand-verify any listing today via the DLD Trakheesi permit lookup, matching type / size / community to the listing headline.",
+        "whyItMatters": "Verified-badge trust is the load-bearing surface of the Bayut / Property Finder / Dubizzle stack — the same platforms that Bayut just extended into five European languages (Jun 27) to court HNW inbound flow. If foreign buyers running remote due diligence hit a mismatched permit even once, portal-first sourcing loses to broker-first sourcing, which is exactly the direction the June 19 CBA 'broker survival test' piece flagged. For sellers, expect duplicate-ad take-downs and 'quality' badges to become genuine tiebreakers; for buyers, this is the reminder that Trakheesi lookups belong on every offer sheet before a cheque is signed.",
+        "forWho": "Overseas buyers running remote diligence, brokers underwriting portal-sourced deals, compliance leads at Bayut/PF/Dubizzle, and any operator repping stock on a permit-heavy listing bundle.",
+        "tryIt": "https://dubailand.gov.ae/en/eservices/trakheesi-permit/"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-03-25%2Fn9myw7v0%2Fd0d2153c-0915-4650-b8ed-d7765c71fb36.jpg",
+        "alt": "Dubai skyline behind residential towers — visual accompanying Gulf News piece on stronger enforcement of 'verified' property listing badges",
+        "credit": "Gulf News"
+      },
+      "publishDate": "2026-07-02T02:11:23.508Z"
+    },
     {
       "id": "dubai-binghatti-bugatti-residences-business-bay-two-penthouses-aed-270m-jul-1-2026",
       "categories": [

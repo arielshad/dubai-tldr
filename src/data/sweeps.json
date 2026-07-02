@@ -6627,6 +6627,55 @@
         "brokerage-luxury-leads",
         "bayut-sale-rent"
       ]
+    },
+    {
+      "id": "sweep-20260702t021123z",
+      "timestamp": "2026-07-02T02:11:23.508Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul-1 sweep captures the AED 18B / USD 4.9B Al Khail Street elevated corridor approval, Al Barari's 286-unit 'The Cape' by 10 Design in the AED 5B masterplan, and Dubai portal-verification enforcement calls from Salman Bin Ali.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-al-khail-street-elevated-15km-aed-18b-corridor-2030-completion-jul-1-2026",
+          "title": "Sheikh Hamdan approves AED 18B / USD 4.9B Dubai infrastructure package — First Al Khail Street elevated 15-km corridor cuts SZR peak time 51%, adds ~9,000 vehicles/hr by Q4 2030",
+          "category": "market",
+          "note": "First Al Khail Street elevated corridor — AED 18B package approved by Sheikh Hamdan Jul 1; SZR peak-time -51%, +9,000 veh/hr, 2.6M residents served; delivery Q4 2030."
+        },
+        {
+          "id": "dubai-al-barari-the-cape-10-design-286-apartments-canopy-living-jul-1-2026",
+          "title": "Al Barari unveils 'The Cape' by 10 Design — 286-unit low-rise cluster with 20% balcony ratio, wind-aligned blocks and 500,000 sqft floor area extend the AED 5B masterplan's biophilic push",
+          "category": "offplan",
+          "note": "Al Barari + 10 Design (Egis / 10N) launch The Cape — 286 apts, 3 wind-aligned mid-rise blocks, 500k sqft on 140k sqft plot, 20% balcony ratio."
+        },
+        {
+          "id": "dubai-gulf-news-salman-bin-ali-verified-listings-permit-mismatch-jul-1-2026",
+          "title": "Salman Bin Ali via Gulf News urges Dubai portals to police 'verified' badges — permits linked to land or the wrong classification are showing up on apartment listings, undermining buyer trust",
+          "category": "legal",
+          "note": "Gulf News × Salman Bin Ali Jul-1 call for portals to fix 'verified' badge integrity — permits linked to wrong asset class showing up on apartment listings."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "offplan",
+        "legal",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
