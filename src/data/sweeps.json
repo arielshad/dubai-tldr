@@ -6676,6 +6676,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260702t133430z",
+      "timestamp": "2026-07-02T13:34:30.554Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep on 2026-07-02: one verified market-data card ingested — Dubai DLD daily print for 2026-07-01 (AED 1.40B, off-plan 63.1%) from The Real Estate Reports. Coverage across DLD/RERA, portals, developer launches, luxury/auction and market-data streams found no other qualifying opportunities dated within the 72h window that were not already in the feed (Grovy Ramada show-apartment reveal + Select Group Six Senses MENA-first framing were re-announcements of already-tracked events; the Parkin Al Ghurair Centre ticketless parking deal is transport/retail, not a property opportunity).",
+      "counts": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jul-1-2026-daily-print-aed-140b-offplan-631-percent",
+          "title": "Dubai DLD daily print 2026-07-01: AED 1.40B with off-plan at 63.1% — off-plan flats AED 600.5M lead the tape as ready flats AED 334.2M hold the secondary engine and commercial off-plan AED 169.7M rebuilds the day",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

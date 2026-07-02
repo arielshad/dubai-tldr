@@ -1,8 +1,69 @@
 {
-  "generatedAt": "2026-07-02T02:11:23.508Z",
+  "generatedAt": "2026-07-02T13:34:30.554Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jul-1-2026-daily-print-aed-140b-offplan-631-percent",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-07-01: AED 1.40B with off-plan at 63.1% — off-plan flats AED 600.5M lead the tape as ready flats AED 334.2M hold the secondary engine and commercial off-plan AED 169.7M rebuilds the day",
+      "org": "The Real Estate Reports / Dubai Land Department",
+      "date": "2026-07-01",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-02-jul-2026",
+      "summary": "First-of-quarter DLD tape reads AED 1.40B ex-land — off-plan 63.1% (AED 885.7M) vs ready 36.9% (AED 517.6M), off-plan flats AED 600.5M lead while ready flats AED 334.2M and commercial off-plan AED 169.7M anchor the secondary book.",
+      "tags": [
+        "dld",
+        "daily-print",
+        "off-plan",
+        "ready",
+        "flats",
+        "commercial",
+        "villas"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DLD",
+        "DLD"
+      ],
+      "metrics": {
+        "Total (ex-land)": "AED 1.40B",
+        "Off-plan share": "63.12%",
+        "Ready share": "36.88%",
+        "Off-plan flats": "AED 600.5M",
+        "Ready flats": "AED 334.2M",
+        "Off-plan villas": "AED 112.9M",
+        "Ready villas": "AED 108.9M",
+        "Off-plan commercial": "AED 169.7M",
+        "Ready commercial": "AED 59.3M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports 02-Jul-2026 review",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-02-jul-2026"
+        },
+        {
+          "label": "Dubai Land Department transactions e-service",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Quarter opens with a AED 1.40B tape and off-plan back at 63.1% as flats stay the spine of both books.",
+        "whatIsIt": "The Real Estate Reports daily wrap for Dubai's DLD transaction tape on 2026-07-01 — the first trading day of Q3 2026. Total ex-land clears AED 1.40B across a 63.1% / 36.9% off-plan-vs-ready split, with off-plan flats AED 600.5M leading and ready flats AED 334.2M anchoring the secondary engine.",
+        "howItWorks": "Category detail: off-plan flats AED 600.5M + off-plan villas AED 112.9M + off-plan commercial AED 169.7M + off-plan hotel apts AED 2.7M = AED 885.7M (63.12%). Ready flats AED 334.2M + ready villas AED 108.9M + ready commercial AED 59.3M + ready hotel apts AED 15.2M = AED 517.6M (36.88%). Commercial off-plan AED 169.7M is a rare 12% single-day share and worth watching for a repeat in the Q3 print.",
+        "whyItMatters": "Baseline for Q3 opening tape ahead of the H1 2026 DLD summary. Off-plan back above 60% after the sub-55% June 30 print (AED 1.36B, 54.6% off-plan) suggests the primary engine is regaining share as ready flats step back. Commercial off-plan's 12% single-day share is the flag most likely to matter for underwriting Business Bay / Downtown Grade A office pipeline.",
+        "forWho": "Off-plan underwriters, ready-flat brokers pacing the secondary engine, commercial operators tracking Business Bay pipeline.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-02-jul-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b39f433c-53a5-4404-b420-5f418834be39/pexels-aleksandar-pasaric-2044434.jpg",
+        "alt": "Dubai skyline hero image accompanying The Real Estate Reports daily DLD market review",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-07-02T13:34:30.554Z"
+    },
     {
       "id": "dubai-al-khail-street-elevated-15km-aed-18b-corridor-2030-completion-jul-1-2026",
       "categories": [
