@@ -6774,6 +6774,69 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260703t133832z",
+      "timestamp": "2026-07-03T13:38:32.480Z",
+      "source": "github-actions-sweep",
+      "summary": "GitHub Actions sweep for 2026-07-03: adds the Jul-2 DLD daily print (AED 1.43B, off-plan 51.6% / ready 48.4%, City of Arabia AED 571.7M land) plus the Jul-3 Friday luxury tape (Gulf News AED 900M City of Arabia + Palm Jumeirah Passo villa) as market/luxury baselines; adds Arista Properties' HQ Al Furjan Grade A office groundbreaking and Grovy × Wyndham Ramada Residences Dubai Islands show-apartment reveal on the off-plan/commercial pipeline side; adds Keturah's AED 200M climate-response luxury construction signal for the top-end villa book.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jul-2-2026-daily-print-aed-143b-offplan-516-percent-city-of-arabia-land-572m",
+          "title": "Dubai DLD daily print 2026-07-02: AED 1.43B with off-plan 51.6% / ready 48.4% — off-plan flats AED 559.1M lead the day as a 144,116 sqm City of Arabia land plot clears AED 571.7M for the tape's notable transaction",
+          "category": "market",
+          "note": "Q3 daily-tape cadence continues; near-even 51.6/48.4 off-plan/ready split and the City of Arabia AED 571.7M land trade both feed underwriting comps."
+        },
+        {
+          "id": "dubai-gulf-news-friday-tape-city-of-arabia-808m-passo-palm-jumeirah-90m-villa-jul-3-2026",
+          "title": "Dubai Friday opening tape reads AED 900M — 4 City of Arabia land plots trade for AED 808M combined (1.87M sqft, AED 432/sqft avg) as a 12,400 sqft Passo by BEYOND villa on Palm Jumeirah clears AED 90M (AED 7,265/sqft)",
+          "category": "luxury",
+          "note": "Friday tape frames two distinct verified comps — 4-plot institutional land block at ~AED 432/sqft in City of Arabia and a Palm Jumeirah Passo villa at AED 7,265/sqft."
+        },
+        {
+          "id": "dubai-arista-properties-hq-al-furjan-48-grade-a-offices-leed-gold-q4-2027-jul-3-2026",
+          "title": "Arista Properties breaks ground on HQ Al Furjan — 7-storey Grade A office block with 48 offices, one full amenity floor and LEED Gold target for Q4 2027 handover, launched alongside the new HQ Elite boutique-office tier",
+          "category": "commercial",
+          "note": "Second Al Furjan Grade A office announcement this year and a boutique-office sub-brand launch — adds a fresh comp for occupiers priced out of Business Bay."
+        },
+        {
+          "id": "dubai-grovy-ramada-residences-wyndham-dubai-islands-show-apartment-jvc-jul-2-2026",
+          "title": "Grovy × Wyndham × USquare Luxe unveil the show apartment for Ramada Residences by Wyndham at Dubai Islands — 1-3BR apartments + 4BR penthouses with 20+ leisure amenities, short-term-lease-approved and hospitality-managed",
+          "category": "offplan",
+          "note": "Wyndham-managed short-term-let approval is the differentiator; slots into the thickening Dubai Islands branded-residence pipeline."
+        },
+        {
+          "id": "dubai-keturah-reserve-aed-200m-antimicrobial-tiling-zero-voc-climate-luxury-jul-2-2026",
+          "title": "Keturah's Talal Al Gaddah tells TradeArabia AED 200M went into 'health-led' construction at the AED 5.7B Keturah Reserve — antimicrobial tiling, breathable wall systems and zero-VOC finishes framed as the Gulf luxury-home redesign for extreme-heat resilience",
+          "category": "luxury",
+          "note": "First concrete number on the health-and-heat-first luxury spec conversation — 3.5% of GDV going into materials/systems, not finish."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "land",
+        "commercial",
+        "offplan",
+        "developer"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
