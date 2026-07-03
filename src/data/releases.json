@@ -1,8 +1,206 @@
 {
-  "generatedAt": "2026-07-02T13:34:30.554Z",
+  "generatedAt": "2026-07-03T01:57:09.779Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-difc-heights-tower-al-basti-muktha-aed-3b-366-residences-gate-district-jul-2-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury",
+        "commercial"
+      ],
+      "title": "DIFC Authority awards Al Basti & Muktha the AED 3B main-contract for DIFC Heights Tower — 366 luxury residences + 7 commercial floors on the last Gate District plot, Q3 2029 handover targeting LEED Platinum",
+      "org": "DIFC Authority / Al Basti & Muktha / TradeArabia",
+      "date": "2026-07-02",
+      "publishDate": "2026-07-03T01:57:09.779Z",
+      "url": "https://tradearabia.com/News/464637/Contract-awarded-for-$816m-DIFC-Heights-Tower/CONS",
+      "summary": "DIFC Authority awards Al Basti & Muktha (ABM) the main-construction contract for DIFC Heights Tower — AED 3B / USD 816.88M GDV mixed-use tower on the last remaining plot in DIFC's original Gate District land bank, delivering 366 luxury residences across 32 residential floors plus 7 shell-and-core office floors and retail, targeting Q3 2029 handover with LEED Platinum certification. Sales opened 16 April 2025.",
+      "tags": [
+        "difc",
+        "heights-tower",
+        "al-basti-muktha",
+        "gate-district",
+        "luxury-residences",
+        "grade-a-office",
+        "leed-platinum",
+        "handover-2029"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DIFC",
+        "DXB-DIFC"
+      ],
+      "metrics": {
+        "Project value (GDV)": "AED 3B / USD 816.88M",
+        "Residential units": "366",
+        "Residential floors": "32",
+        "Commercial floors": "7",
+        "Handover": "Q3 2029",
+        "Sales launch": "16 April 2025",
+        "Sustainability target": "LEED Platinum",
+        "Location": "Last plot on DIFC Gate District original land bank"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Contract awarded for $816m DIFC Heights Tower (Jul 2 2026)",
+          "url": "https://tradearabia.com/News/464637/Contract-awarded-for-$816m-DIFC-Heights-Tower/CONS"
+        },
+        {
+          "label": "Zawya — DIFC awards $816.9mln DIFC Heights Tower construction contract",
+          "url": "https://www.zawya.com/en/business/real-estate/difc-awards-8169mln-difc-heights-tower-construction-contract-puf4m1dj"
+        },
+        {
+          "label": "DIFC — Heights Tower project page",
+          "url": "https://www.difc.com/whats-on/news/difc-unveils-heights-tower---a-new-era-of-urban-luxury-living"
+        }
+      ],
+      "explainer": {
+        "tagline": "DIFC's last Gate District plot moves from paper to steel — Al Basti & Muktha take the AED 3B main-contract, 366 residences + 7 office floors handing over Q3 2029.",
+        "whatIsIt": "The Dubai International Financial Centre (DIFC) Authority has awarded Al Basti & Muktha LLC (ABM) the main-construction contract for DIFC Heights Tower — a AED 3B (USD 816.88M) gross-development-value mixed-use tower on the final remaining plot of DIFC's original Gate District land bank. The project delivers 366 luxury residences across 32 residential floors, plus 7 shell-and-core office floors and podium-level retail, with a Q3 2029 handover target and a LEED Platinum sustainability aim.",
+        "howItWorks": "Sales opened 16 April 2025; the July 2 2026 milestone is the main-contract award to ABM (a Dubai-based contractor), which unlocks vertical construction. Unit mix runs from 1-BR apartments up to 4-BR duplexes, with amenities including a temperature-controlled outdoor pool, a family lounge, contactless communal workspaces, and curated F&B/retail on the podium. The commercial component is shell-and-core Grade A office plus retail, aimed at fund managers, family offices and financial-services occupiers who want to stay inside DIFC's Category-1 regulatory perimeter. GDV is reported publicly at AED 3B / USD 816.88M; developer has not disclosed per-unit ask or launched-vs-remaining inventory.",
+        "whyItMatters": "DIFC's last original Gate District plot moving to construction fixes the ceiling on new DIFC-freehold residential supply — after Heights Tower there is no untouched Gate District land bank to release, so incremental DIFC-branded residential will have to come from partner-district launches (like Aldar's DIFC Living / Aldar tower buys) or the Aldar-DIFC joint venture. For buyers, the 2029 handover puts Heights Tower two years after Aldar's DIFC delivery cluster and squarely inside the H2 2028–2030 Metro Gold Line + Al Maktoum Phase-1 corridor build, so exit assumptions should be underwritten against that supply-and-transit backdrop rather than 2025 pricing. For brokers, this is a 366-unit inventory event to map into the ultra-prime CBD stack alongside branded competitors on Sheikh Zayed Road.",
+        "forWho": "DIFC-focused end-users, family offices sizing a Category-1 CBD live-work footprint, brokers running ultra-prime CBD comps, contractors watching Dubai Grade A office pipeline",
+        "tryIt": "https://www.difc.com/whats-on/news/difc-unveils-heights-tower---a-new-era-of-urban-luxury-living"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/02/TA_20260702171359.webp",
+        "alt": "DIFC and Al Basti & Muktha officials at the DIFC Heights Tower main-contract signing on 2 July 2026",
+        "credit": "TradeArabia / WAM"
+      }
+    },
+    {
+      "id": "dubai-digital-twin-platform-hamdan-195k-buildings-1500-data-layers-jul-2-2026",
+      "categories": [
+        "market",
+        "media",
+        "legal"
+      ],
+      "title": "Sheikh Hamdan launches Dubai Digital Twin platform — 195,000+ 3D buildings, 280,000+ infrastructure assets, 330,000+ facilities and 1,500+ geospatial layers wired into a live city-scale planning model with Al-Futtaim and Huawei MoUs",
+      "org": "Dubai Municipality / Executive Council of Dubai / TradeArabia",
+      "date": "2026-07-02",
+      "publishDate": "2026-07-03T01:57:09.779Z",
+      "url": "https://tradearabia.com/News/464636/Dubai-launches-digital-twin-platform---a-virtual-replica-of-city/CONS",
+      "summary": "Sheikh Hamdan bin Mohammed presides over the launch of the Dubai Digital Twin — a live virtual replica of the city built by Dubai Municipality covering 195,000+ 3D buildings, 280,000+ infrastructure assets, 330,000+ facilities and 1,500+ geospatial data layers, with 100+ 2D/3D applications and MoUs with Al-Futtaim and Huawei to extend the ecosystem.",
+      "tags": [
+        "digital-twin",
+        "dubai-municipality",
+        "sheikh-hamdan",
+        "smart-city",
+        "urban-planning",
+        "geospatial",
+        "al-futtaim",
+        "huawei"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MUNI",
+        "DXB-SMART"
+      ],
+      "metrics": {
+        "Buildings modelled (3D)": "195,000+",
+        "Infrastructure assets converted": "280,000+",
+        "Public facilities/assets converted": "330,000+",
+        "Geospatial data layers": "1,500+",
+        "2D/3D applications deployed": "100+",
+        "Partners announced": "Al-Futtaim Group, Huawei"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai launches Digital Twin platform (Jul 2 2026)",
+          "url": "https://tradearabia.com/News/464636/Dubai-launches-digital-twin-platform---a-virtual-replica-of-city/CONS"
+        },
+        {
+          "label": "Dubai Municipality — Buildings Regulation and Permits Agency",
+          "url": "https://www.dm.gov.ae/"
+        },
+        {
+          "label": "Executive Council of Dubai",
+          "url": "https://tec.gov.ae/en"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's live virtual replica goes live — 195,000+ 3D buildings and 1,500+ data layers wired into a single planning surface, with Al-Futtaim and Huawei on the extension MoUs.",
+        "whatIsIt": "HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of the Executive Council, presided on 2 July 2026 over the launch of the Dubai Digital Twin platform — a live, continuously-updated virtual replica of the city built by Dubai Municipality that stitches together 195,000+ 3D buildings, 280,000+ infrastructure assets, 330,000+ public facilities/assets and 1,500+ geospatial data layers into a shared model for urban planning, building-asset management, infrastructure oversight and scenario simulation.",
+        "howItWorks": "The platform is anchored on 3D models built to a common Dubai-Municipality standard: 195,000+ buildings, 280,000+ infrastructure assets and 330,000+ public facilities and assets have already been converted, and 100+ 2D/3D applications (including permit workflows, master-plan overlays and asset management) sit on top. The 1,500+ geospatial layers cover cadastre, road network, transport, utilities, environmental data and land-use master plans. Sheikh Hamdan announced strategic MoUs with Al-Futtaim Group and Huawei to expand the Digital Twin ecosystem — extending sensor coverage, AI overlays, and private-sector integrations. Eng Marwan Ahmed Bin Ghalita (DG, Dubai Municipality) and Eng Maryam Al Muhairi (CEO, Buildings Regulation and Permits Agency) framed the platform as a decision-support surface for future scenarios rather than a static map.",
+        "whyItMatters": "For developers, brokers, and operators, a live cadastre-plus-3D-asset layer stitched to master plans changes how permit workflows, feasibility studies, cadastre searches, and title/Oqood verification get sourced — projects will be expected to submit as 3D data, and permitting timelines and disclosure will move onto the platform. It also anchors Dubai's smart-city and PropTech play alongside the DLD-side rollouts (tokenisation, Flexi Rent, First-Time Home Buyer programme, TruEstimate integration) that already pull data from municipal sources. Al-Futtaim's presence signals the retail/mall/community-management angle; Huawei's presence points at the sensor and AI-analytics extension. Practical operator action for now: monitor the first tranche of public applications and any developer-facing APIs as they open.",
+        "forWho": "Master-plan operators, developer feasibility teams, brokers running due-diligence, PropTech founders, municipal-services integrators",
+        "tryIt": "https://tradearabia.com/News/464636/Dubai-launches-digital-twin-platform---a-virtual-replica-of-city/CONS"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/02/TA_20260702170832.webp",
+        "alt": "Dubai Digital Twin platform launch by Sheikh Hamdan bin Mohammed with Dubai Municipality on 2 July 2026",
+        "credit": "TradeArabia / WAM"
+      }
+    },
+    {
+      "id": "dubai-bayut-truestimate-2000-daily-valuations-data-led-shift-jul-1-2026",
+      "categories": [
+        "market",
+        "media"
+      ],
+      "title": "Bayut × Gulf News Jul-1 read: UAE property market shifts to 'data-led, intent-driven' activity — TruEstimate hits ~2,000 valuation reports/day, 80% of enquiries flagged high-engagement, agent-engagement 109% of pre-disruption baseline",
+      "org": "Bayut & Dubizzle / Gulf News",
+      "date": "2026-07-01",
+      "publishDate": "2026-07-03T01:57:09.779Z",
+      "url": "https://gulfnews.com/business/property/uae-property-market-sees-shift-towards-data-led-intent-driven-activity-1.500593053",
+      "summary": "Bayut & Dubizzle CEO Haider Khan tells Gulf News on 2026-07-01 that the UAE portal book is shifting from volume-driven speculation to data-driven serious-buyer intent — TruEstimate now generates ~2,000 valuation reports per day, 80% of enquiries classify as high-engagement, 75%+ progress to viewings/negotiations, and agent-engagement is at 109% of the pre-disruption baseline across a 38,000-enquiry sample.",
+      "tags": [
+        "bayut",
+        "dubizzle-group",
+        "truestimate",
+        "proptech",
+        "buyer-intent",
+        "valuation",
+        "haider-khan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-PORTAL",
+        "PROPTECH"
+      ],
+      "metrics": {
+        "TruEstimate valuations / day": "~2,000",
+        "High-engagement enquiry share": "80%",
+        "Enquiries progressing to viewings/negotiations": "75%+",
+        "Agent engagement vs pre-disruption baseline": "109%",
+        "Enquiries analysed": "38,000+",
+        "Ready residential deals supported by a TruEstimate report": ">50%"
+      },
+      "links": [
+        {
+          "label": "Gulf News — UAE property market shifts to data-led activity (Jul 1 2026)",
+          "url": "https://gulfnews.com/business/property/uae-property-market-sees-shift-towards-data-led-intent-driven-activity-1.500593053"
+        },
+        {
+          "label": "Bayut — TruEstimate property valuation tool",
+          "url": "https://www.bayut.com/tru-estimate/"
+        },
+        {
+          "label": "Bayut / Dubizzle — Dubai transactions data",
+          "url": "https://www.bayut.com/property-market-analysis/transactions/sale/property/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Bayut & Dubizzle's Haider Khan tells Gulf News the market has flipped to data-driven serious-buyer flow — ~2,000 TruEstimate reports/day, 80% high-engagement enquiries, agent-engagement above pre-disruption baseline.",
+        "whatIsIt": "Bayut & Dubizzle CEO Haider Khan uses a 2026-07-01 Gulf News feature to argue that the UAE property portal book is now shaped by informed buyers and accountable brokers rather than speculative volume. The anchor is TruEstimate — Bayut's DLD-integrated instant valuation tool — which now generates roughly 2,000 valuation reports every day and, per Bayut's own tally, sits behind more than half of all ready-residential deals in Dubai.",
+        "howItWorks": "Bayut's read on a 38,000+ enquiry sample: 80% of incoming enquiries classify as high-engagement leads, 75%+ progress to productive outcomes (viewings/negotiations), and agent engagement is at 109% of the pre-disruption baseline (i.e. above pre-Iran-conflict levels). Khan frames it as a shift from 'guesswork or volume alone' to 'sharper questions, better tools, and data-shaped outcomes.' TruEstimate itself is an AI tool that pulls DLD transaction records, comparable trend data, rental yields and comps to output an instant valuation. Underlying pattern is consistent with the AGBI × Cavendish Maxwell / Property Finder May-2026 signals of narrowing buyer-seller gaps, cash-buyer pause, and end-user mortgage growth.",
+        "whyItMatters": "For brokers, an 80% high-engagement enquiry mix means less time-wasting churn but a much sharper diligence bar — sellers and asks that don't match the DLD-linked comp story get filtered out faster. For sellers, more than half of ready-residential deals being supported by a TruEstimate report means pricing above the tool's DLD-anchored range increasingly reads as posturing; the operator play is to underwrite ask against TruEstimate + rental-yield comps before signing a mandate. For PropTech observers, the ~2,000 reports/day cadence is a hard adoption print — TruEstimate is now a de facto valuation reference for a big slice of the Dubai buyer funnel, alongside DLD's own comps and the fresh Digital Twin cadastre layer.",
+        "forWho": "Brokers running mandate/underwriting workflows, sellers pricing ready inventory, buyers sanity-checking asks, PropTech founders benchmarking adoption",
+        "tryIt": "https://www.bayut.com/tru-estimate/"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-07-01%2F9vmccs27%2FPHOTO-2026-06-24-19-16-33.jpg",
+        "alt": "Bayut & Dubizzle CEO Haider Khan on the UAE property market's shift to data-led, intent-driven activity (Gulf News, 2026-07-01)",
+        "credit": "Gulf News"
+      },
+      "author": {
+        "name": "Haider Khan",
+        "handle": "Bayut & Dubizzle CEO",
+        "profileUrl": "https://www.bayut.com/"
+      }
+    },
     {
       "id": "dubai-dld-jul-1-2026-daily-print-aed-140b-offplan-631-percent",
       "categories": [

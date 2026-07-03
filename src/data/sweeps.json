@@ -6719,6 +6719,61 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260703t015709z",
+      "timestamp": "2026-07-03T01:57:09.779Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-07-03: three fresh Dubai property signals from the last 48 hours — DIFC awards Al Basti & Muktha the AED 3B main contract for DIFC Heights Tower (366 luxury residences, 2029 handover), Sheikh Hamdan launches Dubai's Digital Twin platform with 195,000+ 3D buildings, and Bayut's data-led shift reports ~2,000 TruEstimate valuations a day.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-difc-heights-tower-al-basti-muktha-aed-3b-366-residences-gate-district-jul-2-2026",
+          "title": "DIFC Authority awards Al Basti & Muktha the AED 3B main-contract for DIFC Heights Tower — 366 luxury residences + 7 commercial floors on the last Gate District plot, Q3 2029 handover targeting LEED Platinum",
+          "category": "developer",
+          "note": "Main-contract award on the last untouched Gate District plot fixes DIFC's original-land-bank ceiling on new freehold residential supply and lines up a 2029 handover into the Metro Gold Line / Al Maktoum Phase-1 corridor."
+        },
+        {
+          "id": "dubai-digital-twin-platform-hamdan-195k-buildings-1500-data-layers-jul-2-2026",
+          "title": "Sheikh Hamdan launches Dubai Digital Twin platform — 195,000+ 3D buildings, 280,000+ infrastructure assets, 330,000+ facilities and 1,500+ geospatial layers wired into a live city-scale planning model with Al-Futtaim and Huawei MoUs",
+          "category": "market",
+          "note": "Sheikh-Hamdan-level launch of a live 3D city model with 195,000+ buildings and 1,500+ geospatial layers changes permit, feasibility and title-verification workflows; MoUs with Al-Futtaim + Huawei anchor the private-sector extension."
+        },
+        {
+          "id": "dubai-bayut-truestimate-2000-daily-valuations-data-led-shift-jul-1-2026",
+          "title": "Bayut × Gulf News Jul-1 read: UAE property market shifts to 'data-led, intent-driven' activity — TruEstimate hits ~2,000 valuation reports/day, 80% of enquiries flagged high-engagement, agent-engagement 109% of pre-disruption baseline",
+          "category": "market",
+          "note": "Bayut × Gulf News print-of-record on the shift to data-led buyer intent — TruEstimate ~2,000 valuations/day and 80% high-engagement enquiry share reset broker/seller pricing benchmarks."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "commercial",
+        "market",
+        "media",
+        "legal",
+        "rental",
+        "distress",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
