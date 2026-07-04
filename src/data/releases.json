@@ -1,8 +1,223 @@
 {
-  "generatedAt": "2026-07-04T01:58:08.015Z",
+  "generatedAt": "2026-07-04T13:04:00.780Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-w-capital-dld-h1-2026-record-aed-286-44b-86k-deals-ready-146-7b-offplan-139-8b-jul-3-2026",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "W Capital × DLD Jul-3 read: Dubai's H1 2026 tape clears AED 286.44B / 86,000 deals — second-highest half-year on record as ready (AED 146.7B / 27,200 deals) edges off-plan (AED 139.8B / 58,800 deals)",
+      "org": "W Capital / Dubai Land Department (via Zawya)",
+      "date": "2026-07-03",
+      "publishDate": "2026-07-04T13:04:00.780Z",
+      "url": "https://www.zawya.com/en/press-release/research-and-studies/dubai-real-estate-maintains-historical-momentum-ever-expert-pf17dvjs",
+      "summary": "W Capital's DLD-based H1 2026 print: AED 286.44B in property sales across 86,000+ transactions (71,500 residential unit deals, 7,296 building deals, 7,129 land sales), second only to H1 2025's AED 326.6B. Ready leads with AED 146.7B / 27,200 deals; off-plan books AED 139.8B / 58,800 deals. Total real-estate activity (incl. mortgages, gifts) hits AED 419.94B / 112,850 transactions.",
+      "tags": [
+        "H1 2026",
+        "DLD tape",
+        "W Capital",
+        "ready-vs-offplan",
+        "half-year record",
+        "market macro"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "DXB",
+        "DLD",
+        "DXB-MACRO"
+      ],
+      "metrics": {
+        "H1 2026 sales": "AED 286.44B",
+        "H1 2026 deals": "86,000+",
+        "Ready share": "AED 146.7B / 27,200 deals",
+        "Off-plan share": "AED 139.8B / 58,800 deals",
+        "Residential unit deals": "71,500",
+        "Building deals": "7,296",
+        "Land sales": "7,129",
+        "Total activity (incl. mortgages/gifts)": "AED 419.94B / 112,850",
+        "H1 2025 comp": "AED 326.6B",
+        "H1 2026 vs H1 2025": "-12.3%"
+      },
+      "links": [
+        {
+          "label": "Zawya — Dubai real estate maintains historical momentum (W Capital, Jul 3 2026)",
+          "url": "https://www.zawya.com/en/press-release/research-and-studies/dubai-real-estate-maintains-historical-momentum-ever-expert-pf17dvjs"
+        },
+        {
+          "label": "Arabian Business — Dubai real estate records $78bn in first-half sales with 86,000 deals",
+          "url": "https://www.arabianbusiness.com/real-estate/dubai-property-sales-h1-2026"
+        },
+        {
+          "label": "Economy Middle East — Dubai posts second-highest half-year real-estate sales on record at $77.88B in H1 2026",
+          "url": "https://economymiddleeast.com/news/dubai-posts-second-highest-half-year-real-estate-sales-on-record-at-77-88-billion-in-h1-2026/"
+        },
+        {
+          "label": "DLD open data portal (source of the underlying transactions)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai's H1 2026 books AED 286.44B / 86K deals — second-best half ever, with ready quietly retaking the lead over off-plan for the first time in months.",
+        "whatIsIt": "W Capital's Jul-3 half-year read of the Dubai Land Department tape. H1 2026 clears AED 286.44B ($77.88B) across 86,000+ sales — 12.3% below H1 2025's all-time-high AED 326.6B but still the second-highest first-half print on record. Underneath the headline, the composition has flipped: ready-built stock leads with AED 146.7B across 27,200 deals, while off-plan books AED 139.8B across 58,800 deals.",
+        "howItWorks": "Segment split: 71,500 residential unit deals, 7,296 building deals, 7,129 land sales. Ready-plus-off-plan sales are the core, but total real-estate activity — sales + mortgages (AED 102B+ / 22,000+) + gifts (AED 31.4B / 4,501) — reaches AED 419.94B across 112,850 transactions. The 12.3% H1 YoY sales dip aligns with the mid-year cooling narrative but stays well above H1 2024 print levels; W Capital's Walid Al Zarooni frames it as 'sector resilience' rather than an inflection. Cross-check: builder-side confirmation of the H1 project-launch print (AED 275B / 250 projects + Emaar's ~AED 200B mega-plan) is already in the feed via the W Capital Jun-27 read.",
+        "whyItMatters": "Ready leading off-plan on value is a genuine composition shift: for the last six months, DxbEstate Intel daily-print cards showed off-plan share running 55-65%. A half-year where ready books more absolute AED than off-plan means secondary-market end-user activity — mortgage-led ready-flat and ready-villa flow — has been the tape's actual engine, not the launches themselves. That reframes the mid-2026 opportunity: brokerage inventory in established communities has the deeper H1 base, and secondary-market comps become the more reliable underwriting anchor than off-plan launch pricing.",
+        "forWho": "Fund LPs and family offices tracking absolute size of the Dubai ready-vs-off-plan books; brokers pitching secondary inventory as the H1 growth story; developers pricing H2 launches against a slightly softer H1 top-line.",
+        "tryIt": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+      },
+      "image": {
+        "url": "https://static.zawya.com/view/acePublic/alias/contentid/6b3285b5-bb7e-4442-af7d-2dec1c86c639/0/walid_alzarooni-jpeg.webp?f=3%3A2&q=0.75&w=3840",
+        "alt": "W Capital CEO Walid Al Zarooni framing Dubai's AED 286.44B H1 2026 real-estate tape as the second-highest half-year on record",
+        "fit": "cover",
+        "credit": "Zawya / W Capital"
+      }
+    },
+    {
+      "id": "dubai-dld-jul-3-2026-daily-print-aed-128b-ready-547-percent-jlt-residences-178-2m-mortgage",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-07-03: AED 1.28B with ready reclaiming 54.7% — ready flats AED 485.6M lead as a AED 178.2M JLT The Residences mortgage tilts the tape while off-plan flats AED 465.1M holds the primary engine",
+      "org": "The Real Estate Reports / Dubai Land Department",
+      "date": "2026-07-03",
+      "publishDate": "2026-07-04T13:04:00.780Z",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-04-jul-2026",
+      "summary": "DLD daily 2026-07-03: AED 1.28B total, ready 54.7% (AED 698.1M) vs off-plan 45.3% (AED 577.8M). Ready flats AED 485.6M lead the tape; ready villas AED 149.9M and hotel apartments AED 37.5M rebuild the ready book. Off-plan flats AED 465.1M anchor the primary engine, off-plan commercial AED 65.2M and off-plan villas AED 43.0M round out the day. A AED 178.2M mortgage on JLT The Residences is the tape's notable single-line item.",
+      "tags": [
+        "DLD daily",
+        "ready-leads",
+        "JLT",
+        "mortgage-driven",
+        "daily print"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB-JLT",
+        "DXB-MACRO"
+      ],
+      "metrics": {
+        "Total tape": "AED 1.28B",
+        "Ready share": "54.7% (AED 698.1M)",
+        "Off-plan share": "45.3% (AED 577.8M)",
+        "Ready flats": "AED 485.6M",
+        "Ready villas": "AED 149.9M",
+        "Ready hotel apartments": "AED 37.5M",
+        "Ready commercial": "AED 25.2M",
+        "Off-plan flats": "AED 465.1M",
+        "Off-plan commercial": "AED 65.2M",
+        "Off-plan villas": "AED 43.0M",
+        "Notable mortgage": "AED 178.2M — JLT The Residences"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai daily 2026-07-03 (published 2026-07-04)",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-04-jul-2026"
+        },
+        {
+          "label": "DLD open real-estate transaction data (primary source)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "Dubai REST daily transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Jul-3 DLD tape: AED 1.28B, ready flips back to 54.7% on a AED 178.2M JLT Residences mortgage tick.",
+        "whatIsIt": "Dubai Land Department daily transaction print for Thursday 2026-07-03, packaged by The Real Estate Reports the next morning. Ready reclaims the day at 54.7% (AED 698.1M) against off-plan's 45.3% (AED 577.8M), with a AED 178.2M mortgage transaction on JLT The Residences the standout line-item that boosts the ready-flat book.",
+        "howItWorks": "Ready flats AED 485.6M lead absolute value; ready villas AED 149.9M and hotel apartments AED 37.5M round out the ready book. Off-plan flats AED 465.1M anchor the primary engine, off-plan commercial AED 65.2M and off-plan villas AED 43.0M complete the day. The JLT single-mortgage flagged in the review pushes ready-flat share materially — without it, the day would look mid-50/50 rather than 55/45. Sequence context: Jul-1 (63.1% off-plan / AED 1.40B) → Jul-2 (51.6% off-plan / AED 1.43B) → Jul-3 (45.3% off-plan / AED 1.28B).",
+        "whyItMatters": "The three-day sequence shows how quickly the split flips when one large mortgage lands. For brokers underwriting a JLT resale or investor tour, this is the specific ticker to check: a AED 178.2M single-mortgage on JLT The Residences is a Grade-A tower comp that either supports or contradicts the ask a client is quoting today. For funds, ready holding above 50% two of the last three days is the beat that keeps the H1 headline (ready > off-plan on value) live into July.",
+        "forWho": "JLT-focused brokers pricing a comp; investors watching for the ready-share pivot; H2 launch developers reading the ready-book strength into their timing.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-04-jul-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b39f433c-53a5-4404-b420-5f418834be39/pexels-aleksandar-pasaric-2044434.jpg",
+        "alt": "Dubai skyline hero image accompanying The Real Estate Reports Jul-3-2026 DLD daily market review",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      }
+    },
+    {
+      "id": "dubai-gulf-news-zainab-husain-chiller-free-vs-district-cooling-empower-tabreed-jul-3-2026",
+      "categories": [
+        "rental",
+        "market",
+        "legal"
+      ],
+      "title": "Gulf News × Zainab Husain Jul-3 explainer: chiller-free vs district cooling in Dubai — how the two setups sit on rent (Empower / Tabreed / Emicool / Nakheel / Emaar DC / Palm DC) and why chiller-free typically asks AED 4-10K more up front",
+      "org": "Gulf News",
+      "date": "2026-07-03",
+      "publishDate": "2026-07-04T13:04:00.780Z",
+      "url": "https://gulfnews.com/living-in-uae/housing/district-cooling-vs-chiller-free-in-dubai-whats-the-difference-1.500595782",
+      "summary": "Gulf News Features Writer Zainab Husain walks through Dubai's two cooling models — chiller-free (cost bundled into rent) vs district cooling (separate monthly bill from Empower / Tabreed / Emicool / Nakheel / Emaar District Cooling / Palm District Cooling). Uses an illustrative Dh70K vs Dh74K annual-rent comparison to show why the annual-rent premium on chiller-free listings roughly equals the cooling bill it lets the tenant skip. Lists the Dubai communities on district cooling (JVC, Motor City, DIP, Dubai Sports City, DSO, Discovery Gardens, Downtown, Business Bay, JBR, JLT) and cites cooling accounting for ~50% of Dubai's electricity demand.",
+      "tags": [
+        "chiller-free",
+        "district cooling",
+        "Empower",
+        "Tabreed",
+        "Emicool",
+        "renter housing cost",
+        "operator explainer"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-RENT",
+        "DXB-JVC",
+        "DXB-DTWN",
+        "DXB-BB",
+        "DXB-JLT"
+      ],
+      "metrics": {
+        "Illustrative rent gap": "AED 4,000 / yr (Dh70K vs Dh74K)",
+        "Providers named": "Empower, Tabreed, Emicool, Nakheel, Emaar DC, Palm DC",
+        "District-cooling communities named": "10 (JVC, Motor City, DIP, DSC, DSO, DG, Downtown, BB, JBR, JLT)",
+        "Cooling as share of Dubai power demand": "~50%",
+        "Chiller-free premium range (portal-observed heuristic)": "AED 4-10K/yr"
+      },
+      "links": [
+        {
+          "label": "Gulf News — District cooling vs chiller-free in Dubai (Zainab Husain, Jul 3 2026)",
+          "url": "https://gulfnews.com/living-in-uae/housing/district-cooling-vs-chiller-free-in-dubai-whats-the-difference-1.500595782"
+        },
+        {
+          "label": "Empower — Dubai's largest district cooling provider",
+          "url": "https://www.empower.ae/"
+        },
+        {
+          "label": "Tabreed — National Central Cooling Company",
+          "url": "https://www.tabreed.ae/"
+        },
+        {
+          "label": "Emicool — Emirates District Cooling",
+          "url": "https://www.emicool.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Chiller-free = cooling bundled into rent. District cooling = separate monthly bill. In Dubai's summer, the AED-per-year gap is the whole story.",
+        "whatIsIt": "Gulf News features writer Zainab Husain explains Dubai's two dominant cooling setups. Chiller-free is a rental-property feature — the landlord picks up the district-cooling bill and folds it into the ask. District cooling means the tenant gets a separate monthly invoice from a provider like Empower, Tabreed, Emicool, Nakheel, Emaar District Cooling or Palm District Cooling.",
+        "howItWorks": "The article uses a Dh70K/yr rent + separate cooling bill vs Dh74K/yr chiller-free comparison — the AED 4,000/yr rent premium on the chiller-free unit is roughly the cooling bill it lets the tenant skip. Because cooling accounts for close to half of Dubai's electricity demand, summer bills swing housing cost materially — so full-cost comparison requires normalising both models. The article names the Dubai communities where district cooling is standard: JVC, Motor City, DIP, Dubai Sports City, DSO, Discovery Gardens, Downtown Dubai, Business Bay, JBR, JLT, plus developer-run systems at La Mer, City Walk, Sobha Realty and Dubai Festival City.",
+        "whyItMatters": "For renters shortlisting between two Dh75-90K units, the setup can dominate the AED-per-year decision — the sticker rent is misleading. For landlords, the piece is a reminder that repricing an aging chiller-paid ask upward without accounting for the tenant's rising summer bill is what drives portal responsiveness lower. For brokers pitching a JVC or Downtown unit, this is the specific frame to preempt: quote the full carrying cost, not the annual ask. The Smart Rental Index doesn't (yet) normalise for cooling model, so the comparison has to be done by hand.",
+        "forWho": "Long-let brokers pricing JVC / Downtown / Business Bay units; end-user renters comparing shortlisted units on full carrying cost; landlord clients weighing whether to convert a chiller-paid unit to chiller-free for higher effective rent.",
+        "tryIt": "https://gulfnews.com/living-in-uae/housing/district-cooling-vs-chiller-free-in-dubai-whats-the-difference-1.500595782"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2Fimport%2F2022%2F09%2F14%2FStock---Empower_1833b35bc68_large.jpg",
+        "alt": "Empower district cooling plant in Dubai — the anchor to Gulf News' chiller-free vs district-cooling rental-cost explainer (Zainab Husain, Jul-3-2026)",
+        "fit": "cover",
+        "credit": "Gulf News / Empower"
+      },
+      "author": {
+        "name": "Zainab Husain",
+        "handle": "Gulf News Features",
+        "profileUrl": "https://gulfnews.com/business/property"
+      }
+    },
     {
       "id": "dubai-agbi-emaar-dubai-estate-reveal-4-5m-sqm-150k-residents-gold-line-jul-3-2026",
       "categories": [

@@ -6887,6 +6887,59 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260704t130400z",
+      "timestamp": "2026-07-04T13:04:00.780Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul-4 sweep locks the H1 2026 tape: W Capital / DLD confirm AED 286.44B / 86,000 deals, second-highest half ever, with ready leading off-plan (AED 146.7B vs 139.8B). Adds the Jul-3 DLD daily print (AED 1.28B, ready 54.7%, a JLT Residences AED 178.2M mortgage pushes ready flats to AED 485.6M) and a Gulf News × Zainab Husain chiller-free-vs-district-cooling explainer that gives renters and landlords a concrete way to compare full housing cost across the two setups.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-w-capital-dld-h1-2026-record-aed-286-44b-86k-deals-ready-146-7b-offplan-139-8b-jul-3-2026",
+          "title": "W Capital × DLD Jul-3 read: Dubai's H1 2026 tape clears AED 286.44B / 86,000 deals — second-highest half-year on record as ready (AED 146.7B / 27,200 deals) edges off-plan (AED 139.8B / 58,800 deals)",
+          "category": "market",
+          "note": "H1 2026 tape is the biggest half-year read of the year — anchors the market coverage for July."
+        },
+        {
+          "id": "dubai-dld-jul-3-2026-daily-print-aed-128b-ready-547-percent-jlt-residences-178-2m-mortgage",
+          "title": "Dubai DLD daily print 2026-07-03: AED 1.28B with ready reclaiming 54.7% — ready flats AED 485.6M lead as a AED 178.2M JLT The Residences mortgage tilts the tape while off-plan flats AED 465.1M holds the primary engine",
+          "category": "market",
+          "note": "Continues the daily DLD print series that operators use as the running market pulse; adds a specific JLT comp."
+        },
+        {
+          "id": "dubai-gulf-news-zainab-husain-chiller-free-vs-district-cooling-empower-tabreed-jul-3-2026",
+          "title": "Gulf News × Zainab Husain Jul-3 explainer: chiller-free vs district cooling in Dubai — how the two setups sit on rent (Empower / Tabreed / Emicool / Nakheel / Emaar DC / Palm DC) and why chiller-free typically asks AED 4-10K more up front",
+          "category": "rental",
+          "note": "Actionable rental-cost explainer for JVC / Downtown / BB / JLT brokers pricing shortlists on full carrying cost."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "rental",
+        "ready",
+        "offplan",
+        "developer",
+        "luxury",
+        "commercial",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
