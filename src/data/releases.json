@@ -1,8 +1,165 @@
 {
-  "generatedAt": "2026-07-03T13:38:32.480Z",
+  "generatedAt": "2026-07-04T01:58:08.015Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-agbi-emaar-dubai-estate-reveal-4-5m-sqm-150k-residents-gold-line-jul-3-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury",
+        "market"
+      ],
+      "title": "AGBI × Josh Corder reveal — Emaar's unnamed AED 200B / USD 54B mega-project tipped to be Dubai Estate, Dubai Holding-backed 4.5M sqm masterplan behind Dubai Hills with a Gold Line station near Global Village",
+      "org": "AGBI",
+      "date": "2026-07-03",
+      "publishDate": "2026-07-04T01:58:08.015Z",
+      "url": "https://www.agbi.com/real-estate/2026/07/emaars-unnamed-megaproject-tipped-to-be-54bn-dubai-estate/",
+      "summary": "AGBI's Josh Corder pins Emaar's Alabbar-flagged 'most ambitious' mega-project to Dubai Estate — south-east Dubai land behind Dubai Hills near Global Village, 4.5M sqm GFA / ~150K residents / Dubai Holding backing / Dubai 2032 Gold Line metro station sited at the plot boundary.",
+      "tags": [
+        "Emaar",
+        "Dubai Estate",
+        "Dubai Holding",
+        "Mega-project",
+        "Gold Line",
+        "Dubai Hills",
+        "Global Village",
+        "Mohamed Alabbar"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-HILLS",
+        "GLOBAL-VILLAGE",
+        "DOWNTOWN"
+      ],
+      "metrics": {
+        "GDV": "AED 200B / USD 54B",
+        "GFA": "4.5M sqm",
+        "Residents": "~150,000",
+        "Downtown Dubai comparison": "~2.5x (Downtown ~1.8M sqm)",
+        "Design iterations since Sep 2025": "3",
+        "Original concept": "40,000 5+BR villas at AED 100B / USD 27B",
+        "Metro tie-in": "Gold Line station near Dubai Hills (2032 opening)",
+        "Backer": "Dubai Holding"
+      },
+      "links": [
+        {
+          "label": "AGBI report (Josh Corder, 2026-07-03)",
+          "url": "https://www.agbi.com/real-estate/2026/07/emaars-unnamed-megaproject-tipped-to-be-54bn-dubai-estate/"
+        },
+        {
+          "label": "Prior Emaar AED 200B mega-project teaser (The National, 2026-06-11)",
+          "url": "https://www.thenationalnews.com/business/property/2026/06/11/emaar-to-launch-dh200bn-megaproject-in-dubai-set-to-house-150000-people/"
+        },
+        {
+          "label": "Dubai RTA Metro Gold Line prequalification (TradeArabia, 2026-06-29)",
+          "url": "https://tradearabia.com/news/464200/dubai-launches-prequalification-bids-for-$9.2bn-metro-gold-line-network-"
+        }
+      ],
+      "explainer": {
+        "tagline": "AGBI names Emaar's unnamed AED 200B mega-project as Dubai Estate — behind Dubai Hills, on the Gold Line, backed by Dubai Holding.",
+        "whatIsIt": "AGBI's Josh Corder reports that industry contacts and Dubai Hills-focused brokers have identified Emaar's flagged 'most ambitious' project as a reimagined Dubai Estate — south-east Dubai land next to Global Village that Emaar has been developing with Dubai Holding since 2025. The masterplan spans 4.5M sqm of GFA and targets ~150,000 residents across residential, offices, hospitality, retail and recreation.",
+        "howItWorks": "The project has cycled through three design iterations since September 2025 — from 'Emaar Hills' (40,000 5+BR villas / AED 100B) through 'Emaar Estate' to today's mixed-use Dubai Estate at AED 200B / USD 54B. Location is south-east of Dubai Hills, near Global Village; Dubai's 2032 Rail Network Plan shows the AED 34B / 18-station Gold Line clipping the plot with a station near Dubai Hills. Footprint is roughly 2.5x Downtown Dubai's 1.8M sqm.",
+        "whyItMatters": "For buyers, an identified name + Gold Line siting + Dubai Holding backing sharpens the underwriting on Emaar's next super-launch — location risk collapses, metro upside is priced in, and the Dubai Hills / Global Village corridor becomes the next mega-community catchment. For Emaar Hills / Dubai Hills owners the announcement adds a masterplanned neighbour that could re-rate land values, but also raises supply risk over the 2028-2032 horizon.",
+        "forWho": "Emaar buyers scouting the next mega-launch, Dubai Hills / MBR City / Global Village owners underwriting neighbour risk, brokers building waiting lists, land traders positioning around Gold Line stations.",
+        "tryIt": "https://www.agbi.com/real-estate/2026/07/emaars-unnamed-megaproject-tipped-to-be-54bn-dubai-estate/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/07/2026-05-04T085708Z_811731511_RC282LA9L43M_RTRMADP_3_EMIRATES-CONFERENCE-scaled.jpg",
+        "alt": "Emaar Properties founder Mohamed Alabbar at the Make it in the Emirates conference, May 2026",
+        "fit": "cover",
+        "credit": "AGBI / Reuters — Amr Alfiky"
+      },
+      "author": {
+        "name": "Josh Corder",
+        "profileUrl": "https://www.agbi.com/author/josh-corder/"
+      }
+    },
+    {
+      "id": "dubai-khaleej-times-offplan-office-h1-2026-record-aed-131b-1668-units-business-bay-52-percent-jul-2-2026",
+      "categories": [
+        "commercial",
+        "market",
+        "offplan"
+      ],
+      "title": "Khaleej Times × Alyaa Aldhanhani prints Dubai's H1 2026 off-plan office tape at a record AED 13.1B / 1,668 units — surpassing 2019-2025 combined (AED 5.48B) as Business Bay claims 52% of value and five developments (Lumena / Lumena Alta / AHS Tower / Shahrukhz / 31 Above) take 71.7%",
+      "org": "Khaleej Times",
+      "date": "2026-07-02",
+      "publishDate": "2026-07-04T01:58:08.015Z",
+      "url": "https://www.khaleejtimes.com/uae/dubai-off-plan-office-sales-hit-dh131bn-in-h1-surpass-previous-seven-years-combined",
+      "summary": "Khaleej Times × Alyaa Aldhanhani reports Dubai off-plan office sales printed a record AED 13.1B across 1,668 units in H1 2026 — surpassing the AED 5.48B / 1,821-unit combined tape from 2019-2025. Business Bay took 52% of value, and five developments (Lumena, Lumena Alta by Omniyat, AHS Tower, Shahrukhz by Danube, 31 Above by Beyond) captured 71.7% of value and 51.3% of deals.",
+      "tags": [
+        "Off-plan Office",
+        "Commercial",
+        "Business Bay",
+        "Omniyat",
+        "Lumena",
+        "AHS Tower",
+        "Danube",
+        "Shahrukhz",
+        "Beyond",
+        "31 Above",
+        "Trade Centre",
+        "TECOM",
+        "Dubai Maritime City",
+        "H1 2026 record"
+      ],
+      "importance": "seismic",
+      "tickers": [
+        "BUSINESS-BAY",
+        "TRADE-CENTRE",
+        "TECOM",
+        "DXB-MARITIME"
+      ],
+      "metrics": {
+        "H1 2026 off-plan office sales": "AED 13.1B",
+        "H1 2026 units": "1,668",
+        "2019-2025 combined sales": "AED 5.48B",
+        "2019-2025 combined units": "1,821",
+        "Business Bay share (value)": "AED 6.8B / 52%",
+        "Business Bay share (deals)": "476 / 28.5%",
+        "Trade Centre Second": "AED 1.7B / 76 deals",
+        "TECOM Site A": "AED 1.4B / 498 deals",
+        "Dubai Maritime City": "AED 1B+ / 87 deals",
+        "Top-5 developments (value share)": "71.7%",
+        "Top-5 developments (deal share)": "51.3%",
+        "Top-5 developments (combined value)": ">AED 9.4B / 856 deals"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times report (Alyaa Aldhanhani, 2026-07-02)",
+          "url": "https://www.khaleejtimes.com/uae/dubai-off-plan-office-sales-hit-dh131bn-in-h1-surpass-previous-seven-years-combined"
+        },
+        {
+          "label": "Gulf Business coverage (2026-07-02)",
+          "url": "https://gulfbusiness.com/en/2026/real-estate/dubai-off-plan-office-sales-hit-record-dhs13-1bn-in-h1"
+        },
+        {
+          "label": "Property Finder — Business Bay office inventory",
+          "url": "https://www.propertyfinder.ae/en/search?c=2&t=1&l=100&ob=mr&page=1"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai off-plan offices book AED 13.1B / 1,668 units in H1 2026 — more than the previous seven years combined, with Business Bay capturing 52% of the value.",
+        "whatIsIt": "Khaleej Times reporter Alyaa Aldhanhani reports on H1 2026 DLD-sourced numbers showing Dubai's off-plan office market has been rewired: developers sold AED 13.1B across 1,668 units in the first six months of 2026 — more than the AED 5.48B / 1,821-unit combined print from 2019-2025. The market is highly concentrated — five developments (Lumena and Lumena Alta by Omniyat, AHS Tower, Shahrukhz by Danube, 31 Above by Beyond) captured 71.7% of value and 51.3% of deals.",
+        "howItWorks": "Business Bay leads with AED 6.8B / 476 transactions (52% of value, 28.5% of deals). Trade Centre Second books AED 1.7B / 76 deals; TECOM Site A AED 1.4B / 498 deals; Dubai Maritime City AED 1B+ / 87 deals. On implied ticket-per-unit, Trade Centre Second (~AED 22M) leads on prime-block density, TECOM (~AED 2.8M) points to fitted floor-plate demand from SMEs and family offices, Business Bay (~AED 14M) reflects a mix of full-floor and multi-floor buys.",
+        "whyItMatters": "For owner-occupier operators the H1 print says off-plan is now the default acquisition path — waiting for ready inventory means missing Grade A stock at pre-completion pricing. For investors the concentration in five developments is a two-edged read — liquidity is high inside those buildings, thin elsewhere, and any slippage on Omniyat / AHS / Danube / Beyond handovers cascades. For brokers the location split names Business Bay and Trade Centre Second as the sale-ticket zones, TECOM as the SME zone, Maritime City as the emerging waterfront office bet.",
+        "forWho": "Owner-occupiers underwriting AED 5-50M office buys, family offices and PE shops evaluating Grade A office exposure, commercial brokers pricing off-plan vs. ready, developers benchmarking take-up rates.",
+        "tryIt": "https://www.khaleejtimes.com/uae/dubai-off-plan-office-sales-hit-dh131bn-in-h1-surpass-previous-seven-years-combined"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/pv8lzxp97f4NSb8CllNcQrV3WYM.jpg?width=1280&height=720&q=75&format=auto",
+        "alt": "Business Bay Dubai commercial skyline — the corridor that captured 52% of Dubai's H1 2026 off-plan office sales",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Alyaa Aldhanhani",
+        "handle": "Khaleej Times Business",
+        "profileUrl": "https://www.khaleejtimes.com/business"
+      }
+    },
     {
       "id": "dubai-dld-jul-2-2026-daily-print-aed-143b-offplan-516-percent-city-of-arabia-land-572m",
       "categories": [

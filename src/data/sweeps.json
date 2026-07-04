@@ -6837,6 +6837,56 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260704t015808z",
+      "timestamp": "2026-07-04T01:58:08.015Z",
+      "source": "github-actions-sweep",
+      "summary": "Two verified additions: AGBI names Emaar's AED 200B / USD 54B 'city within a city' as Dubai Estate — Dubai Holding-backed 4.5M sqm masterplan behind Dubai Hills with a Gold Line metro station near Global Village. Khaleej Times × DLD data via Alyaa Aldhanhani prints Dubai's H1 2026 off-plan office tape at a record AED 13.1B across 1,668 units — surpassing the previous seven years (2019-2025) combined, with Business Bay claiming 52% of value.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-agbi-emaar-dubai-estate-reveal-4-5m-sqm-150k-residents-gold-line-jul-3-2026",
+          "title": "AGBI × Josh Corder reveal — Emaar's unnamed AED 200B / USD 54B mega-project tipped to be Dubai Estate, Dubai Holding-backed 4.5M sqm masterplan behind Dubai Hills with a Gold Line station near Global Village",
+          "category": "developer",
+          "note": "Reveal card upgrades the June 11 Emaar mega-project teaser — AGBI names the project 'Dubai Estate', pinpoints the site (south-east Dubai, behind Dubai Hills, near Global Village), confirms Dubai Holding backing, and ties the plot to a planned Gold Line metro station. Distinct news beat from the initial announcement."
+        },
+        {
+          "id": "dubai-khaleej-times-offplan-office-h1-2026-record-aed-131b-1668-units-business-bay-52-percent-jul-2-2026",
+          "title": "Khaleej Times × Alyaa Aldhanhani prints Dubai's H1 2026 off-plan office tape at a record AED 13.1B / 1,668 units — surpassing 2019-2025 combined (AED 5.48B) as Business Bay claims 52% of value and five developments (Lumena / Lumena Alta / AHS Tower / Shahrukhz / 31 Above) take 71.7%",
+          "category": "commercial",
+          "note": "H1 2026 off-plan office print is the largest structural shift in Dubai's commercial market since the DIFC Grade-A cycle — AED 13.1B / 1,668 units surpasses the 2019-2025 combined tape. Categorised commercial-first (with market + offplan overlaps) because the Dh8.2B Q1 2026 office story is already in-feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "luxury",
+        "market",
+        "commercial",
+        "ready",
+        "distress",
+        "rental",
+        "visa",
+        "auction",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
