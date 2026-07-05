@@ -6976,6 +6976,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260705t131258z",
+      "timestamp": "2026-07-05T13:12:58.958Z",
+      "source": "github-actions-sweep",
+      "summary": "Empty sweep 2026-07-05 — the 72h window (2026-07-02 → 2026-07-05) is already fully covered by yesterday's ingestion: DLD daily prints through Jul-3, the AGBI Emaar Dubai Estate reveal, KT off-plan office H1 record, W Capital H1 tape, Gulf News AED 900M Friday tape (City of Arabia + Passo Palm), Arista HQ Al Furjan groundbreaking, Grovy Ramada, DIFC Heights Tower, Dubai Digital Twin, and Keturah Reserve extreme-heat redesign. Fresh scans of portals, developer pages, official DLD data, luxury brokerage feeds and news wires surfaced no qualifying signal not already in the feed — a KT Flexi Rent rollout follow-up on Jul-2 duplicates the Jun-23 launch card, and the Semafor 'market cracks' piece with a 04/07/2026 slug is actually April-dated (verified via WebFetch).",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "luxury",
+        "commercial",
+        "market",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
