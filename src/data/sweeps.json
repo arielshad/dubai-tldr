@@ -6940,6 +6940,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260705t015928z",
+      "timestamp": "2026-07-05T01:59:28.720Z",
+      "source": "github-actions-sweep",
+      "summary": "72h scan on 2026-07-05 turned up no fresh Dubai-specific opportunity: every tier-1 English July 3–5 story surfaced (Gulf News City of Arabia + Palm Passo villa tape, Emaar Dubai Estate reveal, DLD 03-Jul daily print, chiller-free vs district-cooling explainer, KT H1 off-plan office record, Grovy Ramada show-apartment, Arista HQ Al Furjan groundbreaking) is already in the feed. Remaining candidates — Mario Volpi's 4th column in eight days (Abu Dhabi steady-vs-Dubai lens, redundant), Abu Dhabi H1 2026 AED 84.49B print (out-of-scope for Dubai product), and KT Flexi Rent rollout (2026-07-02, >72h) — do not clear the inclusion bar. Empty sweep is success.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "visa",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
