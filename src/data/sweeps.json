@@ -7037,6 +7037,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260706t150134z",
+      "timestamp": "2026-07-06T15:01:34.119Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep at 2026-07-06 mid-afternoon UTC surfaces two verified Jul-6 signals: The Boring Company × RTA kick off precast production for Dubai Loop Phase-1 (25,000 segments / 45,000 tonnes) — the first execution milestone after May-18's Parsons design lock — and Cavendish Maxwell's H1 2026 residential read prints AED 221.3B / 79,200 deals (-15.7% YoY value / -13.9% volume) with June rebounding +30% MoM to AED 25.17B on off-plan 76% share. Other tier-1 print in the window (Property Finder Q2 UAE rent survey, Arada Capital ADGM $5B fund launch, Abu Dhabi H1 property tape) was verified but excluded as non-Dubai-focus or too regional for this feed.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-loop-tunnel-lining-production-25000-segments-45000-tonne-difc-burj-khalifa-jul-6-2026",
+          "title": "Dubai Loop moves from design to execution — Boring Company × RTA start precast production of 25,000 concrete segments / 45,000 tonnes of tunnel lining for the DIFC↔Dubai Mall Phase-1, AED 600M ($163M), 4 stations, ~2-year build",
+          "category": "market",
+          "note": "First physical-execution milestone on Dubai Loop after May-18 design-lock — precast concrete production has started, hard signal that DIFC↔Dubai Mall commute compression is no longer paper."
+        },
+        {
+          "id": "dubai-cavendish-maxwell-h1-2026-residential-aed-221-3b-79-2k-deals-june-25-17b-30-percent-mom-jul-6-2026",
+          "title": "Cavendish Maxwell Jul-6 H1 2026 read — Dubai residential clears AED 221.3B / 79,200 deals (-15.7% value / -13.9% volume YoY) but June rebounds to AED 25.17B / 12,315 deals (+30% MoM) with off-plan claiming 76% share",
+          "category": "market",
+          "note": "First Dubai residential-only H1 2026 read plus explicit June +30% MoM rebound; complements the existing W Capital total-market H1 print already in the feed."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "commercial",
+        "ready",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

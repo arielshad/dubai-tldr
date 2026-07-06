@@ -1,8 +1,155 @@
 {
-  "generatedAt": "2026-07-06T02:07:45.652Z",
+  "generatedAt": "2026-07-06T15:01:34.119Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-loop-tunnel-lining-production-25000-segments-45000-tonne-difc-burj-khalifa-jul-6-2026",
+      "categories": [
+        "market",
+        "commercial",
+        "ready"
+      ],
+      "title": "Dubai Loop moves from design to execution — Boring Company × RTA start precast production of 25,000 concrete segments / 45,000 tonnes of tunnel lining for the DIFC↔Dubai Mall Phase-1, AED 600M ($163M), 4 stations, ~2-year build",
+      "org": "The Boring Company / Dubai Roads and Transport Authority (via TradeArabia)",
+      "date": "2026-07-06",
+      "publishDate": "2026-07-06T15:01:34.119Z",
+      "url": "https://tradearabia.com/News/464737/Dubai-Loop-work-begins-as-production-starts-on-45%2c000-tonne-tunnel-lining",
+      "summary": "TradeArabia reports Jul-6 that TBC's Dubai precast facility has started producing the ~25,000 concrete tunnel segments (each ~1,800 kg, ~45,000 t combined) for Dubai Loop Phase 1 — the 6.4 km, four-station DIFC ↔ ICD Brookfield ↔ Za'abeel/Dubai Mall Parking ↔ Burj Khalifa/Dubai Mall underground link priced at AED 600M ($163M). Expected completion in ~2 years. First public physical-execution milestone since the May-18 Parsons design-lock.",
+      "tags": [
+        "dubai-loop",
+        "boring-company",
+        "rta",
+        "difc",
+        "downtown",
+        "burj-khalifa",
+        "infrastructure",
+        "precast",
+        "execution-milestone"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DIFC",
+        "DOWNTOWN",
+        "BURJ-KHALIFA",
+        "DUBAI-MALL"
+      ],
+      "metrics": {
+        "Segments in production": "~25,000 precast concrete",
+        "Segment weight": "~1,800 kg each",
+        "Total tunnel lining": "~45,000 tonnes",
+        "Precast facility": "TBC Dubai precast concrete plant",
+        "Phase-1 route": "6.4 km",
+        "Phase-1 stations": "4 — DIFC, ICD Brookfield Place, Za'abeel/Dubai Mall Parking, Burj Khalifa/Dubai Mall",
+        "Phase-1 capex": "AED 600M (~$163M)",
+        "Commute compression": "DIFC ↔ Dubai Mall from 20 min → 3 min",
+        "Full network": "24 km / 19 stations",
+        "Build horizon": "~2 years to Phase-1 completion",
+        "Prior milestone": "May-18 2026 Parsons design lock"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai Loop work begins as production starts on 45,000-tonne tunnel lining (6 Jul 2026)",
+          "url": "https://tradearabia.com/News/464737/Dubai-Loop-work-begins-as-production-starts-on-45%2c000-tonne-tunnel-lining"
+        },
+        {
+          "label": "GDN Online — Dubai Loop production begins (6 Jul 2026)",
+          "url": "https://www.gdnonline.com/Details/1399837/Dubai-Loop-work-begins-as-production-starts-on-45,000-tonne-tunnel-lining"
+        },
+        {
+          "label": "Khaleej Times — Precast concrete work begins for Dubai Loop tunnel Phase 1 (100 million lbs)",
+          "url": "https://www.khaleejtimes.com/uae/transport/precast-concrete-work-dubai-loop-tunnel-phase-1-100-million-pounds"
+        },
+        {
+          "label": "The Boring Company — Dubai Loop project page",
+          "url": "https://www.boringcompany.com/dubai"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai Loop just cleared its first execution milestone — precast concrete production has started on 45,000 tonnes of tunnel lining for the DIFC↔Dubai Mall Phase-1 underground link.",
+        "whatIsIt": "The Boring Company (TBC) and Dubai's Roads and Transport Authority announced on 6 July 2026 that production of the precast concrete tunnel segments for Dubai Loop Phase 1 has begun at TBC's Dubai precast facility. The first phase requires ~25,000 segments at ~1,800 kg each, adding up to ~45,000 tonnes of concrete lining for a 6.4 km, four-station underground route linking DIFC, ICD Brookfield Place, Za'abeel/Dubai Mall Parking, and Burj Khalifa/Dubai Mall. Phase-1 capex sits at ~AED 600M ($163M) with completion in around two years.",
+        "howItWorks": "This is the first physical-execution milestone after the 18 May 2026 Parsons design lock — production of the tunnel liner itself begins ahead of ground-break so segments can be stockpiled next to the launch shaft. Full network target: 24 km / 19 stations, ~30,000 riders/day at build-out. Owners and tenants in the four-station catchment should watch for the RTA's formal station-footprint gazette, right-of-way and shaft-location updates, and any RERA/DLD permit notices that follow the precast ramp — those are the sub-milestones that will move adjacent building values before ground-break is celebrated.",
+        "whyItMatters": "Metro/loop-station catchments have historically driven 5-15% premium in Dubai (Marina, Business Bay, JLT once their Red-Line stations were confirmed). Phase 1 covers Dubai's densest commercial-and-luxury block: DIFC offices, ICD Brookfield tenants, Burj Khalifa-cluster apartments, Dubai Mall retail. Precast-production start is a credibility signal — the project has escalated from paper into physical goods and is now much harder to cancel — which starts baking commute compression (20 min → 3 min DIFC↔Dubai Mall) into 2027-2028 acquisition pricing. Downside: Boring Company schedule slip is the standing risk; assume 6-12 months of headline optionality before the uplift is fully in market pricing.",
+        "forWho": "DIFC and Downtown office tenants and landlords pricing 2027-2029 lease renewals, Burj-Khalifa-cluster apartment sellers timing an exit, retail/F&B operators along Mohammed Bin Rashid Boulevard, ICD Brookfield Place owners, hotel asset managers in the Address / Armani cluster, and infrastructure-linked land traders in Za'abeel.",
+        "tryIt": "https://www.boringcompany.com/dubai"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/06/TA_20260706151438.webp",
+        "alt": "Precast concrete tunnel segments being produced at The Boring Company's Dubai facility for Dubai Loop Phase 1's DIFC-to-Dubai-Mall underground link",
+        "fit": "cover",
+        "credit": "TradeArabia"
+      }
+    },
+    {
+      "id": "dubai-cavendish-maxwell-h1-2026-residential-aed-221-3b-79-2k-deals-june-25-17b-30-percent-mom-jul-6-2026",
+      "categories": [
+        "market",
+        "offplan",
+        "ready"
+      ],
+      "title": "Cavendish Maxwell Jul-6 H1 2026 read — Dubai residential clears AED 221.3B / 79,200 deals (-15.7% value / -13.9% volume YoY) but June rebounds to AED 25.17B / 12,315 deals (+30% MoM) with off-plan claiming 76% share",
+      "org": "Cavendish Maxwell (via TradeArabia)",
+      "date": "2026-07-06",
+      "publishDate": "2026-07-06T15:01:34.119Z",
+      "url": "https://tradearabia.com/News/464697/Dubai-residential-sector-records-%2460bn-sales-in-H1%3b-June-signals-sharp-recovery",
+      "summary": "Cavendish Maxwell's Jul-6 residential-only read of the H1 2026 tape prints AED 221.3B ($60.26B) across ~79,200 transactions — a 15.7% value / 13.9% volume decline vs H1 2025 as regional tensions weighed on Q2. June rebounded sharply: 12,315 transactions for AED 25.17B, a ~30% MoM lift over May, with off-plan capturing 9,442 deals / AED 17.6B (76% share) vs May's AED 15.2B. Complements the W Capital total-market H1 tape (AED 286.44B).",
+      "tags": [
+        "cavendish-maxwell",
+        "H1-2026",
+        "residential-tape",
+        "june-rebound",
+        "off-plan-share",
+        "post-truce",
+        "market-macro"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DXB-MACRO",
+        "DXB-RESIDENTIAL"
+      ],
+      "metrics": {
+        "H1 2026 residential sales": "AED 221.3B ($60.26B)",
+        "H1 2026 residential deals": "~79,200",
+        "H1 vs H1 2025 value": "-15.7%",
+        "H1 vs H1 2025 volume": "-13.9%",
+        "June 2026 sales": "AED 25.17B",
+        "June 2026 deals": "12,315",
+        "June MoM": "+~30%",
+        "June off-plan deals": "9,442 (76% share)",
+        "June off-plan value": "AED 17.6B",
+        "May off-plan value comp": "AED 15.2B",
+        "Cross-check — W Capital total-market H1": "AED 286.44B / 86,000+ deals"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Dubai residential sector records $60bn sales in H1; June signals sharp recovery (6 Jul 2026)",
+          "url": "https://tradearabia.com/News/464697/Dubai-residential-sector-records-%2460bn-sales-in-H1%3b-June-signals-sharp-recovery"
+        },
+        {
+          "label": "Cavendish Maxwell — Dubai residential market intelligence hub",
+          "url": "https://www.cavendishmaxwell.com/insights/dubai-residential-market-intelligence"
+        },
+        {
+          "label": "DLD open data portal (source underlying tape)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai residential H1 2026 printed -15.7% YoY on value, but June rebounded +30% MoM as off-plan snapped back to 76% share — the tape's first post-truce turn.",
+        "whatIsIt": "On 6 July 2026 Cavendish Maxwell's Ronan Arthur (Director of Residential Valuation) published the residential-only H1 2026 Dubai read: AED 221.3B ($60.26B) across ~79,200 transactions — a 15.7% value / 13.9% volume drop vs H1 2025's record. June alone booked AED 25.17B across 12,315 deals, a ~30% MoM step-up from May and the sharpest single-month rebound since Feb's Iran-linked market stress. Off-plan took 9,442 of June's deals (76% share) at AED 17.6B, up from AED 15.2B in May.",
+        "howItWorks": "This is residential-only — the AED 221.3B differs from W Capital's Jul-3 AED 286.44B total-market H1 print (already in the feed) because Cavendish Maxwell strips out land, buildings, and pure-commercial sales. The two prints are complementary, not contradictory. June's off-plan resurgence sits behind DAMAC's Lifestyle Collection, Ellington Everly Place, Nakheel Palm Central, and the Imtiaz Sea Cliff / RAW District launches already in the feed. Q2 aggregate (per the same cited DLD data) is AED 110B / 38,300 deals — pointing at a June that alone did ~23% of Q2 value in one month. Volume trajectory: Q1 was AED ~96B implied, Q2 AED ~110B; the -15.7% YoY is entirely a Q2 story, not Q1.",
+        "whyItMatters": "H1's headline decline reframes what 'record year' means: launch value (AED 275B / 250 projects H1) is up, but residential resale/off-plan sold value is materially down YoY. June's rebound plus off-plan's 76% share suggests buyer confidence is coming back through the launch pipeline first — not through secondary resale — meaning developer inventory sheets and payment-plan terms are the leading edge of H2 pricing, and secondary-market brokers should expect the recovery to lag by weeks. Sellers holding ready stock through Q3 should be pricing off comps that reflect the June turn, not the March-May softness.",
+        "forWho": "Fund LPs benchmarking Dubai residential book size, developer sales heads reading pipeline conviction, brokerage principals resetting listing pricing for Q3, and analysts triangulating W Capital's total-market vs Cavendish Maxwell's residential-only reads of the same H1 tape.",
+        "tryIt": "https://tradearabia.com/News/464697/Dubai-residential-sector-records-%2460bn-sales-in-H1%3b-June-signals-sharp-recovery"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/06/TA_20260706081526.webp",
+        "alt": "Cavendish Maxwell Jul-6 Dubai residential H1 2026 read — AED 221.3B across 79,200 deals with June sales rebounding 30% MoM",
+        "fit": "cover",
+        "credit": "TradeArabia / Cavendish Maxwell"
+      }
+    },
     {
       "id": "dubai-w-capital-dld-h1-2026-record-aed-286-44b-86k-deals-ready-146-7b-offplan-139-8b-jul-3-2026",
       "categories": [
