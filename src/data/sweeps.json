@@ -7012,6 +7012,31 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260706t020745z",
+      "timestamp": "2026-07-06T02:07:45.652Z",
+      "source": "github-actions-sweep",
+      "summary": "2026-07-06 06:00 UAE sweep — no new qualifying items. Fresh news window is thin: previous sweep ran 14 hours ago (2026-07-05T13:13Z), Jul 4-5 was the UAE weekend, and the DLD Jul-4 daily-print URL (therealestatereports.com review-05-jul-2026) is not yet published. Everything else surfaced across Zawya, Khaleej Times, Gulf News, TradeArabia and Arabian Business either duplicates existing feed items (W Capital H1 2026 print, KT 2-yr visa 750K piece, KT Flexi Rent broker follow-up, DLD 3-Jul print) or falls outside the 72h date cap (Naia Island Sotheby's AED 560M land transaction cluster from 2026-06-05, MBR Housing Establishment 'Dubai Housing Magazine' launch on 2026-07-01). Empty sweep is success per prompt hard rule and SWEEP_MEMORY 2026-05-06-B.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
