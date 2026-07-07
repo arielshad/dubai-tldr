@@ -1,8 +1,153 @@
 {
-  "generatedAt": "2026-07-07T02:03:12.501Z",
+  "generatedAt": "2026-07-07T14:12:26.339Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jul-6-2026-daily-print-aed-864m-non-land-city-of-arabia-466m-jumeirah-bay-122m-mortgage",
+      "categories": [
+        "market",
+        "ready",
+        "offplan"
+      ],
+      "title": "Dubai DLD daily print 2026-07-06: AED 864.4M non-land with off-plan 50.8% (AED 439.4M) edging ready 49.2% (AED 425.0M) — AED 466.4M City of Arabia land plot anchors a AED 2.64B all-in tape as a AED 122.5M Jumeirah Bay villa mortgage and AED 100M Dubai Silicon Oasis luxury flat tick through",
+      "org": "The Real Estate Reports / Dubai Land Department",
+      "date": "2026-07-06",
+      "publishDate": "2026-07-07T14:12:26.339Z",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-07-jul-2026",
+      "summary": "DLD daily 2026-07-06: AED 864.4M non-land tape with off-plan at 50.8% (AED 439.4M) edging ready 49.2% (AED 425.0M). Flats dominate both segments — off-plan flats capture 80.2% of the off-plan book, ready flats 69.5% of the ready book. Off-plan villas AED 70M and ready villas AED 90.5M round out the non-land book. Land trades push the all-in tape to ~AED 2.64B, headlined by a AED 466.4M City of Arabia plot. Standout line-items: a AED 100M Dubai Silicon Oasis luxury flat and a AED 122.5M Jumeirah Bay villa mortgage.",
+      "tags": [
+        "DLD daily",
+        "off-plan edge",
+        "City of Arabia land",
+        "Jumeirah Bay mortgage",
+        "Dubai Silicon Oasis luxury flat",
+        "daily print"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DXB-DSO",
+        "DXB-JB",
+        "DXB-CITY-OF-ARABIA",
+        "DXB-MACRO"
+      ],
+      "metrics": {
+        "Non-land tape": "AED 864.4M",
+        "All-in tape (incl. land)": "AED 2.64B",
+        "Off-plan share": "50.8% (AED 439.4M)",
+        "Ready share": "49.2% (AED 425.0M)",
+        "Off-plan flats share of off-plan book": "80.2%",
+        "Ready flats share of ready book": "69.5%",
+        "Off-plan villas": "AED 70M",
+        "Ready villas": "AED 90.5M",
+        "Notable land trade": "AED 466.4M — City of Arabia plot",
+        "Notable luxury flat": "AED 100M — Dubai Silicon Oasis",
+        "Notable mortgage": "AED 122.5M — Jumeirah Bay villa"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — Dubai daily 2026-07-06 (published 2026-07-07)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-07-jul-2026"
+        },
+        {
+          "label": "DLD open real-estate transaction data (primary source)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        },
+        {
+          "label": "Dubai REST daily transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Jul-6 DLD tape: AED 864.4M non-land, off-plan 50.8% edging ready — City of Arabia AED 466.4M land pushes the all-in to AED 2.64B.",
+        "whatIsIt": "Dubai Land Department daily transaction print for Monday 2026-07-06, packaged the next morning by The Real Estate Reports. Off-plan reclaims a narrow lead at 50.8% (AED 439.4M) against ready's 49.2% (AED 425.0M) on a AED 864.4M non-land tape. A single AED 466.4M City of Arabia land trade lifts the all-in daily to ~AED 2.64B.",
+        "howItWorks": "Flats dominate both books — off-plan flats claim 80.2% of the off-plan side, ready flats 69.5% of the ready book. Villas run AED 70M off-plan / AED 90.5M ready. Two single-line items to flag: a AED 100M luxury flat trade in Dubai Silicon Oasis and a AED 122.5M mortgage on a Jumeirah Bay villa. Sequence context: Jul-1 (63.1% off-plan / AED 1.40B) → Jul-2 (51.6% off-plan / AED 1.43B) → Jul-3 (45.3% off-plan / AED 1.28B) → Jul-6 (50.8% off-plan / AED 864.4M non-land).",
+        "whyItMatters": "The DSO AED 100M flat is unusual for that community — worth pulling the address to verify the tower and pricing benchmark before any DSO client uses it as a comp. The AED 122.5M Jumeirah Bay villa mortgage is a Grade-A trophy-lending comp for anyone financing an island villa. The AED 466.4M City of Arabia land plot is a repeat pattern from Jul-2's AED 571.7M land trade — two land plots > AED 400M in five sessions signals master-plan-scale land is actively changing hands, which brokers pitching bulk plot deals should note.",
+        "forWho": "DSO comp checkers; Jumeirah Bay lenders / brokers; City of Arabia land-plot underwriters; H2 launch developers reading the ready-vs-off-plan flip.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-07-jul-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/fee5d558-3d2f-4fda-a305-ed9f49c8dd8b/pexels-jdgromov-4491951__2_.jpg",
+        "alt": "Dubai skyline hero image accompanying The Real Estate Reports Jul-6-2026 DLD daily market review",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      }
+    },
+    {
+      "id": "dubai-gulf-news-knight-frank-h1-2026-luxury-296-deals-51b-dubai-hills-51-palm-jumeirah-50-aman-residences-1149m-jul-7-2026",
+      "categories": [
+        "luxury",
+        "market"
+      ],
+      "title": "Gulf News × Knight Frank Jul-7 H1 2026 read — Dubai's $10M+ luxury tape prints 296 deals for USD 5.1B (+14% YoY / +49% vs H1 2024), 26 deals above $25M (record) as Dubai Hills Estate 51 / Palm Jumeirah 50 / Palm Jebel Ali 40 lead and an Aman Residences Jumeirah Second six-bedroom apartment clears USD 114.9M / AED 422M for the top line",
+      "org": "Knight Frank (via Gulf News)",
+      "date": "2026-07-07",
+      "publishDate": "2026-07-07T14:12:26.339Z",
+      "url": "https://gulfnews.com/business/property/dubai-records-296-luxury-home-sales-above-10-million-in-h1-2026-1.500598223",
+      "summary": "Knight Frank's H1 2026 $10M+ luxury print via Gulf News (Nivetha Dayanand, Jul-7): 296 deals cleared USD 5.1B — up 14% YoY, 16% above H1 2025 volume and 49% above H1 2024. Q1 booked 165 deals, Q2 131. A record 26 transactions cleared above USD 25M. Dubai Hills Estate led with 51 luxury sales, Palm Jumeirah 50, Palm Jebel Ali 40 (ahead of its 2028 completion). Top line: a six-bedroom apartment at Aman Residences (Jumeirah Second) cleared USD 114.9M / AED 422M. Faisal Durrani (Knight Frank MENA research head) notes most deals closed before regional conflicts and registered later on standard processing delays. Wider H1 residential volume was down 14%.",
+      "tags": [
+        "knight-frank",
+        "H1-2026",
+        "luxury-tape",
+        "$10M-plus",
+        "aman-residences",
+        "palm-jebel-ali",
+        "dubai-hills",
+        "prime-residential"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB",
+        "DXB-PALM",
+        "DXB-HILLS",
+        "DXB-PJA",
+        "DXB-LUXURY"
+      ],
+      "metrics": {
+        "$10M+ deals H1 2026": "296",
+        "$10M+ deal value H1 2026": "USD 5.1B",
+        "YoY change value": "+14%",
+        "YoY change count": "+16%",
+        "vs H1 2024 count": "+49%",
+        "Q1 2026 $10M+ deals": "165",
+        "Q2 2026 $10M+ deals": "131",
+        "$25M+ deals H1 2026": "26 (record)",
+        "Dubai Hills Estate $10M+ sales": "51",
+        "Palm Jumeirah $10M+ sales": "50",
+        "Palm Jebel Ali $10M+ sales": "40",
+        "Top single deal": "USD 114.9M / AED 422M — Aman Residences Jumeirah Second, 6BR apartment",
+        "Wider H1 residential volume": "-14% YoY"
+      },
+      "links": [
+        {
+          "label": "Gulf News — Dubai records 296 luxury home sales above $10M in H1 2026 (Nivetha Dayanand, Jul-7-2026)",
+          "url": "https://gulfnews.com/business/property/dubai-records-296-luxury-home-sales-above-10-million-in-h1-2026-1.500598223"
+        },
+        {
+          "label": "Knight Frank Dubai research hub",
+          "url": "https://www.knightfrank.ae/research"
+        },
+        {
+          "label": "DLD open real-estate transaction data (primary source)",
+          "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Knight Frank Jul-7 H1 print: 296 $10M+ deals for USD 5.1B with Aman Residences Jumeirah Second's AED 422M six-bedroom apartment the top line.",
+        "whatIsIt": "Gulf News's Nivetha Dayanand walks Knight Frank's H1 2026 read of Dubai's $10M+ residential tape. 296 deals cleared USD 5.1B — the segment is up 14% YoY on value, 16% on count vs H1 2025, and 49% on count vs H1 2024. A record 26 transactions cleared above USD 25M. Q1 (165 deals) frontloaded the half — Q2 (131 deals) softened but still holds the second-highest count on record.",
+        "howItWorks": "Community concentration is tight: Dubai Hills Estate 51 deals, Palm Jumeirah 50, Palm Jebel Ali 40 — three communities take ~48% of the luxury tape. The top-line trade is a six-bedroom apartment at Aman Residences (Jumeirah Second) at USD 114.9M / AED 422M — the third-largest ever recorded in Dubai. Knight Frank MENA research head Faisal Durrani flags that most H1 deals closed before the regional escalation and registered later on standard DLD processing delays; the wider H1 residential market by contrast was down 14% on volume and 15.7% on value.",
+        "whyItMatters": "For luxury brokers, this reset the shortlist: Dubai Hills, Palm Jumeirah, and Palm Jebel Ali are where the $10M+ liquidity actually sits — pitching an ultra-prime client outside those three needs a specific hook. Palm Jebel Ali's 40 deals before its 2028 completion is the number to note — pre-handover paper is clearing at trophy prices, which sets a floor when the physical stock lands. The Q2 softening (131 vs 165) is a leading indicator for H2 sentiment — 12-15% asking cuts in the sub-$10M segment (per Mario Volpi last week) may extend upward if July/August prints follow.",
+        "forWho": "Ultra-prime brokers pitching Dubai Hills / Palm Jumeirah / Palm Jebel Ali; funds tracking pre-handover Palm Jebel Ali paper; luxury investors underwriting Aman Residences comps.",
+        "tryIt": "https://gulfnews.com/business/property/dubai-records-296-luxury-home-sales-above-10-million-in-h1-2026-1.500598223"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2024-11-17%2Fobusx3qx%2FA_resident_takes_pictures_of_the_fog_covered_Dubai_skyline_with_Burj_Khalifa_in_the_background__from.jpg",
+        "alt": "Dubai skyline with Burj Khalifa in background — Gulf News hero for Knight Frank's H1 2026 $10M+ luxury tape read (296 deals, USD 5.1B)",
+        "fit": "cover",
+        "credit": "Gulf News"
+      }
+    },
     {
       "id": "dubai-loop-tunnel-lining-production-25000-segments-45000-tonne-difc-burj-khalifa-jul-6-2026",
       "categories": [

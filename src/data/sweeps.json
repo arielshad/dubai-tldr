@@ -7118,6 +7118,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260707t141226z",
+      "timestamp": "2026-07-07T14:12:26.339Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul-7 sweep — added the DLD 2026-07-06 daily print (AED 864.4M non-land, off-plan 50.8% edging ready 49.2%, City of Arabia AED 466.4M land anchoring a AED 2.64B all-in tape, DSO AED 100M luxury flat + AED 122.5M Jumeirah Bay villa mortgage) and Knight Frank's H1 2026 $10M+ luxury tape via Gulf News (296 deals, USD 5.1B, +14% YoY / +49% vs H1 2024, Dubai Hills 51 / Palm Jumeirah 50 / Palm Jebel Ali 40, Aman Residences Jumeirah Second USD 114.9M / AED 422M six-bedroom apartment as the top line).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jul-6-2026-daily-print-aed-864m-non-land-city-of-arabia-466m-jumeirah-bay-122m-mortgage",
+          "title": "Dubai DLD daily print 2026-07-06: AED 864.4M non-land with off-plan 50.8% (AED 439.4M) edging ready 49.2% (AED 425.0M) — AED 466.4M City of Arabia land plot anchors a AED 2.64B all-in tape as a AED 122.5M Jumeirah Bay villa mortgage and AED 100M Dubai Silicon Oasis luxury flat tick through",
+          "category": "market",
+          "note": "Dubai Land Department 2026-07-06 daily tape via The Real Estate Reports — off-plan 50.8% / ready 49.2% with a AED 466.4M City of Arabia land plot and AED 122.5M Jumeirah Bay villa mortgage as the standout lines. Comp read for JBI resale + City of Arabia land underwriting."
+        },
+        {
+          "id": "dubai-gulf-news-knight-frank-h1-2026-luxury-296-deals-51b-dubai-hills-51-palm-jumeirah-50-aman-residences-1149m-jul-7-2026",
+          "title": "Gulf News × Knight Frank Jul-7 H1 2026 read — Dubai's $10M+ luxury tape prints 296 deals for USD 5.1B (+14% YoY / +49% vs H1 2024), 26 deals above $25M (record) as Dubai Hills Estate 51 / Palm Jumeirah 50 / Palm Jebel Ali 40 lead and an Aman Residences Jumeirah Second six-bedroom apartment clears USD 114.9M / AED 422M for the top line",
+          "category": "luxury",
+          "note": "Knight Frank's H1 2026 $10M+ luxury print via Gulf News (Nivetha Dayanand) — 296 deals for USD 5.1B, 26 deals >$25M (record), Aman Residences Jumeirah Second six-bedroom apartment USD 114.9M / AED 422M the top line. Community concentration read for luxury brokers pitching Dubai Hills / Palm Jumeirah / Palm Jebel Ali."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "ready",
+        "offplan"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
