@@ -7080,6 +7080,44 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260707t020312z",
+      "timestamp": "2026-07-07T02:03:12.501Z",
+      "source": "github-actions-sweep",
+      "summary": "Post-window sweep after the 2026-07-06T15:01Z run. Scanned Dubai portals, DLD/RERA, developer launches, distress, brokerage and market-data sources for the 2026-07-04 to 2026-07-07 window. Prior run already picked up the seismic Jul-6 items (Dubai Loop tunnel-lining production, Cavendish Maxwell H1 read, W Capital H1 tape, Emaar Dubai Estate reveal, DIFC Heights Tower contract). Only marginal follow-up signal in the last ~11h was a Tomorrow World Properties / SKR Building contract signing for Tomorrow 166 on Dubai Islands (2026-07-06, Q4 2027 handover) — dropped for failing the metrics bar (no unit count, floor count, price or size disclosed).",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "developer",
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "luxury",
+        "commercial",
+        "auction",
+        "lead",
+        "duplicate",
+        "legal"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
