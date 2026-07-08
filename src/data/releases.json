@@ -1,8 +1,210 @@
 {
-  "generatedAt": "2026-07-08T01:35:47.836Z",
+  "generatedAt": "2026-07-08T13:36:21.454Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-avenew-kora-o1ne-district-dawn-motor-city-aed-6b-mixed-use-jul-8-2026",
+      "categories": [
+        "commercial",
+        "developer",
+        "offplan"
+      ],
+      "title": "AVENEW Development × KORA Properties launch O1NE District at Dubai Motor City — AED 6B / USD 1.6B mixed-use masterplan opens sales with DAWN Grade A office tower, five more commercial towers plus an integrated retail destination and a healthcare facility to follow",
+      "org": "Gulf News / TradeArabia",
+      "date": "2026-07-08",
+      "url": "https://gulfnews.com/business/property/avenew-development-and-kora-properties-unveil-o1ne-district-as-sales-commence-for-dawn-1.500601076",
+      "summary": "AVENEW Development and KORA Properties (APPCORP Holding / Apparel Group) unveil O1NE District — an AED 6B / USD 1.6B commercial masterplan at Dubai Motor City with six towers, a retail destination and a healthcare facility. DAWN, the first Grade A office tower, opens sales.",
+      "tags": [
+        "dubai-motor-city",
+        "commercial-launch",
+        "grade-a-office",
+        "avenew",
+        "kora-properties",
+        "apparel-group",
+        "appcorp-holding",
+        "dubai-autodrome",
+        "mixed-use-masterplan",
+        "offplan-commercial",
+        "healthcare",
+        "retail"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MOTORCITY",
+        "DUBAILAND"
+      ],
+      "metrics": {
+        "Total development value": "AED 6B / USD 1.6B",
+        "Commercial towers": "6",
+        "First tower launched": "DAWN — Grade A office",
+        "Retail component": "Integrated retail destination with air-conditioned connectivity",
+        "Healthcare component": "1 dedicated facility",
+        "Location": "Adjacent to Dubai Autodrome, Motor City",
+        "Access": "Direct routes to Downtown Dubai, Palm Jumeirah and future Al Maktoum International Airport",
+        "Amenities": "Concierge super lobby, landscaped podium terraces, sky gardens, rooftop dining, outdoor workspaces"
+      },
+      "links": [
+        {
+          "label": "TradeArabia coverage",
+          "url": "https://tradearabia.com/News/464855/Avenew%2c-Kora-unveil-%241.6bn-mixed-use-destination-at-Dubai-Motor-City/CONS"
+        },
+        {
+          "label": "Khaleej Times: Avenew and Kora to transform Motor City",
+          "url": "https://www.khaleejtimes.com/business-technology-review/avenew-and-kora-to-transform-motor-city-with-new-commercial-district"
+        }
+      ],
+      "explainer": {
+        "tagline": "Motor City gets its first AED 6B commercial masterplan — a six-tower Grade A office district anchored by DAWN with a retail spine and a healthcare facility.",
+        "whatIsIt": "AVENEW Development and Nilesh Ved's KORA Properties (part of APPCORP Holding and Apparel Group) unveil O1NE District — a mixed-use commercial masterplan next to the Dubai Autodrome. Phase one opens with DAWN, a Grade A office tower designed with flexible floorplates, generous floor-to-floor heights and direct air-conditioned links to the retail spine. Five more commercial towers, an integrated retail destination and a healthcare facility follow.",
+        "howItWorks": "Sales for DAWN commence 2026-07-08 as the anchor of an AED 6B / USD 1.6B masterplan. The district sits adjacent to the Autodrome with routes to Downtown Dubai, Palm Jumeirah and the future Al Maktoum International Airport. Amenities include a concierge-serviced super lobby, landscaped podium terraces, sky gardens, rooftop dining and outdoor workspaces. Handover, floor count, per-sqft ask and unit count for DAWN are not yet disclosed — verify with the sales team.",
+        "whyItMatters": "Motor City's commercial stock has been rental-dominated and mid-grade — a AED 6B Grade A masterplan repositions it as a commercial district for Business Bay overspill and Expo-corridor tenants. Six towers plus retail and healthcare should compress vacancies in the immediate submarket and set a new ask/sqft benchmark for whole-plate office demand in DubaiLand. For end-users this is the first true Grade A alternative outside DIFC / Business Bay / DIC on the Al Khail axis.",
+        "forWho": "Occupiers, corporate real-estate teams and investors underwriting Grade A office plays in DubaiLand / Al Khail; brokers matching tenants priced out of Business Bay or DIFC; healthcare and retail operators scouting anchor space.",
+        "tryIt": "https://gulfnews.com/business/property/avenew-development-and-kora-properties-unveil-o1ne-district-as-sales-commence-for-dawn-1.500601076"
+      },
+      "image": {
+        "url": "https://media.assettype.com/gulfnews%2F2026-07-08%2F5slip0fi%2FAVENEW-Development-and-KORA-Properties-unveil-O1NE-District-.jpeg",
+        "alt": "Render of AVENEW × KORA Properties' O1NE District at Dubai Motor City with the DAWN Grade A office tower",
+        "fit": "cover",
+        "credit": "AVENEW Development / KORA Properties via Gulf News"
+      },
+      "publishDate": "2026-07-08T13:36:21.454Z"
+    },
+    {
+      "id": "dubai-dld-jul-7-2026-daily-print-aed-135b-offplan-625-percent-city-of-arabia-121b-mortgage",
+      "categories": [
+        "market",
+        "land",
+        "commercial"
+      ],
+      "title": "Dubai DLD daily print 2026-07-07: AED 1.35B non-land with off-plan back to 62.5% — off-plan flats AED 697.9M lead as a City of Arabia land tape absorbs AED 1.21B of mortgage flow across 4 plots and the land book prints AED 2.18B for the day",
+      "org": "The Real Estate Reports",
+      "date": "2026-07-07",
+      "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-08-jul-2026",
+      "summary": "Dubai's Jul-7 tape reads AED 1.35B non-land (off-plan 62.5% / ready 37.5%) as a AED 2.18B land book skews around City of Arabia's AED 1.21B four-mortgage cluster. Off-plan flats AED 697.9M lead and ready flats AED 360.1M hold the secondary engine.",
+      "tags": [
+        "dld-daily",
+        "off-plan",
+        "ready",
+        "mortgage",
+        "city-of-arabia",
+        "land",
+        "commercial",
+        "park21",
+        "dlrc"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DLD",
+        "CITY-OF-ARABIA",
+        "DLRC",
+        "DUBAI-SOUTH"
+      ],
+      "metrics": {
+        "Non-land total": "AED 1.35B",
+        "Off-plan share": "62.5%",
+        "Ready share": "37.5%",
+        "Off-plan flats": "AED 697.9M (82.6% of off-plan)",
+        "Off-plan villas": "AED 75.8M (9.0%)",
+        "Off-plan commercial": "AED 66.7M (7.9%)",
+        "Off-plan hotel apts / rooms": "AED 4.3M",
+        "Ready flats": "AED 360.1M (70.9% of ready)",
+        "Ready villas": "AED 97.5M (19.2%)",
+        "Ready commercial": "AED 36.3M (7.2%)",
+        "Ready hotel apts / rooms": "AED 13.8M",
+        "Land total": "AED 2.18B",
+        "City of Arabia mortgage cluster": "AED 1.21B across 4 plots (55.5% of land value)",
+        "Notable plot": "PARK21 (DLRC) — G+11 plot acquired for AED 24M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Reports — 08 Jul 2026 issue",
+          "url": "https://therealestatereports.com/p/dubai-real-estate-market-review-08-jul-2026"
+        },
+        {
+          "label": "Dubai Pulse — DLD transactions dataset",
+          "url": "https://www.dubaipulse.gov.ae/organisation/dld/service/dld-transactions"
+        }
+      ],
+      "explainer": {
+        "tagline": "AED 1.35B non-land / AED 2.18B land — off-plan back above 60% as City of Arabia's AED 1.21B four-mortgage cluster dominates the tape.",
+        "whatIsIt": "Dubai DLD's Jul-7 daily print reads AED 1.35B excluding land, with off-plan back to 62.5% share of that tape and ready flats holding a AED 360.1M secondary book. Land trades separately at AED 2.18B with a concentrated City of Arabia mortgage cluster.",
+        "howItWorks": "Off-plan flats lead at AED 697.9M (82.6% of the off-plan tape). Ready flats hold AED 360.1M (70.9% of ready), ready villas AED 97.5M and ready commercial AED 36.3M. On land, City of Arabia takes AED 1.21B across four mortgage transactions (55.5% of the land value) while PARK21 in DLRC prints a G+11 residential plot acquisition at AED 24M and a Dubai Pearl construction restart is noted.",
+        "whyItMatters": "Two-day-earlier print was AED 864M non-land at a near 50/50 off-plan / ready split — Jul-7's snap back above 60% off-plan says primary-market flow is still the load-bearing engine even as ready flats hold above AED 350M. The City of Arabia land-mortgage cluster is a rare four-plot AED 1.21B block that suggests a developer or fund refinancing an entitled land bank at scale — worth flagging for anyone tracking the master-plan tail-risk on that plot.",
+        "forWho": "Analysts and investors tracking daily off-plan vs ready share, land-refinance signals and City of Arabia entitlement flow; brokers pricing off-plan vs ready flats and DLRC / PARK21 plot demand.",
+        "tryIt": "https://therealestatereports.com/p/dubai-real-estate-market-review-08-jul-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1185d9aa-ec57-4eac-b594-cf69f76d1895/pexels-aboodi-29584237.jpg",
+        "alt": "Dubai skyline hero image accompanying The Real Estate Reports Jul-8-2026 issue covering the 2026-07-07 DLD daily print",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-07-08T13:36:21.454Z"
+    },
+    {
+      "id": "dubai-springfield-properties-q2-2026-aed-10811b-residential-8388b-commercial-2424b-jul-6-2026",
+      "categories": [
+        "market",
+        "commercial"
+      ],
+      "title": "Springfield Properties Q2 2026 read — Dubai's AED 108.11B Q2 tape splits AED 83.88B residential (34,719 deals) and AED 24.24B commercial (2,836 deals) as off-plan takes AED 59.17B / 26,440 transactions and average sales price prints AED 1,841/sqft",
+      "org": "Springfield Properties / Zawya",
+      "date": "2026-07-06",
+      "url": "https://www.zawya.com/en/press-release/research-and-studies/dubai-real-estate-market-records-aed-10811bln-in-q2-as-long-term-fundamentals-continue-to-drive-growth-j23nfxkx",
+      "summary": "Springfield Properties' Jul-6 Q2 2026 read — Dubai clears AED 108.11B across 37,555 transactions (residential AED 83.88B / 34,719, commercial AED 24.24B / 2,836), off-plan books AED 59.17B / 26,440 deals and average residential sales price prints AED 1,841/sqft.",
+      "tags": [
+        "quarterly-report",
+        "q2-2026",
+        "springfield-properties",
+        "residential",
+        "commercial",
+        "off-plan",
+        "average-sale-price",
+        "market-report"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DLD",
+        "DXB-Q2-2026"
+      ],
+      "metrics": {
+        "Q2 2026 total value": "AED 108.11B",
+        "Residential value": "AED 83.88B",
+        "Residential deals": "34,719",
+        "Commercial value": "AED 24.24B",
+        "Commercial deals": "2,836",
+        "Off-plan residential value": "AED 59.17B",
+        "Off-plan residential deals": "26,440",
+        "Average residential sale price": "AED 1,841/sqft",
+        "Commercial mix": "Land + office ≈ 70% of commercial transaction value"
+      },
+      "links": [
+        {
+          "label": "Zawya press release — Springfield Q2 read",
+          "url": "https://www.zawya.com/en/press-release/research-and-studies/dubai-real-estate-market-records-aed-10811bln-in-q2-as-long-term-fundamentals-continue-to-drive-growth-j23nfxkx"
+        },
+        {
+          "label": "TradingView / Reuters mirror",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-07-06:newsml_ZawbB4j5k:0-zawya-dubai-real-estate-market-records-aed-108-11bln-in-q2-as-long-term-fundamentals-continue-to-drive-growth/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Springfield's Q2 read — AED 108B across 37.5K deals as off-plan captures AED 59B and the average residential ticket sits at AED 1,841/sqft.",
+        "whatIsIt": "Springfield Properties' Jul-6 Q2 2026 read reports Dubai clearing AED 108.11B across the quarter. Residential prints AED 83.88B / 34,719 transactions and commercial books AED 24.24B / 2,836 transactions, with off-plan residential contributing AED 59.17B / 26,440 deals.",
+        "howItWorks": "Average residential sale price prints at AED 1,841/sqft — a useful anchor for cross-community underwriting alongside DLD daily prints. Land and office assets make up roughly 70% of the commercial book, so the AED 24.24B commercial number is heavily plot-and-Grade-A-office weighted rather than retail or industrial. CEO Farooq Syed frames the story as demand quality rather than headline volume.",
+        "whyItMatters": "This is the first broker-published Q2 2026 recap — pairs cleanly with the AED 286.44B H1 tape and gives an aggregate AED 1,841/sqft comp to cross-reference against portal asks and daily DLD comps. The 70% land-and-office skew of commercial deal value is a useful pointer for anyone underwriting office demand vs retail/logistics splits.",
+        "forWho": "Analysts, fund managers and family offices sizing Dubai quarterly velocity; brokers using AED 1,841/sqft as a comp anchor across communities; commercial teams reading the land + office concentration of the commercial book.",
+        "tryIt": "https://www.zawya.com/en/press-release/research-and-studies/dubai-real-estate-market-records-aed-10811bln-in-q2-as-long-term-fundamentals-continue-to-drive-growth-j23nfxkx"
+      },
+      "image": {
+        "url": "https://kanebridgenewsme.com/application/assets/2025/01/Farooq-Syed-CEO-of-Springfield-Properties.webp",
+        "alt": "Springfield Properties CEO Farooq Syed framing Dubai's Q2 2026 AED 108.11B tape as a quality-of-demand story",
+        "fit": "cover",
+        "credit": "Kanebridge News ME / Springfield Properties"
+      },
+      "publishDate": "2026-07-08T13:36:21.454Z"
+    },
     {
       "id": "dubai-anax-kyomi-residences-warsan-fourth-121-units-aed-560k-30-70-q4-2027-jul-7-2026",
       "categories": [

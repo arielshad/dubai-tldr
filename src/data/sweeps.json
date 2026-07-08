@@ -7220,6 +7220,56 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260708t133621z",
+      "timestamp": "2026-07-08T13:36:21.454Z",
+      "source": "github-actions-sweep",
+      "summary": "Wednesday Dubai sweep — AVENEW × KORA launch the AED 6B O1NE District at Motor City with DAWN as the Grade A office anchor, the DLD Jul-7 daily print reads AED 1.35B non-land as a City of Arabia AED 1.21B mortgage cluster anchors the land tape, and Springfield's Q2 read prints AED 108.11B across 37.5K deals.",
+      "counts": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-avenew-kora-o1ne-district-dawn-motor-city-aed-6b-mixed-use-jul-8-2026",
+          "title": "AVENEW Development × KORA Properties launch O1NE District at Dubai Motor City — AED 6B / USD 1.6B mixed-use masterplan opens sales with DAWN Grade A office tower, five more commercial towers plus an integrated retail destination and a healthcare facility to follow",
+          "category": "commercial",
+          "note": "Added under commercial."
+        },
+        {
+          "id": "dubai-dld-jul-7-2026-daily-print-aed-135b-offplan-625-percent-city-of-arabia-121b-mortgage",
+          "title": "Dubai DLD daily print 2026-07-07: AED 1.35B non-land with off-plan back to 62.5% — off-plan flats AED 697.9M lead as a City of Arabia land tape absorbs AED 1.21B of mortgage flow across 4 plots and the land book prints AED 2.18B for the day",
+          "category": "market",
+          "note": "Added under market."
+        },
+        {
+          "id": "dubai-springfield-properties-q2-2026-aed-10811b-residential-8388b-commercial-2424b-jul-6-2026",
+          "title": "Springfield Properties Q2 2026 read — Dubai's AED 108.11B Q2 tape splits AED 83.88B residential (34,719 deals) and AED 24.24B commercial (2,836 deals) as off-plan takes AED 59.17B / 26,440 transactions and average sales price prints AED 1,841/sqft",
+          "category": "market",
+          "note": "Added under market."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "commercial",
+        "offplan",
+        "market",
+        "land"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
