@@ -7161,6 +7161,65 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260708t013547z",
+      "timestamp": "2026-07-08T01:35:47.836Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul-8 sweep books four Jul-7 stories — Anax's 121-unit Kyomi Residences Warsan Fourth off-plan, Preston Development's 56-unit One By Preston Dubai South boutique, Palace Group's Eden Hills Luna Villas main-contract for H&H's AED 63-125M villas, and the Shamal Holding × YouGov 1,009-resident seafront-living demand read.",
+      "counts": {
+        "added": 4,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-anax-kyomi-residences-warsan-fourth-121-units-aed-560k-30-70-q4-2027-jul-7-2026",
+          "title": "Anax Developments launches Kyomi Residences in Warsan Fourth — 121 studios / 1BR / limited 2BR from AED 560K on a 30/70 payment plan, Q4 2027 handover between SMBZ Road and Ras Al Khor Road",
+          "category": "offplan",
+          "note": "Off-plan launch — sub-AED 750K entry point (visa-tier), Blue Line corridor, 30/70 plan is soft cash exposure."
+        },
+        {
+          "id": "dubai-preston-one-by-preston-dubai-south-56-units-aed-999k-70-30-post-handover-dec-2027-jul-7-2026",
+          "title": "Preston Development unveils One By Preston at Dubai South — 56-unit boutique studio / 1BR / 2BR block with Casanova-furnished interiors, 2BRs from AED 999K on a 70/30 post-handover plan, December 2027 handover",
+          "category": "offplan",
+          "note": "Boutique Dubai South block with Casanova furnishing + 30-month post-handover tail — direct proxy for Dubai South's furnished mid-market bracket."
+        },
+        {
+          "id": "dubai-palace-group-hh-eden-hills-luna-villas-central-wadi-aed-63-125m-2028-jul-7-2026",
+          "title": "H&H awards Palace Group the main-contract for Eden Hills' Luna Villas at the Central Wadi — six-bedroom 21,646 sqft villas priced AED 63-125M on 40 × 50 m plots, 2028 handover",
+          "category": "luxury",
+          "note": "Super-prime villa build-out moves from design PR to execution; anchors AED 63-125M Central Wadi comp for adjacent Al Barari / Emirates Hills."
+        },
+        {
+          "id": "dubai-shamal-yougov-1009-uae-residents-80-percent-seafront-marina-relocation-jul-7-2026",
+          "title": "Shamal Holding × YouGov Jul-7 UAE waterfront-demand read: 80%+ of 1,009 UAE residents consider a seafront or marina relocation within 2-3 years, 96% say water proximity shapes daily life",
+          "category": "market",
+          "note": "Demand-side underwrite for waterfront pipeline (Palm, Dubai Islands, Rashid Yachts) — feeds directly into rental repricing scan."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "offplan",
+        "developer",
+        "luxury",
+        "market",
+        "lead",
+        "rental",
+        "ready",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

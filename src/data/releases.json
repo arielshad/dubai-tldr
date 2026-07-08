@@ -1,8 +1,275 @@
 {
-  "generatedAt": "2026-07-07T14:12:26.339Z",
+  "generatedAt": "2026-07-08T01:35:47.836Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-anax-kyomi-residences-warsan-fourth-121-units-aed-560k-30-70-q4-2027-jul-7-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "lead"
+      ],
+      "title": "Anax Developments launches Kyomi Residences in Warsan Fourth — 121 studios / 1BR / limited 2BR from AED 560K on a 30/70 payment plan, Q4 2027 handover between SMBZ Road and Ras Al Khor Road",
+      "org": "Anax Developments / TradeArabia",
+      "date": "2026-07-07",
+      "url": "https://tradearabia.com/News/464826/Anax-launches-121-unit-Dubai-residential-development",
+      "summary": "Anax Developments (Kyomi's CEO Raja Alameddine, MD Ravi Bhirani) launches Kyomi Residences at Warsan Fourth — 121 studios, 1-bedroom and limited 2-bedroom units starting at AED 560,000 (~USD 152,000) on a 30/70 payment plan (30% during construction, 70% at completion) targeting Q4 2027 handover. Amenity book includes adult/kids pools, indoor and outdoor gyms, jogging track, outdoor cinema and meditation zone; the site sits between Sheikh Mohammed Bin Zayed Road and Ras Al Khor Road with Blue Line Metro connectivity in the pipeline.",
+      "tags": [
+        "off-plan",
+        "anax",
+        "kyomi",
+        "warsan-fourth",
+        "sub-aed-750k",
+        "blue-line-metro",
+        "30-70-plan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "WARSAN",
+        "DXB-AFFORDABLE"
+      ],
+      "metrics": {
+        "Project": "Kyomi Residences",
+        "Developer": "Anax Developments",
+        "Units": 121,
+        "Unit mix": "Studios, 1BR, limited 2BR",
+        "Starting price": "AED 560,000 (~USD 152,000)",
+        "Payment plan": "30% during construction / 70% at completion",
+        "Handover": "Q4 2027",
+        "Corridor": "Sheikh Mohammed Bin Zayed Rd × Ras Al Khor Rd",
+        "Metro line": "Blue Line (planned)"
+      },
+      "links": [
+        {
+          "label": "TradeArabia 07-Jul-2026 launch report",
+          "url": "https://tradearabia.com/News/464826/Anax-launches-121-unit-Dubai-residential-development"
+        },
+        {
+          "label": "Zawya press release (Anax / KYOMI Residences)",
+          "url": "https://www.zawya.com/en/press-release/companies-news/anax-developments-launches-kyomi-residences-a-contemporary-residential-development-in-warsan-fourth-bp7b7h1n"
+        },
+        {
+          "label": "Anax Developments corporate site",
+          "url": "https://www.anaxdevelopments.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Warsan Fourth gets a sub-AED 750K entry point — Anax's 121-unit Kyomi Residences opens the visa-tier / Blue Line corridor at AED 560K on a light 30/70 plan.",
+        "whatIsIt": "Anax Developments launches Kyomi Residences in Warsan Fourth — 121 studios, 1-bedroom and limited 2-bedroom apartments, starting from AED 560,000 (~USD 152,000). The tower sits between Sheikh Mohammed Bin Zayed Road and Ras Al Khor Road with future Blue Line Metro connectivity and a Dragon Mart / City Centre Mirdif / DXB airport / Global Village catchment.",
+        "howItWorks": "Payment plan runs a soft 30/70 — 30% during construction, 70% at completion — with Q4 2027 targeted for handover. Amenities include adult and children's swimming pools, indoor and outdoor gyms, an open-air kids' play area, outdoor cinema, landscaped green spaces, jogging track and a meditation zone. Buyers holding the sub-AED 750K starter unit qualify for the 2-year property investor visa post-April rule change.",
+        "whyItMatters": "Warsan Fourth still trades well below Dubailand / JVC comps on AED/sqft, so a 30/70 plan structure means very little cash exposed until handover. That aligns Kyomi with the sub-AED 750K visa-feeder demand Springfield and Merlin flagged (Khaleej Times Jul-1) and gives buyers a Blue Line optionality trade before the corridor prices in. Watch for launch-day allocation pace and secondary asking-price movement in adjacent Warsan Fourth projects as the anchor comp.",
+        "forWho": "First-time buyers targeting the AED 750K property investor visa; end-users chasing Blue Line Metro corridor optionality; brokers building a Warsan Fourth / International City catchment; investors underwriting a Q4 2027 handover flip or hold-and-rent to Global Village / Dragon Mart / airport workforce.",
+        "tryIt": "https://tradearabia.com/News/464826/Anax-launches-121-unit-Dubai-residential-development"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/07/TA_20260707202115.webp",
+        "alt": "Anax Developments Kyomi Residences Warsan Fourth Dubai launch render",
+        "fit": "cover",
+        "credit": "TradeArabia / Anax Developments"
+      },
+      "publishDate": "2026-07-08T01:35:47.836Z"
+    },
+    {
+      "id": "dubai-preston-one-by-preston-dubai-south-56-units-aed-999k-70-30-post-handover-dec-2027-jul-7-2026",
+      "categories": [
+        "offplan",
+        "developer",
+        "lead"
+      ],
+      "title": "Preston Development unveils One By Preston at Dubai South — 56-unit boutique studio / 1BR / 2BR block with Casanova-furnished interiors, 2BRs from AED 999K on a 70/30 post-handover plan, December 2027 handover",
+      "org": "Preston Development / TradeArabia",
+      "date": "2026-07-07",
+      "url": "https://tradearabia.com/News/464823/Preston-unveils-prime-boutique-development-in-Dubai-South",
+      "summary": "Preston Development unveils One By Preston — a low-density Dubai South boutique block with 56 studios, one-bedroom and two-bedroom apartments, fully furnished by Italian luxury brand Casanova. Two-bedroom apartments start from AED 999,000 (~USD 271,965) in cash on a 70/30 plan (70% during construction, 30% over 30 months post-handover), with December 2027 handover after Escrow Account regulatory approval.",
+      "tags": [
+        "off-plan",
+        "preston-development",
+        "one-by-preston",
+        "dubai-south",
+        "casanova",
+        "post-handover-plan",
+        "furnished"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-SOUTH",
+        "DXB-AFFORDABLE"
+      ],
+      "metrics": {
+        "Project": "One By Preston",
+        "Developer": "Preston Development",
+        "Units": 56,
+        "Unit mix": "Studios, 1BR, 2BR",
+        "2BR start price": "AED 999,000 (~USD 271,965) cash",
+        "Payment plan": "70% during construction / 30% over 30 months post-handover",
+        "Handover": "December 2027",
+        "Interiors partner": "Casanova (Italian luxury furniture)",
+        "Escrow status": "Approved by regulators"
+      },
+      "links": [
+        {
+          "label": "TradeArabia 07-Jul-2026 launch report",
+          "url": "https://tradearabia.com/News/464823/Preston-unveils-prime-boutique-development-in-Dubai-South"
+        },
+        {
+          "label": "Dubai Land Department Escrow project register",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-data/"
+        },
+        {
+          "label": "Dubai South masterplan (developer hub)",
+          "url": "https://www.dubaisouth.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Dubai South gets a fully-furnished boutique — 56 Casanova-fitted units, 2BRs from AED 999K on a 30-months-post-handover plan.",
+        "whatIsIt": "Preston Development launches One By Preston in Dubai South after DLD Escrow Account approval — a low-density boutique block with 56 residential units across studios, one-bedroom and two-bedroom apartments. Interiors are fully furnished by Italian luxury brand Casanova, and Preston pitches larger-than-average layouts and 'one of the area's most competitive price-per-square-foot values' in the corridor.",
+        "howItWorks": "Two-bedroom units start from AED 999,000 in cash. Payment plan is 70% during construction plus a 30% post-handover tail spread across 30 months — softer than the 60/40 and 80/20 splits typical in Dubai South comps. Escrow is regulator-approved and handover is scheduled for December 2027, putting the delivery immediately before the Gulf News / MEED Dubai South handover cluster.",
+        "whyItMatters": "Dubai South printed 2,869 transactions worth AED 3.3B in June (Cavendish Maxwell / Gulf News read) — the fourth straight month leading Dubai for volume. A 30-month post-handover tail lowers upfront cash exposure and re-prices the boutique / furnished mid-market bracket ahead of Al Maktoum International's 2032 mainline. Watch this launch as a proxy for Dubai South's sub-AED 1M furnished demand and the DAMAC / Ellington DHam handover-window secondary market.",
+        "forWho": "End-users targeting furnished Dubai South entry; investors underwriting short-let flow to Al Maktoum International Airport growth; brokers building a Dubai South boutique-inventory bench; buyers weighing 70/30 post-handover exposure vs. cash-heavy Emaar South comps.",
+        "tryIt": "https://tradearabia.com/News/464823/Preston-unveils-prime-boutique-development-in-Dubai-South"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/07/TA_20260707183356.webp",
+        "alt": "Preston Development One By Preston Dubai South launch render",
+        "fit": "cover",
+        "credit": "TradeArabia / Preston Development"
+      },
+      "publishDate": "2026-07-08T01:35:47.836Z"
+    },
+    {
+      "id": "dubai-palace-group-hh-eden-hills-luna-villas-central-wadi-aed-63-125m-2028-jul-7-2026",
+      "categories": [
+        "luxury",
+        "developer",
+        "ready"
+      ],
+      "title": "H&H awards Palace Group the main-contract for Eden Hills' Luna Villas at the Central Wadi — six-bedroom 21,646 sqft villas priced AED 63-125M on 40 × 50 m plots, 2028 handover",
+      "org": "H&H Development / Palace Group / TradeArabia",
+      "date": "2026-07-07",
+      "url": "https://tradearabia.com/News/464775/Palace-Group-wins-contract-to-build-Eden-Hills-luxury-villas/CONS",
+      "summary": "H&H Development awards Palace Group the main-contract to build the six-bedroom Luna Villas at Eden Hills' Central Wadi — bespoke 21,646 sqft villas on 40 × 50 metre plots priced AED 63-125M (~USD 17.1-34M), designed by Elastic Architects with interiors by H&H Interior Design and 2028 handover.",
+      "tags": [
+        "luxury",
+        "eden-hills",
+        "hh-development",
+        "palace-group",
+        "luna-villas",
+        "central-wadi",
+        "elastic-architects",
+        "main-contract"
+      ],
+      "importance": "major",
+      "tickers": [
+        "EDEN-HILLS",
+        "DXB-LUXURY"
+      ],
+      "metrics": {
+        "Project": "Luna Villas at Eden Hills — Central Wadi",
+        "Developer": "H&H Development",
+        "Main contractor": "Palace Group",
+        "Villa configuration": "Six-bedroom",
+        "Built-up area / villa": "21,646 sqft",
+        "Plot size": "40 × 50 metres",
+        "Price range / villa": "AED 63M-125M (~USD 17.1M-34M)",
+        "Architect": "Elastic Architects",
+        "Interior design": "H&H Interior Design",
+        "Handover": "2028"
+      },
+      "links": [
+        {
+          "label": "TradeArabia 07-Jul-2026 contract-award report",
+          "url": "https://tradearabia.com/News/464775/Palace-Group-wins-contract-to-build-Eden-Hills-luxury-villas/CONS"
+        },
+        {
+          "label": "H&H Development corporate site",
+          "url": "https://hh.ae/"
+        },
+        {
+          "label": "Palace Group Contracting corporate site",
+          "url": "https://www.palacegroup.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Eden Hills' AED 63-125M Luna Villas move from design to build — Palace Group takes the main-contract, 21,646 sqft on 2,000 sqm plots, 2028 delivery.",
+        "whatIsIt": "H&H Development awards the AED-value-undisclosed main-contract for the six-bedroom Luna Villas at Eden Hills' Central Wadi to Palace Group. The bespoke villas run 21,646 sqft built-up on 40 × 50 metre plots — 2,000 sqm — designed by Elastic Architects with H&H Interior Design fitting the interiors. Prices span AED 63-125M (~USD 17.1-34M) per villa and handover is targeted for 2028.",
+        "howItWorks": "The AED 63-125M price band works out to roughly AED 2,910-5,775 per sqft on built-up, before the plot premium. Palace Group locks the construction risk while H&H retains sales / design; Elastic Architects has previously delivered the Woodland Residences masterpiece next door, and Central Wadi plots are marketed as Eden Hills' scarce interior-park frontage. Buyers underwrite on plot depth (40 × 50 m), interior spec, and the 2028 handover clock.",
+        "whyItMatters": "Dubai's Jan-May 2026 luxury villa rental tape (fäm Properties, AED 509M contracts +27% YoY) and the 296-deal / USD 5.1B H1 2026 $10M+ tape (Knight Frank × Gulf News Jul-7) validate the AED 63-125M super-prime lane. Palace Group's award moves Eden Hills from design PR into execution risk, and locks in the villa comp Elevate / Betterhomes will use to price adjacent Al Barari, Emirates Hills and District One remodels through 2027.",
+        "forWho": "Ultra-luxury villa buyers underwriting a 2028 handover slot; brokers repositioning nearby District One / Al Barari / Emirates Hills comps; developers stress-testing bespoke-villa construction budgets vs. steel / copper cost pass-through; funds sizing the Dubai super-prime villa capex cycle.",
+        "tryIt": "https://tradearabia.com/News/464775/Palace-Group-wins-contract-to-build-Eden-Hills-luxury-villas/CONS"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/07/TA_20260707101843.webp",
+        "alt": "Palace Group awarded Eden Hills Luna Villas main-contract by H&H Development Dubai",
+        "fit": "cover",
+        "credit": "TradeArabia / H&H Development"
+      },
+      "publishDate": "2026-07-08T01:35:47.836Z"
+    },
+    {
+      "id": "dubai-shamal-yougov-1009-uae-residents-80-percent-seafront-marina-relocation-jul-7-2026",
+      "categories": [
+        "market",
+        "luxury",
+        "rental"
+      ],
+      "title": "Shamal Holding × YouGov Jul-7 UAE waterfront-demand read: 80%+ of 1,009 UAE residents consider a seafront or marina relocation within 2-3 years, 96% say water proximity shapes daily life",
+      "org": "Shamal Holding / YouGov / TradeArabia",
+      "date": "2026-07-07",
+      "url": "https://tradearabia.com/News/464817/Over-80-Percent-UAE-residents-considering-seafront%2c-marina-living%2c-says-study-",
+      "summary": "Shamal Holding × YouGov survey (n = 1,009 UAE residents) prints 80%+ considering a move to seafront or marina communities inside the next 2-3 years, and 96% saying water proximity shapes daily life. Shamal CEO Abdulla Binhabtoor frames the finding as a policy tailwind aligned with the Dubai Quality of Life Strategy 2033 and the Dubai 2040 Urban Master Plan.",
+      "tags": [
+        "shamal-holding",
+        "yougov",
+        "market-signal",
+        "waterfront",
+        "dubai-2040",
+        "quality-of-life-2033",
+        "rental-repricing"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-WATERFRONT",
+        "DXB-LUXURY"
+      ],
+      "metrics": {
+        "Study": "Shamal Holding × YouGov 'Seafront Being' Report",
+        "Sample": "1,009 UAE residents",
+        "Waterfront relocation intent (2-3 years)": "80%+",
+        "Water proximity shapes daily life": "96%",
+        "Sponsoring entity": "Shamal Holding (Dubai)",
+        "Policy hooks": "Dubai Quality of Life Strategy 2033, Dubai 2040 Urban Master Plan"
+      },
+      "links": [
+        {
+          "label": "TradeArabia 07-Jul-2026 report",
+          "url": "https://tradearabia.com/News/464817/Over-80-Percent-UAE-residents-considering-seafront%2c-marina-living%2c-says-study-"
+        },
+        {
+          "label": "Shamal Holding corporate site",
+          "url": "https://shamalholding.com/"
+        },
+        {
+          "label": "Dubai 2040 Urban Master Plan portal",
+          "url": "https://www.dubai2040.ae/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Shamal × YouGov say 80%+ of UAE residents want seafront / marina living in 2-3 years — the demand-side read behind Dubai's waterfront repricing.",
+        "whatIsIt": "Shamal Holding (Dubai investment vehicle) commissions YouGov to survey 1,009 UAE residents. 80%+ say they are considering relocation to a seafront or marina community within the next 2-3 years, and 96% say water proximity shapes their daily life. CEO Abdulla Binhabtoor frames 'Seafront Being' as the evolution from waterfront living into water-integrated daily life.",
+        "howItWorks": "The survey is presented as a demand-side underwrite for waterfront supply expansion — Dubai Islands, Dubai Maritime City, Palm Jebel Ali, Palm Central Private Residences, Rashid Yachts & Marina, Emaar Beachfront and the future Ain Dubai / Bluewaters extensions. Sample size (n = 1,009) sits in typical YouGov UAE cell-size range; findings tie to the Dubai Quality of Life Strategy 2033 and the Dubai 2040 Urban Master Plan supply pipeline.",
+        "whyItMatters": "Waterfront communities carry a 25-40% premium versus inland peers on both sale and rent, and Palm Jumeirah / Palm Jebel Ali / Dubai Islands developer books have been racing to price against the coming supply cluster. If YouGov's demand-intent number holds, sub-3-year handover waterfront stock (Nakheel Palm Central, Imtiaz Sea Cliff, ANAX Elle, Grovy Ramada, Helvetia Marine) is directly underwritten. Watch buyer-nationality flow (British / Indian / Australian leading Betterhomes' Mar-Apr book) as the confirmation signal for waterfront-tilted brokers.",
+        "forWho": "Waterfront developers pricing Q3 / Q4 launches; brokers repositioning Palm Jumeirah / Dubai Islands / Rashid Yachts inventory; investors underwriting waterfront rental premiums; buyers benchmarking inland-vs-waterfront relocation math.",
+        "tryIt": "https://tradearabia.com/News/464817/Over-80-Percent-UAE-residents-considering-seafront%2c-marina-living%2c-says-study-"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/07/TA_20260707175701.webp",
+        "alt": "Shamal Holding YouGov seafront living demand study Dubai",
+        "fit": "cover",
+        "credit": "TradeArabia / Shamal Holding"
+      },
+      "publishDate": "2026-07-08T01:35:47.836Z"
+    },
     {
       "id": "dubai-dld-jul-6-2026-daily-print-aed-864m-non-land-city-of-arabia-466m-jumeirah-bay-122m-mortgage",
       "categories": [
