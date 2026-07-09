@@ -7270,6 +7270,69 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260709t020714z",
+      "timestamp": "2026-07-09T02:07:14.467Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul 8-9 sweep — Julius Baer 2026 lifestyle index drops Dubai to 14th on dollar-peg dynamics with real estate framed as the leading ME HNWI asset class, AGBI catches the Dubai Pearl / Al Sufouh site restarting under Dham Property Group, DLD wins the 2025 Hamdan Flag for the Tamallak+ 88% time-cut / 5-minute-sale digital stack, MBRAH scales UUDS Aero to 180,000 sqm at Dubai South and Kamco Invest / MEED print the UAE Q2 project-award contraction that shapes construction cost cycles.",
+      "counts": {
+        "added": 5,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-julius-baer-global-wealth-lifestyle-2026-14th-drop-7-places-dirham-peg-jul-7-2026",
+          "title": "Julius Baer Global Wealth & Lifestyle Report 2026 drops Dubai to 14th (from 7th) as dirham-dollar peg absorbs global luxury-cost inflation — real estate framed as the #1 preferred asset class for Middle East HNWIs at 23%",
+          "category": "market",
+          "note": "Fresh, verifiable Jul-7 marker for how the dirham peg reshapes Dubai's positioning against Zurich, Monaco, HK and Singapore in USD-priced luxury indices — and real-estate as the ME HNWI leading asset class at 23% is a useful anchor for luxury sales pitches."
+        },
+        {
+          "id": "dubai-pearl-al-sufouh-dham-dubai-holding-163k-sqm-900k-gfa-66-storey-restart-jul-7-2026",
+          "title": "Dubai Pearl / Al Sufouh mega-brownfield restarts under Dham Property Group — 163,000 sqm site, 900,000 sqm max GFA, 66-storey mixed-use (173,000 sqm hospitality) with Aecom on services and Dubai Holding on a hiring spree",
+          "category": "developer",
+          "note": "AGBI's Josh Corder confirms a materially new Al Sufouh brownfield restart under Dubai Holding — 900,000 sqm GFA envelope with 173,000 sqm hospitality reshapes the medium-term Palm Jumeirah-adjacent branded-residence and hotel-apartment supply."
+        },
+        {
+          "id": "dubai-dld-tamallak-plus-hamdan-flag-88-percent-time-cut-5-minute-sale-96-5-csat-jul-8-2026",
+          "title": "Dubai Land Department wins 2025 Hamdan Flag for the Tamallak+ digital stack — 88% service-time cut, 5-minute property sale, 59 developers + 30 banks integrated, 96.5% CSAT and 129,000 new investors in 2025",
+          "category": "legal",
+          "note": "First Jul-8 hard confirmation of Tamallak+'s stack metrics — 5-minute sale registration and 96.5% CSAT are useful facts for broker/agent friction pitches and reinforce the DLD tokenisation programme."
+        },
+        {
+          "id": "dubai-mbrah-uuds-aero-dubai-south-180k-sqm-cabin-excellence-centre-jul-8-2026",
+          "title": "Mohammed Bin Rashid Aerospace Hub grows UUDS Aero to 180,000+ sqm across four Dubai South facilities — two Code F wide-body plots and a 40,000 sqm regional-first Cabin Excellence Centre in the Airline Manufacturing and Supply Chain Zone",
+          "category": "commercial",
+          "note": "Rare Dubai South Grade A industrial absorption data point — 180,000 sqm anchor plus a queued 40,000 sqm Cabin Excellence Centre pins genuine long-lease MRO demand into the master-plan ahead of Al Maktoum Phase 1 (2032)."
+        },
+        {
+          "id": "dubai-kamco-invest-meed-q2-2026-gcc-project-awards-uae-205b-only-major-contraction-jul-8-2026",
+          "title": "Kamco Invest × MEED Q2 2026 GCC project-award read — UAE the only major GCC market to contract at USD 20.5B (-5.4% YoY) as GCC total lifts 30% YoY to USD 59.4B on a Saudi surge (USD 30B / +53.6% YoY / +160% QoQ)",
+          "category": "market",
+          "note": "First hard Jul-8 print of the UAE Q2 project-award contraction — the -5.4% YoY figure gives cost consultants and QSs a concrete number to plug into 2026-2028 escalation models."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury",
+        "developer",
+        "offplan",
+        "legal",
+        "commercial"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

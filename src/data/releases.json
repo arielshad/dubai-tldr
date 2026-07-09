@@ -1,8 +1,333 @@
 {
-  "generatedAt": "2026-07-08T13:36:21.454Z",
+  "generatedAt": "2026-07-09T02:07:14.467Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-julius-baer-global-wealth-lifestyle-2026-14th-drop-7-places-dirham-peg-jul-7-2026",
+      "categories": [
+        "market",
+        "luxury"
+      ],
+      "title": "Julius Baer Global Wealth & Lifestyle Report 2026 drops Dubai to 14th (from 7th) as dirham-dollar peg absorbs global luxury-cost inflation — real estate framed as the #1 preferred asset class for Middle East HNWIs at 23%",
+      "org": "Julius Baer / The National",
+      "date": "2026-07-07",
+      "url": "https://www.thenationalnews.com/business/money/2026/07/07/dubai-drops-seven-places-in-global-ranking-of-costliest-cities-for-ultra-rich/",
+      "summary": "Julius Baer's 2026 Global Wealth & Lifestyle Report drops Dubai seven places to 14th globally as the dirham's dollar peg neutralises the 12.3% average lift in luxury-goods prices seen elsewhere. Real estate is the #1 preferred asset class for Middle East HNWIs (23%), well ahead of equities (12%).",
+      "tags": [
+        "julius-baer",
+        "global-wealth-report",
+        "lifestyle-index",
+        "hnwi",
+        "dirham-peg",
+        "prime-residential",
+        "luxury-goods",
+        "middle-east"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-LUXURY",
+        "DXB-HNWI"
+      ],
+      "metrics": {
+        "2026 Lifestyle Index rank": "14th (down 7 places from 7th)",
+        "Top three": "Singapore #1 (4th year), Zurich #2, Monaco #3 (first time in top three)",
+        "Global luxury-goods lift": "+12.3% average (jewellery +16.4%, watches +15.5%)",
+        "Currency backdrop": "Dirham pegged to a weakening USD — pushes Dubai down the USD-priced index without any local price fall",
+        "ME HNWI top asset class": "Real estate 23% (leader), equities 12%",
+        "ME HNWI dynamics": "One-third report significant wealth accumulation; 43% raised both investment and lifestyle spend"
+      },
+      "links": [
+        {
+          "label": "The National — Dubai drops seven places in global ranking",
+          "url": "https://www.thenationalnews.com/business/money/2026/07/07/dubai-drops-seven-places-in-global-ranking-of-costliest-cities-for-ultra-rich/"
+        },
+        {
+          "label": "Khaleej Times — Dubai strengthens appeal to global wealthy",
+          "url": "https://www.khaleejtimes.com/uae/dubai-strengthens-appeal-to-global-wealthy-as-lifestyle-value-shines-julius-baer"
+        },
+        {
+          "label": "Focus HiDubai — Dubai global wealth hub coverage",
+          "url": "https://focus.hidubai.com/dubai-strengthens-its-position-as-a-leading-global-wealth-hub/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Julius Baer drops Dubai seven rungs to 14th on its luxury-lifestyle index — a dollar-peg optical move, not a local price cut — with prime real estate still the #1 ME HNWI asset class.",
+        "whatIsIt": "The Julius Baer 2026 Global Wealth & Lifestyle Report puts Dubai at 14th in its cross-city luxury-lifestyle cost index, down from 7th last year. Singapore holds #1 for a fourth year, Zurich takes #2 and Monaco enters the top three for the first time. Real estate is called out as the #1 preferred asset class for Middle East HNWIs at 23%.",
+        "howItWorks": "The report converts a 25-city basket of luxury spend into USD; Dubai's dirham is pegged to a weakening dollar, so the emirate looks cheaper in USD even as local pricing holds. Global luxury goods rose 12.3% on average (jewellery +16.4%, watches +15.5%). Julius Baer highlights Dubai's 'competitive value' vs Asian and European luxury real-estate markets and calls the emirate 'a resilient regional hub'. One-third of ME HNWIs report significant wealth accumulation; 43% lifted both investment and lifestyle spend.",
+        "whyItMatters": "Dropping seven places is a positioning headline, not a repricing — it reinforces the pitch to internationally mobile buyers who compare Dubai against Zurich, Monaco, Hong Kong and Singapore in USD terms. The dirham peg is now an explicit brochure line for prime-residential agents targeting European and Asian HNWIs whose home currencies bought less this year. With real estate at 23% of ME HNWI preferred allocation vs 12% for equities, the flow story for Palm Jumeirah, Emirates Hills, Jumeirah Bay, Dubai Hills and Jumeirah Second branded stock stays intact even as headline market data softens.",
+        "forWho": "Luxury agencies pitching Palm Jumeirah / Emirates Hills / Jumeirah Bay to European and Asian HNWIs; branded-residence sales teams framing the currency angle; family offices comparing Dubai prime-residential to Zurich, Monaco, HK and Singapore.",
+        "tryIt": "https://www.thenationalnews.com/business/money/2026/07/07/dubai-drops-seven-places-in-global-ranking-of-costliest-cities-for-ultra-rich/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-06-23/h1qtoe62/Screenshot-2026-06-23-at-10.27.58-AM.png",
+        "alt": "Dubai skyline framing the Julius Baer 2026 Global Wealth & Lifestyle Report finding that Dubai slipped seven places to 14th on the luxury-lifestyle cost index",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "publishDate": "2026-07-09T02:07:14.467Z"
+    },
+    {
+      "id": "dubai-pearl-al-sufouh-dham-dubai-holding-163k-sqm-900k-gfa-66-storey-restart-jul-7-2026",
+      "categories": [
+        "developer",
+        "offplan",
+        "luxury"
+      ],
+      "title": "Dubai Pearl / Al Sufouh mega-brownfield restarts under Dham Property Group — 163,000 sqm site, 900,000 sqm max GFA, 66-storey mixed-use (173,000 sqm hospitality) with Aecom on services and Dubai Holding on a hiring spree",
+      "org": "AGBI / Josh Corder",
+      "date": "2026-07-07",
+      "url": "https://www.agbi.com/analysis/construction/2026/07/dubai-pearl-site-shows-signs-of-life/",
+      "summary": "AGBI's Josh Corder catches trucks and equipment moving at the former Dubai Pearl site in Al Sufouh — the plot is registered to Dham Property Group (Dubai Holding subsidiary since 2022) for a mixed-use scheme up to 900,000 sqm GFA / 66 floors with Aecom on services and a Dubai Holding hiring spree in flight.",
+      "tags": [
+        "dubai-pearl",
+        "al-sufouh",
+        "dham-property-group",
+        "dubai-holding",
+        "brownfield-restart",
+        "mega-project",
+        "hospitality",
+        "aecom",
+        "palm-jumeirah-doorstep"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-ALSUFOUH",
+        "PALM-JUMEIRAH",
+        "DXB-HOLDING"
+      ],
+      "metrics": {
+        "Site area": "~163,000 sqm (23 football pitches)",
+        "Max permitted GFA": "~900,000 sqm",
+        "Max height": "66 floors",
+        "Hospitality component": ">173,000 sqm of permitted GFA",
+        "Programme": "apartments, offices, retail, hotel + hotel apartments, clubhouse, nursery, kindergarten, clinic",
+        "Current DDA plan expiry": "November 2027",
+        "Developer": "Dham Property Group (Dubai Holding subsidiary since 2022)",
+        "Services consultant": "Aecom",
+        "Recorded main contractor": "Al Areesh Wrecking and Demolition Works (site clearance / early works)",
+        "Timeline": "2002 announced (Omnix) → 2006 halted → 2007 Al Fahim Pearl Dubai → 2014 Chow Tai Fook injects ~$2B → 2022 demolition begins → Jan 2023 controlled explosions → 2024 site cleared → Jun 2026 trucks + hiring spree"
+      },
+      "links": [
+        {
+          "label": "AGBI — Dubai Pearl site shows signs of life",
+          "url": "https://www.agbi.com/analysis/construction/2026/07/dubai-pearl-site-shows-signs-of-life/"
+        },
+        {
+          "label": "Dubai Holding — Real Estate portfolio",
+          "url": "https://www.dubaiholding.com/en/who-we-are/our-companies/dubai-holding-real-estate"
+        }
+      ],
+      "explainer": {
+        "tagline": "AGBI catches Dubai Pearl restarting — Al Sufouh's 163,000 sqm brownfield is back in Dubai Holding hands (Dham Property Group) with a 900,000 sqm GFA envelope and 173,000 sqm of hospitality baked in.",
+        "whatIsIt": "AGBI's Josh Corder confirms the former Dubai Pearl site at Al Sufouh — at the base of Palm Jumeirah — is moving again. The plot is registered at the Dubai Development Authority to Dham Property Group, a Dubai Holding subsidiary since 2022, for a mixed-use scheme up to 900,000 sqm GFA across a 66-storey envelope. Aecom is on services and Dubai Holding is hiring leadership plus construction and planning staff for a 'mega-project'.",
+        "howItWorks": "The permitted programme spans apartments, offices, retail, at least one hotel plus hotel apartments, a clubhouse, nursery, kindergarten and clinic. Hospitality alone occupies more than 173,000 sqm of the permitted GFA — a scale that only fits a Jumeirah-brand anchor plus branded-residence stock. DDA plans currently expire in November 2027. The site itself has been cleared since early 2024 following controlled demolitions (Jan 2023) that finished the original 2002 Omnix development, later Al Fahim's 'Pearl Dubai', and Chow Tai Fook's ~$2B 2014 injection.",
+        "whyItMatters": "This is one of two brownfield mega-plots on the Palm Jumeirah / Al Sufouh axis — the other being the wider Al Sufouh corridor. Bringing 900,000 sqm of GFA back onto Al Sufouh with a Jumeirah-brand hospitality anchor reshapes the medium-term supply pipeline for prime-residential and hotel-apartment stock adjacent to Palm Jumeirah and DIC. Dham Property Group ownership signals Dubai Holding's direct control of the master-brief, which usually points to a phased luxury-residential and hospitality release rather than volume off-plan. Watch for a Jumeirah or Meraas brand line, a Golden Visa-anchored branded-residence release and post-2028 handover positioning.",
+        "forWho": "Luxury-agency brokers scoping Palm Jumeirah / Al Sufouh branded-residence pre-launch pipeline; family offices tracking Dubai Holding mega-plot roadmap; hospitality operators reading a >173,000 sqm hotel + branded-residence envelope; construction and consulting teams watching Aecom's role and the current November 2027 DDA plan-expiry clock.",
+        "tryIt": "https://www.agbi.com/analysis/construction/2026/07/dubai-pearl-site-shows-signs-of-life/"
+      },
+      "image": {
+        "url": "https://www.agbi.com/tachyon/sites/4/2026/06/dubai-pearl-2-2026.jpeg",
+        "alt": "The former Dubai Pearl site at Al Sufouh, cleared and now showing construction activity under Dubai Holding subsidiary Dham Property Group",
+        "fit": "cover",
+        "credit": "Gavin Gibbon via AGBI"
+      },
+      "author": {
+        "name": "Josh Corder",
+        "handle": "AGBI",
+        "profileUrl": "https://www.agbi.com/author/josh-corder/"
+      },
+      "publishDate": "2026-07-09T02:07:14.467Z"
+    },
+    {
+      "id": "dubai-dld-tamallak-plus-hamdan-flag-88-percent-time-cut-5-minute-sale-96-5-csat-jul-8-2026",
+      "categories": [
+        "legal",
+        "market"
+      ],
+      "title": "Dubai Land Department wins 2025 Hamdan Flag for the Tamallak+ digital stack — 88% service-time cut, 5-minute property sale, 59 developers + 30 banks integrated, 96.5% CSAT and 129,000 new investors in 2025",
+      "org": "Dubai Land Department / Focus Hi Dubai",
+      "date": "2026-07-08",
+      "url": "https://focus.hidubai.com/dubai-land-department-wins-hamdan-flag-for-tamallak-plus-digital-transformation/",
+      "summary": "DLD takes the 2025 Hamdan Flag Pioneering-category prize for Tamallak+ — the AI-valuation, instant-sale registration and developer self-registration stack that has cut service time 88%, enables 5-minute property sales, integrates 59 developers and 30 banks and clocks 96.5% customer satisfaction.",
+      "tags": [
+        "dld",
+        "tamallak-plus",
+        "hamdan-flag",
+        "digital-transformation",
+        "instant-sale-registration",
+        "ai-valuation",
+        "asset-tokenization",
+        "dubai-real-estate-strategy-2033",
+        "d33"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DLD",
+        "DXB-LEGAL"
+      ],
+      "metrics": {
+        "Service time reduction": "88%",
+        "Fastest property sale completion": "as little as 5 minutes",
+        "Developer integrations": "59 major developers",
+        "Bank integrations": "30 banks",
+        "Customer satisfaction": "96.5%",
+        "New investors in 2025": "129,000+",
+        "Award": "2025 Hamdan Flag — Pioneering category, Hamdan bin Mohammed Programme for Government Services",
+        "Platform features": "AI-driven property valuation, instant sales registration, developer self-registration, first-time-buyer support, real-estate asset tokenization",
+        "Strategy alignment": "Dubai Government Services 360, Dubai Economic Agenda D33, Dubai Real Estate Strategy 2033"
+      },
+      "links": [
+        {
+          "label": "Focus Hi Dubai — DLD wins Hamdan Flag for Tamallak+",
+          "url": "https://focus.hidubai.com/dubai-land-department-wins-hamdan-flag-for-tamallak-plus-digital-transformation/"
+        },
+        {
+          "label": "Dubai Land Department — home",
+          "url": "https://dubailand.gov.ae/en/"
+        }
+      ],
+      "explainer": {
+        "tagline": "DLD's Tamallak+ takes the 2025 Hamdan Flag with the receipts — 88% faster service, 5-minute property sales, 59 developers + 30 banks wired in and 96.5% CSAT.",
+        "whatIsIt": "Dubai Land Department wins the 2025 Hamdan Flag in the Pioneering category for its Tamallak+ platform — a digital stack layering AI-driven property valuation, instant sales registration, developer self-registration, first-time-buyer support and real-estate asset tokenization onto Dubai's property-transfer flow.",
+        "howItWorks": "Tamallak+ has cut service completion times 88% by integrating 59 major developers and 30 banks into a single flow, so some property sales register in as little as five minutes with no in-person visit. Customer satisfaction sits at 96.5% and DLD attributes 129,000+ new investors in 2025 partly to the friction reduction. The platform is aligned to the Dubai Government Services 360 policy, the D33 Economic Agenda and the Dubai Real Estate Strategy 2033.",
+        "whyItMatters": "For anyone underwriting flow into Dubai property, the closing loop is now materially faster than international norms — that pushes conveyancing risk down and encourages higher-frequency trading, especially at the sub-AED 2M and first-time-buyer tier where friction was the binding constraint. It also strengthens DLD's push into tokenised fractional ownership as a national infrastructure play, not a fringe pilot. Brokers structuring back-to-back trades, off-plan resales, or Golden Visa closings can now credibly promise 5-minute registration to end-user buyers.",
+        "forWho": "Brokers pitching frictionless closings to overseas buyers; developers evaluating Tamallak+ self-registration; conveyancers, banks and platforms building on the DLD API; family offices reading tokenization as a real Dubai infrastructure track rather than pilot theatre.",
+        "tryIt": "https://dubailand.gov.ae/en/"
+      },
+      "image": {
+        "url": "https://img-mm.manoramaonline.com/content/dam/mm/mo/global-malayali/gulf/images/2026/7/8/dubai-land-department-wins-prestigious-hamdan-flag-award.jpg",
+        "alt": "Dubai Land Department receives the 2025 Hamdan Flag for the Tamallak+ digital transformation initiative",
+        "fit": "cover",
+        "credit": "Manorama Online via Dubai Land Department"
+      },
+      "publishDate": "2026-07-09T02:07:14.467Z"
+    },
+    {
+      "id": "dubai-mbrah-uuds-aero-dubai-south-180k-sqm-cabin-excellence-centre-jul-8-2026",
+      "categories": [
+        "commercial",
+        "developer"
+      ],
+      "title": "Mohammed Bin Rashid Aerospace Hub grows UUDS Aero to 180,000+ sqm across four Dubai South facilities — two Code F wide-body plots and a 40,000 sqm regional-first Cabin Excellence Centre in the Airline Manufacturing and Supply Chain Zone",
+      "org": "Mohammed Bin Rashid Aerospace Hub / Dubai South",
+      "date": "2026-07-08",
+      "url": "https://tradearabia.com/News/464864/Mohammed-Bin-Rashid-Aerospace-Hub-announces-UUDS-Aero-facilities-expansion",
+      "summary": "MBRAH confirms UUDS Aero's Dubai South footprint has grown past 180,000 sqm across four facilities plus a new airside build, with two additional Code F plots and a 40,000 sqm Cabin Excellence Centre (first in the region) queued for the Airline Manufacturing and Supply Chain Zone.",
+      "tags": [
+        "mbrah",
+        "uuds-aero",
+        "dubai-south",
+        "aerospace",
+        "grade-a-industrial",
+        "cabin-excellence-centre",
+        "code-f",
+        "mro-and-cabin-retrofit",
+        "commercial-real-estate"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DUBAI-SOUTH",
+        "MBRAH",
+        "DXB-COMMERCIAL"
+      ],
+      "metrics": {
+        "Current UUDS footprint at MBRAH": "180,000+ sqm across four facilities",
+        "Facilities under development": "1 new airside facility",
+        "Additional plots teed up": "2 Code F plots (each fits 3 wide-body aircraft)",
+        "Cabin Excellence Centre": "40,000 sqm, regional first",
+        "Location": "Airline Manufacturing and Supply Chain Zone, Dubai South",
+        "UUDS start at MBRAH": "2022 (first operation)",
+        "Service scope": "Aircraft cabin completion, modification, certification, manufacturing, maintenance"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — MBRAH announces UUDS Aero facilities expansion",
+          "url": "https://tradearabia.com/News/464864/Mohammed-Bin-Rashid-Aerospace-Hub-announces-UUDS-Aero-facilities-expansion"
+        },
+        {
+          "label": "Dubai South — MBRAH expands partnership with UUDS Aero",
+          "url": "https://www.dubaisouth.ae/en/newsroom/mohammed-bin-rashid-aerospace-hub-expands-partnership-with-uuds-aero-to-develop-new-facilities-and-regional-first-cabin-excellence-center"
+        }
+      ],
+      "explainer": {
+        "tagline": "UUDS Aero blows past 180,000 sqm at MBRAH — Dubai South books more Grade A aerospace absorption plus a 40,000 sqm regional-first Cabin Excellence Centre.",
+        "whatIsIt": "MBRAH announces that aircraft-cabin specialist UUDS Aero now occupies more than 180,000 sqm across four facilities at the Aerospace Supply Chain zone in Dubai South, up from a single 2022 opening. An airside facility is under construction and two Code F plots plus a 40,000 sqm Cabin Excellence Centre — the first in the region — are queued for the Airline Manufacturing and Supply Chain Zone.",
+        "howItWorks": "UUDS handles aircraft cabin completion, modification, certification, manufacturing and maintenance — the Code F plots take three wide-body aircraft each for retrofit / completion work, so the incremental footprint is heavy-industrial hangar / GSE apron space rather than office. The Cabin Excellence Centre is a bespoke build within the Airline Manufacturing and Supply Chain Zone. MBRAH CEO Tahnoon Saif frames the expansion as ecosystem building; UUDS founder Gilles Negre points to Dubai's regional and international demand as the demand driver.",
+        "whyItMatters": "Dubai South's Grade A industrial and aerospace commercial stock has been dominated by DWC-adjacent logistics; a 180,000 sqm anchor with a queued 40,000 sqm Cabin Excellence Centre pins genuine long-lease MRO demand into the master-plan. For anyone underwriting Dubai South commercial land, sale-and-leaseback or Grade A hangar/warehouse absorption around the future Al Maktoum International Phase 1 (2032 opening), this is a real pin on the Airline Manufacturing and Supply Chain Zone's take-up curve. Commercial brokers with Grade A industrial mandates can point to this as a benchmark for the sub-market.",
+        "forWho": "Commercial and industrial brokers pricing Grade A hangar / aerospace / logistics stock in Dubai South; institutional investors underwriting DWC-adjacent land and sale-and-leaseback; developers benchmarking the Airline Manufacturing and Supply Chain Zone absorption curve ahead of the 2032 Al Maktoum International Phase 1 opening.",
+        "tryIt": "https://www.dubaisouth.ae/en/newsroom/mohammed-bin-rashid-aerospace-hub-expands-partnership-with-uuds-aero-to-develop-new-facilities-and-regional-first-cabin-excellence-center"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/08/TA_20260708215435.webp",
+        "alt": "Rendering of Mohammed Bin Rashid Aerospace Hub facilities at Dubai South where UUDS Aero has scaled its footprint past 180,000 sqm",
+        "fit": "cover",
+        "credit": "MBRAH via TradeArabia"
+      },
+      "publishDate": "2026-07-09T02:07:14.467Z"
+    },
+    {
+      "id": "dubai-kamco-invest-meed-q2-2026-gcc-project-awards-uae-205b-only-major-contraction-jul-8-2026",
+      "categories": [
+        "market",
+        "commercial"
+      ],
+      "title": "Kamco Invest × MEED Q2 2026 GCC project-award read — UAE the only major GCC market to contract at USD 20.5B (-5.4% YoY) as GCC total lifts 30% YoY to USD 59.4B on a Saudi surge (USD 30B / +53.6% YoY / +160% QoQ)",
+      "org": "Kamco Invest / MEED via TradeArabia",
+      "date": "2026-07-08",
+      "url": "https://tradearabia.com/News/464887/Saudi-Arabia-drives-GCC-project-markets-in-Q2-despite-slowdown",
+      "summary": "Kamco Invest's Jul-8 Q2 2026 read on MEED data shows GCC project awards up 30% YoY to USD 59.4B but the UAE was the only major market to contract, printing USD 20.5B (-5.4% YoY). Oil & gas +269% QoQ was the sole growth sector; construction and real estate declined QoQ across the bloc.",
+      "tags": [
+        "kamco-invest",
+        "meed",
+        "q2-2026",
+        "gcc-project-awards",
+        "uae-construction-contraction",
+        "oil-and-gas-carry",
+        "construction-market",
+        "real-estate-pipeline"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "UAE-CAPEX",
+        "GCC-PROJECT-MARKET",
+        "DXB-COMMERCIAL"
+      ],
+      "metrics": {
+        "GCC Q2 2026 project awards": "USD 59.4B (+30% YoY)",
+        "Saudi Arabia Q2 awards": "USD 30B (+53.6% YoY, +160.4% QoQ)",
+        "UAE Q2 awards": "USD 20.5B (-5.4% YoY) — only major GCC market to contract",
+        "Qatar Q2": "-40.8%",
+        "Oil & gas share (GCC)": "USD 13.8B (+269% QoQ) — only growth sector",
+        "Other sectors": "construction, real estate and infrastructure declined QoQ across the bloc",
+        "Source data": "MEED projects tracker aggregated by Kamco Invest"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Saudi Arabia drives GCC project markets in Q2",
+          "url": "https://tradearabia.com/News/464887/Saudi-Arabia-drives-GCC-project-markets-in-Q2-despite-slowdown"
+        },
+        {
+          "label": "Kamco Invest — research and publications",
+          "url": "https://www.kamcoinvest.com/research"
+        }
+      ],
+      "explainer": {
+        "tagline": "GCC Q2 project awards rip 30% YoY to USD 59.4B — but the UAE prints USD 20.5B (-5.4% YoY), the only major market to contract as construction and real estate awards slip QoQ across the bloc.",
+        "whatIsIt": "Kamco Invest's Jul-8 read on MEED's Q2 2026 GCC project-award tracker puts the bloc at USD 59.4B (+30% YoY) but flags the UAE as the only major GCC market to contract, printing USD 20.5B (-5.4% YoY). Saudi Arabia drives the headline growth with USD 30B (+53.6% YoY / +160.4% QoQ); Qatar prints -40.8%; Kuwait is volatile.",
+        "howItWorks": "Only oil & gas expanded QoQ across the GCC, surging 269% to USD 13.8B. Construction, real estate and infrastructure awards all slipped QoQ. Kamco reads the Saudi print as project-execution catch-up rather than a fresh cycle; the UAE softness sits against a still-healthy Dubai residential launch tape (AED 275B H1 W Capital print) but a slower non-residential award book.",
+        "whyItMatters": "For anyone underwriting UAE construction cost curves, contractor capacity and Dubai commercial supply, the -5.4% UAE award print is the first hard-data confirmation of the Q2 slowdown flagged by Moody's, Currie & Brown and Cavendish Maxwell. It should compress steel / copper / MEP price pass-through pressure and gives contractors more slack ahead of Q3 tender awards (DIFC Heights, Dubai Loop precast, MBRAH build-out). Real-estate consultants should read it as a leading indicator on 2027-2028 handover slippage for later-stage plots.",
+        "forWho": "Cost consultants and QSs modelling UAE construction inflation; asset managers underwriting Dubai commercial supply pipelines; contractors bidding Q3 tender packages; developers pricing forward escalation clauses into 2027-2028 handover plans.",
+        "tryIt": "https://tradearabia.com/News/464887/Saudi-Arabia-drives-GCC-project-markets-in-Q2-despite-slowdown"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/08/TA_20260708175746.webp",
+        "alt": "Kamco Invest × MEED Q2 2026 GCC project-award data visualisation accompanying the TradeArabia report",
+        "fit": "cover",
+        "credit": "Kamco Invest / MEED via TradeArabia"
+      },
+      "publishDate": "2026-07-09T02:07:14.467Z"
+    },
     {
       "id": "dubai-avenew-kora-o1ne-district-dawn-motor-city-aed-6b-mixed-use-jul-8-2026",
       "categories": [
