@@ -7333,6 +7333,53 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260709t143458z",
+      "timestamp": "2026-07-09T14:34:58.631Z",
+      "source": "github-actions-sweep",
+      "summary": "Two fresh July 9, 2026 Khaleej Times prints: Azizi Developments opens a 4,000-subcontractor procurement window across four trades to feed its UAE pipeline; and a Harbor Real Estate × DXBinteract H1 2026 Dubai map that names the top communities by asset class (Al Yalayis 1 villas AED 10.6B, Dubai Islands apartments AED 8.4B, Me'aisem Second land AED 10.1B) and prints the H1 unit-type mix (1BR 34.9%).",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-azizi-developments-4000-subcontractors-tile-blockwork-plaster-paint-uae-pipeline-jul-9-2026",
+          "title": "Azizi Developments opens a 4,000-subcontractor procurement window — 1,000 each in tile installation, blockwork, plastering and painting (supply + apply) — to feed a UAE construction pipeline analysts already peg near 150,000 units",
+          "category": "developer",
+          "note": "Fresh Jul-9 KT print. Signals scale of Azizi's finishing-trade capacity bid and the tightness of Dubai's supply chain on the handover long-pole. Categorised under developer / market — no new launch product."
+        },
+        {
+          "id": "dubai-kt-harbor-dxbinteract-h1-2026-top-community-al-yalayis-1-dubai-islands-1br-34-9-percent-jul-9-2026",
+          "title": "Khaleej Times × Harbor × DXBinteract H1 2026 Dubai top-community map — Al Yalayis 1 villas / buildings AED 10.6B leads, Dubai Islands apartments AED 8.4B, Me'aisem Second land AED 10.1B, with 1-BR units taking 34.9% (27,590 deals) of the H1 apartment tape",
+          "category": "market",
+          "note": "Fresh Jul-9 KT print. Community-by-community H1 2026 map (Dubai Islands / Al Yalayis 1 / Me'aisem Second) plus unit-type mix is genuinely new; nationality share is a rehash of the existing DXBinteract May-29 card and left out of the highlight for that reason."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "market",
+        "land",
+        "luxury",
+        "commercial",
+        "rental",
+        "offplan",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

@@ -1,8 +1,161 @@
 {
-  "generatedAt": "2026-07-09T02:07:14.467Z",
+  "generatedAt": "2026-07-09T14:34:58.631Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-azizi-developments-4000-subcontractors-tile-blockwork-plaster-paint-uae-pipeline-jul-9-2026",
+      "categories": [
+        "developer",
+        "market"
+      ],
+      "title": "Azizi Developments opens a 4,000-subcontractor procurement window — 1,000 each in tile installation, blockwork, plastering and painting (supply + apply) — to feed a UAE construction pipeline analysts already peg near 150,000 units",
+      "org": "Azizi Developments / Khaleej Times",
+      "date": "2026-07-09",
+      "url": "https://www.khaleejtimes.com/business/property/azizi-developments-seeks-4000-subcontractors-for-uae-construction-pipeline",
+      "summary": "Khaleej Times Jul-9 partner-content post from Azizi Developments invites 4,000 specialist subcontractors — 1,000 each across tile installation, blockwork, plastering and painting (supply + apply) — to register for its residential / commercial / mixed-use build-out. The scale of the ask underscores Azizi's ~150,000-unit pipeline and Dubai's supply-chain tightness on trades that are the long-pole for handover cadence.",
+      "tags": [
+        "azizi-developments",
+        "subcontractor-procurement",
+        "construction-pipeline",
+        "tile-installation",
+        "blockwork",
+        "plastering",
+        "painting",
+        "handover-supply-chain",
+        "khaleej-times",
+        "dubai-labour-market"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-CONSTRUCTION",
+        "DXB-DEVELOPER",
+        "DXB-AZIZI"
+      ],
+      "metrics": {
+        "Total subcontractors sought": "4,000 across four trades",
+        "Tile installation": "1,000 subcontractors",
+        "Blockwork": "1,000 subcontractors",
+        "Plastering": "1,000 subcontractors",
+        "Painting (supply + apply)": "1,000 subcontractors",
+        "Azizi pipeline context": "~150,000 units under construction across UAE (per publicly reported company scale)",
+        "Publisher": "Khaleej Times partner content, 09 July 2026",
+        "Registration path": "Register via Azizi Developments email / website (see article)"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Azizi Developments seeks 4,000 subcontractors for UAE construction pipeline",
+          "url": "https://www.khaleejtimes.com/business/property/azizi-developments-seeks-4000-subcontractors-for-uae-construction-pipeline"
+        },
+        {
+          "label": "Azizi Developments — Construction Updates",
+          "url": "https://www.azizidevelopments.com/construction-updates"
+        },
+        {
+          "label": "TradingView / Zawya — Azizi Center of Excellence launch (context)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-07-02:newsml_Zaw7ZDjr5:0-zawya-azizi-developments-launches-azizi-center-of-excellence/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Azizi wants 4,000 subcontractors across four finishing trades — the ask is a real read on how tight Dubai's build-out supply chain is right now.",
+        "whatIsIt": "Azizi Developments used a Khaleej Times partner-content post on 09 July 2026 to invite 4,000 specialist subcontractors — 1,000 each in tile installation, blockwork, plastering and painting (supply + apply) — to register for its residential, commercial and mixed-use pipeline in the UAE. Interested trades are pointed at Azizi's website / email for on-boarding.",
+        "howItWorks": "This is a procurement drive, not a launch. The 4,000-headcount ask, evenly split across the four finishing trades that gate handover, is a proxy for how much block-by-block wet-trade capacity Azizi expects to absorb over the next 12–24 months on top of its already-reported ~150,000-unit UAE pipeline. Buyers modelling handover risk on any Azizi Venice / Riviera / Creek Views / Grand cluster should treat this as a bid for trade capacity — it prices up subcontractor rates locally and can slip smaller developers' finishing calendars if labour shifts to Azizi sites. Contractors respond via Azizi's registration channel.",
+        "whyItMatters": "For operators, it's a scale-of-pipeline signal: Azizi is publicly bidding for finishing-trade capacity on a scale that most Dubai developers won't match, which reinforces its already-#1 May 2026 off-plan-units position (see feed) and hints at continued handover pressure through 2027–2028. For sellers of ready stock in areas where an Azizi handover cluster lands (JVC, Al Furjan, Dubai Healthcare City, MBR City), it's a heads-up on rental supply. For subcontractors, it's a direct-to-developer channel with concentrated volume but strong counterparty-payment diligence expected.",
+        "forWho": "Trade subcontractors sizing Dubai finishing-trade demand; buyers modelling handover risk on Azizi projects; ready-stock sellers in JVC / MBR City / Al Furjan / Healthcare City watching future rental supply; developer-cost analysts tracking Dubai trade rates.",
+        "tryIt": "https://www.azizidevelopments.com/construction-updates"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-07-09/gilvicri/AV-BoulevardView-05scaled75.jpg?width=800&height=600&q=60&format=auto",
+        "alt": "Azizi Venice boulevard-view rendering used by Khaleej Times to illustrate Azizi Developments' UAE construction pipeline as it opens a 4,000-subcontractor procurement window",
+        "fit": "cover",
+        "credit": "Khaleej Times / Azizi Developments"
+      },
+      "publishDate": "2026-07-09T14:34:58.631Z"
+    },
+    {
+      "id": "dubai-kt-harbor-dxbinteract-h1-2026-top-community-al-yalayis-1-dubai-islands-1br-34-9-percent-jul-9-2026",
+      "categories": [
+        "market",
+        "land",
+        "luxury"
+      ],
+      "title": "Khaleej Times × Harbor × DXBinteract H1 2026 Dubai top-community map — Al Yalayis 1 villas / buildings AED 10.6B leads, Dubai Islands apartments AED 8.4B, Me'aisem Second land AED 10.1B, with 1-BR units taking 34.9% (27,590 deals) of the H1 apartment tape",
+      "org": "Harbor Real Estate / DXBinteract / Khaleej Times",
+      "date": "2026-07-09",
+      "url": "https://www.khaleejtimes.com/business/indian-uk-egyptian-investors-top-dubai-property-buyers-in-2026",
+      "summary": "Waheed Abbas' Jul-9 KT print, sourced from Harbor Real Estate on DXBinteract data, prints the H1 2026 top-community map: Al Yalayis 1 villas / buildings at AED 10.6B, Dubai Islands apartments at AED 8.4B, Airport City AED 7.2B, Business Bay AED 6B, Me'aisem Second land AED 10.1B / Al Yalayis 5 AED 7B. One-bedroom apartments dominate at 34.9% of H1 apartment sales (27,590 deals), studios 23.4%, 2-BR 20.7%.",
+      "tags": [
+        "h1-2026",
+        "top-communities",
+        "dxbinteract",
+        "harbor-real-estate",
+        "khaleej-times",
+        "waheed-abbas",
+        "one-bedroom",
+        "studios",
+        "al-yalayis-1",
+        "dubai-islands",
+        "meaisem-second",
+        "airport-city",
+        "business-bay"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-ISLANDS",
+        "DXB-YALAYIS",
+        "DXB-MAISEM",
+        "DXB-AIRPORT-CITY",
+        "DXB-BUSINESS-BAY"
+      ],
+      "metrics": {
+        "Top apartment community H1 2026": "Dubai Islands — AED 8.4B",
+        "#2 apartments": "Airport City — AED 7.2B",
+        "#3 apartments": "Business Bay — AED 6.0B",
+        "Top villa / building community": "Al Yalayis 1 — AED 10.6B",
+        "Top land community": "Me'aisem Second — AED 10.1B",
+        "#2 land": "Al Yalayis 5 — AED 7.0B",
+        "1-BR share of H1 apartments": "34.9% (27,590 deals)",
+        "Studio share": "23.4% (18,471 deals)",
+        "2-BR share": "20.7% (16,399 deals)",
+        "Data source": "Harbor Real Estate on DXBinteract data",
+        "Publisher": "Khaleej Times, Waheed Abbas byline, 09 July 2026",
+        "Analyst quote": "Dr Mohanad Alwadiya (Harbor CEO): ‘The strongest markets are not those that grow the fastest, but those that successfully transition from rapid growth to sustainable growth.’"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Indian, UK, Egyptian investors top Dubai property buyers in 2026 (H1 map)",
+          "url": "https://www.khaleejtimes.com/business/indian-uk-egyptian-investors-top-dubai-property-buyers-in-2026"
+        },
+        {
+          "label": "DXBinteract — Dubai transaction / community dashboard",
+          "url": "https://dxbinteract.com/"
+        },
+        {
+          "label": "Feed — DXBinteract post-crisis buyer-nationality split (May 29 context)",
+          "url": "https://dxb-estate-intel.xyz/opportunities/dubai-dxb-interact-indian-buyers-2059-percent-post-crisis-nationality-may-29-2026"
+        }
+      ],
+      "explainer": {
+        "tagline": "H1 2026 map: Dubai Islands leads apartment volume (AED 8.4B), Al Yalayis 1 leads villas / buildings (AED 10.6B) and one-bedroom units take 34.9% of the H1 apartment tape.",
+        "whatIsIt": "Waheed Abbas' 09 July 2026 KT print, sourced from Harbor Real Estate on DXBinteract data, is the first H1 2026 city map that names the top communities by asset class. Apartments: Dubai Islands #1 (AED 8.4B), Airport City #2 (AED 7.2B), Business Bay #3 (AED 6B). Villas / buildings: Al Yalayis 1 #1 (AED 10.6B). Land: Me'aisem Second #1 (AED 10.1B), Al Yalayis 5 #2 (AED 7B). Unit mix: 1-BR 34.9% / studios 23.4% / 2-BR 20.7% of the H1 apartment tape.",
+        "howItWorks": "For operators, this reshuffles the top-of-shortlist. Dubai Islands out-prints Business Bay on apartments in the same H1 that Business Bay took 52% of off-plan office sales (see feed) — the two Bay stories are decoupling. Al Yalayis 1 (Tilal Al Ghaf / District South corridor) is now a bigger H1 villa print than Palm Jumeirah or Emirates Hills at AED 10.6B, thanks to villa handover and land deals against the E611 corridor. Me'aisem Second and Al Yalayis 5 land totals (AED 10.1B / AED 7B) confirm developer land-banking has stayed south-west, not central. The 1-BR / studio 58.3% combined share tells buy-side yield players where the H1 rent-flow was.",
+        "whyItMatters": "It's the community-by-community read that most H1 print pieces don't have. Nationality-share (Indian 20.6% / British 13.3% / Egyptian 12.6%) is a re-print of the DXBinteract post-crisis data already in the feed, but the top-community $ amounts and the unit-mix percentages are fresh. Buy-side: use Dubai Islands / Airport City as the primary apartment-comp anchors for H1 2026, not Marina. Sell-side: Al Yalayis 1 villa vendors have the strongest H1 comp print of any villa community. Developers: Me'aisem Second land is where the H1 headline plot deals landed. Rental operators: 1-BR still owns the flow, but studio flow at 23.4% (18,471 deals) means the smallest-lot brackets stayed liquid even as the total H1 print softened ~14% YoY.",
+        "forWho": "Buy-side agents shortlisting H1 2026 apartment comps; villa vendors in Al Yalayis 1 / District South benchmarking asks; developer land-buying teams sizing Me'aisem / Al Yalayis 5 plot demand; rental operators sizing 1-BR / studio yield flow.",
+        "tryIt": "https://dxbinteract.com/"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/b5b5f490-2a9c-43c2-9a8a-e5066d81a575-org.jpg?width=600&height=400&q=60&format=auto",
+        "alt": "Khaleej Times / Harbor Real Estate H1 2026 Dubai top-community map — Dubai Islands leads apartment volume, Al Yalayis 1 leads villas, Me'aisem Second leads land",
+        "fit": "cover",
+        "credit": "Khaleej Times / Harbor Real Estate"
+      },
+      "author": {
+        "name": "Waheed Abbas",
+        "handle": "@KhaleejTimes",
+        "profileUrl": "https://www.khaleejtimes.com/authors/waheed-abbas"
+      },
+      "publishDate": "2026-07-09T14:34:58.631Z"
+    },
     {
       "id": "dubai-julius-baer-global-wealth-lifestyle-2026-14th-drop-7-places-dirham-peg-jul-7-2026",
       "categories": [
