@@ -7380,6 +7380,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260710t015221z",
+      "timestamp": "2026-07-10T01:52:21.081Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul-10 sweep pulls two verified fresh signals: DAMAC's 2026 handover roadmap (8,800 units across Damac Hills / Hills 2 / Lagoons plus Chic and Elegance towers), and the DLD daily print for 2026-07-08 showing AED 994M non-land with off-plan back to 59.3%.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-damac-properties-2026-handover-8800-units-hills-lagoons-chic-elegance-jul-9-2026",
+          "title": "DAMAC Properties commits to 8,800 Dubai handovers in 2026 — Damac Hills, Damac Hills 2, Damac Lagoons plus Chic Tower and Elegance Tower as H1 2026 construction awards clear AED 10B and 54,000 units stay under build",
+          "category": "developer",
+          "note": "Verified developer handover roadmap: 8,800 unit 2026 delivery slug across five named Damac communities, 54K under build, AED 10B H1 construction contracts."
+        },
+        {
+          "id": "dubai-dld-jul-8-2026-daily-print-aed-994m-non-land-offplan-593-percent-flats-lead",
+          "title": "Dubai DLD daily print 2026-07-08: AED 994M non-land with off-plan reclaiming 59.3% — off-plan flats AED 490.3M lead, ready flats AED 249.6M anchors the secondary book as villas and commercial rebuild the tape",
+          "category": "market",
+          "note": "Fresh DLD daily tape — 08-Jul-2026 prints AED 994M with off-plan back to 59.3% as flats lead both sides of the book."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "developer",
+        "offplan",
+        "market",
+        "ready"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

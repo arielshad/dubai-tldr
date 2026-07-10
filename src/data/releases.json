@@ -1,8 +1,131 @@
 {
-  "generatedAt": "2026-07-09T14:34:58.631Z",
+  "generatedAt": "2026-07-10T01:52:21.081Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-damac-properties-2026-handover-8800-units-hills-lagoons-chic-elegance-jul-9-2026",
+      "categories": [
+        "developer",
+        "offplan"
+      ],
+      "title": "DAMAC Properties commits to 8,800 Dubai handovers in 2026 — Damac Hills, Damac Hills 2, Damac Lagoons plus Chic Tower and Elegance Tower as H1 2026 construction awards clear AED 10B and 54,000 units stay under build",
+      "org": "DAMAC Properties (via TradeArabia)",
+      "date": "2026-07-09",
+      "publishDate": "2026-07-10T01:52:21.081Z",
+      "url": "https://tradearabia.com/news/464932/Damac-announces-handover-of-8,800-residential-units-across-Dubai",
+      "summary": "DAMAC's Ali Sajwani frames the 2026 delivery book: 8,800 handovers across Dubai flagship communities, 50,000 cumulative units delivered since 2002, 54,000 more under construction and AED 10B ($2.27B) in H1 2026 construction contracts already awarded.",
+      "tags": [
+        "developer",
+        "handover",
+        "damac",
+        "dubai",
+        "offplan",
+        "supply",
+        "construction"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DAMAC-HILLS",
+        "DAMAC-HILLS-2",
+        "DAMAC-LAGOONS",
+        "DXB-BUSINESS-BAY",
+        "DUBAI"
+      ],
+      "metrics": {
+        "2026 Dubai handovers": "8,800 units",
+        "Cumulative delivered since 2002": "50,000 units",
+        "Currently under construction": "54,000+ units",
+        "H1 2026 construction contracts awarded": "AED 10B+ ($2.27B)",
+        "Named flagship handover destinations": "Damac Hills, Damac Hills 2, Damac Lagoons, Chic Tower, Elegance Tower"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — Damac announces handover of 8,800 units",
+          "url": "https://tradearabia.com/news/464932/Damac-announces-handover-of-8,800-residential-units-across-Dubai"
+        },
+        {
+          "label": "Zawya — DAMAC Properties 2026 handover press release",
+          "url": "https://www.zawya.com/en/press-release/companies-news/damac-properties-announces-the-handover-of-8-800-units-in-2026-j9m7ggiq"
+        }
+      ],
+      "explainer": {
+        "tagline": "DAMAC's 2026 delivery book — 8,800 Dubai keys across the master communities, 54K more under build, AED 10B of H1 contracts already let.",
+        "whatIsIt": "DAMAC Properties published a 2026 handover roadmap covering 8,800 residential units across its Dubai flagship destinations, plus a status update on the current construction book. Managing Director Ali Sajwani frames it as a 'delivering every promised unit without disruption or delay' statement against the regional-tension backdrop.",
+        "howItWorks": "The 2026 handover total lands across five named destinations: Damac Hills, Damac Hills 2, Damac Lagoons, Chic Tower and Elegance Tower. Behind that, DAMAC says 54,000+ units are under construction and 50,000 total units have been delivered since the developer was founded in 2002. H1 2026 alone saw more than AED 10B ($2.27B) in construction contracts awarded, and the group has locked in 2025 Chelsea FC and Oracle Red Bull Racing tie-ups to support marketing.",
+        "whyItMatters": "For anyone underwriting Damac Hills / Hills 2 / Lagoons resale or rental yield, this is a concrete supply-timing anchor: the 8,800 handover slug is one of the larger single-developer 2026 delivery numbers to be published, and it clusters in a handful of already-mapped communities where rental and resale comps move quickly on completion waves. Investors chasing assignment resales or considering post-handover payment plans should pull the specific tower breakdown from broker sources before pricing.",
+        "forWho": "Damac-community end users tracking their handover date, resale investors underwriting Damac Hills / Lagoons rental yields, brokers scoping post-handover rental supply spikes.",
+        "tryIt": "https://www.damacproperties.com/en"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/09/TA_20260709132204.webp",
+        "alt": "DAMAC Properties 2026 handover — Damac Hills, Damac Hills 2, Damac Lagoons plus Chic Tower and Elegance Tower",
+        "fit": "cover",
+        "credit": "TradeArabia / DAMAC Properties"
+      }
+    },
+    {
+      "id": "dubai-dld-jul-8-2026-daily-print-aed-994m-non-land-offplan-593-percent-flats-lead",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-07-08: AED 994M non-land with off-plan reclaiming 59.3% — off-plan flats AED 490.3M lead, ready flats AED 249.6M anchors the secondary book as villas and commercial rebuild the tape",
+      "org": "The Real Estate Report × Dubai Land Department",
+      "date": "2026-07-08",
+      "publishDate": "2026-07-10T01:52:21.081Z",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jul-2026",
+      "summary": "The 08-Jul DLD non-land tape prints AED 994M with off-plan back to 59.3% (AED 589.3M) vs ready 40.7% (AED 404.7M). Off-plan flats AED 490.3M lead the day; ready flats AED 249.6M hold the secondary engine; villas AED 166.7M and commercial AED 56.0M rebuild the book.",
+      "tags": [
+        "dld",
+        "daily-tape",
+        "market",
+        "offplan",
+        "ready",
+        "dubai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DUBAI",
+        "OFFPLAN",
+        "READY"
+      ],
+      "metrics": {
+        "Non-land value": "AED 994.0M",
+        "Off-plan share": "59.3% (AED 589.3M)",
+        "Ready share": "40.7% (AED 404.7M)",
+        "Off-plan flats": "AED 490.3M",
+        "Ready flats": "AED 249.6M",
+        "Off-plan villas": "AED 73.3M",
+        "Ready villas": "AED 93.4M",
+        "Off-plan commercial": "AED 21.4M",
+        "Ready commercial": "AED 34.6M"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 09-Jul-2026 daily review (covers 08-Jul tape)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jul-2026"
+        },
+        {
+          "label": "Dubai Land Department — daily transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "Off-plan reclaims the tape — AED 490M of flats leads a AED 994M non-land day as the ready book still holds AED 405M behind it.",
+        "whatIsIt": "The Real Estate Report's 09-Jul-2026 review prints the 08-Jul-2026 DLD daily tape at AED 994M of freehold non-land transactions. Off-plan retakes 59.3% share (AED 589.3M) after Monday's off-plan-heavy 62.5% print, with ready holding 40.7% (AED 404.7M).",
+        "howItWorks": "Flats dominate both sides of the book: AED 490.3M off-plan and AED 249.6M ready — together 74% of the non-land day. Villas print AED 73.3M off-plan and AED 93.4M ready. Commercial reads AED 21.4M off-plan and AED 34.6M ready, and hotel-apartment/hotel-room volume is small. No headline single-deal color is broken out for the day in the review.",
+        "whyItMatters": "The daily tape gives operators a running read on where DLD money is flowing — the AED 490M off-plan-flat print continues the H1 2026 pattern of off-plan doing the heavy lifting, while ready flats AED 250M shows secondary-market absorption is still active. Anyone underwriting off-plan resales or ready rental yields should compare their unit type against the day's category split before pricing.",
+        "forWho": "Portfolio managers pacing off-plan vs ready allocation, brokers reading momentum by category, market-desk analysts tracking DLD daily flow.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-09-jul-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ab383d8-0887-4f3a-9c97-bfccfb1414ee/pexels-jdgromov-4323131.jpg",
+        "alt": "Dubai skyline hero image accompanying The Real Estate Reports Jul-9-2026 issue covering the 2026-07-08 DLD daily print",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      }
+    },
     {
       "id": "dubai-azizi-developments-4000-subcontractors-tile-blockwork-plaster-paint-uae-pipeline-jul-9-2026",
       "categories": [
