@@ -7423,6 +7423,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260710t140042z",
+      "timestamp": "2026-07-10T14:00:42.963Z",
+      "source": "github-actions-sweep",
+      "summary": "Jul 10 sweep — added the fresh 2026-07-09 DLD daily print (AED 1.16B non-land, 51.3% off-plan vs 48.7% ready) and a Khaleej Times × Shamal × Knight Frank waterfront thesis piece pricing Dubai's coastal premium at +140% over five years.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-dld-jul-9-2026-daily-print-aed-116b-offplan-513-percent-flats-lead",
+          "title": "Dubai DLD daily print 2026-07-09: AED 1.16B non-land splits 51.3% off-plan / 48.7% ready — off-plan flats AED 520.6M carry 87.3% of the off-plan book while ready flats AED 344.3M lead a broader ready mix",
+          "category": "market",
+          "note": "Fresh DLD daily tape for 2026-07-09 — closes the daily-print cadence gap between the 2026-07-08 print and today."
+        },
+        {
+          "id": "dubai-kt-shamal-knight-frank-waterfront-140-percent-five-year-9-05b-luxury-jul-10-2026",
+          "title": "Khaleej Times × Shamal × Knight Frank Jul-10 waterfront thesis — Dubai coastal homes up 140% over five years, four of Q4 2025's top-five performing neighbourhoods are waterfront, luxury tape AED 9.05B / 68 $25M+ deals in 2025",
+          "category": "luxury",
+          "note": "Concrete five-year waterfront-appreciation number (+140%) with 2025 luxury tape sizing (AED 9.05B / 68 $25M+ deals) — a quotable sell-side thesis piece for coastal Dubai stock."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "luxury"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-07-10T01:52:21.081Z",
+  "generatedAt": "2026-07-10T14:00:42.963Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-dld-jul-9-2026-daily-print-aed-116b-offplan-513-percent-flats-lead",
+      "categories": [
+        "market"
+      ],
+      "title": "Dubai DLD daily print 2026-07-09: AED 1.16B non-land splits 51.3% off-plan / 48.7% ready — off-plan flats AED 520.6M carry 87.3% of the off-plan book while ready flats AED 344.3M lead a broader ready mix",
+      "org": "The Real Estate Report × Dubai Land Department",
+      "date": "2026-07-09",
+      "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-10-jul-2026",
+      "summary": "The 09-Jul DLD non-land tape prints AED 1.16B — off-plan 51.3% (AED 596.7M) narrowly edges ready 48.7% (AED 565.3M). Off-plan is a flats story: AED 520.6M in apartments = 87.3% of the off-plan book. Ready spreads wider: flats AED 344.3M (60.9%), villas AED 129.7M (23.0%), commercial AED 59.7M (10.6%).",
+      "tags": [
+        "dld",
+        "daily-tape",
+        "market",
+        "offplan",
+        "ready",
+        "dubai"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DLD",
+        "DUBAI",
+        "OFFPLAN",
+        "READY"
+      ],
+      "metrics": {
+        "Non-land value": "AED 1.16B",
+        "Off-plan share": "51.3% (AED 596.7M)",
+        "Ready share": "48.7% (AED 565.3M)",
+        "Off-plan flats": "AED 520.6M (87.3% of off-plan)",
+        "Off-plan villas": "AED 42.3M (7.1% of off-plan)",
+        "Off-plan commercial": "AED 29.1M (4.9% of off-plan)",
+        "Ready flats": "AED 344.3M (60.9% of ready)",
+        "Ready villas": "AED 129.7M (23.0% of ready)",
+        "Ready commercial": "AED 59.7M (10.6% of ready)"
+      },
+      "links": [
+        {
+          "label": "The Real Estate Report — 10-Jul-2026 daily review (covers 09-Jul tape)",
+          "url": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-10-jul-2026"
+        },
+        {
+          "label": "Dubai Land Department — daily transactions portal",
+          "url": "https://dubailand.gov.ae/en/eservices/real-estate-transaction/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A near-50/50 split day where off-plan flats (AED 521M) do almost all the off-plan work and ready spreads across flats, villas and commercial.",
+        "whatIsIt": "The Real Estate Report's 10-Jul-2026 review prints the 09-Jul-2026 DLD daily tape at AED 1.16B of freehold non-land transactions. Off-plan takes 51.3% (AED 596.7M), ready 48.7% (AED 565.3M) — a narrower gap than the 62.5% and 59.3% off-plan skews of the prior two sessions.",
+        "howItWorks": "The off-plan book is almost pure apartments: AED 520.6M of off-plan flats = 87.3% of off-plan value, with only AED 42.3M in villas and AED 29.1M in commercial. The ready book distributes more evenly — flats AED 344.3M (60.9%), villas AED 129.7M (23.0%), commercial AED 59.7M (10.6%). Underwriting off-plan flats today keys off this concentrated primary-flat flow; underwriting ready flats has to price against a ready book that is also digesting villa + commercial demand.",
+        "whyItMatters": "The concentration ratio matters: when 87% of off-plan value is apartments, any pull-back in primary flat launches will flow straight to overall volumes. On the ready side, the wider mix suggests secondary demand is broad — villa (AED 130M) and commercial (AED 60M) contributions on a single day cushion the tape when ready flats slow. Portfolio managers pacing Q3 allocations, brokers reading momentum by category, and market-desk analysts tracking day-over-day category share should note the flat concentration in off-plan and the mix breadth in ready.",
+        "forWho": "Portfolio managers pacing off-plan vs ready allocation, brokers reading category momentum, market-desk analysts tracking DLD daily flow, developer-strategy teams sizing primary-flat concentration risk.",
+        "tryIt": "https://www.therealestatereports.com/p/dubai-real-estate-market-review-10-jul-2026"
+      },
+      "image": {
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/88fd038d-3a5a-484b-a8d0-d30465f8486a/pexels-mck-242487578-12316006.jpg",
+        "alt": "Dubai skyline hero image accompanying The Real Estate Reports Jul-10-2026 issue covering the 2026-07-09 DLD daily print",
+        "fit": "cover",
+        "credit": "The Real Estate Reports"
+      },
+      "publishDate": "2026-07-10T14:00:42.963Z"
+    },
+    {
+      "id": "dubai-kt-shamal-knight-frank-waterfront-140-percent-five-year-9-05b-luxury-jul-10-2026",
+      "categories": [
+        "luxury",
+        "market"
+      ],
+      "title": "Khaleej Times × Shamal × Knight Frank Jul-10 waterfront thesis — Dubai coastal homes up 140% over five years, four of Q4 2025's top-five performing neighbourhoods are waterfront, luxury tape AED 9.05B / 68 $25M+ deals in 2025",
+      "org": "Khaleej Times / Shamal Holding / Knight Frank Mena",
+      "date": "2026-07-10",
+      "url": "https://www.khaleejtimes.com/business/property/140-surge-why-dubais-waterfront-homes-are-becoming-the-uaes-most-valuable-real-estate-asset",
+      "summary": "Somshankar Bandyopadhyay's Jul-10 KT waterfront thesis, sourced from Shamal Holding + Knight Frank Mena + a Shamal / White Paper Media / YouGov study, prints prime Dubai waterfront homes at +140% over five years. Four of the emirate's five best-performing neighbourhoods in Q4 2025 were waterfront communities. Luxury residential (>$10M) cleared AED 9.05B in 2025 (+27.7% YoY) with 68 homes above $25M.",
+      "tags": [
+        "waterfront-premium",
+        "luxury",
+        "shamal-holding",
+        "knight-frank",
+        "yougov",
+        "prime-residential",
+        "dubai",
+        "khaleej-times",
+        "coastal-scarcity"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-WATERFRONT",
+        "DXB-PALM",
+        "DXB-ISLANDS",
+        "DXB-LUXURY"
+      ],
+      "metrics": {
+        "Five-year waterfront appreciation": "+140% (prime coastal homes vs broader market)",
+        "Q4 2025 top-5 best-performing neighbourhoods": "4 of 5 are waterfront communities",
+        "2025 luxury (>$10M) residential value": "AED 9.05B (+27.7% YoY)",
+        "2025 homes sold above $25M": "68",
+        "Sources": "Shamal Holding (Abdulla Binhabtoor), Knight Frank Mena (Shehzad Jamal), UAE University (Dr. Khaula Alkaabi), Shamal × White Paper Media Consulting × YouGov report",
+        "Byline / Publisher": "Somshankar Bandyopadhyay, Khaleej Times, 10 July 2026"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — 140% surge: why Dubai's waterfront homes are becoming the UAE's most valuable real estate asset",
+          "url": "https://www.khaleejtimes.com/business/property/140-surge-why-dubais-waterfront-homes-are-becoming-the-uaes-most-valuable-real-estate-asset"
+        },
+        {
+          "label": "Knight Frank Mena — Middle East luxury coverage",
+          "url": "https://www.knightfrank.ae/research"
+        },
+        {
+          "label": "Shamal Holding — Dubai destinations portfolio",
+          "url": "https://shamalholding.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "The five-year waterfront-premium receipt: +140% appreciation, four of five top Q4 2025 neighbourhoods coastal, and AED 9B of >$10M luxury clearing in 2025.",
+        "whatIsIt": "Khaleej Times' 10 July 2026 waterfront read, framed around Shamal Holding + Knight Frank Mena + a Shamal / White Paper Media / YouGov study, argues that prime Dubai coastal real estate has structurally decoupled from the broader market. The article prints +140% five-year appreciation for waterfront homes, notes that four of the five top-performing Q4 2025 neighbourhoods were waterfront communities, and sizes the 2025 >$10M luxury tape at AED 9.05B (+27.7% YoY) with 68 homes sold above $25M.",
+        "howItWorks": "The thesis is scarcity + lifestyle-ecosystem preference among UHNW buyers — Knight Frank's Shehzad Jamal and Shamal's Abdulla Binhabtoor frame demand as concentrated on 'complete lifestyle ecosystems' (wellness, privacy, direct beach access, low-density blocks) rather than on tower volume. Dubai's coastline is finite: Palm Jumeirah, Palm Jebel Ali, Dubai Islands, Emaar Beachfront, Jumeirah Bay Island and the emerging waterfront pockets around Al Yalayis / Jebel Ali are the only meaningful supply, and the Q4 2025 outperformance data suggests the price signal has hardened. Underwriters modelling Dubai luxury exit prices should treat 'waterfront' as a distinct sub-index that runs materially ahead of the general Dubai residential index.",
+        "whyItMatters": "For the sell-side, this quantifies the coastal-premium story with concrete five-year and full-year 2025 numbers — a broker positioning a Palm / Dubai Islands / Emaar Beachfront unit can now cite +140% five-year and AED 9.05B luxury tape without hand-waving. For the buy-side, it flags the risk that the waterfront premium is already priced in at H1 2026 levels — anyone hunting under-comp entries has to look at second-line waterfront (Dubai Maritime City, Al Yalayis) or off-plan waterfront pipeline where the premium hasn't fully compounded. For portfolio construction, it argues waterfront should be a stated allocation, not a residual, given the concentration of top-performing Q4 2025 neighbourhoods.",
+        "forWho": "Luxury brokers pricing Palm / Islands / Beachfront stock, UHNW buyer advisors modelling waterfront-premium risk, portfolio managers weighting waterfront vs inland Dubai, developer strategy teams sizing coastal-pipeline scarcity.",
+        "tryIt": "https://www.khaleejtimes.com/business/property/140-surge-why-dubais-waterfront-homes-are-becoming-the-uaes-most-valuable-real-estate-asset"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-07-09/xzlij2mq/Dubai.png?width=800&height=600&q=60&format=auto",
+        "alt": "Dubai coastal skyline used by Khaleej Times to illustrate the Shamal × Knight Frank waterfront-premium thesis for Dubai residential in H1 2026",
+        "fit": "cover",
+        "credit": "Khaleej Times"
+      },
+      "author": {
+        "name": "Somshankar Bandyopadhyay",
+        "handle": "Khaleej Times",
+        "profileUrl": "https://www.khaleejtimes.com/"
+      },
+      "publishDate": "2026-07-10T14:00:42.963Z"
+    },
     {
       "id": "dubai-damac-properties-2026-handover-8800-units-hills-lagoons-chic-elegance-jul-9-2026",
       "categories": [
