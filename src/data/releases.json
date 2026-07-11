@@ -1,8 +1,88 @@
 {
-  "generatedAt": "2026-07-11T01:30:21.870Z",
+  "generatedAt": "2026-07-11T13:01:53.821Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-metro-blue-line-phase-1-tunnelling-complete-al-wugeisha-30m-day-jul-8-2026",
+      "categories": [
+        "market",
+        "ready",
+        "rental"
+      ],
+      "title": "Dubai Metro Blue Line clears first execution milestone — RTA closes phase-1 tunnelling in two months with Al Wugeisha TBM printing 30 m/day (2.5× the 2007 pace), Dh18B civil scope on track for the 09-Sep-2029 opening",
+      "org": "Dubai Roads and Transport Authority (via The National / Khaleej Times / Gulf News)",
+      "date": "2026-07-09",
+      "publishDate": "2026-07-11T13:01:53.821Z",
+      "url": "https://www.thenationalnews.com/news/uae/2026/07/09/dubai-metro-blue-line-tunnelling/",
+      "summary": "The National (Jul-9), Khaleej Times and Gulf News (both Jul-8) report the RTA has finished the first tunnelling phase of Dubai's AED 20.5B ($5.58B) Blue Line just two months after Sheikh Mohammed's May inauguration. TBM 'Al Wugeisha' (163 m long, >2,000 t) is pushing ~30 m/day — 2.5× the 12 m/day the 2007 Red-Line boring achieved — with three drives out of International City 1 station toward Mirdif, the Auto Market and Al Warsan (International City 2). The 30 km / 14-station line remains ~20% complete and is scheduled to open 09-Sep-2029, hard-anchoring a metro premium into eastern Dubai residential catchments.",
+      "tags": [
+        "metro-blue-line",
+        "rta",
+        "dubai-metro",
+        "infrastructure",
+        "tbm-al-wugeisha",
+        "international-city",
+        "mirdif",
+        "dubai-silicon-oasis",
+        "dubai-creek-harbour",
+        "execution-milestone"
+      ],
+      "importance": "major",
+      "tickers": [
+        "INTL-CITY",
+        "MIRDIF",
+        "DSO",
+        "DUBAI-CREEK-HARBOUR",
+        "AL-JADDAF",
+        "AL-RASHIDIYA"
+      ],
+      "metrics": {
+        "Phase-1 tunnelling duration": "~2 months (May 2026 → Jul 2026)",
+        "TBM": "Al Wugeisha — 163 m long, >2,000 t",
+        "Excavation rate": "~30 m/day (up to ~2.5× the 2007 Red-Line 12 m/day)",
+        "TBM drives from International City 1": "3 — north to Mirdif, west to Auto Market, east to Al Warsan (Int'l City 2)",
+        "Blue Line length": "30 km — ~50% underground / ~50% elevated",
+        "Stations": "14 (three interchange: Al Rashidiya on Red, Al Jaddaf on Green, International City 1 on Blue mainline)",
+        "Civil / total project cost": "Dh 18B civil; AED 20.5B ($5.58B) full project",
+        "Overall project progress": "~20% complete (targeting ~30% by end-2026)",
+        "Workforce on site": "10,000+ workers, 500+ engineers",
+        "Scheduled opening": "09 September 2029 (20th anniversary of Dubai Metro)",
+        "Related interchange": "Gold Line 42 km / 15 areas — opens 09-Sep-2032"
+      },
+      "links": [
+        {
+          "label": "The National — First phase of tunnelling complete on Dubai Metro Blue Line (9 Jul 2026)",
+          "url": "https://www.thenationalnews.com/news/uae/2026/07/09/dubai-metro-blue-line-tunnelling/"
+        },
+        {
+          "label": "Khaleej Times — Dubai Metro Blue Line's first phase of tunnelling finished in record time (8 Jul 2026)",
+          "url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-blue-line-first-phase-tunneling-finished-video"
+        },
+        {
+          "label": "Gulf News — RTA completes first phase of Dubai Metro Blue Line tunnelling in just two months (8 Jul 2026)",
+          "url": "https://gulfnews.com/uae/transport/rta-completes-first-phase-of-dubai-metro-blue-line-tunnelling-in-just-two-months-1.500601449"
+        },
+        {
+          "label": "RTA — Dubai Metro Blue Line ongoing-project page",
+          "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/AllProjects/ongoing-project-details/dubai-metro-blue-line"
+        }
+      ],
+      "explainer": {
+        "tagline": "The Blue Line just cleared its first physical-execution milestone: two months in, TBM Al Wugeisha has already printed the first tunnel drive at 30 m/day, 2.5× the 2007 Red-Line pace.",
+        "whatIsIt": "The Roads and Transport Authority announced on 8-9 July 2026 that the first phase of tunnelling for Dubai's AED 20.5B / $5.58B Metro Blue Line is complete, exactly two months after Sheikh Mohammed bin Rashid Al Maktoum inaugurated the works in May. Boring machine 'Al Wugeisha' — 163 m long, >2,000 t, with an integrated segment-installing carriage — hit ~30 m/day, roughly 2.5× the 12 m/day the Red-Line TBMs achieved in 2007. Tunnelling continues on three drives radiating from the International City 1 station toward Mirdif, the Auto Market and Al Warsan / International City 2.",
+        "howItWorks": "The Blue Line is 30 km with 14 stations — three of them interchange nodes: Al Rashidiya on the Red Line, Al Jaddaf on the Green Line, and International City 1 as the Blue mainline junction. About half the alignment is underground, the rest elevated. Civil budget of Dh 18B sits inside a total AED 20.5B project envelope; overall progress is ~20% with a target of ~30% by end-2026 and revenue service on 09-Sep-2029, the 20th anniversary of the Dubai Metro. A separate Gold Line (42 km, 15 areas) is prequalifying now for a 2032 opening — the two together are the eastern-Dubai transit spine buyers should price against.",
+        "whyItMatters": "Metro-station catchments have historically produced 5-15% resale/rental premia in Dubai once a station's gazetted footprint firms up (Marina, Business Bay, JLT after Red-Line, Al Furjan after Route 2020). The Blue Line brings that premium into a very different community set: International City, Mirdif, Dubai Silicon Oasis, Warsan, Al Rashidiya, Al Jaddaf, plus a Creek Harbour interchange further along the line. Two-month completion of phase-1 tunnelling — with the TBM outperforming the 2007 baseline — is a concrete de-risking event that shortens the window between 'confirmed alignment' and 'in-service premium.' Owners on the eastern spine should think about listing/refi timing, and buyers hunting sub-AED 1M studios or 1BRs on the same corridor should watch DLD ask-price tapes in the affected sub-communities for the next 12-18 months.",
+        "forWho": "International City / Warsan / Mirdif / DSO landlords timing lease renewals or exits, sub-AED 1M investor buyers underwriting yield on eastern-corridor apartments, brokers writing up 2027-2029 handover premia, Creek Harbour off-plan buyers pricing station-adjacent stock, and land traders on Auto Market plots feeding the TBM launch shafts.",
+        "tryIt": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/AllProjects/ongoing-project-details/dubai-metro-blue-line"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-07-08/tj3c6zxw/dubai-metro-tunnel.png",
+        "alt": "TBM 'Al Wugeisha' — the 163 m, 2,000-tonne boring machine that closed the Dubai Metro Blue Line's first tunnelling phase two months after ground-break — at the International City 1 launch shaft",
+        "fit": "cover",
+        "credit": "Khaleej Times / RTA"
+      }
+    },
     {
       "id": "dubai-dld-jul-9-2026-daily-print-aed-116b-offplan-513-percent-flats-lead",
       "categories": [
