@@ -7464,6 +7464,47 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260711t013021z",
+      "timestamp": "2026-07-11T01:30:21.870Z",
+      "source": "github-actions-sweep",
+      "summary": "Broad Dubai property surface sweep on 2026-07-11. The Jul-10 headline items — Khaleej Times' 140% waterfront thesis, Gulf News × Aldar Yas Point (Abu Dhabi, out of scope), and TradeArabia's Emrill Ras Al Khor warehouse (facilities-mgmt, not an opportunity) — either already indexed or fell below the operator inclusion bar. The Jul-11 DLD daily print is not yet published. Empty sweep.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "auction",
+        "visa",
+        "luxury",
+        "commercial",
+        "land",
+        "market",
+        "lead",
+        "duplicate",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
