@@ -1,8 +1,144 @@
 {
-  "generatedAt": "2026-07-12T01:36:38.253Z",
+  "generatedAt": "2026-07-12T12:59:35.313Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-rta-latifa-bint-hamdan-corridor-2b-usd-544m-12km-szr-emirates-road-end-2028-jul-12-2026",
+      "categories": [
+        "market",
+        "lead"
+      ],
+      "title": "RTA awards AED 2B / USD 544M main-contract for the 12-km Latifa bint Hamdan Corridor — cuts Umm Al Sheif ↔ Emirates Road drive time 33→15 min (-54%) via 7 bridges (2,300 m), 8 tunnels (900 m) and 4 lanes each way, opening end-2028",
+      "org": "Roads and Transport Authority (RTA)",
+      "date": "2026-07-12",
+      "publishDate": "2026-07-12T12:59:35.313Z",
+      "url": "https://tradearabia.com/News/465012/RTA-awards-%24544m-contract-for-Latifa-bint-Hamdan-Corridor-project",
+      "summary": "AED 2B, 12-km Latifa bint Hamdan Corridor connects Sheikh Zayed Road, Al Khail Road, Al Meydan Street, Sheikh Mohammed bin Zayed Road and Sheikh Zayed Bin Hamdan Al Nahyan Street to Emirates Road — 16,000 vehicles/hr, 130,000 daily trips, end-2028 completion.",
+      "tags": [
+        "infrastructure",
+        "RTA",
+        "Latifa bint Hamdan",
+        "corridor",
+        "Meydan",
+        "MBR City",
+        "Al Khail",
+        "SZR",
+        "commute",
+        "2028"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-MEYDAN",
+        "MBR-CITY",
+        "DXB-SZR",
+        "AL-KHAIL",
+        "SMBZ"
+      ],
+      "metrics": {
+        "Contract value": "AED 2B / USD 544M",
+        "Corridor length": "12 km",
+        "Bridges": "7 (2,300 m total)",
+        "Tunnels": "8 (900 m total)",
+        "Lanes": "4 each direction",
+        "Capacity": "16,000 vehicles/hr",
+        "Daily trips": ">130,000",
+        "Umm Al Sheif ↔ Emirates Rd": "33 min → 15 min (-54%)",
+        "Cycling tracks": "12.5 km",
+        "Award date": "2026-07-12",
+        "Completion": "End 2028"
+      },
+      "links": [
+        {
+          "label": "TradeArabia — RTA awards $544m contract for Latifa bint Hamdan Corridor",
+          "url": "https://tradearabia.com/News/465012/RTA-awards-%24544m-contract-for-Latifa-bint-Hamdan-Corridor-project"
+        },
+        {
+          "label": "RTA — Roads and Transport Authority",
+          "url": "https://www.rta.ae/"
+        },
+        {
+          "label": "Dubai 2040 Urban Master Plan",
+          "url": "https://www.dubai2040.ae/en"
+        }
+      ],
+      "explainer": {
+        "tagline": "A 12-km cross-city corridor with 7 bridges and 8 tunnels re-times commutes between SZR, Meydan/MBR City, DIP/DWC and Emirates Road — with a 2028 date.",
+        "whatIsIt": "Dubai's RTA has awarded a AED 2B ($544M) main-contract for the Latifa bint Hamdan Corridor Development Project. The 12-km scope adds 4 lanes in each direction on Latifa bint Hamdan Street with 7 bridges (2,300 m), 8 tunnels (900 m), multi-level free-flow interchanges and 12.5 km of cycling tracks, and connects Sheikh Zayed Road, Al Khail Road, Al Meydan Street, Sheikh Mohammed bin Zayed Road and Sheikh Zayed Bin Hamdan Al Nahyan Street to Emirates Road.",
+        "howItWorks": "RTA sizes the corridor at 16,000 vehicles/hr in both directions and >130,000 daily trips. Travel time between Umm Al Sheif Street and Emirates Road is projected to fall from 33 minutes to 15 minutes (-54%). The contractor is not disclosed in the announcement. Completion is targeted for end of 2028; the project is aligned to the D33 Economic Agenda and the 2040 Urban Master Plan. Verify feeder-community exit-ramp locations from RTA before underwriting any premium.",
+        "whyItMatters": "The corridor cuts across Dubai's fastest-growing residential belt — Al Meydan, MBR City, Nad Al Sheba, Al Barsha South and the DIP/DWC axis — and re-times commutes to SZR and Emirates Road. Historically, corridors that shave >50% off cross-city drive time reprice apartment and villa stock along their catchments within 18–36 months of opening; this is a 2028-completion date to watch on 2026–27 launch underwriting. Traffic-time upside is contingent on interchange delivery — confirm scope with RTA before pricing off it.",
+        "forWho": "Buyers underwriting 2027–2028 handovers in Meydan / MBR City / Al Barsha South / DIP; developers pricing catchment premiums; brokers positioning commute stories on Al Meydan and Latifa bint Hamdan Street stock.",
+        "tryIt": "https://www.rta.ae/"
+      },
+      "image": {
+        "url": "https://img.tradearabia.com/source/TA/2026/07/12/TA_20260712124723.webp",
+        "alt": "TradeArabia rendering of RTA's Latifa bint Hamdan Corridor main-contract award — the 12-km cross-city corridor connecting Sheikh Zayed Road, Al Khail Road, Al Meydan Street, Sheikh Mohammed bin Zayed Road and Sheikh Zayed Bin Hamdan Al Nahyan Street to Emirates Road."
+      }
+    },
+    {
+      "id": "dubai-khaleej-times-ashish-mehta-mortgage-foreclosure-30-day-notary-60-day-grace-law-14-2008-jul-12-2026",
+      "categories": [
+        "legal",
+        "distress"
+      ],
+      "title": "Khaleej Times × Ashish Mehta Dubai mortgage-foreclosure explainer — Law 14 of 2008 Arts. 25-28 + Federal Decree Law 25 of 2025 Art. 1327 set a 30-day notary notice, optional 60-day court grace period and 30-day post-expiry public-auction window",
+      "org": "Khaleej Times (with Ashish Mehta & Associates)",
+      "date": "2026-07-12",
+      "publishDate": "2026-07-12T12:59:35.313Z",
+      "url": "https://www.khaleejtimes.com/uae/legal/dubai-mortgages-banks-repossess-homes-for-missed-loan-payments",
+      "summary": "Ashish Mehta walks through Dubai's mortgage-foreclosure timeline: 30-day notary notice → enforcement-court application → up-to-60-day grace at court discretion → public auction within 30 days of expiry — grounded in Law No. 14 of 2008 (Arts. 25-28) and Federal Decree Law No. 25 of 2025 (Art. 1327).",
+      "tags": [
+        "mortgage",
+        "foreclosure",
+        "distress",
+        "legal",
+        "Law 14 of 2008",
+        "civil transactions law",
+        "auction",
+        "buyer diligence",
+        "seller strategy"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-LEGAL",
+        "DXB-MORTGAGE",
+        "DLD"
+      ],
+      "metrics": {
+        "Initial notary notice": "30 days",
+        "Court grace period": "Up to 60 days (one-time, at court discretion)",
+        "Public auction window": "≤30 days after grace expires",
+        "Primary statute": "Law No. 14 of 2008, Arts. 25-28",
+        "Civil overlay": "Federal Decree Law No. 25 of 2025, Art. 1327",
+        "Published": "2026-07-12"
+      },
+      "links": [
+        {
+          "label": "Khaleej Times — Dubai mortgages: When can banks repossess homes",
+          "url": "https://www.khaleejtimes.com/uae/legal/dubai-mortgages-banks-repossess-homes-for-missed-loan-payments"
+        },
+        {
+          "label": "Dubai Land Department — mortgage services",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        },
+        {
+          "label": "Ashish Mehta & Associates",
+          "url": "https://www.amalawyers.com/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A published foreclosure timeline is a distress-scanning framework — 30-day notary notice + 60-day possible grace + 30-day post-expiry auction sets the earliest realistic bank-sale window on a defaulted Dubai mortgage.",
+        "whatIsIt": "Khaleej Times' 12 Jul explainer, authored by Ashish Mehta (Ashish Mehta & Associates), walks a Dubai borrower and a mortgagee through the statutory foreclosure timeline. It grounds the process in Law No. 14 of 2008 Concerning Mortgage in Dubai (Articles 25-28) and Federal Decree Law No. 25 of 2025 Promulgating the Civil Transactions Law (Article 1327).",
+        "howItWorks": "Step 1: the mortgagee must serve a 30-day default notice through a Notary Public. Step 2: if the debt is not settled, the mortgagee applies to the enforcement court. Step 3: the court may grant a one-time delay of up to 60 days if the debtor can show likely repayment or significant hardship. Step 4: the property must be sold at public auction within 30 days after the applicable periods expire. The article is a general-guidance explainer, not legal advice.",
+        "whyItMatters": "For distress-scanning buyers, the timeline sets the earliest realistic bank-sale window on a defaulted mortgage: ~30-120 days from first notary notice to auction. For sellers in payment trouble, the 60-day court grace lever is optional and hardship-tested — it is not automatic. For brokers screening bank/court lots on Emirates Auction or eMart, matching a lot back to the notary-notice date frames how much redemption runway remains.",
+        "forWho": "Distress-focused buyers, workout brokers, mortgage lawyers, sellers with cash-flow issues weighing a discounted sale vs a court process, and analysts modelling foreclosure supply into H2 2026 stock.",
+        "tryIt": "https://www.emiratesauction.com/en/PropertyDXB"
+      },
+      "image": {
+        "url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-07-12/g6pgcfpf/dubai-property.avif?width=800&height=600&q=60&format=auto",
+        "alt": "Khaleej Times illustration for the 12 Jul 2026 Ashish Mehta explainer on Dubai's mortgage-foreclosure timeline under Law No. 14 of 2008 and Federal Decree Law No. 25 of 2025."
+      }
+    },
     {
       "id": "dubai-metro-blue-line-phase-1-tunnelling-complete-al-wugeisha-30m-day-jul-8-2026",
       "categories": [

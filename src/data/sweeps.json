@@ -7582,6 +7582,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260712t125935z",
+      "timestamp": "2026-07-12T12:59:35.313Z",
+      "source": "github-actions-sweep",
+      "summary": "Sweep 2026-07-12: two verified Jul-12 items — RTA's AED 2B / USD 544M main-contract award for the 12-km Latifa bint Hamdan Corridor (SZR ↔ Al Khail ↔ Meydan ↔ SMBZ ↔ Emirates Road, end-2028) and Khaleej Times × Ashish Mehta explainer on Dubai's mortgage foreclosure timeline under Law No. 14 of 2008 and Federal Decree Law 25 of 2025.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-rta-latifa-bint-hamdan-corridor-2b-usd-544m-12km-szr-emirates-road-end-2028-jul-12-2026",
+          "title": "RTA awards AED 2B / USD 544M main-contract for the 12-km Latifa bint Hamdan Corridor — cuts Umm Al Sheif ↔ Emirates Road drive time 33→15 min (-54%) via 7 bridges (2,300 m), 8 tunnels (900 m) and 4 lanes each way, opening end-2028",
+          "category": "market",
+          "note": "Included as an infrastructure/market signal — a 2028 corridor that re-times SZR-to-Emirates-Road commutes by -54% and cuts across Al Meydan / MBR City / Al Barsha South / DIP catchments where 2026-27 launches are underwriting."
+        },
+        {
+          "id": "dubai-khaleej-times-ashish-mehta-mortgage-foreclosure-30-day-notary-60-day-grace-law-14-2008-jul-12-2026",
+          "title": "Khaleej Times × Ashish Mehta Dubai mortgage-foreclosure explainer — Law 14 of 2008 Arts. 25-28 + Federal Decree Law 25 of 2025 Art. 1327 set a 30-day notary notice, optional 60-day court grace period and 30-day post-expiry public-auction window",
+          "category": "legal",
+          "note": "Included as a legal/distress framework — a published, statute-grounded foreclosure timeline that a distress-scanning buyer, workout broker or mortgage-troubled seller can act on."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "market",
+        "legal",
+        "distress",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
