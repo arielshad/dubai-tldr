@@ -7546,6 +7546,42 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260712t013638z",
+      "timestamp": "2026-07-12T01:36:38.253Z",
+      "source": "github-actions-sweep",
+      "summary": "Scanned Dubai portal, DLD, developer, brokerage, luxury and market-data surfaces for 2026-07-10 through 2026-07-12. The tier-1 candidates that surfaced (Keyper's Series A dated 2026-07-09, a Mario Volpi rent-vs-buy column dated 2026-07-11, and the Majid Al Futtaim City Centre Mirdif entertainment opening) were either outside the 72h date cap, thin op-ed with no concrete opportunity signal, or non-property retail launches, so no items are added this sweep.",
+      "counts": {
+        "added": 0,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "distress",
+        "offplan",
+        "ready",
+        "rental",
+        "developer",
+        "luxury",
+        "commercial",
+        "market",
+        "legal",
+        "media"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }
