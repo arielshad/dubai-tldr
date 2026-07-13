@@ -7625,6 +7625,49 @@
         "brokerage-luxury-leads",
         "market-data-comps"
       ]
+    },
+    {
+      "id": "sweep-20260713t013940z",
+      "timestamp": "2026-07-13T01:39:40.952Z",
+      "source": "github-actions-sweep",
+      "summary": "Two live Maynard Auctions Dubai property lots surface with materially-below-comps opening bids and vacant-on-transfer titles — one DAMAC Hills 2 Violet 4 townhouse ending 2026-07-13 17:00 and a rare 13-apartment 14th-floor bulk lot at DAMAC Riverside Views Capri ending 2026-07-17 19:00.",
+      "counts": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "added": [
+        {
+          "id": "dubai-maynard-damac-hills-2-violet-4-townhouse-auction-1215-sqft-jul-13-2026-close",
+          "title": "Maynard Auctions live-close — DAMAC Hills 2 Violet 4 4-BR / 5-BA townhouse (1,215 sqft, vacant on transfer, Q3 2027 handover) trades at AED 1.85M mid-auction vs AED 2.1–2.2M estimate, hammer at 2026-07-13 17:00 GST",
+          "category": "auction",
+          "note": "Live Dubai auction: 8 bids, current AED 1.85M vs AED 2.1–2.2M Maynard estimate; hammer at 17:00 GST today."
+        },
+        {
+          "id": "dubai-maynard-damac-riverside-capri-14th-floor-13-unit-bulk-auction-11434-sqft-jul-17-2026",
+          "title": "Maynard Auctions puts DAMAC Riverside Views Capri 14th-floor 13-apartment bulk lot (12x 1-BR + 1x 2-BR, 11,434 sqft, vacant on transfer, Q1 2029 handover) under the hammer — starting AED 13.5M vs AED 17–18M estimate, close 2026-07-17 19:00 GST",
+          "category": "auction",
+          "note": "Rare bulk-title Dubai off-plan lot — an entire floor of 13 Capri apartments — with a starting bid ~23% below Maynard's own estimate."
+        }
+      ],
+      "updated": [],
+      "removed": [],
+      "coverage": [
+        "auction",
+        "distress",
+        "offplan",
+        "lead"
+      ],
+      "sourcesChecked": [
+        "property-finder-sale-rent",
+        "bayut-sale-rent",
+        "dubizzle-houza-crosscheck",
+        "dld-rera-official-data",
+        "developer-launch-inventory",
+        "auction-distress",
+        "brokerage-luxury-leads",
+        "market-data-comps"
+      ]
     }
   ]
 }

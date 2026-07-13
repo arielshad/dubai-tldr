@@ -1,8 +1,170 @@
 {
-  "generatedAt": "2026-07-12T12:59:35.313Z",
+  "generatedAt": "2026-07-13T01:39:40.952Z",
   "promptVersion": "dubai-real-estate-sweep-v1",
   "source": "github-actions-sweep",
   "items": [
+    {
+      "id": "dubai-maynard-damac-hills-2-violet-4-townhouse-auction-1215-sqft-jul-13-2026-close",
+      "categories": [
+        "auction",
+        "distress",
+        "offplan",
+        "lead"
+      ],
+      "title": "Maynard Auctions live-close — DAMAC Hills 2 Violet 4 4-BR / 5-BA townhouse (1,215 sqft, vacant on transfer, Q3 2027 handover) trades at AED 1.85M mid-auction vs AED 2.1–2.2M estimate, hammer at 2026-07-13 17:00 GST",
+      "org": "Maynard Auctions",
+      "date": "2026-07-13",
+      "url": "https://maynardauctions.ae/lot-details.php?propertyID=73",
+      "summary": "Cash-only Dubai townhouse auction closes today: Violet 4 in DAMAC Hills 2, 4 beds / 5 baths on 1,215 sqft, currently AED 1.85M after 8 bids (start AED 1.7M) versus an AED 2.1–2.2M Maynard estimate — vacant-on-transfer, Q3 2027 handover, 2% + VAT buyer's premium.",
+      "tags": [
+        "auction",
+        "Maynard",
+        "DAMAC Hills 2",
+        "Violet",
+        "townhouse",
+        "cash-only",
+        "vacant-on-transfer",
+        "offplan"
+      ],
+      "importance": "notable",
+      "tickers": [
+        "DXB-DAMAC-HILLS-2",
+        "DXB-VIOLET"
+      ],
+      "metrics": {
+        "Lot": "Violet 4, DAMAC Hills 2",
+        "Layout": "4 beds / 5 baths",
+        "Built-up": "1,215 sqft",
+        "Starting bid": "AED 1,700,000",
+        "Current bid": "AED 1,850,000",
+        "Maynard estimate": "AED 2.1M – 2.2M",
+        "Estimate mid vs current": "~-14%",
+        "Bids to date": "8",
+        "Min bid increment": "AED 10,000",
+        "Title": "Freehold, vacant on transfer",
+        "Buyer terms": "Cash buyers only",
+        "Buyer's premium": "2% + VAT of hammer + AED 995 + VAT admin",
+        "Expected handover": "Q3 2027",
+        "Auction close": "2026-07-13 17:00 GST"
+      },
+      "links": [
+        {
+          "label": "Maynard Auctions — Violet 4 (DAMAC Hills 2) lot page",
+          "url": "https://maynardauctions.ae/lot-details.php?propertyID=73"
+        },
+        {
+          "label": "Maynard Auctions — current auctions list",
+          "url": "https://maynardauctions.ae/current-auctions.php"
+        },
+        {
+          "label": "DAMAC Properties — Violet at DAMAC Hills 2",
+          "url": "https://www.damacproperties.com/en/property/damac-hills-2/violet"
+        },
+        {
+          "label": "Dubai REST — verify title / Oqood / broker",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A DAMAC Hills 2 townhouse lot with 8 bids and a 5pm hammer today, still ~14% under Maynard's own mid-estimate — a real cash-only clock to price against.",
+        "whatIsIt": "Maynard Auctions is running an online sale of Violet 4, a 4-bedroom / 5-bathroom townhouse in DAMAC Hills 2 (Dubai). The lot opened at AED 1.7M, currently sits at AED 1.85M after 8 bids and closes at 17:00 GST on 2026-07-13 — hammer day. Maynard's own estimate range is AED 2.1M – 2.2M, so the live bid is ~14% below the low estimate.",
+        "howItWorks": "Bid increment is AED 10,000; buyer's premium is 2% + VAT of hammer plus AED 995 + VAT admin; the sale is cash-only with title 'vacant on transfer' (occupancy risk is zero once you register). The unit is an off-plan townhouse — expected handover is Q3 2027, so post-auction you inherit the developer payment plan, plus DLD 4% + AED 500 title deed + AED 10,000 registration + NOC + service-charge lines. Verify the Oqood, remaining developer instalments and the community master service charge before bidding.",
+        "whyItMatters": "DAMAC Hills 2 townhouses in the Violet cluster have been trading in the AED 1.8–2.4M band during 2026 on ready secondary comps; a cash close at AED 1.85–1.95M for a vacant, freehold title with a 2027 handover is a plausible ~10–15% discount to that band. The catch is you're locked into DAMAC's remaining Violet 4 payment schedule and MSCC service charges, so the diligence question is 'what's actually left to pay to Q3 2027 hand-over and what's the sub-community's post-handover rent comp'.",
+        "forWho": "Cash buyers/investors comfortable with off-plan payment risk who want a vacant DAMAC Hills 2 townhouse at a discount to portal comps; brokers with an underwritten Violet payment schedule and a Q3 2027 hand-over rent thesis; distressed / auction desks tracking DAMAC secondary lots.",
+        "tryIt": "https://maynardauctions.ae/lot-details.php?propertyID=73"
+      },
+      "image": {
+        "url": "https://maynardauctions.ae/assets/img/properties/property-208l.jpg",
+        "alt": "Maynard Auctions listing photo of Violet 4 at DAMAC Hills 2 — a four-bedroom townhouse cluster with pitched-roof façades and landscaped garden strips, offered vacant on transfer with a Q3 2027 handover.",
+        "credit": "Maynard Auctions"
+      },
+      "publishDate": "2026-07-13T01:39:40.952Z"
+    },
+    {
+      "id": "dubai-maynard-damac-riverside-capri-14th-floor-13-unit-bulk-auction-11434-sqft-jul-17-2026",
+      "categories": [
+        "auction",
+        "offplan",
+        "distress",
+        "lead"
+      ],
+      "title": "Maynard Auctions puts DAMAC Riverside Views Capri 14th-floor 13-apartment bulk lot (12x 1-BR + 1x 2-BR, 11,434 sqft, vacant on transfer, Q1 2029 handover) under the hammer — starting AED 13.5M vs AED 17–18M estimate, close 2026-07-17 19:00 GST",
+      "org": "Maynard Auctions",
+      "date": "2026-07-13",
+      "url": "https://maynardauctions.ae/lot-details.php?propertyID=74",
+      "summary": "Rare Dubai bulk-title lot: 13 separately-titled units 1401–1414 on the 14th floor of Capri tower at DAMAC Riverside Views open at AED 13.5M vs a AED 17–18M Maynard estimate (~-23%), Q1 2029 off-plan handover, NOC pass-through of AED 2,633,174.40 — cash buyers only, hammer 2026-07-17 19:00.",
+      "tags": [
+        "auction",
+        "Maynard",
+        "DAMAC Riverside",
+        "Capri",
+        "bulk-lot",
+        "off-plan",
+        "cash-only",
+        "yield"
+      ],
+      "importance": "major",
+      "tickers": [
+        "DXB-DAMAC-RIVERSIDE",
+        "DXB-CAPRI"
+      ],
+      "metrics": {
+        "Lot": "Riverside Views, Capri — 14th floor",
+        "Units": "13 apartments (1401–1408, 1410–1414)",
+        "Layout": "12x 1-BR + 1x 2-BR, 27 baths",
+        "Total built-up": "11,434 sqft",
+        "Starting bid": "AED 13,500,000",
+        "Maynard estimate": "AED 17M – 18M",
+        "Estimate mid vs start": "~-23%",
+        "Implied AED/sqft (start)": "≈ AED 1,181",
+        "Implied AED/sqft (estimate mid)": "≈ AED 1,530",
+        "Min bid increment": "AED 100,000",
+        "NOC pass-through": "AED 2,633,174.40",
+        "Buyer's premium": "2% + VAT of hammer + AED 995 + VAT admin",
+        "DLD transfer": "2% + VAT + AED 500 title deed + AED 10,000 registration + AED 5,000 NOC resale",
+        "Service charge": "AED 15.00 / sqft (unit-noted)",
+        "Title": "Freehold, vacant on transfer",
+        "Buyer terms": "Cash buyers only — off-plan resale",
+        "Expected handover": "Q1 2029",
+        "Auction close": "2026-07-17 19:00 GST"
+      },
+      "links": [
+        {
+          "label": "Maynard Auctions — Capri 14th-floor 13-apartment bulk lot",
+          "url": "https://maynardauctions.ae/lot-details.php?propertyID=74"
+        },
+        {
+          "label": "Maynard Auctions — Capri 2-BR 1,417 sqft companion lot (lot 5)",
+          "url": "https://maynardauctions.ae/lot-details.php?propertyID=76"
+        },
+        {
+          "label": "Maynard Auctions — Capri 1-BR 918 sqft companion lot",
+          "url": "https://maynardauctions.ae/lot-details.php?propertyID=78"
+        },
+        {
+          "label": "DAMAC Properties — Riverside Views",
+          "url": "https://www.damacproperties.com/en/property/damac-riverside/riverside-views"
+        },
+        {
+          "label": "Dubai REST — Oqood / broker / NOC verification",
+          "url": "https://dubailand.gov.ae/en/eservices/dubai-rest/"
+        }
+      ],
+      "explainer": {
+        "tagline": "A whole 14th floor of DAMAC Riverside — 13 titled units, vacant, Q1 2029 handover — opens at AED 13.5M vs a AED 17–18M Maynard estimate, hammer Friday.",
+        "whatIsIt": "Maynard Auctions is offering a bulk lot of 13 separately-titled off-plan apartments on the 14th floor of the Capri tower at DAMAC Riverside Views (Dubai): units 1401–1408 and 1410–1414 — twelve 1-BRs and one 2-BR totalling 11,434 sqft. Opening bid is AED 13.5M against a AED 17M – 18M Maynard estimate, so the entry level is ~23% below the low end.",
+        "howItWorks": "Bid increment is AED 100,000; the auction is cash-only, buyer's premium is 2% + VAT of hammer plus AED 995 + VAT admin, and the DLD stack on transfer is 2% + VAT + AED 500 title deed + AED 10,000 registration + AED 5,000 NOC resale fee. Because these are off-plan units the winning bidder assumes DAMAC's remaining payment plan on all 13 titles and pays a AED 2,633,174.40 NOC pass-through fee at transfer. Expected handover is Q1 2029. Underwrite the deal on 'AED per usable sqft' (~AED 1,181 at start, ~AED 1,530 at the mid-estimate) rather than headline price.",
+        "whyItMatters": "Bulk 13-unit lots on a single floor are rare in Dubai secondary and unlock a real yield / short-let play — 12 one-bed units on one floor is functionally a small aparthotel plate once handover clears, and single-floor ownership simplifies MSCC/short-let licensing. Downside is concentration in one tower at Q1 2029, plus AED 2.6M of NOC on top of hammer — real diligence needs the specific unit-by-unit Oqood status, remaining developer instalments, and Riverside rental comps at Q1 2029 delivery.",
+        "forWho": "Family offices / bulk investors underwriting a 12–13-key short-let or long-let plate at Riverside; developers or aggregators consolidating floors ahead of handover; auction / distress desks tracking DAMAC secondary off-plan.",
+        "tryIt": "https://maynardauctions.ae/lot-details.php?propertyID=74"
+      },
+      "image": {
+        "url": "https://maynardauctions.ae/assets/img/properties/property-237l.jpg",
+        "alt": "Maynard Auctions listing photo of Capri tower at DAMAC Riverside Views — the 14th-floor bulk lot covers 13 separately-titled off-plan apartments (12x 1-BR + 1x 2-BR) totalling 11,434 sqft, offered vacant on transfer with Q1 2029 handover.",
+        "credit": "Maynard Auctions"
+      },
+      "publishDate": "2026-07-13T01:39:40.952Z"
+    },
     {
       "id": "dubai-rta-latifa-bint-hamdan-corridor-2b-usd-544m-12km-szr-emirates-road-end-2028-jul-12-2026",
       "categories": [
